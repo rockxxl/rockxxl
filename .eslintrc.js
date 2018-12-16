@@ -11,6 +11,8 @@ module.exports = {
         quotes: [2, "double"],
 		"linebreak-style": 0,
 		"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+		"react/jsx-indent": [1, 4],
+		"react/jsx-indent-props": [1, 4]
     },
     globals: {},
     settings: {}
