@@ -6,7 +6,8 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "lint:css": "stylelint './src/**/*.js'"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.9.4",
@@ -16,12 +17,19 @@
     "netlify-cms": "^2.3.1",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-    "styled-components": "^4.1.2"
+    "styled-components": "^4.1.2",
+    "styled-normalize": "^8.0.4"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-react": "^7.11.1"
+    "eslint-plugin-react": "^7.11.1",
+    "gatsby-plugin-stylelint": "^3.0.1",
+    "stylelint": "^9.9.0",
+    "stylelint-config-recommended": "^2.1.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.5.1",
+    "stylelint-webpack-plugin": "^0.10.5"
   }
 }
