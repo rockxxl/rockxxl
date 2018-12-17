@@ -1,14 +1,29 @@
 import React from "react";
-import styled, { createGlobalStyle } from "styled-components";
+import styled, { createGlobalStyle, ThemeProvider } from "styled-components";
 import { Normalize } from "styled-normalize";
+import theme from "./theme";
 import Header from "./App/Header";
 import Footer from "./App/Footer";
 
-
 const GlobalStyle = createGlobalStyle`
+    @import url(${props => props.theme.font.family.import});
+
+    html {
+        font-size: ${props => props.theme.font.size.default}px;
+    }
+
     body {
-        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-        font-size: 16px;
+        font-family: ${props => props.theme.font.family.default};
+        font-size: ${props => props.theme.font.size.md}rem;
+        letter-spacing: -.5px;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: ${props => props.theme.font.family.headings};
+        letter-spacing: 0;
+        font-weight: ${props => props.theme.font.weight.headings};
     }
 `;
 
@@ -23,11 +38,13 @@ const Main = styled.div`
 `;
 
 export default ({ children }) => (
-    <App>
-        <Normalize />
-        <GlobalStyle />
-        <Header />
-        <Main>{children}</Main>
-        <Footer />
-    </App>
+    <ThemeProvider theme={theme}>
+        <App>
+            <Normalize />
+            <GlobalStyle />
+            <Header />
+            <Main>{children}</Main>
+            <Footer />
+        </App>
+    </ThemeProvider>
 );

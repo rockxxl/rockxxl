@@ -8,8 +8,8 @@ const Navigation = styled.nav`
 
 const Link = styled(GatsbyLink)`
     display: block;
-    padding: 0 1rem;
-    color: #fff;
+    padding: 0 1.5rem;
+    color: #ffffff;
     text-decoration: none;
 
     &:hover,
@@ -19,12 +19,14 @@ const Link = styled(GatsbyLink)`
 `;
 
 const links = [
+    { name: "Nieuws", to: "/nieuws" },
     { name: "Interviews", to: "/interviews" },
     { name: "Reviews", to: "/reviews" },
+    { name: "Live reviews", to: "/live-reviews" },
 ];
 
 export default () => (
     <Navigation>
-        { links.map(({ name, to }) => <Link to={to}>{ name }</Link>) }
+        { links.map(({ name, to }) => <Link key={name} to={to}>{ name }</Link>) }
     </Navigation>
 );
