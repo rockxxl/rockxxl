@@ -1,17 +1,19 @@
 backend:
-  name: github
-  repo: vanhoofmaarten/netlify-cms-tutorial
+  name: git-gateway
+  accept_roles:
+    - admin
+    - editor
 
 media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: blog
-    label: Blog
-    folder: blog
+  - name: posts
+    label: Posts
+    folder: posts
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
+      - { name: thumbnail, label: Featured Image, widget: image }
+      - { name: date, label: Publish date, widget: datetime }
       - { name: body, label: Body, widget: markdown }
