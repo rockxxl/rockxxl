@@ -2,6 +2,7 @@
 title: Test post numero uno
 thumbnail: /assets/royce-ey-front-final-kopie.jpg
 date: 2018-12-18T19:41:05.824Z
+category: Nieuws
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum quam ipsum, a fermentum enim commodo in. Praesent vestibulum gravida egestas. Morbi sed faucibus nisi. Praesent tortor enim, commodo dapibus mauris ut, placerat blandit metus. Quisque placerat porttitor orci in scelerisque. Vivamus sodales condimentum orci eu iaculis. Integer non dolor pharetra lacus placerat finibus nec sed lorem. Curabitur condimentum mollis urna, ut porta enim venenatis eget. Vestibulum egestas ac lorem eu bibendum. Nulla facilisi. In faucibus at diam eu commodo. Pellentesque venenatis, orci a pulvinar ultricies, turpis ipsum vehicula urna, eget rutrum enim ipsum ac ante. Donec blandit, libero quis auctor finibus, nisi tortor blandit lacus, porta dictum justo quam et risus. Sed a mollis sem. Mauris ut lorem interdum, eleifend turpis eget, vulputate tortor. Nulla massa ante, semper ut magna eget, ultricies finibus sem.
 
