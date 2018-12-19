@@ -8,12 +8,34 @@ media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: posts
-    label: Posts
-    folder: posts
+  - name: category
+    label: Category
+    folder: content/category
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: thumbnail, label: Featured Image, widget: image }
-      - { name: date, label: Publish date, widget: datetime }
       - { name: body, label: Body, widget: markdown }
+  - name: post
+    label: Post
+    folder: content/post
+    create: true
+    fields:
+      - name: title
+        label: Title
+      - name: thumbnail
+        label: Featured Image
+        widget: image
+      - name: date
+        label: Publish date
+        widget: datetime
+        format: "D MMM YYY, HH:mm"
+      - name: category
+        label: Category
+        widget: relation
+        collection: category
+        searchFields: ["name"]
+        valueField: name
+        displayFields: name
+      - name: body
+        label: Body
+        widget: markdown
