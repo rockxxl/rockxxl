@@ -33,9 +33,9 @@ collections:
         label: Category
         widget: relation
         collection: category
-        searchFields: ["name"]
-        valueField: name
-        displayFields: name
+        searchFields: ["title"]
+        valueField: title
+        displayFields: title
       - name: body
         label: Body
         widget: markdown
