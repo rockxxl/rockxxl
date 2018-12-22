@@ -5,6 +5,7 @@ import Navigation from "../Navigation";
 import SocialMedia from "../SocialMedia";
 import Container from "../Container";
 
+
 const Header = styled.header`
     background: #000000;
     color: #ffffff;

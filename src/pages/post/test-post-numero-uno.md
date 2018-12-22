@@ -1,4 +1,5 @@
 ---
+path: "/post/test-post-numero-uno"
 title: Test post numero uno
 thumbnail: /assets/royce-ey-front-final-kopie.jpg
 date: 2018-12-18T19:41:05.824Z

@@ -26,7 +26,16 @@ export default {
         },
         weight: {
             default: 400,
+            bold: 700,
             headings: 900,
         },
+    },
+    screen: {
+        xs: 480,
+        sm: 720,
+        md: 960,
+        lg: 1200,
+        xl: 1440,
+        xxl: 1680,
     },
 };

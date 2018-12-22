@@ -8,13 +8,17 @@ const Navigation = styled.nav`
 
 const Link = styled(GatsbyLink)`
     display: block;
-    padding: 0 1.5rem;
+    padding: 0 .75rem;
     color: #ffffff;
     text-decoration: none;
+    font-weight: ${props => props.theme.font.weight.bold};
 
     &:hover,
-    &:focus {
-        text-decoration: underline;
+    &:focus,
+    &.active {
+        color: ${props => props.theme.color.primary};
+
+        /* text-decoration: underline; */
     }
 `;
 
