@@ -5,6 +5,13 @@ backend:
     - editor
 
 media_folder: static/assets
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: rockxxl
+    api_key: 953577883219134
+    username: rockxxl
+    output_filename_only: true
 public_folder: assets
 
 collections:
@@ -25,6 +32,7 @@ collections:
       - name: thumbnail
         label: Featured Image
         widget: image
+        media_library: { output_filename_only: true }
       - name: date
         label: Publish date
         widget: datetime
