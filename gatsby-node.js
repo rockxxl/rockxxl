@@ -10,7 +10,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
         const { category } = node.frontmatter;
         let slug = createFilePath({ node, getNode, basePath: "pages" });
         slug = category ? path.join("/", slugify(category, { lower: true }), slug) : slug;
-        slug = node.fileAbsolutePath.includes("/src/pages/post/") && !category ? path.join("/", slugify("nieuws", { lower: true }), slug) : slug;
 
         createNodeField({
             node,
@@ -21,7 +20,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 };
 
 exports.createPages = ({ actions, graphql }) => {
-    const { createPage } = actions;
+    const { createPage, createRedirect } = actions;
     const blogPostTemplate = path.resolve("src/templates/post.js");
 
     return graphql(`
@@ -31,76 +30,49 @@ exports.createPages = ({ actions, graphql }) => {
         limit: 1000
       ) {
         edges {
-          node {
-            fileAbsolutePath
-            frontmatter {
-              title
-            }
-            fields {
-              slug
+            node {
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+                author
+                permalink
+                band
+                date
+                image
+                groups
+                album
+                category {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                  }
+                }
+              }
             }
           }
-        }
       }
     }
   `).then(({ errors, data }) => { // eslint-disable-line
         if (errors) return Promise.reject(errors);
 
-        data.allMarkdownRemark.edges.forEach(({
-            node: {
-                fields: { slug },
-            },
-        }) => {
+        data.allMarkdownRemark.edges.forEach(({ node }) => {
             createPage({
-                path: slug,
+                path: node.fields.slug,
                 component: blogPostTemplate,
                 context: {},
             });
+
+            if (node.frontmatter.permalink) {
+                createRedirect({
+                    fromPath: node.frontmatter.permalink,
+                    toPath: node.fields.slug,
+                    isPermanent: true,
+                });
+            }
         });
     });
 };
-
-// exports.sourceNodes = ({ actions, getNodes, getNode }) => {
-//     const { createNodeField } = actions;
-//     console.log(getNodes().filter(node => node.internal.type === "MarkdownRemark"));
-//     const postsOfCategories = {};
-//     getNodes()
-//         .filter(node => node.internal.type === "MarkdownRemark")
-//         .forEach((node) => {
-//             if (node.frontmatter.category) {
-//                 const categoryNode = getNodes().find(
-//                     ({ internal, frontmatter }) => internal.type === "MarkdownRemark"
-//                         && frontmatter.title === node.frontmatter.category,
-//                 );
-
-//                 if (categoryNode) {
-//                     const categorySlug = createFilePath({ categoryNode, getNode, basePath: "pages" });
-//                     const postSlug = createFilePath({ node, getNode, basePath: "pages" });
-//                     createNodeField({
-//                         path: path.join(categorySlug, postSlug),
-//                         node,
-//                         name: "category",
-//                         value: categoryNode.id,
-//                     });
-
-//                     // if it's first time for this category init empty array for his posts
-//                     if (!(categoryNode.id in postsOfCategories)) {
-//                         postsOfCategories[categoryNode.id] = [];
-//                     }
-//                     // add book to this category
-//                     postsOfCategories[categoryNode.id].push(node.id);
-//                 }
-//             }
-//         });
-
-//     Object.entries(postsOfCategories).forEach(([categoryNodeId, postIds]) => {
-//         const node = getNode(categoryNodeId);
-//         const slug = createFilePath({ node, getNode, basePath: "pages" });
-//         createNodeField({
-//             path: slug,
-//             node,
-//             name: "post",
-//             value: postIds,
-//         });
-//     });
-// };

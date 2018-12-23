@@ -1,8 +1,12 @@
+const theme = require("./theme.js");
+const pkg = require("./package.json");
+
 module.exports = {
     plugins: [
         "gatsby-plugin-eslint",
         "gatsby-plugin-extract-schema",
         "gatsby-plugin-styled-components",
+        "gatsby-plugin-netlify",
         "gatsby-plugin-netlify-cms",
         {
             resolve: "gatsby-plugin-stylelint",
@@ -25,7 +29,38 @@ module.exports = {
         {
             resolve: "gatsby-transformer-remark",
             options: {
-                plugins: [], // just in case those previously mentioned remark plugins sound cool :)
+                plugins: [],
+            },
+        },
+        {
+            resolve: "gatsby-plugin-favicon",
+            options: {
+                logo: "./src/components/Layout/favicon.png",
+                appName: pkg.name,
+                appDescription: pkg.description,
+                developerName: pkg.author.name,
+                developerURL: pkg.author.url,
+                dir: "auto",
+                lang: "nl-BE",
+                background: theme.color.body,
+                theme_color: theme.color.primary,
+                display: "standalone",
+                orientation: "any",
+                start_url: "",
+                version: pkg.version,
+
+                icons: {
+                    android: true,
+                    appleIcon: true,
+                    appleStartup: true,
+                    coast: false,
+                    favicons: true,
+                    firefox: true,
+                    opengraph: false,
+                    twitter: false,
+                    yandex: false,
+                    windows: false,
+                },
             },
         },
     ],

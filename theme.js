@@ -1,5 +1,5 @@
 // Define what props.theme will look like
-export default {
+module.exports = {
     color: {
         text: "#000000",
         body: "#ffffff",
@@ -30,7 +30,7 @@ export default {
             headings: 900,
         },
     },
-    screen: {
+    breakpoints: {
         xs: 480,
         sm: 720,
         md: 960,
@@ -38,4 +38,7 @@ export default {
         xl: 1440,
         xxl: 1680,
     },
+    spacing: Array.from(Array(20).keys()).reduce((o, key) => ({
+        ...o, [key]: key === 0 ? 0 : `${0.25 * key}rem`,
+    }), {}),
 };
