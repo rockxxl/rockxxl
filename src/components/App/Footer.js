@@ -1,8 +1,10 @@
 import React from "react";
 import styled from "styled-components";
+import { px } from "styled-components-spacing";
 import Container from "../Container";
 
 const Footer = styled.footer`
+    border-top: 1px solid ${props => props.theme.color.extremelyLight};
     color: ${props => props.theme.color.light};
     font-size: ${props => props.theme.font.size.sm}rem;
     padding: 1rem 0;
@@ -22,6 +24,7 @@ const Wrapper = styled(Container)`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    ${px(6)};
 `;
 
 export default () => (

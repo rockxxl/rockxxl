@@ -1,9 +1,12 @@
 // Define what props.theme will look like
 module.exports = {
     color: {
-        text: "#000000",
+        text: "#333333",
+        headings: "#000000",
         body: "#ffffff",
         light: "#666666",
+        extraLight: "#999999",
+        extremelyLight: "#dddddd",
         primary: "#B70C01",
     },
     font: {
@@ -30,6 +33,12 @@ module.exports = {
             headings: 900,
         },
     },
+    leading: {
+        none: 1,
+        tight: 1.25,
+        normal: 1.5,
+        loose: 1.75,
+    },
     breakpoints: {
         xs: 480,
         sm: 720,
@@ -40,5 +49,5 @@ module.exports = {
     },
     spacing: Array.from(Array(20).keys()).reduce((o, key) => ({
         ...o, [key]: key === 0 ? 0 : `${0.25 * key}rem`,
-    }), {}),
+    }), { auto: "auto" }),
 };

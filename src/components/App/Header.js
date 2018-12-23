@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { px } from "styled-components-spacing";
 import Brand from "../Brand";
 import Navigation from "../Navigation";
 import SocialMedia from "../SocialMedia";
@@ -15,6 +16,7 @@ const Wrapper = styled(Container)`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    ${px(6)};
 `;
 
 
