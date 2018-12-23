@@ -1,6 +1,7 @@
 ---
 id: 939
-title: "de platenkast: Goe Vur In Den Otto"
+title: Goe Vur In Den Otto
+category: De Platenkast
 date: 2016-12-30T10:02:13+00:00
 author: Seppe Van Ael
 layout: post

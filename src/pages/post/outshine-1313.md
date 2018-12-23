@@ -17,5 +17,3 @@ Met een piano-intro wordt het eerste nummer ‘Liar’ ingezet. Gevolgd door enk
 De fans van donkerdere rock mogen op hun twee oren slapen. Deze '1313' klinkt gewoonweg als een goed album. Hier en daar zijn we wat meer opzoek naar variatie, maar over het algemeen valt er weinig op te merken aan Outshine. De band doet hun ding en trekt dit ook verder in bijvoorbeeld hun artwork. Conceptbands, dat zien we graag!
 
 score: 8/10
-
-&nbsp;

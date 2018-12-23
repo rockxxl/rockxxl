@@ -12,5 +12,3 @@ De organisatie van Graspop Metal Meeting kwam vandaag met spijtig nieuws. **W.A.
 [<img class="alignnone size-medium wp-image-2507" src="Naamloos.png)
 
 
-
-&nbsp;

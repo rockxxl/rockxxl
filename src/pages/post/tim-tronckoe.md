@@ -1,6 +1,7 @@
 ---
 id: 913
-title: "de platenkast: Tim Tronckoe"
+title: Tim Tronckoe
+category: De Platenkast
 date: 2016-12-29T11:07:01+00:00
 author: Seppe Van Ael
 layout: post

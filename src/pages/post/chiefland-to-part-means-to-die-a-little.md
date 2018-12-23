@@ -1,6 +1,9 @@
 ---
 id: 296
-title: "review: Chiefland – To Part Means To Die A Little"
+title: "Chiefland - To Part Means To Die A Little"
+category: Album reviews
+band: Chiefland
+album: "To Part Means To Die A Little"
 date: 2016-06-02T12:05:53+00:00
 author: Seppe Van Ael
 layout: post

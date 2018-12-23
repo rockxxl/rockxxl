@@ -17,5 +17,3 @@ Opener ‘The Last Time’ start meteen stevig. Deze doet ons meteen denken aan 
 We hebben bij deze ‘Guns ’N Cookies’ een dubbel gevoel. Er zijn een aantal zeer geslaagde stukken die dan weer in contrast staan met andere. Wild Mighty Freaks heeft veel geëxperimenteerd door een oude stijl in een nieuw jasje te steken. Dit kan zeker een goed resultaat afleveren, maar om dit te doen op een EP met zes nummers wijkt toch wel teveel af van het pad. We geven Wild Mighty Freaks alvast het voordeel van de twijfel. Tijd heelt vele wonden en we hopen oprecht op een opvolger die voortbouwt op goede stukken van deze ‘Guns ’N Cookies’.
 
 score: 6/10
-
-&nbsp;

@@ -1,6 +1,9 @@
 ---
 id: 304
-title: "review: Zygoma – The Highest Court"
+title: "Zygoma - The Highest Court"
+category: Album reviews
+band: Zygoma
+album: "The Highest Court"
 date: 2016-06-01T22:12:57+00:00
 author: Seppe Van Ael
 layout: post

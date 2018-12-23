@@ -17,5 +17,3 @@ Devildriver is een band die niet echt veel introductie meer nodig heeft. Nadat f
 Ondanks dat je dit niet vaak ziet in de metalwereld, heeft Devildriver een gewaagd concept kunnen omzetten in een geslaagd eindresultaat. Er is geëxperimenteerd met de nummers, maar aan groove metal blijft de band nog steeds trouw. Gezien de titel het zelf zegt ‘…vol. 1’ kan hier misschien mogelijk nog een vervolg van komen. Er zal ongetwijfeld tegenstrijd komen, maar een openminded metal luisteraar zal deze plaat zeker kunnen smaken.
 
 score: 8,5/10
-
-&nbsp;

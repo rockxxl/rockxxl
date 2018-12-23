@@ -17,5 +17,3 @@ De EP die slechts vijf nummers telt, begint met een knallende gitaarintro van Sa
 De Belgische metalcore- en hardcorescene leeft en dat bevestigt dit vijftal met deze 'Cosmos'. Dat smaakt naar meer! Groezrock of Jera On Air? Zij verdienen er hun plaatsje zeker en vast! Ze deelden het podium onlangs nog met Secrets en Our Hollow, Our Home, maar op 5 mei stellen ze hun tweede EP graag voor op hun release show. Wij zijn alvast benieuwd hoe ze dit live gaan brengen.
 
 score: 9/10
-
-&nbsp;

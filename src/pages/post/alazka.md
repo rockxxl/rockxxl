@@ -50,5 +50,3 @@ Dit komt eigenlijk omdat we met drie bands zijn en we zitten eigenlijk met 24 op
 **Wat volgt er nu? Amerika?** 
 
 Misschien wel. We proberen om zo snel mogelijk naar Amerika te gaan. Het is veel moeilijker om het in Amerika te maken. Er komt zoveel meer bij kijken: Je moet de transportkosten betalen, de Visa’s in orde brengen,&#8230; We hebben een heel goede band met onze recordlabels Sharptone Records en Empire Records. Zij doen er alles aan om ons te helpen naar Amerika te gaan. We kennen zelf al wat bands in Amerika zoals We Came As Romans en Being As An Ocean. Dat zijn echt leuke mensen en ze worden snel vrienden als je zo lang op tour bent. Ik zou ooit nog op Rock Am Ring willen spelen. Dat staat zeker op mijn bucket list. We speelden ooit op Groezrock. Ik herinner me dat ik daar te veel Jupiler dronk. Daar willen we ook nog wel eens terug heen.
-
-&nbsp;

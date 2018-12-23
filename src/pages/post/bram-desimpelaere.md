@@ -1,6 +1,7 @@
 ---
 id: 3087
-title: "de platenkast: Bram Desimpelaere"
+title: Bram Desimpelaere
+category: De Platenkast
 date: 2017-09-24T10:14:39+00:00
 author: Seppe Van Ael
 layout: post

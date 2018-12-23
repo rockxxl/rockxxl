@@ -17,5 +17,3 @@ Openen doet 'Serpentine' met het nummer 'Erased'. Meteen knallen de eerste gitaa
 Onze gedachten waren verdeeld toen we 'Serpentine' in de bus kregen. Onze grootste bezorgdheid was de relevantie van NOG een hardrock plaat. 10 Rogue heeft ons absoluut verrast en bewezen dat hardrock zeker nog relevant kan zijn. De aanstekelijke sound van de band gecombineerd met een portie groove, old schoolness en fantastische muzikanten zorgt voor een knal van formaat. 'Serpentine', een debuut om naar huis te schrijven!
 
 score: 8,5/10
-
-&nbsp;

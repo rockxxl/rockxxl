@@ -1,6 +1,9 @@
 ---
 id: 261
-title: "review: Cathubodua – Opus 1: Dawn"
+title: "Cathubodua - Opus 1: Dawn"
+category: Album reviews
+band: Cathubodua
+album: "Opus 1: Dawn"
 date: 2016-07-16T12:40:12+00:00
 author: Seppe Van Ael
 layout: post
