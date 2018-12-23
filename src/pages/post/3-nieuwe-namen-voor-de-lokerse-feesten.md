@@ -1,5 +1,6 @@
 ---
 id: 1289
+category: Nieuws
 title: 3 nieuwe namen voor de Lokerse Feesten
 date: 2017-01-27T09:32:10+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 4594
+category: Nieuws
 title: "Nieuwe Jonathan Davis videoclip: Everyone"
 date: 2018-04-01T09:57:08+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 5177
+category: Nieuws
 title: Onze tips voor Sjock Festival!
 date: 2018-06-07T09:04:14+00:00
 author: Seppe Van Ael

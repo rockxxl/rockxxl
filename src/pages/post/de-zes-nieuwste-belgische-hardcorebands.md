@@ -1,5 +1,6 @@
 ---
 id: 2681
+category: Nieuws
 title: De zes nieuwste Belgische hardcorebands
 date: 2017-06-21T17:42:30+00:00
 author: Seppe Van Ael

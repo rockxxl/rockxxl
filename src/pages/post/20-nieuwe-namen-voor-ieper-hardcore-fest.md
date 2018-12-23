@@ -1,5 +1,6 @@
 ---
 id: 4325
+category: Nieuws
 title: 20 nieuwe namen voor Ieper Hardcore Fest
 date: 2018-02-23T11:51:23+00:00
 author: Seppe Van Ael

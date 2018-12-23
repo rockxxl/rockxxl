@@ -1,5 +1,6 @@
 ---
 id: 1046
+category: Nieuws
 title: Rabid Wolves stopt ermee
 date: 2017-01-14T12:58:56+00:00
 author: Seppe Van Ael

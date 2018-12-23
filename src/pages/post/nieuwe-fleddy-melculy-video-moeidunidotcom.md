@@ -1,5 +1,6 @@
 ---
 id: 4726
+category: Nieuws
 title: "Nieuwe Fleddy Melculy video: Moeidunidotcom"
 date: 2018-04-13T07:21:23+00:00
 author: Seppe Van Ael

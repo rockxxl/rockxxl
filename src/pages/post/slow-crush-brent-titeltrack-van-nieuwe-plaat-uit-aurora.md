@@ -1,5 +1,6 @@
 ---
 id: 5310
+category: Nieuws
 title: "Slow Crush brengt titeltrack van nieuwe plaat uit: Aurora"
 date: 2018-07-05T10:44:40+00:00
 author: Seppe Van Ael

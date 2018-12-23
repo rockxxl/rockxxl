@@ -1,5 +1,6 @@
 ---
 id: 1629
+category: Nieuws
 title: "nieuwe Architects videoclip: Gravity"
 date: 2017-02-21T19:06:13+00:00
 author: Seppe Van Ael

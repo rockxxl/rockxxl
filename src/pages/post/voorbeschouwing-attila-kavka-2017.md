@@ -1,5 +1,6 @@
 ---
 id: 2168
+category: Nieuws
 title: "voorbeschouwing: Attila (Kavka, 2017)"
 date: 2017-04-12T14:33:40+00:00
 author: Seppe Van Ael

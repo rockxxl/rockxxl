@@ -1,5 +1,6 @@
 ---
 id: 854
+category: Nieuws
 title: RockXXL top 2016
 date: 2016-12-26T13:04:08+00:00
 author: Seppe Van Ael

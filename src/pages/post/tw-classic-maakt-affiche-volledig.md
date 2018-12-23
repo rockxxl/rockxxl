@@ -1,5 +1,6 @@
 ---
 id: 1846
+category: Nieuws
 title: TW Classic maakt affiche volledig
 date: 2017-03-13T15:21:04+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 1034
+category: Nieuws
 title: 4 nieuwe namen voor Alcatraz gelekt
 date: 2017-01-12T10:25:04+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2963
+category: Nieuws
 title: "nieuwe Arch Enemy videoclip: The Eagle Flies Alones"
 date: 2017-08-25T18:06:03+00:00
 author: Seppe Van Ael

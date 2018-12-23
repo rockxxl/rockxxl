@@ -1,5 +1,6 @@
 ---
 id: 1487
+category: Nieuws
 title: "nieuw Valley nummer: Deception"
 date: 2017-02-12T13:23:51+00:00
 author: Seppe Van Ael

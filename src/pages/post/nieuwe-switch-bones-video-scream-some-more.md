@@ -1,5 +1,6 @@
 ---
 id: 5330
+category: Nieuws
 title: "Nieuwe Switch Bones video: Scream Some More"
 date: 2018-07-11T10:31:24+00:00
 author: Seppe Van Ael

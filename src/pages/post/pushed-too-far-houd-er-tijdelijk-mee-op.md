@@ -1,5 +1,6 @@
 ---
 id: 1538
+category: Nieuws
 title: Pushed Too Far houdt er tijdelijk mee op
 date: 2017-02-15T16:46:26+00:00
 author: Seppe Van Ael

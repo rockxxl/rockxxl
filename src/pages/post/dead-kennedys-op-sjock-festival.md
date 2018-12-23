@@ -1,5 +1,6 @@
 ---
 id: 4018
+category: Nieuws
 title: Dead Kennedys op Sjock Festival
 date: 2018-01-25T15:34:20+00:00
 author: Seppe Van Ael

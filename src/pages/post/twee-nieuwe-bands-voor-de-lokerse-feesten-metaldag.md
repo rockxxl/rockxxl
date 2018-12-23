@@ -1,5 +1,6 @@
 ---
 id: 2664
+category: Nieuws
 title: Twee nieuwe namen voor de metaldag van de Lokerse Feesten
 date: 2017-06-19T16:22:58+00:00
 author: Seppe Van Ael

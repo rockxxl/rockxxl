@@ -1,5 +1,6 @@
 ---
 id: 1907
+category: Nieuws
 title: "nieuwe Fleddy Melculy videoclip: Apu Van De Night Shop"
 date: 2017-03-17T09:55:25+00:00
 author: Seppe Van Ael

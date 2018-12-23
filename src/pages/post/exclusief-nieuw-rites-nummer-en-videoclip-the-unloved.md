@@ -1,5 +1,6 @@
 ---
 id: 3190
+category: Nieuws
 title: "EXCLUSIEF: nieuw Rites nummer en videoclip: The Unloved"
 date: 2017-10-20T09:58:40+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 3604
+category: Nieuws
 title: Humo's Rock Rally top 10
 date: 2017-12-23T14:09:57+00:00
 author: Seppe Van Ael

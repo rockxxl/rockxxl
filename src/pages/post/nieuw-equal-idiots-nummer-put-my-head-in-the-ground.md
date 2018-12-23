@@ -1,5 +1,6 @@
 ---
 id: 1723
+category: Nieuws
 title: "nieuw Equal Idiots nummer: Put My Head In The Ground"
 date: 2017-02-28T10:23:50+00:00
 author: Seppe Van Ael

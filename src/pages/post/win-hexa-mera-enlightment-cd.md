@@ -1,5 +1,6 @@
 ---
 id: 2074
+category: Nieuws
 title: "win: Hexa Mera – Enlightment CD"
 date: 2017-04-05T11:12:48+00:00
 author: Seppe Van Ael

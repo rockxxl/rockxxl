@@ -1,5 +1,6 @@
 ---
 id: 4378
+category: Nieuws
 title: "Het eerste nummer van Wardogs is een feit: Politics"
 date: 2018-02-25T19:58:06+00:00
 author: Seppe Van Ael

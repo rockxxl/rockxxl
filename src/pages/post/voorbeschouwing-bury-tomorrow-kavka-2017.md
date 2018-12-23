@@ -1,5 +1,6 @@
 ---
 id: 2066
+category: Nieuws
 title: "voorbeschouwing: Bury Tomorrow (Kavka, 2017)"
 date: 2017-04-04T09:28:08+00:00
 author: Seppe Van Ael

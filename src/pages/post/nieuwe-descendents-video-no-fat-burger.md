@@ -1,5 +1,6 @@
 ---
 id: 1431
+category: Nieuws
 title: "nieuwe Descendents video: No Fat Burger"
 date: 2017-02-07T18:16:04+00:00
 author: Seppe Van Ael

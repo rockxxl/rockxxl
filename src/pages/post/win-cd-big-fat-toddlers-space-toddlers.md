@@ -1,5 +1,6 @@
 ---
 id: 4991
+category: Nieuws
 title: "WIN: cd Big Fat Toddlers – Space Toddlers"
 date: 2018-05-26T15:51:03+00:00
 author: Seppe Van Ael

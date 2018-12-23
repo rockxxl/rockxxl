@@ -1,5 +1,6 @@
 ---
 id: 2239
+category: Nieuws
 title: "nieuwe Moments videoclip: What If"
 date: 2017-04-20T18:14:47+00:00
 author: Seppe Van Ael

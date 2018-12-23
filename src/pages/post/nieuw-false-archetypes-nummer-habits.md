@@ -1,5 +1,6 @@
 ---
 id: 1960
+category: Nieuws
 title: "nieuw False Archetypes nummer: Habits"
 date: 2017-03-20T18:31:10+00:00
 author: Seppe Van Ael

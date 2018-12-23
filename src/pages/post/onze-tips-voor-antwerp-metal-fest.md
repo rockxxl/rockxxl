@@ -1,5 +1,6 @@
 ---
 id: 2579
+category: Nieuws
 title: Onze tips voor Antwerp Metal Fest!
 date: 2017-06-06T15:54:01+00:00
 author: Seppe Van Ael

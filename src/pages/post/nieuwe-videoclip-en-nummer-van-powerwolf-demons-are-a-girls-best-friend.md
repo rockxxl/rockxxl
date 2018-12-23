@@ -1,5 +1,6 @@
 ---
 id: 4987
+category: Nieuws
 title: "Nieuwe videoclip en nummer van Powerwolf: Demons Are A Girl's Best Friend"
 date: 2018-05-26T15:32:27+00:00
 author: Seppe Van Ael

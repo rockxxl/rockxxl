@@ -1,5 +1,6 @@
 ---
 id: 3989
+category: Nieuws
 title: "nieuwe Equal Idiots videoclip: Toothpaste Jacky"
 date: 2018-01-20T16:04:37+00:00
 author: Seppe Van Ael

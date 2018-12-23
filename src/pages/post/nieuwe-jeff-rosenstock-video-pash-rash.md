@@ -1,5 +1,6 @@
 ---
 id: 1176
+category: Nieuws
 title: "nieuwe Jeff Rosenstock video: Pash Rash"
 date: 2017-01-18T10:26:10+00:00
 author: Seppe Van Ael

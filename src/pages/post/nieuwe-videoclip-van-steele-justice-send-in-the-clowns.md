@@ -1,5 +1,6 @@
 ---
 id: 4416
+category: Nieuws
 title: "Nieuwe videoclip van Steele Justice: Send In The Clowns"
 date: 2018-02-27T18:58:11+00:00
 author: Seppe Van Ael

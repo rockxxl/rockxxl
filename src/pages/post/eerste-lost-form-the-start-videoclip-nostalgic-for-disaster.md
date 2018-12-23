@@ -1,5 +1,6 @@
 ---
 id: 1331
+category: Nieuws
 title: "eerste Lost From The Start videoclip: Nostalgic for Disaster"
 date: 2017-01-29T19:54:09+00:00
 author: Seppe Van Ael

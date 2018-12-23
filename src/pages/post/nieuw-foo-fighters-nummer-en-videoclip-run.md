@@ -1,5 +1,6 @@
 ---
 id: 2552
+category: Nieuws
 title: "nieuw Foo Fighters nummer en videoclip: Run"
 date: 2017-06-01T15:10:47+00:00
 author: Seppe Van Ael

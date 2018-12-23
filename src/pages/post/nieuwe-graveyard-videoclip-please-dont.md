@@ -1,5 +1,6 @@
 ---
 id: 4619
+category: Nieuws
 title: "Nieuwe Graveyard videoclip: Please Don't"
 date: 2018-04-06T09:27:01+00:00
 author: Seppe Van Ael

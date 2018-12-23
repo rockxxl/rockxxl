@@ -1,5 +1,6 @@
 ---
 id: 2814
+category: Nieuws
 title: "nieuwe Valley videoclip: Woven Hands / Broken Hearts"
 date: 2017-07-28T13:27:23+00:00
 author: Seppe Van Ael

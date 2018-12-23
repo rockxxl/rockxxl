@@ -1,5 +1,6 @@
 ---
 id: 5378
+category: Nieuws
 title: "Nieuwe single van Muddler: Tot Chaos"
 date: 2018-08-02T17:07:14+00:00
 author: Seppe Van Ael

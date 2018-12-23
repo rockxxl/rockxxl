@@ -1,5 +1,6 @@
 ---
 id: 1014
+category: Nieuws
 title: "nieuwe RockXXL show: Jungleproof // The Sick Boys // Neighbours // Tanks 4 Nothing // Gert Kleinpunk"
 date: 2017-01-10T13:05:12+00:00
 author: Seppe Van Ael

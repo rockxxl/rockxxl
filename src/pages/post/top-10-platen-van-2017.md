@@ -1,5 +1,6 @@
 ---
 id: 3558
+category: Nieuws
 title: Top 10 platen van 2017
 date: 2017-12-23T13:17:11+00:00
 author: Seppe Van Ael

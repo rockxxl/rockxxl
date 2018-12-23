@@ -1,5 +1,6 @@
 ---
 id: 2174
+category: Nieuws
 title: "nieuwe Drum Drum Dance Dance videoclip: Fight Club"
 date: 2017-04-12T14:54:22+00:00
 author: Seppe Van Ael

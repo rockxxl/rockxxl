@@ -1,5 +1,6 @@
 ---
 id: 2048
+category: Nieuws
 title: "nieuw As We Speak nummer: A Plaguing Truth"
 date: 2017-04-03T13:59:15+00:00
 author: Seppe Van Ael

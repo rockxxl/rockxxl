@@ -1,5 +1,6 @@
 ---
 id: 2652
+category: Nieuws
 title: "nieuwe Counterparts videoclip: Bouquet"
 date: 2017-06-17T09:04:50+00:00
 author: Seppe Van Ael

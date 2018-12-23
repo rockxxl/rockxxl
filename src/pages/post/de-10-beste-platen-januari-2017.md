@@ -1,5 +1,6 @@
 ---
 id: 1446
+category: Nieuws
 title: "de 10 beste platen: januari 2017"
 date: 2017-02-08T12:13:29+00:00
 author: Seppe Van Ael

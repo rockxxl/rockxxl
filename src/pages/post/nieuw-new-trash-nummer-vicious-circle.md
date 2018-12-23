@@ -1,5 +1,6 @@
 ---
 id: 2097
+category: Nieuws
 title: "nieuwe New Trash videoclip: Vicious Circle"
 date: 2017-04-06T16:47:22+00:00
 author: Seppe Van Ael

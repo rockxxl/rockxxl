@@ -1,5 +1,6 @@
 ---
 id: 4156
+category: Nieuws
 title: The Offspring op Rock Zottegem
 date: 2018-02-06T16:14:23+00:00
 author: Seppe Van Ael

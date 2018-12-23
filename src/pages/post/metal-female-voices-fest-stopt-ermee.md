@@ -1,5 +1,6 @@
 ---
 id: 1503
+category: Nieuws
 title: Metal Female Voices Fest stopt ermee
 date: 2017-02-13T12:58:23+00:00
 author: Seppe Van Ael

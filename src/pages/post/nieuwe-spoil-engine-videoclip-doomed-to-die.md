@@ -1,5 +1,6 @@
 ---
 id: 2080
+category: Nieuws
 title: "nieuwe Spoil Engine videoclip: Doomed To Die"
 date: 2017-04-05T17:35:20+00:00
 author: Seppe Van Ael

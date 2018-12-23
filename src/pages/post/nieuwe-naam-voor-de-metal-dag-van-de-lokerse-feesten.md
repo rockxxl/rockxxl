@@ -1,5 +1,6 @@
 ---
 id: 4915
+category: Nieuws
 title: Nieuwe naam voor de punkdag van de Lokerse Feesten
 date: 2018-05-21T15:54:25+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2960
+category: Nieuws
 title: "Nieuwe Ghost videoclip: He Is"
 date: 2017-08-25T18:03:08+00:00
 author: Seppe Van Ael

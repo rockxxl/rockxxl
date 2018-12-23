@@ -1,5 +1,6 @@
 ---
 id: 2658
+category: Nieuws
 title: "nieuwe From Whence We Came videoclip: Prisoner Of Low Frequency"
 date: 2017-06-18T13:15:57+00:00
 author: Seppe Van Ael

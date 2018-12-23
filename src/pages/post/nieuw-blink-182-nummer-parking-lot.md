@@ -1,5 +1,6 @@
 ---
 id: 1915
+category: Nieuws
 title: "nieuw Blink 182 nummer: Parking Lot"
 date: 2017-03-17T11:26:45+00:00
 author: Seppe Van Ael

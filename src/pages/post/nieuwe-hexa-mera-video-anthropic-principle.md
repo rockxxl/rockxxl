@@ -1,5 +1,6 @@
 ---
 id: 2788
+category: Nieuws
 title: "nieuwe Hexa Mera video: Anthropic Principle"
 date: 2017-07-18T08:16:51+00:00
 author: Seppe Van Ael

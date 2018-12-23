@@ -1,5 +1,6 @@
 ---
 id: 4436
+category: Nieuws
 title: Zygoma houdt ermee op
 date: 2018-03-02T16:41:42+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 1768
+category: Nieuws
 title: affiche Graspop Metal Meeting volledig
 date: 2017-03-07T12:52:47+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 4826
+category: Nieuws
 title: "Nieuwe groups: Son of a Shepherd, het Belgische antwoord op Mindless Self Indulgence"
 date: 2018-04-27T07:50:51+00:00
 author: Seppe Van Ael

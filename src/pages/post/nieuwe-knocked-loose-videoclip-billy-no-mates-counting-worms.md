@@ -1,5 +1,6 @@
 ---
 id: 2555
+category: Nieuws
 title: "nieuwe Knocked Loose videoclip: Billy No Mates // Counting Worms"
 date: 2017-06-01T15:16:57+00:00
 author: Seppe Van Ael

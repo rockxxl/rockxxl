@@ -1,5 +1,6 @@
 ---
 id: 1730
+category: Nieuws
 title: 25 nieuwe namen voor Groezrock
 date: 2017-02-28T21:01:00+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2810
+category: Nieuws
 title: "Sylar covert Linkin Park: Point Of Authority"
 date: 2017-07-27T11:14:12+00:00
 author: Seppe Van Ael

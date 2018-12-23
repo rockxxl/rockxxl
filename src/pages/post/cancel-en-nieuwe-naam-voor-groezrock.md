@@ -1,5 +1,6 @@
 ---
 id: 2265
+category: Nieuws
 title: cancel en nieuwe naam voor Groezrock
 date: 2017-04-22T07:40:08+00:00
 author: Seppe Van Ael

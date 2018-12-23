@@ -1,5 +1,6 @@
 ---
 id: 5159
+category: Nieuws
 title: Onze tips voor Jera On Air!
 date: 2018-06-16T11:52:03+00:00
 author: Seppe Van Ael

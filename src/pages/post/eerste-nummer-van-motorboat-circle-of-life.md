@@ -1,5 +1,6 @@
 ---
 id: 4932
+category: Nieuws
 title: "Eerste nummer van Motörboat: Circle Of Life"
 date: 2018-05-23T20:51:00+00:00
 author: Seppe Van Ael

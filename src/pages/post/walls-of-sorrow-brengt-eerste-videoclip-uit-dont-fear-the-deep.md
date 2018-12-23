@@ -1,5 +1,6 @@
 ---
 id: 4836
+category: Nieuws
 title: "Walls Of Sorrow brengt eerste videoclip uit: Don't Fear The Deep"
 date: 2018-05-04T11:17:51+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2598
+category: Nieuws
 title: "nieuwe Korn videoclip: Black Is The Soul"
 date: 2017-06-07T16:01:02+00:00
 author: Seppe Van Ael

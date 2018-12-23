@@ -1,5 +1,6 @@
 ---
 id: 4313
+category: Nieuws
 title: "eerste Beech video: Fifteen Years"
 date: 2018-02-22T10:30:08+00:00
 author: Seppe Van Ael

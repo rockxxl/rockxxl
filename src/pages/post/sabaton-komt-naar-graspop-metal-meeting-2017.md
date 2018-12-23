@@ -1,5 +1,6 @@
 ---
 id: 979
+category: Nieuws
 title: Sabaton komt naar Graspop Metal Meeting 2017
 date: 2017-01-09T10:12:14+00:00
 author: Seppe Van Ael

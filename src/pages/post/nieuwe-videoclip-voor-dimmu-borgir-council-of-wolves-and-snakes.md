@@ -1,5 +1,6 @@
 ---
 id: 4590
+category: Nieuws
 title: "Nieuwe videoclip voor Dimmu Borgir: Council Of Wolves And Snakes"
 date: 2018-04-01T09:51:32+00:00
 author: Seppe Van Ael

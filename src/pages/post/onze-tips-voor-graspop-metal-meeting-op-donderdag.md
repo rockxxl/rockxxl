@@ -1,5 +1,6 @@
 ---
 id: 5060
+category: Nieuws
 title: Onze tips voor Graspop Metal Meeting op donderdag!
 date: 2018-05-31T12:03:40+00:00
 author: Seppe Van Ael

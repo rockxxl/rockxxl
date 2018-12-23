@@ -1,5 +1,6 @@
 ---
 id: 4976
+category: Nieuws
 title: "WIN: Twee cd's van Before He Shot Her"
 date: 2018-05-26T13:56:48+00:00
 author: Seppe Van Ael

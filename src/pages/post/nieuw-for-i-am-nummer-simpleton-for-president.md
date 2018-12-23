@@ -1,5 +1,6 @@
 ---
 id: 1214
+category: Nieuws
 title: "nieuw For I Am nummer: Simpleton For President"
 date: 2017-01-20T18:21:09+00:00
 author: Seppe Van Ael

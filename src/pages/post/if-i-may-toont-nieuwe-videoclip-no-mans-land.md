@@ -1,5 +1,6 @@
 ---
 id: 1135
+category: Nieuws
 title: "If I May toont nieuw nummer: No Man's Land"
 date: 2017-01-15T17:24:21+00:00
 author: Seppe Van Ael

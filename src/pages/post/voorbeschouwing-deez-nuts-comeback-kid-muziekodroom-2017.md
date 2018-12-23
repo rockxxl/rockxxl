@@ -1,5 +1,6 @@
 ---
 id: 1469
+category: Nieuws
 title: "voorbeschouwing: Deez Nuts + Comeback Kid (Muziekodroom, 2017)"
 date: 2017-02-11T22:32:40+00:00
 author: Seppe Van Ael

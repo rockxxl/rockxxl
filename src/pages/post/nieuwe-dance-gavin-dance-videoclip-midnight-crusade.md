@@ -1,5 +1,6 @@
 ---
 id: 4613
+category: Nieuws
 title: "Nieuwe Dance Gavin Dance videoclip: Midnight Crusade"
 date: 2018-04-06T09:09:46+00:00
 author: Seppe Van Ael

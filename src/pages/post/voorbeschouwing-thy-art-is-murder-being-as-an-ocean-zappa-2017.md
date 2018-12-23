@@ -1,5 +1,6 @@
 ---
 id: 2196
+category: Nieuws
 title: "voorbeschouwing: Thy Art Is Murder + Being As An Ocean (Zappa, 2017)"
 date: 2017-04-17T16:18:21+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2001
+category: Nieuws
 title: "Goe Vur In Den Otto neemt nummer op met Fleddy Melculy: Den Bus Gemist"
 date: 2017-03-24T19:23:51+00:00
 author: Seppe Van Ael

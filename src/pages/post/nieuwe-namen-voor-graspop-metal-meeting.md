@@ -1,5 +1,6 @@
 ---
 id: 4024
+category: Nieuws
 title: nieuwe namen voor Graspop Metal Meeting
 date: 2018-01-25T15:51:21+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2523
+category: Nieuws
 title: Onze tips voor Graspop Metal Meeting!
 date: 2017-05-31T17:46:05+00:00
 author: Seppe Van Ael

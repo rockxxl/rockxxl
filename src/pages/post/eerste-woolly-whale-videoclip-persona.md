@@ -1,5 +1,6 @@
 ---
 id: 4855
+category: Nieuws
 title: "Eerste Woolly Whale videoclip: Persona"
 date: 2018-05-09T13:32:07+00:00
 author: Seppe Van Ael

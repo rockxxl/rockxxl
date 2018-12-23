@@ -1,5 +1,6 @@
 ---
 id: 1030
+category: Nieuws
 title: "nieuwe Spitfire videoclip: Kill Me"
 date: 2017-01-11T19:33:40+00:00
 author: Seppe Van Ael

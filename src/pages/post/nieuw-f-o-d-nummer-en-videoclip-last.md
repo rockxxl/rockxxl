@@ -1,5 +1,6 @@
 ---
 id: 1229
+category: Nieuws
 title: "nieuw F.O.D. nummer en videoclip: Last"
 date: 2017-01-23T13:21:52+00:00
 author: Seppe Van Ael

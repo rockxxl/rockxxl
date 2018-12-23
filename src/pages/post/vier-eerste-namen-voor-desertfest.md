@@ -1,5 +1,6 @@
 ---
 id: 2262
+category: Nieuws
 title: vier eerste namen voor Desertfest
 date: 2017-04-22T07:35:13+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2462
+category: Nieuws
 title: Twee nieuwe nummers voor Neck Deep
 date: 2017-05-21T20:25:27+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2291
+category: Nieuws
 title: "nieuwe Slow Crush video: Sway"
 date: 2017-04-27T11:27:21+00:00
 author: Seppe Van Ael

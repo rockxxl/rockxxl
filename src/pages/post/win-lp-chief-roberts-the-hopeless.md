@@ -1,5 +1,6 @@
 ---
 id: 5108
+category: Nieuws
 title: "WIN: LP Chief Roberts – The Hopeless"
 date: 2018-06-03T09:43:22+00:00
 author: Seppe Van Ael

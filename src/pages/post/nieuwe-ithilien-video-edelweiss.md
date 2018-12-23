@@ -1,5 +1,6 @@
 ---
 id: 4222
+category: Nieuws
 title: "nieuwe Ithilien video: Edelweiss"
 date: 2018-02-11T15:08:29+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 4852
+category: Nieuws
 title: "Nieuwe single van Monkey Juice: The Abject"
 date: 2018-05-09T13:06:25+00:00
 author: Seppe Van Ael

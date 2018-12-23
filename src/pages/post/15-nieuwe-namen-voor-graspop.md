@@ -1,5 +1,6 @@
 ---
 id: 1285
+category: Nieuws
 title: 15 nieuwe namen voor Graspop
 date: 2017-01-26T09:37:42+00:00
 author: Seppe Van Ael

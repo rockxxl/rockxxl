@@ -1,5 +1,6 @@
 ---
 id: 2945
+category: Nieuws
 title: "nieuw Hot Water Music nummer: Complicated"
 date: 2017-08-24T16:04:54+00:00
 author: Seppe Van Ael

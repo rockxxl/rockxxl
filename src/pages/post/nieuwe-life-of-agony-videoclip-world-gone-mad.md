@@ -1,5 +1,6 @@
 ---
 id: 2212
+category: Nieuws
 title: "nieuwe Life of Agony videoclip: World Gone Mad"
 date: 2017-04-19T12:45:58+00:00
 author: Seppe Van Ael

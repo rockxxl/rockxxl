@@ -1,5 +1,6 @@
 ---
 id: 4445
+category: Nieuws
 title: "Mum's the Word lost een eerste nummer: Closed Doors // Open Windows"
 date: 2018-03-02T17:00:25+00:00
 author: Seppe Van Ael

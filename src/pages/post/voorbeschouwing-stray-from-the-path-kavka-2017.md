@@ -1,5 +1,6 @@
 ---
 id: 3154
+category: Nieuws
 title: "voorbeschouwing: Stray From The Path (Kavka, 2017)"
 date: 2017-10-12T11:22:04+00:00
 author: Seppe Van Ael

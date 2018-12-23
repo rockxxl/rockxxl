@@ -1,5 +1,6 @@
 ---
 id: 4839
+category: Nieuws
 title: "Nieuwe Hexa Mera videoclip: Dare To Know"
 date: 2018-05-04T11:30:18+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2702
+category: Nieuws
 title: "Hellions covert Green Day: Jesus of Suburbia"
 date: 2017-06-22T16:34:14+00:00
 author: Seppe Van Ael

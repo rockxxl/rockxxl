@@ -1,5 +1,6 @@
 ---
 id: 5150
+category: Nieuws
 title: "Nesqueek zet eerste videoclip online: Reunite"
 date: 2018-06-05T18:07:13+00:00
 author: Seppe Van Ael

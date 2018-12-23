@@ -1,5 +1,6 @@
 ---
 id: 2806
+category: Nieuws
 title: "eerste Nesqueek nummer: Equals"
 date: 2017-07-24T15:42:26+00:00
 author: Seppe Van Ael

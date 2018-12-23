@@ -1,5 +1,6 @@
 ---
 id: 1395
+category: Nieuws
 title: Dropkick Murphys en Prophets of Rage op Rock Werchter
 date: 2017-02-03T21:28:11+00:00
 author: Seppe Van Ael

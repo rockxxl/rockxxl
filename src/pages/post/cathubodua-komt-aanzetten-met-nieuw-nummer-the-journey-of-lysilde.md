@@ -1,5 +1,6 @@
 ---
 id: 4729
+category: Nieuws
 title: "Cathubodua komt aanzetten met nieuw nummer: The Journey of Lysilde"
 date: 2018-04-13T13:28:02+00:00
 author: Seppe Van Ael

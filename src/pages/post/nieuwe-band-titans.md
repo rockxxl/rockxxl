@@ -1,5 +1,6 @@
 ---
 id: 2297
+category: Nieuws
 title: "nieuwe groups: Titans"
 date: 2017-04-27T11:31:14+00:00
 author: Seppe Van Ael

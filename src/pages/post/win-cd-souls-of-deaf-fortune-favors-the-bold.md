@@ -1,5 +1,6 @@
 ---
 id: 5327
+category: Nieuws
 title: "WIN: cd Souls of Deaf – Fortune Favors The Bold"
 date: 2018-07-10T12:19:13+00:00
 author: Seppe Van Ael

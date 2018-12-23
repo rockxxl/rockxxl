@@ -1,5 +1,6 @@
 ---
 id: 1622
+category: Nieuws
 title: Ieper Hardcore Fest komt met eerste namen
 date: 2017-02-21T18:57:31+00:00
 author: Seppe Van Ael

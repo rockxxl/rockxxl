@@ -1,5 +1,6 @@
 ---
 id: 2816
+category: Nieuws
 title: "nieuw Knuckle Puck nummer: Gone"
 date: 2017-08-01T10:39:25+00:00
 author: Seppe Van Ael

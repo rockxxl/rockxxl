@@ -1,5 +1,6 @@
 ---
 id: 2324
+category: Nieuws
 title: "nieuw Paramore nummer en videoclip: Told You So"
 date: 2017-05-04T09:39:25+00:00
 author: Seppe Van Ael

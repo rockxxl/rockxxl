@@ -1,5 +1,6 @@
 ---
 id: 4817
+category: Nieuws
 title: "Nieuw Parkway Drive nummer en video: Prey"
 date: 2018-04-25T11:54:15+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 3293
+category: Nieuws
 title: "voorbeschouwing: Dying Fetus (JC De Klinker, 2017)"
 date: 2017-11-07T18:56:50+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2602
+category: Nieuws
 title: The Melvins en meer op Desertfest
 date: 2017-06-07T16:08:42+00:00
 author: Seppe Van Ael

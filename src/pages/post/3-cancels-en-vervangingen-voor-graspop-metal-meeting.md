@@ -1,5 +1,6 @@
 ---
 id: 2506
+category: Nieuws
 title: 3 cancels en vervangingen voor Graspop Metal Meeting
 date: 2017-05-29T16:40:38+00:00
 author: Seppe Van Ael

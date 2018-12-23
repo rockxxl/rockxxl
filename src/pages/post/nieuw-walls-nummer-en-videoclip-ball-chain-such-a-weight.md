@@ -1,5 +1,6 @@
 ---
 id: 4832
+category: Nieuws
 title: "Nieuw Walls nummer en videoclip: Ball &#038; Chain, Such A Weight"
 date: 2018-04-30T07:22:58+00:00
 author: Seppe Van Ael

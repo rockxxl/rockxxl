@@ -1,5 +1,6 @@
 ---
 id: 2576
+category: Nieuws
 title: "nieuw Here Stands A Hero nummer en video: Mercenary"
 date: 2017-06-06T08:41:03+00:00
 author: Seppe Van Ael

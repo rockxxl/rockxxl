@@ -1,5 +1,6 @@
 ---
 id: 962
+category: Nieuws
 title: "nieuwe RockXXL show: Fatal Move // Sounds Like Deceit // Royce // As Echoes Fade // Behind The Visual"
 date: 2016-12-31T14:19:43+00:00
 author: Seppe Van Ael

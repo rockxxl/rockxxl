@@ -1,5 +1,6 @@
 ---
 id: 2017
+category: Nieuws
 title: Enter Shikari, Pvris, Cocaine Piss en meer op Pukkelpop
 date: 2017-03-29T13:45:01+00:00
 author: Seppe Van Ael

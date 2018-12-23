@@ -1,5 +1,6 @@
 ---
 id: 5209
+category: Nieuws
 title: "Nieuwe Lost From The Start videoclip: Out Of Left Field"
 date: 2018-06-11T17:25:09+00:00
 author: Seppe Van Ael

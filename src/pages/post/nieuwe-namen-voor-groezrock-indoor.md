@@ -1,5 +1,6 @@
 ---
 id: 5254
+category: Nieuws
 title: Nieuwe namen voor Groezrock Indoor!
 date: 2018-06-22T19:46:00+00:00
 author: Seppe Van Ael

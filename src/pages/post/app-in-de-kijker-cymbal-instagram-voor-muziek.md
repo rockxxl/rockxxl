@@ -1,5 +1,6 @@
 ---
 id: 2594
+category: Nieuws
 title: "app in de kijker: Cymbal – instagram voor muziek"
 date: 2017-06-07T13:43:26+00:00
 author: Seppe Van Ael

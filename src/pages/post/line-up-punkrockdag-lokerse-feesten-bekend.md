@@ -1,5 +1,6 @@
 ---
 id: 4319
+category: Nieuws
 title: Lokerse Feesten maakt line up punkrockdag bekend
 date: 2018-02-23T11:19:38+00:00
 author: Seppe Van Ael

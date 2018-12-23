@@ -1,5 +1,6 @@
 ---
 id: 4743
+category: Nieuws
 title: De laatste 11 namen voor Jera On Air
 date: 2018-04-18T10:34:48+00:00
 author: Seppe Van Ael

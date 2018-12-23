@@ -1,5 +1,6 @@
 ---
 id: 2216
+category: Nieuws
 title: "nieuw Paramore nummer en videoclip: Hard Times"
 date: 2017-04-19T12:48:03+00:00
 author: Seppe Van Ael

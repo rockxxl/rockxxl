@@ -1,5 +1,6 @@
 ---
 id: 1334
+category: Nieuws
 title: eerste namen voor Antwerp Metal Fest
 date: 2017-01-29T20:04:50+00:00
 author: Seppe Van Ael

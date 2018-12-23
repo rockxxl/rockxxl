@@ -1,5 +1,6 @@
 ---
 id: 990
+category: Nieuws
 title: De top 10 platen van 2016
 date: 2017-01-10T12:21:41+00:00
 author: Seppe Van Ael

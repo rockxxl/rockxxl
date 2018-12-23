@@ -1,5 +1,6 @@
 ---
 id: 4006
+category: Nieuws
 title: Slayer houdt ermee op
 date: 2018-01-22T18:54:15+00:00
 author: Seppe Van Ael

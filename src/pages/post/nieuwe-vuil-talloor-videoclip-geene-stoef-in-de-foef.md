@@ -1,5 +1,6 @@
 ---
 id: 2938
+category: Nieuws
 title: "nieuwe Vuil Talloor videoclip: Geene Stoef in de Foef"
 date: 2017-08-20T15:54:56+00:00
 author: Seppe Van Ael

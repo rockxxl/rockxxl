@@ -1,5 +1,6 @@
 ---
 id: 1390
+category: Nieuws
 title: nieuw Hexa Mera nummer
 date: 2017-02-03T17:35:15+00:00
 author: Seppe Van Ael

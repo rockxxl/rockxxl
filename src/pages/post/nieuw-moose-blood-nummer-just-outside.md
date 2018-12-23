@@ -1,5 +1,6 @@
 ---
 id: 4441
+category: Nieuws
 title: "Nieuw Moose Blood nummer: Just Outside"
 date: 2018-03-02T16:49:49+00:00
 author: Seppe Van Ael

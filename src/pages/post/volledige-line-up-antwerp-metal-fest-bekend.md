@@ -1,5 +1,6 @@
 ---
 id: 4647
+category: Nieuws
 title: Volledige line up Antwerp Metal Fest bekend
 date: 2018-04-06T16:47:10+00:00
 author: Seppe Van Ael

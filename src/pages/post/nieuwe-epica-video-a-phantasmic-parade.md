@@ -1,5 +1,6 @@
 ---
 id: 1654
+category: Nieuws
 title: "nieuwe Epica video: A Phantasmic Parade"
 date: 2017-02-22T15:22:02+00:00
 author: Seppe Van Ael

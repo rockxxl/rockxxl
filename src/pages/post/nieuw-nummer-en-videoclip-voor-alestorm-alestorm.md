@@ -1,5 +1,6 @@
 ---
 id: 2270
+category: Nieuws
 title: "nieuw nummer en videoclip voor Alestorm: Alestorm"
 date: 2017-04-22T07:49:21+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 1545
+category: Nieuws
 title: "nieuw Bloodrocuted nummer: For The Dead Travel Fast"
 date: 2017-02-15T17:40:28+00:00
 author: Seppe Van Ael

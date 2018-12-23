@@ -1,5 +1,6 @@
 ---
 id: 2957
+category: Nieuws
 title: "nieuwe Sleeping With Sirens videoclip: Cheers"
 date: 2017-08-25T18:00:05+00:00
 author: Seppe Van Ael

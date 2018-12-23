@@ -1,5 +1,6 @@
 ---
 id: 2033
+category: Nieuws
 title: "Hexa Mera upload 360° videoclip: Enlightenment"
 date: 2017-03-30T19:23:31+00:00
 author: Seppe Van Ael

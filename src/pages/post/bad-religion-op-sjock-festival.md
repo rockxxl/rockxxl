@@ -1,5 +1,6 @@
 ---
 id: 1690
+category: Nieuws
 title: Bad Religion op Sjock Festival
 date: 2017-02-24T12:34:16+00:00
 author: Seppe Van Ael

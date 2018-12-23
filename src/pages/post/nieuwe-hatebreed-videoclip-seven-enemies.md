@@ -1,5 +1,6 @@
 ---
 id: 2705
+category: Nieuws
 title: "nieuwe Hatebreed videoclip: Seven Enemies"
 date: 2017-06-22T16:53:29+00:00
 author: Seppe Van Ael

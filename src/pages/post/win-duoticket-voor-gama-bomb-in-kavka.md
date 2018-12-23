@@ -1,5 +1,6 @@
 ---
 id: 4819
+category: Nieuws
 title: "WIN: Duoticket voor Gama Bomb in Kavka"
 date: 2018-04-26T09:44:19+00:00
 author: Seppe Van Ael

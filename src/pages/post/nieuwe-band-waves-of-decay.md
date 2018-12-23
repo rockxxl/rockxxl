@@ -1,5 +1,6 @@
 ---
 id: 1152
+category: Nieuws
 title: "nieuwe groups: Waves of Decay"
 date: 2017-01-16T13:34:15+00:00
 author: Seppe Van Ael

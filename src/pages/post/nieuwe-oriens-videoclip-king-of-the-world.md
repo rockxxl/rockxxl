@@ -1,5 +1,6 @@
 ---
 id: 1556
+category: Nieuws
 title: "nieuwe Oriens videoclip: King Of The World"
 date: 2017-02-16T16:20:21+00:00
 author: Seppe Van Ael

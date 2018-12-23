@@ -1,5 +1,6 @@
 ---
 id: 1744
+category: Nieuws
 title: "nieuwe Equal Idiots videoclip: Put My Head In The Ground"
 date: 2017-03-03T12:52:34+00:00
 author: Seppe Van Ael

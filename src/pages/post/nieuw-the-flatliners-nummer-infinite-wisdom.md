@@ -1,5 +1,6 @@
 ---
 id: 1896
+category: Nieuws
 title: "nieuw The Flatliners nummer: Infinite Wisdom"
 date: 2017-03-15T17:01:27+00:00
 author: Seppe Van Ael

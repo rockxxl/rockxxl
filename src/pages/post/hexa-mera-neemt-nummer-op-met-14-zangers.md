@@ -1,5 +1,6 @@
 ---
 id: 1686
+category: Nieuws
 title: Hexa Mera neemt nummer op met 14 zangers
 date: 2017-02-24T11:13:53+00:00
 author: Seppe Van Ael

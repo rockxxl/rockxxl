@@ -1,5 +1,6 @@
 ---
 id: 1777
+category: Nieuws
 title: "nieuwe For I Am videoclip: (Make It Out) Alive"
 date: 2017-03-07T19:37:45+00:00
 author: Seppe Van Ael

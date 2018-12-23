@@ -1,5 +1,6 @@
 ---
 id: 1434
+category: Nieuws
 title: "nieuwe Set Things Right videoclip: The Winter's Tale"
 date: 2017-02-07T18:22:07+00:00
 author: Seppe Van Ael

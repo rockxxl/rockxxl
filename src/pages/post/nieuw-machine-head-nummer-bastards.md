@@ -1,5 +1,6 @@
 ---
 id: 3871
+category: Nieuws
 title: "nieuw Machine Head nummer: Bastards"
 date: 2018-01-15T09:37:06+00:00
 author: Seppe Van Ael

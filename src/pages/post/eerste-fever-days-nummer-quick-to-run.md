@@ -1,5 +1,6 @@
 ---
 id: 4225
+category: Nieuws
 title: "Eerste Fever Days nummer: Quick To Run"
 date: 2018-02-12T10:29:24+00:00
 author: Seppe Van Ael

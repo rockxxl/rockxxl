@@ -1,5 +1,6 @@
 ---
 id: 1198
+category: Nieuws
 title: "nieuw Saille nummer: Genesis 11:1-9"
 date: 2017-01-19T11:10:21+00:00
 author: Seppe Van Ael

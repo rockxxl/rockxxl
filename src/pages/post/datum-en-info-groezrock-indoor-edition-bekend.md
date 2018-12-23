@@ -1,5 +1,6 @@
 ---
 id: 4454
+category: Nieuws
 title: Datum en info Groezrock indoor edition bekend
 date: 2018-03-02T17:13:26+00:00
 author: Seppe Van Ael

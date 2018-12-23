@@ -1,5 +1,6 @@
 ---
 id: 4497
+category: Nieuws
 title: "Eerste nummer van Arson: Empire"
 date: 2018-03-20T11:13:09+00:00
 author: Seppe Van Ael

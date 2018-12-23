@@ -1,5 +1,6 @@
 ---
 id: 4616
+category: Nieuws
 title: "Eerste nummer en videoclip van Oceans Burning: Where Dreams Bleed"
 date: 2018-04-06T09:33:26+00:00
 author: Seppe Van Ael

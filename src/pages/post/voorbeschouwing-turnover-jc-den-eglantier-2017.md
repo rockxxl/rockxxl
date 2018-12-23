@@ -1,5 +1,6 @@
 ---
 id: 3043
+category: Nieuws
 title: "voorbeschouwing: Turnover (JC Den Eglantier, 2017)"
 date: 2017-09-09T18:16:28+00:00
 author: Seppe Van Ael

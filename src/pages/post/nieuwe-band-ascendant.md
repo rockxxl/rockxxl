@@ -1,5 +1,6 @@
 ---
 id: 2672
+category: Nieuws
 title: "nieuwe groups: Ascendant"
 date: 2017-06-19T16:38:50+00:00
 author: Seppe Van Ael

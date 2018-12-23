@@ -1,5 +1,6 @@
 ---
 id: 5370
+category: Nieuws
 title: "Nieuwe videoclip en single van Fever Days: Wait For Me"
 date: 2018-07-31T14:01:11+00:00
 author: Seppe Van Ael

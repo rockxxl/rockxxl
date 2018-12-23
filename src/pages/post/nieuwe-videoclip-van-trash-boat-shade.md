@@ -1,5 +1,6 @@
 ---
 id: 4896
+category: Nieuws
 title: "Nieuwe videoclip van Trash Boat: Shade"
 date: 2018-05-15T08:45:05+00:00
 author: Seppe Van Ael

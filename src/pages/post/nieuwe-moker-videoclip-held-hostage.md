@@ -1,5 +1,6 @@
 ---
 id: 2801
+category: Nieuws
 title: "nieuwe Moker videoclip: Held Hostage"
 date: 2017-07-24T15:25:53+00:00
 author: Seppe Van Ael

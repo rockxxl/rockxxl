@@ -1,5 +1,6 @@
 ---
 id: 5316
+category: Nieuws
 title: "Nieuwe Abandoned By Bears single: Headstorm"
 date: 2018-07-05T10:54:13+00:00
 author: Seppe Van Ael

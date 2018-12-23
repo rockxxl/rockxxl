@@ -1,5 +1,6 @@
 ---
 id: 2294
+category: Nieuws
 title: "nieuwe Strains videoclip: Denial"
 date: 2017-04-27T11:28:56+00:00
 author: Seppe Van Ael

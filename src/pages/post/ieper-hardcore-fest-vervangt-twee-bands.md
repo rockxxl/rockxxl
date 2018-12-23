@@ -1,5 +1,6 @@
 ---
 id: 5375
+category: Nieuws
 title: Ieper Hardcore Fest vervangt twee bands
 date: 2018-08-02T12:19:34+00:00
 author: Seppe Van Ael

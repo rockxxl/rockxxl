@@ -1,5 +1,6 @@
 ---
 id: 2181
+category: Nieuws
 title: "nieuwe Cocaine Piss videoclip: Happiness"
 date: 2017-04-14T12:12:43+00:00
 author: Seppe Van Ael

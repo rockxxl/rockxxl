@@ -1,5 +1,6 @@
 ---
 id: 3480
+category: Nieuws
 title: "voorbeschouwing: Nasty + Lionheart (Zappa, 2017)"
 date: 2017-12-02T14:26:31+00:00
 author: Seppe Van Ael

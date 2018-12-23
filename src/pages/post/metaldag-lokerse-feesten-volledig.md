@@ -1,5 +1,6 @@
 ---
 id: 5247
+category: Nieuws
 title: Metaldag Lokerse Feesten volledig!
 date: 2018-06-22T19:16:30+00:00
 author: Seppe Van Ael

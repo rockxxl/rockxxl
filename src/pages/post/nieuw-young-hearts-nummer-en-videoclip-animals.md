@@ -1,5 +1,6 @@
 ---
 id: 1602
+category: Nieuws
 title: "nieuw Young Hearts nummer en videoclip: Animals"
 date: 2017-02-20T14:25:59+00:00
 author: Seppe Van Ael

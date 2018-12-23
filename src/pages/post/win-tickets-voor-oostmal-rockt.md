@@ -1,5 +1,6 @@
 ---
 id: 5443
+category: Nieuws
 title: "WIN: Tickets voor Oostmal Rockt"
 date: 2018-09-15T15:21:40+00:00
 author: Seppe Van Ael

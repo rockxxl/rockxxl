@@ -1,5 +1,6 @@
 ---
 id: 2948
+category: Nieuws
 title: "nieuwe Ascendant videoclip: At Wit's End"
 date: 2017-08-24T16:10:50+00:00
 author: Seppe Van Ael

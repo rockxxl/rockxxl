@@ -1,5 +1,6 @@
 ---
 id: 1704
+category: Nieuws
 title: "nieuwe Suicide Silence videoclip: Dying in a Red Room"
 date: 2017-02-25T13:48:13+00:00
 author: Seppe Van Ael

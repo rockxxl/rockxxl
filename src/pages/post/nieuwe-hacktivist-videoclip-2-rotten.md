@@ -1,5 +1,6 @@
 ---
 id: 2511
+category: Nieuws
 title: "nieuwe Hacktivist videoclip: 2 Rotten"
 date: 2017-05-31T11:46:15+00:00
 author: Seppe Van Ael

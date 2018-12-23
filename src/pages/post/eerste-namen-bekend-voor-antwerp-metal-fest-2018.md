@@ -1,5 +1,6 @@
 ---
 id: 4432
+category: Nieuws
 title: Eerste namen voor Antwerp Metal Fest 2018 bekend
 date: 2018-03-02T17:04:00+00:00
 author: Seppe Van Ael

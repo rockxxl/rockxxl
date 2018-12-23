@@ -1,5 +1,6 @@
 ---
 id: 4847
+category: Nieuws
 title: Line-up Vuurdoop bekend!
 date: 2018-05-09T12:16:23+00:00
 author: Seppe Van Ael

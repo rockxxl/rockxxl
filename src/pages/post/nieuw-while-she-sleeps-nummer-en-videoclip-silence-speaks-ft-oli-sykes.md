@@ -1,5 +1,6 @@
 ---
 id: 1665
+category: Nieuws
 title: "nieuw While She Sleeps nummer en videoclip: Silence Speaks ft. Oli Sykes"
 date: 2017-02-23T13:49:40+00:00
 author: Seppe Van Ael

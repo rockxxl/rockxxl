@@ -1,5 +1,6 @@
 ---
 id: 5287
+category: Nieuws
 title: Diablo Blvd houdt ermee op!
 date: 2018-06-28T13:38:49+00:00
 author: Seppe Van Ael

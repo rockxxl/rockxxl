@@ -1,5 +1,6 @@
 ---
 id: 2921
+category: Nieuws
 title: "nieuw Charlie Bit My Finger nummer: Part Of The Plan"
 date: 2017-08-16T13:28:33+00:00
 author: Seppe Van Ael

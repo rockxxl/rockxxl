@@ -1,5 +1,6 @@
 ---
 id: 3215
+category: Nieuws
 title: "voorbeschouwing: Thy Art Is Murder (Zappa, 2017)"
 date: 2017-10-25T10:37:57+00:00
 author: Seppe Van Ael

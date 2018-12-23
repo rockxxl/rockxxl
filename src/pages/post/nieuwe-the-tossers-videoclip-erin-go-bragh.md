@@ -1,5 +1,6 @@
 ---
 id: 1851
+category: Nieuws
 title: "nieuwe The Tossers videoclip: Erin Go Bragh"
 date: 2017-03-13T15:27:34+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2746
+category: Nieuws
 title: "nieuw Eluveitie nummer: Epona"
 date: 2017-07-05T09:33:58+00:00
 author: Seppe Van Ael

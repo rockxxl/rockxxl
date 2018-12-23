@@ -1,5 +1,6 @@
 ---
 id: 2699
+category: Nieuws
 title: "nieuwe Trash Boat videoclip: Tring Quarry"
 date: 2017-06-22T16:28:08+00:00
 author: Seppe Van Ael

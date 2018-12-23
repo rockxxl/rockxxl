@@ -1,5 +1,6 @@
 ---
 id: 2628
+category: Nieuws
 title: surprise act voor Graspop Metal Meeting bekend
 date: 2017-06-12T13:01:22+00:00
 author: Seppe Van Ael

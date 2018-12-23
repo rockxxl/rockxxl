@@ -1,5 +1,6 @@
 ---
 id: 4140
+category: Nieuws
 title: "nieuwe groups: Thorium"
 date: 2018-02-05T16:21:34+00:00
 author: Seppe Van Ael

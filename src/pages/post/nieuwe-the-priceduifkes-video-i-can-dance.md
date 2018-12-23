@@ -1,5 +1,6 @@
 ---
 id: 1427
+category: Nieuws
 title: "nieuwe The Priceduifkes video: I Can Dance"
 date: 2017-02-06T17:39:38+00:00
 author: Seppe Van Ael

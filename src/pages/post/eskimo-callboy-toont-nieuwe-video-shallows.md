@@ -1,5 +1,6 @@
 ---
 id: 5367
+category: Nieuws
 title: "Eskimo Callboy toont nieuwe video: Shallows"
 date: 2018-07-31T13:56:42+00:00
 author: Seppe Van Ael

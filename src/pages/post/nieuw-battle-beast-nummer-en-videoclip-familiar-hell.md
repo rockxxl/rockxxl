@@ -1,5 +1,6 @@
 ---
 id: 1138
+category: Nieuws
 title: "nieuw Battle Beast nummer en videoclip: Familiar Hell"
 date: 2017-01-15T17:30:47+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 1754
+category: Nieuws
 title: "voorbeschouwing: State Champs (Trix, 2017)"
 date: 2017-03-07T12:07:08+00:00
 author: Seppe Van Ael

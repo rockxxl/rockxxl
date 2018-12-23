@@ -1,5 +1,6 @@
 ---
 id: 2908
+category: Nieuws
 title: "nieuw Neck Deep nummer: In Bloom"
 date: 2017-08-14T14:30:32+00:00
 author: Seppe Van Ael

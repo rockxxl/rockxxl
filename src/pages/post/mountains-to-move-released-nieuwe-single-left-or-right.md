@@ -1,5 +1,6 @@
 ---
 id: 4755
+category: Nieuws
 title: "Mountains To Move brengt nieuwe single uit: Left Or Right"
 date: 2018-04-20T12:24:26+00:00
 author: Seppe Van Ael

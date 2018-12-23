@@ -1,5 +1,6 @@
 ---
 id: 2643
+category: Nieuws
 title: "Volbeat toont geanimeerde videoclip: Black Rose"
 date: 2017-06-13T13:50:37+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 1350
+category: Nieuws
 title: "voorbeschouwing: Chelsea Grin (De Klinker, 2017)"
 date: 2017-01-31T17:56:03+00:00
 author: Seppe Van Ael

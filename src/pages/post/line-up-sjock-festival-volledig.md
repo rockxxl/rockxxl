@@ -1,5 +1,6 @@
 ---
 id: 4605
+category: Nieuws
 title: Line up Sjock Festival volledig
 date: 2018-04-06T08:57:48+00:00
 author: Seppe Van Ael

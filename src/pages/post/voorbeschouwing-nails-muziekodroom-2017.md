@@ -1,5 +1,6 @@
 ---
 id: 3273
+category: Nieuws
 title: "voorbeschouwing: Nails (Muziekodroom, 2017)"
 date: 2017-11-05T19:17:16+00:00
 author: Seppe Van Ael

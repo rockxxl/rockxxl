@@ -1,5 +1,6 @@
 ---
 id: 2928
+category: Nieuws
 title: "nieuw Anti-Flag nummer: American Attraction"
 date: 2017-08-18T09:58:15+00:00
 author: Seppe Van Ael

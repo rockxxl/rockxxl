@@ -1,5 +1,6 @@
 ---
 id: 1173
+category: Nieuws
 title: "nieuwe Xandria videoclip: Call Of Destiny"
 date: 2017-01-18T10:22:30+00:00
 author: Seppe Van Ael

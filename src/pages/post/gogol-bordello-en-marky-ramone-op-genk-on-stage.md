@@ -1,5 +1,6 @@
 ---
 id: 2013
+category: Nieuws
 title: Gogol Bordello en Marky Ramone op Genk On Stage
 date: 2017-03-29T11:44:31+00:00
 author: Seppe Van Ael

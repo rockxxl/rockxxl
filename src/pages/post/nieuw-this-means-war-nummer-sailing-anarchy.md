@@ -1,5 +1,6 @@
 ---
 id: 2914
+category: Nieuws
 title: "nieuw This Means War nummer: Sailing Anarchy"
 date: 2017-08-15T19:55:54+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 2027
+category: Nieuws
 title: "nieuwe Creeper videoclip: Misery"
 date: 2017-03-30T14:24:03+00:00
 author: Seppe Van Ael

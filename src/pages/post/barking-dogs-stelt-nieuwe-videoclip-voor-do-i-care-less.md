@@ -1,5 +1,6 @@
 ---
 id: 4708
+category: Nieuws
 title: "Barking Dogs stelt nieuwe videoclip voor: Do I Care Less??"
 date: 2018-04-11T11:35:50+00:00
 author: Seppe Van Ael

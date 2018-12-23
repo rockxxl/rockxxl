@@ -1,5 +1,6 @@
 ---
 id: 2483
+category: Nieuws
 title: "nieuwe March videoclip: Such A Drag"
 date: 2017-05-24T17:16:19+00:00
 author: Seppe Van Ael

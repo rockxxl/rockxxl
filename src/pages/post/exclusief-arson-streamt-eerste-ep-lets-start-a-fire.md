@@ -1,5 +1,6 @@
 ---
 id: 4655
+category: Nieuws
 title: "EXCLUSIEF: Arson streamt eerste EP: Let's Start a Fire"
 date: 2018-04-09T09:57:43+00:00
 author: Seppe Van Ael

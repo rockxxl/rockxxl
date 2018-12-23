@@ -1,5 +1,6 @@
 ---
 id: 2969
+category: Nieuws
 title: "nieuw The Front Bottoms nummer: Raining"
 date: 2017-08-25T18:15:15+00:00
 author: Seppe Van Ael

@@ -1,5 +1,6 @@
 ---
 id: 4074
+category: Nieuws
 title: "nieuwe Mantis videoclip: Miasma"
 date: 2018-01-29T13:40:45+00:00
 author: Seppe Van Ael

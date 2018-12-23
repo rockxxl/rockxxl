@@ -1,5 +1,6 @@
 ---
 id: 5240
+category: Nieuws
 title: Laatste headliner voor Alcatraz bekend!
 date: 2018-06-22T14:52:42+00:00
 author: Seppe Van Ael

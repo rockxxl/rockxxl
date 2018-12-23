@@ -1,5 +1,6 @@
 ---
 id: 1532
+category: Nieuws
 title: "nieuw Creeper nummer en videoclip: Black Rain"
 date: 2017-02-15T11:32:42+00:00
 author: Seppe Van Ael

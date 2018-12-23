@@ -1,5 +1,6 @@
 ---
 id: 1384
+category: Nieuws
 title: The Offspring ook op Lokerse Feesten
 date: 2017-02-03T11:27:48+00:00
 author: Seppe Van Ael

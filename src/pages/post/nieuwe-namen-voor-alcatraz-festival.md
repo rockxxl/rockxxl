@@ -1,5 +1,6 @@
 ---
 id: 4624
+category: Nieuws
 title: Nieuwe namen voor Alcatraz Festival
 date: 2018-04-06T09:42:36+00:00
 author: Seppe Van Ael

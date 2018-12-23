@@ -1,5 +1,6 @@
 ---
 id: 4049
+category: Nieuws
 title: "nieuw Captain Kaiser nummer: The Pack"
 date: 2018-01-27T17:28:35+00:00
 author: Seppe Van Ael

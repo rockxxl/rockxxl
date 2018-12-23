@@ -1,5 +1,6 @@
 ---
 id: 2918
+category: Nieuws
 title: "nieuwe Sabaton videoclip: Primo Victoria"
 date: 2017-08-16T12:27:14+00:00
 author: Seppe Van Ael

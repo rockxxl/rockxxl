@@ -1,5 +1,6 @@
 ---
 id: 5161
+category: Nieuws
 title: De eerste namen voor Groezrock indoor!
 date: 2018-06-06T15:37:12+00:00
 author: Seppe Van Ael

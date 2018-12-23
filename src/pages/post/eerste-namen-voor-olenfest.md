@@ -1,5 +1,6 @@
 ---
 id: 2695
+category: Nieuws
 title: Eerste namen voor Olensfest
 date: 2017-06-22T16:23:15+00:00
 author: Seppe Van Ael

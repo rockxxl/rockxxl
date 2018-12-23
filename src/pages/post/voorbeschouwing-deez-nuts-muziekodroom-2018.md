@@ -1,5 +1,6 @@
 ---
 id: 4520
+category: Nieuws
 title: "voorbeschouwing: Deez Nuts (Muziekodroom, 2018)"
 date: 2018-03-22T19:21:43+00:00
 author: Seppe Van Ael
