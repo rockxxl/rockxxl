@@ -1,0 +1,33 @@
+---
+id: 1507
+title: Deez Nuts + Comeback Kid (Muziekodroom, 2017)
+category: Live review
+date: 2017-02-13T17:16:16+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /live-review/review-deez-nuts-comeback-kid-muziekodroom-2017/
+image: deez-e1486850329390.jpg
+---
+**<span class="_5yl5">De ‘You Are Part Of This Tour’ kwam zondag 12 februari aanzetten in Hasselt. Op de affiche stonden o.a. Deez Nuts en Comeback Kid. Zeker niet de minste namen, al werd dit gezelschap bijgestaan door een heel aantal supportacts. Sommige bands waren voor ons een raadsel en van andere kende we het bestaan. Voor er al maar één band het podium betrad wisten we al dat Heartbreaktunes gezorgd had voor een stevig feestje.</span>**
+
+Klokslag kwart na vijf betrad het Portugese gezelschap van **Reality Slap** het podium. Eerlijkheidshalve moeten we toegeven dat we nog nooit gehoord hadden van deze band. Na hun pas uitgebrachte tweede album 'Limitless' een luisterbeurt gegeven te hebben wisten we meteen wat we moest verwachten, en dat was ook exact wat de zaal voorgeschoteld kreeg. Reality Slap speelt snelle, agressieve, maar vooral ook to the point hardcore. Geen al te veel breakdows of tierlantijntjes maar gewoon gecontroleerd straight forward rammen op de gitaren. Misschien was het publiek nog niet al te goed wakker, maar er was wel een aardige opkomst en die bleef netjes staan gedurende heel het optreden van Reality Slap.
+
+Het Canadese **Get The Shot**, de landsgenoten van Comeback Kid, kregen als tweede de kans om het publiek op te warmen. Misschien niet de bekendste band in de scene maar dit vijf-tal moest zeker niet onder doen voor de grote vissen op de affiche. Met een mengeling van 90's hardcore en thrashmetal brachten deze heren een zeer nostalgisch gevoel naar boven dat ook wel thuishoort in crossover. Verwacht echter geen Iron Reagan achtige toestanden. Get The Shot is en blijft een op en top hardcoreband die het thema politiek verkiest voor hun vaak confronterende teksten. Ook hier bleef het publiek nog een beetje braafjes, al waagde een aantal fans zich wel aan de eerste 2-steps. Als we ons niet vergissen was dit de eerste passage van Get The Shot in België, en als je het ons vraagt, een succes!
+
+[<img class="alignnone wp-image-1508 size-full" src="publik-e1487000705696.jpg)
+
+De vreemde eend in de bijt, al beschouwen we het eerder als een welgekomen afwisseling, was **Hellions**. Deze band knalde hun show in gang met single 'Quality of Life'. Dit nummer werd meteen door vele gezichten meegezongen, al haakte een heel deel van de zaal af na de geweldig aanstekelijke clean vocals in het refrein. Hoewel we erg genoten hebben van de show van dit Australisch gezelschap moeten we eerlijk toegeven dat we hier en daar dat extra beetje kracht miste. Wel, het is niet gemakkelijk voor een band als Hellions om in een genrehokje geduwd te worden, dat is het nadeel als je hardcore mixt met punk. Ik hoorde mensen in de zaal ook wel de term 'huppelhardcore' gebruiken. Hellions speelt wat ze willen spelen, alleen maar respect, voor ons anders toch wel de ontdekking van de dag.
+
+[<img class="alignnone wp-image-1509 size-full" src="hellions-e1487001546262.jpg)
+
+Terug van weggeweest is het vier-tal van **First Blood**. Met leden in de USA, Nederland, Oostenrijk en Zweden zijn deze heren het gewoon om van thuis weg te zijn en te touren. Ook België kon niet ontkomen aan First Blood. We zagen deze heren al eerder aan het werk en wisten dus perfect wat we moeten verwachten. First Blood was absoluut de agressiefste band op de affiche, mede door de vele beatdown invloeden. Zoals ook verwacht werden de eerste moshpits al meteen ingezet als First Blood het podium betrad. Zanger Carl kwam zeer sympathiek over en hij deed ook moeite om hun nieuwe album 'First Blood Rules' te promoten. Met het nodige respect was hij ook niet verlegen om de moshpits op gang te praten, al lag er na een nummer of drie al meteen bloed op het podium.
+
+[<img class="alignnone wp-image-1511 size-full" src="first-blood-e1487002418590.jpg)
+
+De eerste headliner van dienst was het Canadese **Comeback Kid**. Openen deed de band met 'G.M. Vincent and I' van hun succesplaat 'Symptoms + Cures'. Het publiek twijfelde niet om de eerste stagedives te placeren en keihard mee te brullen met de aanstekelijke muziek van Comeback Kid. Het feest brak pas echt los als de band het geweldige nummer 'Do Yourself a Favor' inzette. Ook afsluiten met 'Wake The Dead' was een goede keuze. Comeback Kid had zich al verschillende keren bewezen op de wei van Groezrock maar ze doen het ook nog eens uitstekend in een zaal als deze. De setlist zat mooi in elkaar, het publiek was mee, de band had de nodige energie,&#8230; Er was geen vuiltje aan de lucht gedurende de 40 minuten dat Comeback Kid het beste van zichzelf gaf. Hopelijk doet de band het allemaal even goed in juni op de Jupilerstage op Graspop.
+
+[<img class="alignnone wp-image-1517 size-full" src="comeback-kid.jpg)
+
+Het is niet de eerste, niet de tweede, ook niet de derde, maar al de vierde keer dat **Deez Nuts** de Muziekodroom komt onveilig maken. Wij spraken voor de show even met frontman JJ Peters en hij had ons te vertellen dat hij heel veel zin had om het podium van de Muziekodroom nogmaals op te kruipen. Om klokslag 25 na negen gingen de lichten uit. Deez Nuts zette meteen in met 'Band of Brothers'. Van seconde één zong het publiek mee, werden er pinten de lucht ingegooid, ging de pit open en kregen we een vloedgolf aan stagedivers. Oudere nummers zoals 'Like There's No Tomorrow' en 'I Hustle everyday' werden samengesmolten tot een soort van medley. Ook bracht Deez Nuts een aantal nummers van hun nieuwe plaat 'Binge and Purgatory' die in april uitkomt. Op het eerste zicht is de sound wat we gewoon zijn van Deez Nuts, al heeft gitarist Matt Rogers zijn aandeel gekregen in de vocals. Zelf hebben we nog geen oordeel of dit als positief moet aanschouwd worden. Iedereen ging nog één keer los op 'Your Mother Should've Swallowed You' en na het bis geroep kregen we de nieuwe single 'Binge/ Purgatory' voorgeschoteld. Er was aan het publiek te merken dat deze nog niet genoeg in de hersenen zat en volgens ons hadden ze een hele hoop andere, betere slotnummers kunnen kiezen. Al bij al heeft Deez Nuts zonder moeite de tent op z'n kop gezet. Wij kijken alvast uit naar de volgende passage van dit vier-tal in België.
+
+[<img class="alignnone wp-image-1518 size-full" src="deez-nuts-e1487003928728.jpg)

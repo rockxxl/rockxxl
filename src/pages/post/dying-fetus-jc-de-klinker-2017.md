@@ -1,0 +1,23 @@
+---
+id: 3325
+title: Dying Fetus (JC De Klinker 2017)
+category: Live review
+date: 2017-11-11T11:10:52+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /live-review/live-review-dying-fetus-jc-de-klinker-2017/
+image: sfsfs-e1510080951573.jpg
+---
+**Op woensdag 8 november kwamen de death metal helden van Dying Fetus JC de Klinker in Aarschot onveilig maken. De line-up telde vier brutale bands voor alle death metal fans in België. **
+
+HeartBreakTunes
+
+http://www.heartbreaktunes.com/
+
+De eerste band die aan de beurt was, waren de Australische heren van **Disentomb**. Stipt op tijd begonnen ze aan hun set. Gigantisch veel volk was er helaas nog niet, maar de sfeer zat alvast op het juiste pad. Ondanks de band erg interactief was, was het publiek nog niet meteen mee in hun set. Naar het midden van de set kwam er meer volk binnen en was er meteen ook iets meer interactie van het publiek uit. Moshpits of circle pits waren er niet, maar enkele enthousiaste fans waren aan het headbangen. Het hoogtepunt van hun set was overduidelijk voor iedereen 'Abominations Created Through Divinity'. De vocals van zanger Jordan James Philip waren voor ons toch mee van de beste van de hele avond. Disentomb hebben ons van onze voeten geblazen met hun brutality van jewelste.
+
+De volgende band die op het podium stond, waren de heren van **Beyond Creation**. Bij hen was het publiek al een pak enthousiaster. Hetgeen wat ons opviel waren hun gitaren, zelfs de bas was een 8-string. Die waren zeker nodig om hun technical/progressive stijl naar boven te laten komen. Het jammere was dat er tijdens 'Omnipresent Perception' een geweldige bassolo plaatsvond, maar je deze niet kon horen. Ook het geluid van de drums namen al het gitaarwerk over als de drummer overging in blastbeats. Beyond Creation bracht wat variatie in de avond met melodische en tragere interludes, in plaats van straight to the point brutal death metal. Hun gitaarwerk is meesterlijk, finger tapping en shredding alom. De eerste circle pit was een feit, maar naar het einde van hun set toe brak er een spontane pit uit. Het hoogtepunt van hun set was voor ons 'Fundamental Process'. Het nummer is zelfs een beetje betoverend met de erg melodische en rustige intro.
+
+De voorlaatste band was **Psycroptic**. Bij hen stond de zaal zo goed als vol. Ook merkten we dat er veel fans van de band aanwezig waren. Dit weerspiegelde zich in de energie die het publiek uitstraalden, die ook weerspiegelde in de band hun performance. Ook Psycroptic leunt iets meer naar het technical death metal genre. De vocals van zanger Jason Peppiatt deden ons denken aan CJ McMahon van Thy Art Is Murder. Het publiek, en eveneens wij, werden helemaal gek toen ze aankondigden dat ze nummers van 'Inherited Repression' gingen spelen, waarin waanzinnige gutturals aan te pas komen. De band was erg interactief met het publiek en daarom startte het publiek de grootste pit van de avond. Het jammere was dat Peppiatt zijn stem het aan het opgeven was na enkele weken non-stop touren, maar daar nam het publiek het over van hem.
+
+Het moment waar iedereen op zat te wachten was natuurlijk de opkomst van **Dying Fetus**. Nadat hun laatste twee albums vrij unaniem als meesterwerken binnen het brutal death metal genre werden beschouwd, kwamen ze hun laatste nieuwe album ‘Wrong One To Fuck With’ ook in Europa voorstellen. Ze speelden veel nummers van hun nieuwe album waarvan vooral de titeltrack ons het meeste is bijgebleven. Ook ‘Seething With Disdain’ is een knaller van formaat die Dying Fetus waarschijnlijk wel meer in hun livesets zal steken. Het geluid was in tegenstelling tot andere bands die avond perfect naar hun noden afgesteld, wat er voor zorgde dat de live-ervaring net dat tikkeltje beter werd. Het publiek barstte los, zo hard zelfs dat er iemand uiteindelijk prompt de zaal uit werd gegooid wegens te agressief gedrag. Zulke mensen zijn er helaas ook, maar het wist de sfeer van de show niet echt te benadelen. Voor het eerst op de avond zagen we ook een hele resem stagedives, iets dat toch benadrukte dat de sfeer er van begin tot einde in zat. Er werd zelfs tot aan de merchtafel en terug gecrowdsurfd, iets wat niet altijd een evidentie is. Hits als ‘Subjected To A Beating’ ontbraken niet, en afsluiten deed Dying Fetus met hun alom bekende hit ‘Kill Your Mother, Rape Your Dog’. Met deze motiverende woorden konden we de avond gelukkig afsluiten.

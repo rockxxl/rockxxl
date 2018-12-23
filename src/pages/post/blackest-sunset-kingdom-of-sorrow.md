@@ -1,0 +1,21 @@
+---
+id: 2335
+title: Blackest Sunset - Kingdom of Sorrow
+category: Album reviews
+groups: Blackest Sunset
+album: Kingdom of Sorrow
+date: 2017-05-04T13:16:25+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /album-review/review-blackest-sunset-kingdom-of-sorrow/
+image: brent-bs.jpg
+---
+Blackest Sunet, een vijftal uit Mons (Bergen), België, bracht even geleden hun eerste langspeler ‘Kingdom Of Sorrow’ uit. Deze sloophamer van 40 minuten telt negen nummers en zet ons kleine Belgenlandje nog maar eens op de kaart in de hevigere genres binnen de metalwereld. Zelf beschrijven ze het als ‘Brutal cynicism with wide-eyed belief on the collapse of reality. Nihilistic contemplation of social despair. Crude and hopeless testimony of self-destructive human behavior.’ RockXXL was alvast benieuwd hoe dat muzikaal tot zijn recht komt.
+
+De introductie van dit album zet direct de toon van wat we mogen verwachten voor de rest van het album, hoewel er geen concrete instrumentals in zitten. Het is eerder de sfeer die geschetst wordt in dit halve minuutje, maar die sfeer is een en al duisternis. Titeltrack ‘Kingdom Of Sorrow’ neemt het over na deze introductie, en neemt je meteen mee naar de diepste krochten van de hel. Dit nummer bevat, net zoals alle anderen, exact wat je zou verwachten van deathcore met black metal-invloeden. Breakdowns? Check. Blastbeats en snelle riffs? Check. Af en toe een duister intermezzo met behulp van een synth/aanhoudende gitaarriff? Check. Als ik Blackest Sunset met een band zou moeten vergelijken, zou ik me vooral richten op het oudere werk van Lorna Shore, toen ze nog minder duistere, symfonische elementen in hun muziek hadden. Het klinkt bijvoorbeeld allesbehalve als het vroegere werk van Abigail Williams, daarvoor is dit album niet ‘black’ genoeg, hoewel hun naam anders beweert. De rest van de nummers op dit album hebben zowat dezelfde opbouw als de titeltrack, maar voelen toch niet altijd formularisch aan. Ook op te merken is dat slechts één van de nummers onder de vier minuten klokt, wat doet aanvoelen dat de band echt wel moeite steekt in het creëren van gehele nummers en zich niet baseert op één riff en er dan een nummer rond schrijft. De nummers draaien bijvoorbeeld, in tegenstelling tot veel bands binnen het genre, niet om ‘die ene vette breakdown op het einde’. De geschetste atmosfeer in dit album zit best wel snor, aangezien er in elk nummer wel een bepaald stuk waarbij de wenkbrauwen even gefronst kunnen worden, maar soms net iets te kort.  Het spijtige aan deze band is dat deathcore zich vaak voornamelijk focust op het vocale werk, en hoewel dit zeer degelijk uitgevoerd is, voelen ze toch eerder aan als aanvulling van het instrumentale werk. De vocals hebben geen enorm brede range, er zijn slechts kleine verschillen tussen de mids en de lows, maar de highs zijn soms wel verrassend. Bij nummers als ‘Forever Empty’, haalt zanger Thibault Brassart dan weer even alles uit de kast, waarna wij ons afvragen waar die intensiteit de rest van het album was. Het instrumentale werk daarentegen, is voor een debuutalbum zeer deftig gemixt en gemasterd, en bevat enkele lekkere riffs zoals in ‘This Darkest Night’, het laatste deel van ‘Ascension Of Evil’ en het midden van ‘Ultimate Despair’.  Ook drummer Maxim Durieux verdient een pluim voor zijn geleverde werk op dit album, hij weet perfect te wisselen tussen het deathcore- en black metal-drumwerk op de juiste momenten.
+
+‘Kingdom Of Sorrow’ is een plaat die het genre zeker niet heeft heruitgevonden, en zelfs de combinatie die ze hier trachten te maken is hen al op een schoteltje gepresenteerd door andere bands, maar de band heeft zich met dit debuut toch op de kaart weten zetten. Als je een deathcore-liefhebber bent, maar je jezelf toch afvraagt hoe dat zou klinken met duistere invloeden, is dit album zeker een aanrader. Dit album heeft heel genietbare stukken, maar over het algemeen klinkt het soms nét iets te eentonig en afgekeken om zich echt te kunnen onderscheiden van de rest. Desondanks dit alles is dit een stevige plaat van artiesten die duidelijk weten waar ze mee bezig zijn. Wij zijn alvast benieuwd naar hun volgende werk.
+
+score: 7,5/10
+
+&nbsp;

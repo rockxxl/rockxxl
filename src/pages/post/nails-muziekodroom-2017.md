@@ -1,0 +1,23 @@
+---
+id: 3321
+title: Nails (Muziekodroom, 2017)
+category: Live review
+date: 2017-11-10T10:52:27+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /live-review/live-review-nails-muziekodroom-2017/
+image: 22688018_1457058627708627_2778917726773393615_n-e1509907613423.jpg
+---
+**Maandag 6 november verwelkomde HeartBreakTunes Nails in de MOD te Hasselt. Nails is een van de ruigste opkomende bands van het moment. Deze show konden we onmogelijk missen. De support werd voorzien door uitsluitend Belgische opkomende bands binnen het genre. Er was voor de bezoekers dus heel wat om te ontdekken.**
+
+HeartBreakTunes:
+
+http://www.heartbreaktunes.com/
+
+**Seventh Circle** opende de avond voor de kleine 30 man die beslist hadden zo vroeg naar Hasselt af te zakken. Met hun hardcore die heel wat elementen van black metal bevat, probeerden ze het publiek al wat warm te krijgen voor Nails. Met hun combinatie van fast-paced riffs en lome, hard-hitting breaks wist Nails muzikaal zeker te overtuigen. Spelen voor een haast lege zaal (de MOD was zelfs al kleiner gemaakt) kan niet bepaald motiverend werken. Tegen het einde van de set stond de zaal dan ook al voor de helft vol, maar opgewarmd leek het publiek nog niet echt. Desondanks een set die qua stijl en esthetiek perfect bij Nails paste, bleef de sfeer toch grotendeels uit en was het enkel het muzikale genot dat primeerde.
+
+Vervolgens was **Force** aan de beurt, een band die qua stijl wat uit de boot viel ten opzichte van de rest van de line-up. Force speelde rauwe hardcore, zeer straight to the point. De eerste armen en benen zwaaiden los, de interactie met het publiek zat goed en de sfeer zat er wel meteen in. Vooral vocaal kwam Force heel bruusk en agressief over, en dat was zeker een bonuspunt voor hun set. De rest van de acts had een duistere kant aan hun muziek, maar Force miste dat wat aan hun instrumentale sound. Hun set was memorabel, maar wel zeer kort aangezien na een klein kwartier het laatste nummer reeds aangekondigd werd.
+
+Het publiek leek wat opgewarmd te zijn, dus **VVOVNDS** mocht met hun wervelwind aan geluid de zaal het ultieme voorproefje geven. Een reeds goed gevulde zaal keek meeknikkend toe, maar de afstand tussen het publiek en het podium was voor de band duidelijk te groot. Na 5 minuten in hun set kwam hun zanger op hetzelfde niveau staan dan het publiek, om vervolgens gedurende de hele set provocerend te kijken en heen en weer door het publiek te lopen. VVOVNDS speelde een heel album door, zonder veel extraatjes aan hun set toe te voegen. Zonder veel gepraat, zonder echt interactie. Behalve een gemompelde 'bedankt' werd er niet veel gezegd, maar dat was tijdens hun set niet nodig. Het voordeel van een full album spelen, is wel dat de set nooit breekt en de nummers goed in elkaar vloeien. Korte, rauwe nummers en een steengoede presence, dat is wat deze band ons bracht. Hun zanger wist ook microfoontechnieken te gebruiken die tot op heden voor ons onbekend waren. Zonder handen, microfoon in de mond en de longen uit je lijf schreeuwen. Een machtige presence, een bevreemdende sound, een geslaagde actie, denken we dan. VVOVNDS is een statement van agressie, een oproep tot woede, maar die bleef helaas tijdens hun set wat uit. Iedereen stond geïntrigeerd toe te kijken, dus voor beweging was er geen plaats tijdens hun set.
+
+Een steengoede Belgische support zal **Nails** hebben doen inzien dat ze zeker niet mochten onderdoen, dus ramden ze hun set af zoals enkel zij dat kunnen. Hard, snel, straight to your face en zonder franjes. Powerviolence is in essentie een subgenre van hardcore punk, en dat is live beter in hun set te merken dan op album. Hier en daar kregen we zelfs een lekker two-stepmoment, al was dat – zoals altijd bij deze band – van korte duur. Een gevarieerde set spelen met een niet extreem variërende sound is natuurlijk altijd moeilijk, Nails wist de energie toch wat in de zaal te houden, al was het héél duidelijk een maandagavond. Bij een oproep tot een circlepit keek iedereen wat in het rond, dus wist de band meteen waar ze aan toe waren. Ze ramden op een halfuur hun set er door, wat voor Nails ‘een kleine twee albums’ betekent. We misten ov—vooral reactie van het publiek, dus daarom leek hun set wat doods, maar muzikaal wist Nails meer dan te overtuigen. ‘You Will Never Be One Of Us’ blijft een geniale titeltrack en was dan ook persoonlijk het hoogtepunt van hun set voor mij.

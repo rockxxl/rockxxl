@@ -10,6 +10,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
         const { category } = node.frontmatter;
         let slug = createFilePath({ node, getNode, basePath: "pages" });
         slug = category ? path.join("/", slugify(category, { lower: true }), slug) : slug;
+        slug = node.fileAbsolutePath.includes("/src/pages/post/") && !category ? path.join("/", slugify("nieuws", { lower: true }), slug) : slug;
 
         createNodeField({
             node,

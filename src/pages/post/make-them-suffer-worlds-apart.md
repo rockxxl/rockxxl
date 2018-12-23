@@ -1,0 +1,21 @@
+---
+id: 2825
+title: Make Them Suffer - Worlds Apart
+category: Album reviews
+groups: Make Them Suffer
+album: Worlds Apart
+date: 2017-08-04T17:46:17+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /album-review/review-make-them-suffer-worlds-apart/
+image: makethemsufferworldsapart-e1501868731812.jpg
+---
+Make Them Suffer bracht op 28 juli hun derde langspeler ‘Worlds Apart’ uit. Deze Australische heavyweights hebben doorheen de jaren serieus aan hun sound gesleuteld, waardoor er van hun sound circa 2010 nog slechts weinig overblijft. In 2012 brak Make Them Suffer door met ‘Neverbloom’, tevens een van mijn favoriete albums uit 2012. Symfonische deathcore die interessant genoeg klinkt om het genre meer diepte te geven en melodie en brutaliteit perfect wist te mixen. Opvolger ‘Old Souls’ focuste zich op een toegankelijkere sound, en met succes. Hun sound sloeg aan en naast hun goede songwriting had de band er ook plots elementen bij die een publiek bijna verplichten om te participeren. Dit album neigde ook al veel meer naar metalcore dan naar deathcore. ‘Worlds Apart’ doet er nog een schepje bovenop en klinkt noch als ‘Old Souls’, noch als ‘Neverbloom’, maar heeft een heel eigen en moderne sound.
+
+Die moderne sound manifesteert zich vooral in de gitaren en de clean vocals van nieuwe toetseniste en zangeres Booka Nile, die Louisa Burton vervangt. Waar ‘Neverbloom’ nog focuste op hevige breakdowns en brutale vocalen, focust ‘Worlds Apart’ zich vooral op een rustigere, atmosferischere sound en een betere afwisseling en samenwerking in de zang. Dit album ligt ver weg van de deathcore roots van Make Them Suffer, maar is daarom niet minder interessant. Djenty gitaren overheersen het album en worden begeleid door symfonische elementen die – in tegenstelling tot hun vorige werk – eerder als een fantasierijke droom klinken dan als een beangstigende nachtmerrie. Nummers als ‘Fireworks’en ‘Power Overwhelming’ gebruiken de keyboards enkel als bijdrage tot de atmosfeer en hebben interessanter gitaarwerk dan alles wat deze band voordien aan de wereld liet zien, terwijl een nummer als ‘Uncharted’ niets zou zijn zonder de dromerige sound van de keyboards. Vocaal klinkt zanger Sean Harmanis minder als een demoon als op hun eerste EP en album, maar hij heeft zijn range perfect onder de knie en voelt perfect aan hoe hij mee moet evolueren met de sound van de band. Gutturale klanken zouden nu eenmaal niet passen bij de soms haast tegen shoegaze aanschurende metalcoresound van ‘Worlds Apart’. Op nummers als ‘Dead Plains’ durft hij echter al eens een uitzondering maken en zijn hele range tonen, maar wanneer dit gebeurt is het dan ook piekfijn in orde. Een band kan echter moeilijk een perfect album uitbrengen, wat duidelijk te merken is aan slappe, doch originele afsluiter ‘Save Yourself’ dat misschien net iets te veel focust op de cleane zang en cheesy lyrics die we van deze band niet gewend zijn, en het vrij als filler aanvoelende intermezzo ‘Contact’. De nummers dragen zeker bij aan de sfeer van het album, maar vooral de afsluiter mocht gerust een pak memorabeler. Bij het spoken word gedeelte van het nummer fronste ik even de wenkbrauwen omdat het zo onverwacht was, maar veel droeg het naar mijn mening niet echt bij en het zorgde eerder voor een breuk in de sound dan dat het een vloeiend geheel bleef.
+  
+Desondanks enkele kinderziektes die elke band die experimenteert met hun sound wel eens doormaakt, is ‘Worlds Apart’ een gepaste titel voor dit album. Het staat mijlenver van hun oudere werk, maar elk album van Make Them Suffer is wel een wereld apart. Deze band is duidelijk thuis in hun genre en weet van elk van de subgenres de vruchten te plukken en de positieve elementen te incorporeren in hun latere werk. Verwacht geen ‘Neverbloom’, verwacht geen ‘Old Souls’, maar verwacht een aparte wereld van melodie en grooviness.
+  
+score: 8,5/10
+
+&nbsp;

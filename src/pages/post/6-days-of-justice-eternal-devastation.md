@@ -1,0 +1,21 @@
+---
+id: 4822
+title: 6 Days Of Justice - Eternal Devastation
+category: Album reviews
+groups: 6 Days Of Justice
+album: Eternal Devastation
+date: 2018-04-27T07:21:43+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /album-review/review-6-days-of-justice-eternal-devastation/
+image: 23244041_1533371676699731_3030399992974656171_n-e1524813473115.jpg
+---
+6 Days Of Justice, een band uit de bekende H8000-scene, brengt binnenkort hun nieuwe langspeler ‘Eternal Devastation’ uit. Het is het vierde wapenfeit van de band na demo ‘Dying In Flames’, mini cd ‘The Liar And The Traitor’ en daarna ook nog ‘Where Oceans Begin’. De band is al tien jaar bezig, maar is destijds vaak van stijl gewisseld, gaande van hardcore naar metalcore naar tegenwoordig (blackened) deathcore. De band bevat leden of ex-leden van o.a. Crimson Falls, My Aim, het nieuwe Ascendant, Stab en Pride Zero, toch geen kleine namen in de underground scene. Hopelijk weet 6 Days Of Justice met deze release zichzelf op de kaart te zetten.
+
+Het album begint sterk met de onheilspellende intro ‘Rebirth’, gevolgd door de al even onheilspellende titels ‘Devour’ en ‘Plagues Of Empathy’. Het wordt meteen duidelijk dat de band gaat voor snoeihard drumwerk, melodisch gitaarwerk en moddervette breakdowns. Heviger en duisterder dan hun vorige releases, dat is alvast zeker. ‘Plagues Of Empathy’ bewijst meteen dat de band niet enkel focust op zware breaks, maar ook een sterk melodische gitaarlijn kan neerzetten, iets wat sommige deathcorebands vaak lijken te vergeten. De breakdown op het einde van dit nummer is hier een goed voorbeeld van. De eerste zaken die meteen opvallen bij het beluisteren van deze plaat zijn de drums en de vocals. De drums, hoewel ze puik bespeeld worden door drummer Wouter, lijken in het begin een beetje ‘op het nummer’  te liggen. De basdrum dreunt enorm en klinkt enorm door in de mix, maar neemt wel nooit te hard de voorgrond. Eens je aan deze productie gewend bent, is het echter enkel nog genieten van de drums. De vocals van zanger Dieter zijn ongelofelijk rauw en talentvol, maar ook verrassend verstaanbaar. Voor het getrainde oor zijn vele van de teksten vrij verstaanbaar, en dat is niet iets wat vele deathcorezangers hem nadoen. Er mogen dan wel zangers zijn die misschien een iets bredere low range hebben dan deze band, slechts weinigen articuleren zo verstaanbaar, iets wat de meezingbaarheid van de nummers natuurlijk des te groter maakt. De kracht van 6 Days Of Justice zit hem in het combineren van melodie en algemene _heaviness_, met soms vrij hard naar black metal neigende riffs tussen de breakdown gegoten. Dit draagt bij tot de sfeer, die over het algemeen onheilspellend is. Kippenvelmomenten als de laatste anderhalve minuut van ‘Filth and Decay’ en de perfect daar op aansluitende titeltrack ‘Eternal Devastation’ dragen bij tot die algehele atmosfeer van het album. _There is no fucking saviour for us_, dat is alvast zeker na het horen van ‘Dearly Beloved’, dat begint met een leuk hardcoreriffje, maar het nummer dat echt hoge toppen scheert, moet wel ‘Deserters Of The World’ zijn. Een nummer dat met zijn _fast paced_ riffs de luisteraar niet loslaat en een breakdown van een half nummer lang? Waarom ook niet. Tempo in het midden lekker nog even wat lager? Een klassieke formule, maar ze werkt elke keer opnieuw. De nummers ‘Hatred Prevails’ en ‘Death Will Come Upon Us All’ passeren ook nog de revue, waar het eerstgenoemde lijkst op te bouwen naar een vet harde _slamming_ breakdown, maar opeens met gitzwarte screams uit de hoek komt om vervolgens nog loodzwaar uit de hoek te komen.
+
+Een interessant album, dat weet te flirten met een aantal andere subgenres dan deathcore, is dit zeker. Screams die voor de verandering meezingbaar zijn, meeslepend gitaarwerk en vette breakdowns. Meer is er niet nodig om een succesvol deathcore album te releasen, en dat heeft dit vijftal zeker gedaan. De productie was voor mij wat wennen, maar dit doet niets af aan de kwaliteiten van de band. Als je houdt van bands als melodieuze, duistere deathcore, is dit zeker een aanrader.
+
+score: 8/10
+
+&nbsp;

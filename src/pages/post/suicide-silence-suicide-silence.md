@@ -1,0 +1,23 @@
+---
+id: 1670
+title: Suicide Silence - Suicide Silence
+category: Album reviews
+groups: Suicide Silence
+album: Suicide Silence
+date: 2017-02-23T18:24:21+00:00
+author: Seppe Van Ael
+layout: post
+permalink: /album-review/review-suicide-silence-suicide-silence/
+image: 16933495_1219061378141237_222607527_n-e1487873841460.jpg
+---
+Na de dood van voormalige Suicide Silence zanger Mitch Lucker, ging de band verder met All Shall Perish zanger Eddie Hermida. Samen maakten ze al één album, genaamd ‘You Can’t Stop Me,’ dat nauw aansluit bij het voormalige genre van de band. Met het door Ross Robinson geproduceerde ‘Suicide Silence’ gaat de band een heel andere richting uit. Zelf noemt de band het album een sprong vooruit in deathcore. Ik nam de tijd om uit te pluizen wat alle commotie rond het album net inhoudt.
+
+Het album begint met ‘Doris.’ De eerste minuut van het lied klinkt relatief deathcore, ook al klinken de vocals van Hermida een stuk anders. Meteen hoor ik dat de productie niet is wat het zou moeten zijn. De nummers zijn op de _old school_ manier opgenomen en bijna niet bewerkt, en dit valt zeker te horen. ‘Doris’ is een zeer vaak besproken nummer dankzij de twee eerste woorden van het refrein ‘To Be’ of beter herkenbaar als ‘Tee Hee.’ Over het algemeen klinkt het nummer best nog oké, behalve de clean vocals. Het einde van het nummer kent een heavy breakdown die dan weer heel abrupt stopt. Verder gaan we met nog een controversieel nummer genaamd ‘Silence.’ Het nummer kwam uit als tweede single van ‘Suicide Silence.’ Het begint zeer stevig, maar als het nummer vordert, verzwakt de hele vibe. Weer haalt Hermida zijn zangkunsten niet boven en stilaan begin je te geloven dat hij gewoon niet kan zingen. ‘Listen’ doet je meteen denken aan KoRn. Het valt op dat Suicide Silence veel samples van andere bands heeft gebruikt in dit album. In het refrein lijkt het alsof de lyrics verteld worden en dit kunnen we echt niet plaatsen in een lied dat van Suicide Silence komt. De gitaarsolo klinkt ook niet 100 procent en komt totaal ongeroepen. De titel van het volgende ballad-achtige nummer, ‘Dying in a Red Room,’ lijkt alsof het een referentie is naar Fifty Shades of Grey. Het enige positieve punt aan dit lied is dat Eddie eindelijk aantoont dat hij wel degelijk kan zingen. Nu zijn we aangekomen aan het enige lied op het album dat klinkt alsof het degelijk door Suicide Silence gemaakt is, ‘Hold Me Up, Hold Me Down.’ De instrumentals klinken top en de vocals zijn ruw, zoals het moet zijn. Het lied geeft me nog steeds een Deftones/KoRn gevoel tot we halverwege het lied aan een brutale breakdown komen met geweldige vocals. Dit lied gaf me hoop voor de rest van het album, maar tevergeefs.
+
+De eerste twintig seconden van ‘Run’ klinken veelbelovend, maar vanaf Hermida begint te zingen, wordt het lied oninteressant. Het refrein klinkt weeraleens alsof het gestolen kan zijn van KoRn of Deftones. Hetzelfde hebben we voor met ‘The Zero’ en daarnaast klinkt het hele gigantisch off-key. De instrumentals klinken daarentegen wel goed. Nu komen we aan het lied dat er het meeste uitspringt van het hele album, ‘Conformity.’ Het lied is eerder een eighties ballad met zachte vocals. Akoestische gitaren worden gebruikt om het te ondersteunen, wat niemand ooit van Suicide Silence verwacht zou hebben. Hier horen we veel emotie en de zachte vocals van Eddie die je zo in slaap zouden kunnen krijgen. De gitaarsolo past perfect in het plaatje van deze rockballad. Zelf beschreef Eddie het lied als een panty-dropper, maar dat hoor ik er niet in. Aangekomen aan het laatste lied, ‘Don’t Be Careful, You Might Hurt Yourself’ ben ik blij dat ik deze review kan afronden met een lied dat klinkt als Suicide Silence, met uitzondering van de clean vocals. Het lied klinkt _overall_ best oké, maar het domme fluitdeuntje aan het einde van het nummer doet je denken dat je in een of andere Jungle Book scène zit.
+
+Na het beluisteren van dit nieuwe album snap ik volledig waar alle commotie rond draait. Suicide Silence is zichzelf niet meer. Zij noemen het album een progressie maar ik noem het een regressie. Als ik naar Deftones of KoRn wil luisteren doe ik dat gewoon wel en zal ik niet naar dit album grijpen. Met uitzondering van drie liedjes is het korte album zijn geld niet waard. Suicide Silence heeft zo veel potentieel maar jammer genoeg wordt dit niet gebruikt. Volgende keer (hopelijk) weer beter!
+
+score: 3/10
+
+&nbsp;
