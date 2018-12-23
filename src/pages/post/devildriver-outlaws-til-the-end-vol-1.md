@@ -1,6 +1,6 @@
 ---
 id: 5422
-title: ""Devildriver - Outlaws ‘Til The End: Vol 1""
+title: "Devildriver - Outlaws ‘Til The End: Vol 1"
 category: Album reviews
 groups: Devildriver
 album: "Outlaws ‘Til The End: Vol 1"
