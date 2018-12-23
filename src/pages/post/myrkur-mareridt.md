@@ -17,5 +17,3 @@ Openen doet ‘Mareridt’ met het gelijknamig nummer. Hoewel de folky invloeden
 Hoewel black metal de basis is van Myrkur, heeft frontvrouw Amalie er toch iets nieuw en verfrissend mee gedaan. Myrkur klinkt alles behalve alledaags, doch luistert ‘Mareridt’ zeer vlot. De folk invloeden zorgen zeker niet voor de beste nummers, maar geven het geheel een douche van variatie die werkt als een soort lijm tussen het album door. De productie is goed, alles klinkt lekker donker maar niet ultra chaotisch,… Myrkur is zonder twijfel één van de interessantste bands van het moment en dat is met deze ‘Mareridt’ nog maar eens dubbel en dik bewezen.
 
 score: 8,5/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Openen doet ‘I Lied’ met een gelijknamig nummer. De zweverige en rauwe surfr
 Hoewel dit Engelse trio op ‘I Lied’ de simpliciteit wat meer is gaan opzoeken werkt dit wel zeer aanstekelijk. Het meezinggehalte wordt verhoogd en ook een dansje placeren is hier niet uit de orde. X-Ray Cat Trio bracht met hun vorige plaat ‘Out For Blood’ een geweldig staaltje rock ’n roll dat vooral in z’n geheel wel kon tellen, maar misschien minder gemakkelijk luisterde dan ‘I Lied’. Zeer kort, maar vooral zeer krachtig!
 
 score: 8/10
-
-&nbsp;

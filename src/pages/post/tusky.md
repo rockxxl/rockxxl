@@ -48,5 +48,3 @@ Alleen maar lol! (lacht) De heren van Black Peaks kennen we eigenlijk al van onz
 **Zijn jullie dan niet bang voor het muzikale verschil?**
 
 Het zal ons een worst wezen! (lacht). The Prestige, een Franse band, gaat ook mee en die ligt wat meer in ons straatje. Er zijn niet zo heel veel zure hardcore lui die onze muziek niet leuk vinden eigenlijk. Ze weten dat we allemaal al hardere dingen hebben gedaan in het verleden. We maken nu vrolijke punkrock en veel mensen vinden dat wel echt leuk. Het is ook heel energiek en je kan er volledig op losgaan.
-
-&nbsp;

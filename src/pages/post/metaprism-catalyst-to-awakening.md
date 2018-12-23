@@ -17,5 +17,3 @@ We zagen Metaprism al een aantal keer live en ook 'The Human Encryption' blinkt 
 Metaprism doet ook dit keer waar ze goed in zijn: een potje stevige metal maken en spelen met drie soorten vocals. Niet zo erg verschillend van hun vorige werk, maar alles klinkt weer dat tikkeltje professioneler en ook op gebied van songwriting is de band weer een stap vooruit. We hopen dat we deze band deze zomer op veel festivals mogen terugzien want met 'Catalyst To Awakening' onder de arm zijn ze dat meer dan waard.
 
 score: 80/100
-
-&nbsp;

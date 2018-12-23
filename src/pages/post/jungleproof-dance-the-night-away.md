@@ -17,5 +17,3 @@ Openen doet ‘Dance The Night Away’ met het nummer ‘Look At Me’. Deze haa
 Gooi bands als NOFX en Real Big Fish in een pot, even goed roeren, en je krijgt Jungleproof. Met ‘Dance The Night’ zet dit zootje ongeregeld een stevige stempel in de Belgische punkscene. De nummers van Jungleproof zitten gewoonweg goed in elkaar, zoveel is zeker. Er is duidelijk nagedacht over structuren en ook met de lyrics van Jungleproof is er geen vuiltje aan de lucht. Nog steeds niet overtuigd? Ga naar een live optreden van Jungleproof, zet je beste beentje voor en dance the night away!
 
 score: 8,5/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Openen doen onze Zuiderburen met het instrumentale 'Chasing Deaf'. Dit nummer la
 'Fortune Favors The Bold' is een mooi debuut geworden. De muzikanten spelen hun kunnen uit en dit zorgt voor heel wat variatie, zonder het warm water opnieuw uit te vinden weliswaar. Hoewel er nummer per nummer heel wat verschillen zijn, wordt het geheel wat zwaar en laat de band hier en daar een steek vallen. Er zijn dan ook enkele hoogte- en laagtepunten. Al bij al is deze plaat zeer geschikt voor de doorsnee hard rock/ heavy metal fan en zeker de moeite om eens door te luisteren. In dit digitale tijdperk kan dit al met één druk op de knop.
 
 score: 7/10
-
-&nbsp;

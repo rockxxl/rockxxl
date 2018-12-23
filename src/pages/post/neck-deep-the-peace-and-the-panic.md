@@ -17,5 +17,3 @@ Openen doet The Peace and the Panic met single ‘Motion Sickness’. Dit nummer
 Het lijkt er op dat Neck Deep met The Peace And The Panic doordachter aan het werk is gegaan dan voorheen. Ze zijn zichzelf niet verloren, maar alles klinkt gevarieerder en volwassener, al hebben ze de echte punknummers hier voor aan de kant gezet. Het blijft straf. De band bestaat nog maar vijf jaar, ze brachten drie platen uit waarvan er twee een zeer hoog niveau hebben gehaald. Kortom The Peace And The Panic is een aanrader, of je nu van pop houdt, of van punk.
 
 score: 8,5/10
-
-&nbsp;

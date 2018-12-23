@@ -13,5 +13,3 @@ image: 201711-bandpicture-e1523037411472.png
 Eind maart konden we kennis maken met hun eerste single 'Empire' waarmee ze meteen de fundamenten van hun sound definiëren. 'Let's Start a Fire' geeft ons vijf tracks om mee te werken laat het volledige spectrum zien van wat we kunnen verwachten van deze interbellum-geïnspireerde vijfkoppige bende. Drums werden opgenomen in Much Luv Studio. De opnames voor gitaar, bas en zang namen ze zelf voor hun rekening. Mixing werd onderhanden genomen door Jag Jago (Ghost of a Thousand) en David Achter de Molen (John Coffey) nam de micro op voor een guestvocal op één van de tracks. De EP wordt uitgegeven door Smithsfoodgroup DIY (cd) en Nosebleed Records (cassette).
 
 'Let's Start a Fire' is in zijn geheel te beluisteren onderaan deze post.
-
-&nbsp;

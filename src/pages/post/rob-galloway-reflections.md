@@ -17,5 +17,3 @@ Openen doen we met ‘No Good Reason’. ‘No Good Reason’ is een nummer dat 
 Rob Galloway is een performer in plaats van een zanger, maar het lukt nog net om zijn hoofd boven water te houden met deze ‘Reflections’. Dit album is geen top album maar gewoon een gezellig plaatje dat je van het begin tot het einde in zijn ban houd. ‘Reflections’ verscheen al eerder op cd en lp, maar het Belgische label Recovery Records komt deze zomer met een cassetterelease. Keuze genoeg en al bij al is het nog de moeite om er eentje in huis te halen.
 
 score: 6,5/10
-
-&nbsp;

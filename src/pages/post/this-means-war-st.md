@@ -17,5 +17,3 @@ Openen doet 'This Means War' met single 'Sailing Anarchy'. Dit nummer heeft een 
 This Means War mag trots zijn op dit debuut. Misschien niet het meest doordachte of originele album, maar alles is aanwezig dat aanwezig zou moeten zijn. Vooral de kracht van zowel de muziek als de teksten stuk voor stuk aanstekelijk te houden bevalt ons wel. Wij zijn benieuwd wat er met deze band gaat gebeuren in de toekomst. Aan 'This Means War' zal het alvast niet liggen.
 
 score: 8/10
-
-&nbsp;

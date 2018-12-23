@@ -19,5 +19,3 @@ Bij het schrijven van deze review kwamen de woorden ‘een hevigere versie van L
 ‘Blush’ is een album dat in elke platenkast van iedereen die al eens graag op een emotionele reis gaat door het brein van iemand anders, voor iedereen die graag zijn muziek echt voelt, zeg maar aan iedereen met dan ook maar een greintje emotie in zich. Een Belgisch meesterwerk in de Post-Hardcore. Kortom, een dijk van een album, een album om U tegen te zeggen.
 
 score: 9/10
-
-&nbsp;

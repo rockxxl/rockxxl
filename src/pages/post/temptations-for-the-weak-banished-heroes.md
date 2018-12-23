@@ -17,5 +17,3 @@ De sound van Temptations For The Weak klinkt nog steeds even strak, maar zorgt d
 Temptations For The Weak wordt ouder en wijze, zoveel is zeker. Hoewel we deze band al langer konden smaken is de kwaliteit van hun muziek enorm gestegen. Ook al telt deze EP maar vier nummers, alle vier weten ze zichzelf op de voorgrond te zetten. Deze band is klaar voor de grotere podia, neem dat maar van ons aan. Met deze korte maar krachtige 'Banished Heroes' onder de arm kunnen we enkel hopen dat een derde full cd zich snel mag aanbieden.
 
 score: 8,5/10
-
-&nbsp;

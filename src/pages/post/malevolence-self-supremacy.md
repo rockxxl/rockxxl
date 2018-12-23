@@ -17,5 +17,3 @@ Het eerste nummer van het album is meteen de titeltrack, deze zet dan ook de too
 Het is duidelijk dat de vijf bandleden nog meer elk individueel en als een groep samen geëvolueerd zijn tot een heel inspiratie- en talentvolle band, die nogmaals eens bewijzen dat beatdown meer melodieus, gevarieerd en generiek, dan enkel maar hard kan zijn. Ze hebben al een lange weg doorstaan maar ze hebben zich stilletjes aan tot één van de topacts van de heavy hardcore scene geknokt. Met 'Self Supremacy' aan boord kan het schip van Malevolence alvast niet meer zinken!
 
 score: 8/10
-
-&nbsp;

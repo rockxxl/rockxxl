@@ -17,5 +17,3 @@ Openen doet het album met het uitermate vrolijke ‘Celebrate Nothing’. Het nu
 Eerlijkheidshalve moeten we toegeven nog nooit gehoord te hebben van Saturday’s Heroes, maar wat een toffe plaat is deze ‘Pineroad’ geworden! Er zijn absoluut een hele hoop bands die aansluiten bij de muziek van Saturday’s Heroes, maar variatie is aanwezig en ook hun nummers zitten gewoon goed in elkaar. Zweden, meer van dat!
 
 score: 8,5/10
-
-&nbsp;

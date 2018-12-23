@@ -50,5 +50,3 @@ We spelen baseball in onze vrije tijd. Ook spelen we een spelletje op onze smart
 **Wat houden jullie toekomstplannen in?**
 
 We spelen op Slam Dunk en shows rondom Slam Dunk. Ook spelen we op Groezrock, wat, uiteraard, zich hier en nu afspeelt. Warped Tour komt er binnenkort ook aan, daar spelen we de hele zomer. Enkele dingen die er aankomen kunnen we nog niet aankondigen. Ook verheugen we ons erg op Reading & Leeds festival omdat we opgroeiden tussen de Britse festivals. We gaan beginnen aan nieuwe muziek en elkaar de komende maanden flink lastigvallen. We komen terug naar België, met Crooks _(lacht)._ We komen sowieso terug naar Europa tegen het eind van het jaar.
-
-&nbsp;

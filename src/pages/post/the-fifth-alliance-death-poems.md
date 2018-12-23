@@ -17,5 +17,3 @@ Het is single ‘Your Abyss’ die de spits mag afbijten. Alles begint vredevol 
 The Fifth Alliance zet met ‘Death Poems’ een plaat neer die je frontaal met je gezicht tegen de muur kwakt. Fans van o.a. Amenra en Isis zullen deze plaat zeker smaken. Maak je klaar voor een emotionele rollercoaster die steeds bij hetzelfde uitkomt… kwaliteit!
 
 score: 9/10
-
-&nbsp;

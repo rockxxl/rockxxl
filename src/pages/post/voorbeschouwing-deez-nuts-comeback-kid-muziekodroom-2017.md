@@ -59,5 +59,3 @@ Pas gisteren kwam de nieuwe plaat ‘Rules’ van **First Blood** uit. Deze here
 ‘Binge and Purgatory’ is de naam van de nieuwe **Deez Nuts** plaat die uitkomt op 7 april. Met de videoclip van het titelnummer kunnen we al oefenen om dit nummer uit volle borst mee te brullen. De sound klinkt als de gewoonlijke catchy Deez Nuts zoals we ze al enkele jaren gewoon zijn. Of de band nog nieuwe nummers zal brengen is enkel af te wachten, maar klassiekers als Band of Brothers zullen zeker aanwezig zijn. Deez Nuts heeft ons nog nooit, maar dan ook echt nog nooit, teleurgesteld. Laten we hopen dat het deze keer van hetzelfde is.
 
 
-
-&nbsp;

@@ -17,5 +17,3 @@ Single ‘Sailing The Seas Of Consequence’ is meteen een mooie binnenkomer. En
 Rotzak levert met deze EP een mooi debuut af. Hoewel hun grootste invloeden duidelijk zijn en er misschien net iets te veel geknipt, bewerkt en geplakt is, hebben ze toch al een uniekere sound dan de meeste bands heden ten dage. Catchy, dansbaar en gevarieerd zijn de kernwoorden die ik altijd aan dit album zal linken. De clean vocals konden soms net iets verzorgder, maar bereiken wél het effect dat ze zouden moeten bereiken. Een klein werkpuntje op een voor de rest zeer degelijke EP.
 
 score: 7/10
-
-&nbsp;

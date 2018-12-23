@@ -17,5 +17,3 @@ Openen doet deze EP met single ‘Mountain’. Meteen krijgen we een nodige port
 Ivory For Elephants, een band met de kracht van een pletwals, of beter gezegd een olifant. Met Call Of The Void zet dit viertal een aanstekelijk plaatje neer dat van seconde één je aandacht volledig opeist. Ben je fan van trage stevige rockmuziek met een hoek af? Dan ben je hier aan het juiste adres. Het enige minpuntje is de nekpijn achteraf, je hoofd stilhouden is bij deze geen optie meer.
 
 score: 8,5/10
-
-&nbsp;

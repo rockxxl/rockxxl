@@ -48,5 +48,3 @@ Ze zijn moeilijk om te vergelijken met elkaar, omdat ze niet over hetzelfde onde
 Tot hiertoe nog niet, omdat we met dat strakke schema zitten, we slapen op de bus en we onder andere het Impericon Festival gespeeld hebben. We moeten praktisch altijd om 9:00 ’s morgens aan de zaal zijn, en meestal spenderen we er dan ook onze hele dag. Het is dus moeilijk om ver weg te zijn van de zaal, maar de komende dagen hebben we misschien wat meer tijd om rond te kijken.
 
 
-
-&nbsp;

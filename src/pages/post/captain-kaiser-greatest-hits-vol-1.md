@@ -17,5 +17,3 @@ Openen doet 'Greatest Hits vol. 1' met het nummer 'Ass? Slip? Captain!'. Het is 
 Een debuutplaat 'Greatest Hits vol. 1' noemen is niet bepaald alledaags, maar dat is buiten de heren van Captain Kaiser gerekend. Vier nummers lang sta je garant voor een stevige portie punkrock. Niet meteen de meest originele band, maar dat doet er hier niet toe. De muziek van Captain Kaiser is zoals die hoort: niet te ingewikkeld, dansbaar, en vooral ook zeer aanstekelijk. Een frisse pint en 'Greatest Hits vol. 1' van Captain Kaiser, meer is er niet nodig om de lente in te zetten.
 
 score: 7,5/10
-
-&nbsp;

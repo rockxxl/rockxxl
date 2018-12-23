@@ -17,5 +17,3 @@ Beginnen doet 'All About Perspectives' met 'Simpleton For President', en ja hoor
 'All About Perspectives' heeft alles in huis wat een goed album zou moeten hebben. De muziek is aanstekelijk, variatie is meer dan aanwezig, zonder de kern te verliezen, twee fantastische gastzangers zijn aanwezig en productioneel is er ook geen vuiltje aan de lucht. For I Am heeft een knap staaltje punkrock neer gezet dat nog lang zal blijven nazinderen. Met 'All About Perspectives' in de broekzak houdt niets of niemand deze band nog tegen om de wereld van de punkrock te veroveren.
 
 score: 8,5/10
-
-&nbsp;

@@ -48,5 +48,3 @@ Elke zichzelf-respecterende punkrocker moet gewoon erkennen dat The Clash één 
 **Worden er al plannen gemaakt voor een volgende release?** 
 
 Reken maar van yes! De EP is sinds eind augustus uit, maar eigenlijk zijn de songs die er op staan al bijna weer een jaar oud. We gaan nu met This Means War eerst de baan op en heel wat leuke shows doen. In januari starten we met de pre-productie voor onze eerste full length. Als onze lieven heer het ziet zitten, dan hopen we in oktober te knallen. Maar eerst maar even alle remmen los op het podium.
-
-&nbsp;

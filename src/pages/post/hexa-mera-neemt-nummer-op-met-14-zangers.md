@@ -11,5 +11,3 @@ image: 16252182_1324672520889098_3477984979230228662_o-e1486143117479.jpg
 31 maart komt het nieuwe Hexa Mera album 'Enlightenment' uit. De band nam een nummer op met 14 verschillende vocalisten. Bekijk het eindresultaat hieronder.
 
 Yannick Schmit ( (Hexa Mera), Peggy Meeussen (Bliksem), Ron Bruynseels (Bark / Hard Resistance), Steven Van Crombruggen (Off The Cross), Dries Monsieurs (Moments), Ad De Wachter (Moker), Wim Jacobs (Crimson Falls), Dafus (Growing Horns), Koen Dils (Predatoria), Piet Overstijns (Dyscordia), Filip Lemmens (FireForce), K (Spankraght), Peter De Bondt (Royal Jake), Thomas Marijsse (Basement Critters)
-
-&nbsp;

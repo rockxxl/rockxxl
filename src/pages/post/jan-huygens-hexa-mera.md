@@ -46,5 +46,3 @@ In Flames – Colony
 Linkin Park – Meteora
   
 Lamb Of God – Wrath
-
-&nbsp;

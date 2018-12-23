@@ -17,5 +17,3 @@ Openen doet Clench Your Fist met het nummer ‘Death Curse’. Het is een nummer
 Clench Your Fist speelt beatdown, dat weten we. Een genre waar standaard al weinig originaliteit in te vinden is, moet gewoon goed gespeeld worden om het interessant te maken. En laat dat nu net hetgeen zijn waar ze 100% in geslaagd zijn. De band is, net zoals hun CD-hoes, gegroeid en mag fier zijn op hun recentste werk. Als ze zo blijven groeien, veroveren ze binnenkort Europa en wie weet de hele wereld.
 
 score: 8,5/10
-
-&nbsp;

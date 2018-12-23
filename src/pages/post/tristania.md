@@ -46,5 +46,3 @@ Goh, we zijn er niet echt vertrouwd mee, maar je weet maar nooit. We hebben erov
 **Wat kunnen de fans verwachten van Tristania in de nabije toekomst? Misschien een nieuwe tournee? **
 
 We krijgen wel een aantal aanvragen voor een tournee en festivals, maar we moeten gewoon zien wat er voor ons op dat moment lukt. Zoals vorig jaar het FemMe festival in Eindhoven en vandaag dit optreden lukte perfect en dan doen we dat ook gewoon!
-
-&nbsp;

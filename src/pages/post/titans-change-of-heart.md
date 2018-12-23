@@ -17,5 +17,3 @@ Met opener ‘Lost Future’ heeft de luisteraar direct een duidelijk beeld van 
 Titans laat met deze EP zien dat ze er klaar voor zijn om België over te nemen en brengt een volwassen klinkende EP uit, die meer op het melodische aspect is gericht, en minder op de power die we gewoon waren van de vorige bands van dit collectief. Het album weerklinkt van passie, maar blijft te veel binnen de perken van een vooraf bepaalde formule om een unieke sound in de scene te kunnen creëren. Dit is voor Titans echter niet noodzakelijk, want je voelt aan deze band dat ze spelen waar zij zelf van houden. Een mooi begin, wij zijn alvast benieuwd naar hun eerste show als band.
 
 score: 7,5/10
-
-&nbsp;

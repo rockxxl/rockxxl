@@ -17,5 +17,3 @@ Opener van hun eerste EP ‘Desert of Enticement’ krijgt de naam ‘The Serpen
 Ons klein Belgenland heeft er met Elusion een mooi stukje muziek bij. Anderzijds hadden ze misschien beter gewacht tot ze meer materiaal in hun repertoire hadden om uit te brengen, want drie nummers is wel erg kort.
 
 score: 7/10
-
-&nbsp;

@@ -29,5 +29,3 @@ No doubt this will be a night to remember especially because it will also be our
     Sincerely,<br /> Alex, Andries, Kris, Tim & Jan
   </p>
 </div>
-
-&nbsp;

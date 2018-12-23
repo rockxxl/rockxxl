@@ -17,5 +17,3 @@ Het eerste wat je opvalt tijdens het beluisteren van het album is dat je niet me
 Doordat het hele album zo’n duistere, sobere klank heeft, is het soms moeilijk om nog nummers uit elkaar te houden. Ze lijken allemaal een beetje op elkaar. Ook duren sommige nummers gewoon te lang waardoor je je concentratie op de muziek verliest. Dit is natuurlijk allemaal persoonlijke mening en ik weet zeker dat er een publiek is voor dit soort muziek. Voor een album dat volledig door twee mensen geschreven, gespeeld en geproduced is, kan dit echter wel tellen!
 
 score: 7/10
-
-&nbsp;

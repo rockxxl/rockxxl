@@ -58,5 +58,3 @@ We droppen misschien nog een single voor het album uitkomt, maar eigenlijk is he
 **Kunnen we binnenkort een headlining tour verwachten?**
 
 Ja, zelfs net na deze tour. We zijn waarschijnlijk terug in Europa voor het einde van het jaar, maar ik kan nog niet zeggen wat we gaan doen. Maar het gaat groot worden. We zijn ook van plan om veel meer terug in Europa te staan, maar de laatste keer dat we hier in de buurt waren was op Slam Dunk in het Verenigd Koninkrijk.
-
-&nbsp;

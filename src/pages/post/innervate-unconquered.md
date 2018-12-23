@@ -17,5 +17,3 @@ Openen doen we met intro 'Anima'. Anima voelt lekker dromerig aan, bijna theatra
 Innervate is nog eens een metalband die we echt kunnen smaken. Misschien is hun muziek niet al te origineel als je kijkt naar hun buitenlandse tegenhangers, maar in België kom je er zo dan weer geen tien tegen. Het leuke aan Innervate is wel dat ze zich proberen te onderscheiden in het fantasierijke. Kijk maar naar de prachtige coverart en de muzikale tussenstukken op deze EP. Innervate heeft met 'Unconquered' een sterk debuut neer gezet. Spijtig dat deze EP maar 20 minuten duurt. Wij kijken alvast ongelofelijk hard uit naar zijn opvolger en dan nog liefst in vorm van een full album.
 
 score: 8/10
-
-&nbsp;

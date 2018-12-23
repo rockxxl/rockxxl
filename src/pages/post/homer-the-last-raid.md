@@ -17,5 +17,3 @@ Zoals we gewoon zijn van Homer, weet de band bij elke plaat een iets andere rich
 Aan inspiratie geen gebrek op deze ‘The Last Raid’. Het lijkt eerder of de band aan een nieuw hoofdstuk begint in plaats van dat ze ermee ophoudt. Hun laatste plaatje is alvast kort maar meer dan geslaagd, en zal perfect staan op het einde van de hele rij van de discografie van Homer, waar trouwens geen enkel slecht album inzit. Misschien weet onze emotionele factor de score te beïnvloeden, maar Homer verdient het na al die jaren trouw op post gestaan te hebben!
 
 score: 9/10
-
-&nbsp;

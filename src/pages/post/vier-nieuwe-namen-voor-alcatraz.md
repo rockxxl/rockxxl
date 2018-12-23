@@ -12,5 +12,3 @@ Alcatraz Hard Rock & Metal Festival liet hun laatste vier namen op de wereld los
 info en tickets:
 
 http://www.alcatraz.be/
-
-&nbsp;

@@ -17,5 +17,3 @@ Oei, het eerste dat in ons opkwam na het beluisteren van opener 'Arrow' was: daâ
 Mijn verdict is een gezegde dat we allemaal (of toch merendeels) kennen: Schoenmaker blijft bij uw leest. Als we mogen kiezen horen we In Hearts Wake liever niet akoestisch.
 
 score: 5,5/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Met openingsnummer 'Enough' wordt de toon in elk geval al meteen gezet. Geen lan
 Zoals het een hardcore punk album betaamt duurt slechts één nummer langer dan drie minuten. Komen er heel wat 'clichés' van het genre terug? Ja. Haalt dit het niveau naar beneden? In geen geval. Met 'Our Search' levert One Step At A Time een zeer degelijke en intense hardcore plaat af die sinds hij in ons bezit is al zo goed als grijs gedraaid is. Sterke, hard hitting gitaarriffs afgewisseld met snelle, melodische passages en de grote variatie in het album zorgen dat je bij het einde bent voor je erg in hebt. Het verveelt geen moment en je voelt de hele tijd een drang om 'te dansen' en de nummers mee te zingen. Ik heb ze nog nooit live mogen aanschouwen (hopelijk komt dat er snel van), maar met de kwaliteit van deze nummers kan het niet anders dan één groot feest worden als deze gasten op de bühne klimmen.
 
 score: 8,5/10
-
-&nbsp;

@@ -16,5 +16,3 @@ Voor alle fans van stoner -en sludgemetal is het Antwerpse Desertfest een dag om
 – Part Chimp
   
 – Hemelbestormer**
-
-&nbsp;

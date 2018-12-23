@@ -17,5 +17,3 @@ Dit album bevat, in tegenstelling tot veel albums binnen het genre, gevarieerde 
 Het enige storende element aan dit album is dat de basgitaren net iets te prominent aanwezig zijn, en dat de drums hierdoor soms moeilijk hoorbaar zijn. Hierdoor klinken de bassen nogal modderig. Een spijtige zaak, want het drumwerk op dit album is fenomenaal.Bij een eerste luisterbeurt kan dit voor de luisteraar een afknapper zijn. Naarmate het album vordert went deze sound wel, en is het niet meer zo storend.  Fractured Insanity zet met ‘Man Made Hell’ een puike prestatie neer die de meeste metalfans wel zullen smaken, als ze de prominent aanwezige bas over het hoofd kunnen zien.
 
 score: 8/10
-
-&nbsp;

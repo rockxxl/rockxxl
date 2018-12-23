@@ -19,5 +19,3 @@ Er staat veel succes te wachten op het Lierse As Echoes Fade. Ze hebben met 'Mem
 score: 8/10
 
 
-
-&nbsp;

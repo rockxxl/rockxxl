@@ -17,5 +17,3 @@ Beginnen doen we met opener 'Killer Dan Kil'. Dit nummer is niets meer of minder
 Beuk heeft met 'Strak Plan' een plaatje afgeleverd dat zeker de moeite waard is om eens te beluisteren. De nummers steken goed in elkaar al lopen wij er niet heel erg warm van. Het is naar onze mening allemaal nog wat te braaf. De muziek weet geen constant hoogtepunt te behouden en ook op vocaal gebied misschien we nog een bepaalde knal. Dit heeft misschien ook te maken met dat we een te hoge verwachting hadden&#8230; Beuk heeft het al bij al zeker niet slecht gedaan! Al wie zin heeft om eens stevig te rocken en mee te zingen met een frisse pint in zijn hand is hier zeker aan het juiste adres.
   
 score: 6,5/10
-
-&nbsp;

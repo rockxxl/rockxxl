@@ -17,5 +17,3 @@ Het eerste wat meteen opvalt is dat ‘Deathwish’ van een iets ander kaliber i
 Het is altijd leuk om te zien hoe een band uit hun comfortzone stapt en een vernieuwde, maar toch vertrouwde sound kan brengen. Daar zijn de mannen van Set Things Right zeker in geslaagd! Ook live heeft Set Things Right mooie vooruitzichten. In april staan ze in de AB in Brussel, samen met ondermeer Fleddy Melculy. Hopelijk zien we hen later dit jaar ook terug op één van de grotere Belgische festivals.
 
 score: 8/10
-
-&nbsp;

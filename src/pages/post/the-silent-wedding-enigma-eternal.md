@@ -17,5 +17,3 @@ De eerste track, ‘A Living Experiment’ zet meteen de sfeer voor de rest van 
 De mannen van The Silent Wedding tonen met ‘Enigma Eternal’ nogmaals dat ze stuk voor stuk goede muzikanten zijn. Een goede balans tussen zware gitaren, meezingers en rustige pianopartijen zorgen voor een uurtje headbang plezier.
 
 score: 8/10
-
-&nbsp;

@@ -17,5 +17,3 @@ De eerste frustraties worden geuit op het nummer ‘Kerk’, dat uiteraard gaat 
 ‘Helgië’ viel bij ons al in de smaak maar met ‘De Kerk Van Melculy’ heeft Jeroen Camerlynck en zijn leger des hels zichzelf weer overtroffen. Was je al fan van Fleddy Melculy? Hou je van kwalitatieve hardcore/ metal? Ben je niet bang om je muziek met een korreltje zout te nemen? Dan kan je ‘De Kerk Van Melculy’ blindelings meenemen uit de winkelrekken, neem dat maar van ons aan!
 
 score: 8,5/10
-
-&nbsp;

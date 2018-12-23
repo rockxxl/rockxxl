@@ -17,5 +17,3 @@ Wat ons meteen opvalt, is dat de full albums van Melted Space steeds korter word
 Melted Space doet het niet slecht binnen de Europsese metalscene. Wij zijn ook fans van conceptalbums. Deze ‘Darkening Light’ voelt hier en daar net wat te log aan en is een dikke brok om door te bijten. Eens je er dan weer door bent, ben je trots dat je het toch gedaan hebt. Zeker een aanrader voor fans van alles symfonisch en metal.
 
 score: 8/10
-
-&nbsp;

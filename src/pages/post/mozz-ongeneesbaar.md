@@ -17,5 +17,3 @@ Het eerste gitaargeweld krijgen we met openingsnummer ‘Snarenbreker’. De git
 Aangezien er tegenwoordig met punkbands naar je hoofd gesmeten wordt heeft ‘Ongeneesbaar’ de pech niet meteen het meest vernieuwende plaatje te zijn. Ook instrumentaal laat Mozz hier en daar een steek vallen. Maar wat maakt het eigenlijk ook allemaal uit? ‘Ongeneesbaar’ is snel, het heeft een boodschap,… dat is wat hier telt. Tijd om de stemmen te smeren want met kapotte stembanden overleef je deze plaat niet!
 
 score: 6,5/10
-
-&nbsp;

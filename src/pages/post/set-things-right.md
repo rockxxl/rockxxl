@@ -60,5 +60,3 @@ Een band die vanaf second één gewoon puur hun goesting deed. Wij maakten een b
 **Wat nu met al die mensen met een Set Things Right tattoo?****
   
 ** Duizend kusjes op hun buiken als schadevergoeding.
-
-&nbsp;

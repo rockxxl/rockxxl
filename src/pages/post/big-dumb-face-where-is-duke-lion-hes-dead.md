@@ -17,5 +17,3 @@ Intro ‘Warning’ begon met een computerstem die uitlegde welke bijwerkingen d
 Het duurde even voor we mee waren, maar wanneer de weirdo wereld van Big Dumb Face tot je doordringt zijn er toch wel nummers die de moeite waard zijn en een lach op je gezicht toveren. In de maaltijd met de naam ‘Where is Duke Lion? He’s Dead…’ is zout het belangrijkste ingrediënt. Misschien toch wel eerst een luisterbeurt geven voor je deze blindelings uit de winkel gaat halen, maar wij zijn alvast mee.
 
 score: 7/10
-
-&nbsp;

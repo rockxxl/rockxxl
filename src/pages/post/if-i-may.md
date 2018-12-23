@@ -60,5 +60,3 @@ image: 18260865_10213325976681794_1644302700_o-e1493715311887.jpg
 **Om af te sluiten. Hoe staan jullie tegenover de Belgische rock, punk, metal, hardcore scene?**
   
 <span style="font-weight: 400;"><em>Linz:</em> Het is zeker niet gemakkelijk in de Belgische scene, maar het is wel een gezellige waar iedereen elkaar kent. Er zijn heel wat mensen die hun uiterste best doen om de scene de aandacht te geven die ze verdient en dat apprecieer ik enorm; ik denk dan maar aan RockXXL, Heartbreaktunes,…</span>
-
-&nbsp;

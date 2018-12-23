@@ -17,5 +17,3 @@ Opener 'Frenky Bride' komt meteen stevig op gang met een aantal krachtige gitare
 Met 'Dead Doll' scoort Volker alvast de volle tien punten voor originaliteit. Vernieuwende muziek kan uiteraard twee kanten op. Of het klinkt effectief origineel en het is gewoon goed, of er zijn elementen van verschillende genres en bands bij elkaar gegooid waardoor het mis loopt en je bedrogen uitkomt. Hoewel Volker zich vooral in de eerste categorie bevindt, horen we ook verschillende invloeden waarvan er enkele al beter uitgevoerd worden dan andere. 'Dead Doll' is zeker geen slecht debuut. Misschien had alles wel net dat tikkeltje luchtiger mogen zijn, want 'less is more'.
 
 score: 6,5/10
-
-&nbsp;

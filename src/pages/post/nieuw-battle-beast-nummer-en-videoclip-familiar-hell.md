@@ -9,5 +9,3 @@ permalink: /news/nieuw-battle-beast-nummer-en-videoclip-familiar-hell/
 image: battle-beast-closeup-e1484501392697.jpg
 ---
 Het nieuwe Battle Beast album komt uit op 17 februari. Hun eerste single 'Familiar Hell' werd op de wereld losgelaten.
-
-&nbsp;

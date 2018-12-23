@@ -44,5 +44,3 @@ We hebben een management in Engeland zitten. Het is een heel leuke samenwerking.
 **Over nieuwe muziek gesproken: kunnen jullie iets vertellen over de nieuwe EP?**
 
 We hebben er heel lang over gedaan omdat we het deftig wouden doen. We hebben niet zo zeer een centraal thema gekozen, gewoon bepaalde punten waarover we onze mening kwijt wilden. Het is van alles, van actualiteit naar onze kijk op dingen. We hebben onze EP bewust “Outlast” genoemd omdat we, zoals eerder gezegd, het vermoeden hebben dat het moeilijker en moeilijker wordt op de lokale shows in België. We willen er mee zeggen dat als we er samen achter staan, we dit kunnen overwinnen en onze lokale scene weer groots kunnen maken. Dat is het idee achter onze EP. De thema’s van desbetreffende nummers zullen we op onze release show bekend maken. We doen gewoon onze uiterste best en we maken plezier!
-
-&nbsp;

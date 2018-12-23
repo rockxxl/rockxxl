@@ -17,5 +17,3 @@ Beginnen doet deze plaat al stevig met ‘The Sleeper Has Awakened’, en ik moe
 Een mooie EP die 12 jaar na release toch nog eens in de bloemetjes gezet mag worden. Puik werk van deze Waalse band.
 
 score: 7,5/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Dat ze hun roots niet hebben achtergelaten, bewijst het begin van nummers als â€
 Een sterke plaat die BelgiÃ« nog maar eens op de map weet te zetten in de undergroundscene van de hardere genres. Moker is een band om trots op te zijn!
 
 score: 8,5/10
-
-&nbsp;

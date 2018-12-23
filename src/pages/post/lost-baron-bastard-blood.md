@@ -17,5 +17,3 @@ Openen doet dit album met titeltrack ‘Bastard Blood’. Na een stevige intrede
 De demo van Lost Baron was alvast geen slecht begin, maar dit viertal heeft met ‘Bastard Blood’ zichzelf toch wel overtroffen. Elk nummer is lekker hard, heeft variatie en eist je volledige aandacht op. Zo hebben we het graag. De Belgische metal wereld heeft er een band bij die de grotere podia hopelijk snel zal platspelen.
 
 score: 8,5/10
-
-&nbsp;

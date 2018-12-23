@@ -9,5 +9,3 @@ permalink: /news/eerste-nummer-van-motorboat-circle-of-life/
 image: 23592257_323520411457050_4664882008348429847_o-e1527108406448.jpg
 ---
 De Kempische punkband Motörboat bracht zopas hun eerste nummer 'Circle Of Life' uit. De band liet weten dat een eerste album of EP later dit jaar volgt.
-
-&nbsp;

@@ -17,5 +17,3 @@ Opener ‘Medusa’ lijkt op één lange intro. Enkele gitaren komen sloophamerg
 ‘Mankind’s Worst To Know’ is een mooi debuut geworden. De artwork is verzorgd, de nummers zitten simpel maar goed in elkaar, en het is geen te zware brok om door te bijten, wat wel vaak het geval is bij sludge,… Hier en daar klinkt het allemaal een beetje hetzelfde. Je kan het natuurlijk ook bekijken als een specifieke sound die deze band heeft. Er is nog wat werk aan de winkel om bij de Belgische top te horen, maar over een mooie start gesproken…
 
 score: 7,5/10
-
-&nbsp;

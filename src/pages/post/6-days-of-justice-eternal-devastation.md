@@ -17,5 +17,3 @@ Het album begint sterk met de onheilspellende intro ‘Rebirth’, gevolgd door 
 Een interessant album, dat weet te flirten met een aantal andere subgenres dan deathcore, is dit zeker. Screams die voor de verandering meezingbaar zijn, meeslepend gitaarwerk en vette breakdowns. Meer is er niet nodig om een succesvol deathcore album te releasen, en dat heeft dit vijftal zeker gedaan. De productie was voor mij wat wennen, maar dit doet niets af aan de kwaliteiten van de band. Als je houdt van bands als melodieuze, duistere deathcore, is dit zeker een aanrader.
 
 score: 8/10
-
-&nbsp;

@@ -44,5 +44,3 @@ Bruce Springsteen & The E-street Band – Darkness on The Edge of Town
 Fugazi – 13 Songs
   
 Sebadoh – Bakesale
-
-&nbsp;

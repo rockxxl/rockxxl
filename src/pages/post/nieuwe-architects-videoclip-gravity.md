@@ -9,5 +9,3 @@ permalink: /news/nieuwe-architects-videoclip-gravity/
 image: architectsuk2-e1487703875706.jpg
 ---
 Het album 'All Our Gods Have Abandoned Us' van Architects is al even uit, maar de band kwam vandaag aanzetten met een videoclip voor het nummer 'Gravity'.
-
-&nbsp;

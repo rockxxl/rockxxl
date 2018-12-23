@@ -17,5 +17,3 @@ Nihilism brengt ons Death Metal die lekker old school klinkt, ze zijn duidelijk 
 De productiekwaliteit van het album is degelijk, en de basgitaar is, ten opzichte van veel andere albums, ook effectief hoorbaar. Een groot pluspunt als je het mij vraagt. Het drumwerk op dit album is over het algemeen nogal ondermaats ten opzichte van de andere instrumenten, maar dat kan ook aan de opnames liggen en de lekkere riffs maken heel wat goed. Toch weet Nihilism met dit plaatje mooi zijn mannetje te staan in de deathmetalwereld. Een aanrader voor mensen die lekker tegendraads tegen alle hypes ingaan en hun metal lekker old school hebben.
 
 score: 7,5/10
-
-&nbsp;

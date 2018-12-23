@@ -17,5 +17,3 @@ Hun sound is fris, vernieuwend en balanceert een beetje tussen de alternative me
 Deze EP begint als een vrij uniek plaatje, maar zwakt uiteindelijk af tot kopieën van kopieën van andere bands. Hoewel er zeker unieke aspecten in hun sound te vinden zijn, zoals het toepassen van het vocale als instrumentaal effect, zijn de riffs of vocals nét niet uniek genoeg om ons helemaal te overtuigen. Desondanks kijken we zeker uit naar wat deze band ons nog te bieden heeft in de toekomst, want deze band is het wel waard om te groeien.
 
 score: 7/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Openen doet ‘American Fall’ met single ‘American Attraction’. Zoals de t
 Doordat we ‘Criminals’, ‘Racists’, ‘American Attraction’ en ‘When The Wall Falls’ al eerder te horen kregen waren onze verwachtingen dan ook hoog gespannen. Anti-Flag heeft aan deze verwachtingen voldaan, al bleven we bij bepaalde songs toch op onze honger zitten. Bij anderen werd dan weer het tegendeel bewezen. Misschien is deze wel de meest kritiserende Anti-Flag plaat die de band al heeft uitgebracht, maar muzikaal bleef alles over het algemeen redelijk braaf. Volgende keer wat harder op de trommels slaan en het komt wel goed. Aan de aanstekelijkheid zal het alvast niet liggen. Al bij al een meer dan geslaagd album en het is een kwestie van tijd tot we deze hebben grijsgedraaid.
 
 score: 8/10
-
-&nbsp;

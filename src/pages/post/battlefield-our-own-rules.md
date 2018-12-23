@@ -17,5 +17,3 @@ Opener ‘We Hate You’ valt met de deur in huis en schotelt een klassieke port
 Vanachter op de hoes van ‘Our Own Rules’ staat: No-nonsense. Dit beschrijft Battlefield perfect: Muziek zonder al te veel technische hoogstandjes of super poëtische teksten. De simpliciteit in de muziek van Battlefield maakt deze band ongelofelijk aanstekelijk klinken. Dat is dan ook de kracht van deze band. ‘Our Own Rules’ is een aanrader voor elke doorwinterde punkfan die heimwee heeft naar vroeger of gewoon nog eens kei hard wilt meezingen met enkele toffe punksongs.
 
 score: 7,5/10
-
-&nbsp;

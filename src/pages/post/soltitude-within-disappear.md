@@ -23,5 +23,3 @@ image: klaarra-e1509786479509.jpg
 </p>
 
 score 8/10
-
-&nbsp;

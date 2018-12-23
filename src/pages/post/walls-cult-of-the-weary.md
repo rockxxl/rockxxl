@@ -17,5 +17,3 @@ Met titeltrack 'Cult of The Weary' opent deze EP nog vrij rustig. Enkel een gita
 Als je houdt van stevige, straight in your face muziek die ergens tussen hardcore en metal zweeft zit je met Walls zeker goed. Kwatongen zullen misschien beweren dat deze EP wat variatie mist. Misschien kan je het niet helemaal ongelijk geven, maar met 'Cult of The Weary' levert Walls in elk geval een meer dan degelijke EP af die voor hen nog veel deuren zal openen, en terecht!
 
 score: 7,5/10
-
-&nbsp;

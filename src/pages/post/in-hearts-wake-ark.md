@@ -19,5 +19,3 @@ Na titeltrack en tevens intro ‘Ark’ is het de beurt aan single 'Passage'. He
 Sinds deze band zich aangesloten heeft bij het Australische label ‘UNFD’ is het alleen maar bergop gegaan voor dit quintet. Dit label is, zeg maar, de voortrekker van de moderne metalcore scene. Met bands als ‘Northlane’, ‘Architects’ en ‘While She Sleeps’ draagt In Hearts Wake een grote legacy met zich mee, die ze perfect weten te vervullen. Dit album is de vertaling van al het harde werk die ze de voorbije jaren gedaan hebben naar de top van de scene, met een grote, headlining tour door Europa als kers op de taart. Het album is een vernieuwing naar de vorige albums toe, maar ook zeker een statement naar de andere bands in de scene.
 
 score: 8,5/10
-
-&nbsp;

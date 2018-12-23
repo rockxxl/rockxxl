@@ -17,5 +17,3 @@ Openen doet ‘Machine In Me’ met ‘Beyond’. Dit nummer doet ook meteen den
 In België is het de laatste tijd niet gemakkelijk om als gewone rockband grotere podiums te veroveren. Ik weet niet hoe dat in Nederland zit maar we wensen Switch Bones alvast veel succes toe. Met ‘Machine In Me’ krijgen we een mooi plaatje afgeleverd dat van voor tot achter stevig rockt. Ook de variatie is een ongelofelijke troef die op een eerste langspeler zeker van pas gaat komen om het geheel even interessant te houden als deze nu is.
 
 Score: 8/10
-
-&nbsp;

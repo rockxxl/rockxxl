@@ -9,5 +9,3 @@ permalink: /news/eskimo-callboy-toont-nieuwe-video-shallows/
 image: Eskimo-Callboy-2017-e1533045209989.jpg
 ---
 Is het ondertussen al weer bijna een jaar geleden dat **Eskimo Callboy** aan kwam zetten met hun album 'The Scene'. In afwachting van nieuw materiaal, of om na te genieten van Graspop, toont de band een video van het nummer: 'Shallows'.
-
-&nbsp;

@@ -17,5 +17,3 @@ De introductie van dit album zet direct de toon van wat we mogen verwachten voor
 ‘Kingdom Of Sorrow’ is een plaat die het genre zeker niet heeft heruitgevonden, en zelfs de combinatie die ze hier trachten te maken is hen al op een schoteltje gepresenteerd door andere bands, maar de band heeft zich met dit debuut toch op de kaart weten zetten. Als je een deathcore-liefhebber bent, maar je jezelf toch afvraagt hoe dat zou klinken met duistere invloeden, is dit album zeker een aanrader. Dit album heeft heel genietbare stukken, maar over het algemeen klinkt het soms nét iets te eentonig en afgekeken om zich echt te kunnen onderscheiden van de rest. Desondanks dit alles is dit een stevige plaat van artiesten die duidelijk weten waar ze mee bezig zijn. Wij zijn alvast benieuwd naar hun volgende werk.
 
 score: 7,5/10
-
-&nbsp;

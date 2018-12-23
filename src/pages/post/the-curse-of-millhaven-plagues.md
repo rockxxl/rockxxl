@@ -17,5 +17,3 @@ The Curse Of Millhaven, dat ontstond uit de restanten van Fatal Recoil en In Cha
 ‘Plagues’ gaat verder waar ‘Vestibule Of Hell’ stopte. Na de cirkels van de hel door te maken, komen we terecht in een heuse plaag. Deze mannen weten duidelijk waar ze mee bezig zijn, catchy death metal maken die je doet headbangen. Soms kan het zo simpel nu eenmaal zijn. Is dit het meest originele werk ooit qua melodie, drumlijnen en vocaal werk? Neen. Is dit een verdomd goede plaat? Dat zeker.
 
 score: 8/10
-
-&nbsp;

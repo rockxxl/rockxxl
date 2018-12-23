@@ -17,5 +17,3 @@ Met hun zesde album 'Hard Feelings' proberen ze, net zoals meer en meer bands in
 Blessthefall blijkt herboren: minder zwaar, niettegenstaande dat het wel goed is in deze moderne tijd. Ik hoop van harte dat ze bereiken wat ze willen bereiken met dit album. Hoe de oudere fanbase van Blessthefall zal reageren is nog even afwachten, maar ik ben alvast mee.
 
 score: 7,5/10
-
-&nbsp;

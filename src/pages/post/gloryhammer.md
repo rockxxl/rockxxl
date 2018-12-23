@@ -50,5 +50,3 @@ _James:_ Ja, elke keer hetzelfde. Ik heb Zargothrax gisteren ook weer onder zijn
 **Wat zouden jullie vinden van een Gloryhammer gezelschapsspel of film? ** 
 
 _James:_ Ik zou heel graag een geanimeerde Gloryhammer film zien met een album als soundtrack. We krijgen vaak tekeningen toegestuurd van professionele artiesten die een strip willen maken. Natuurlijk willen wij dat, maar je hoort er achteraf niet veel meer van omdat ze ervoor betaald willen worden. Ook kregen we al voorstellen voor een logboek van Dungeons And Dragons. Supertof dat mensen dit willen doen, maar we focussen ons momenteel op onze muziek en daar gaan dan ook al onze centen heen.
-
-&nbsp;

@@ -17,5 +17,3 @@ De muziek zelf zit ook goed in elkaar en de opnamekwaliteit is superieur. Dit zi
 Een meeslepend, donker, maar vooral strak gespeeld album van deze Zweden. Deze band gaat hopelijk nog veel groeien.
 
 score: 8/10
-
-&nbsp;

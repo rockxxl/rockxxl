@@ -9,5 +9,3 @@ permalink: /news/nieuwe-for-i-am-videoclip/
 image: 14589965_1340589885964788_6182123299784754536_o-e1484936079113.jpg
 ---
 Volgend weekend komt het nieuwe For I Am album 'All About Perspectives' uit. De band liet vandaag hun ondertussen derde nummer en 2de videoclip '(Make It Out) Alive' op de wereld los.
-
-&nbsp;

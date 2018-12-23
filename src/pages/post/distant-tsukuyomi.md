@@ -17,5 +17,3 @@ De band laat er met ‘Apex’ geen gras over groeien. De invloeden van bands al
 De toevoeging van hun nieuwe zanger, een betere productiekwaliteit en een zomertour met andere grootmeesters Osiah maakte 2017 hét jaar van Distant tot dusver. Deze band verovert binnenkort Europa en misschien zelfs de wereld als ze zo kunnen blijven groeien.
 
 score: 8,5/10
-
-&nbsp;

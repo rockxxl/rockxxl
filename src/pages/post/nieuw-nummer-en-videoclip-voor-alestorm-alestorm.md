@@ -9,5 +9,3 @@ permalink: /news/nieuw-nummer-en-videoclip-voor-alestorm-alestorm/
 image: f5eef88fa80e8012ec5537965ac858f7-e1492847258984.jpg
 ---
 De Schotse pirate metalband Alestorm brengt 26 mei hun nieuwe album 'No Grave But The Sea' uit. De band liet alvast een eerste nummer en videoclip op de wereld los.
-
-&nbsp;

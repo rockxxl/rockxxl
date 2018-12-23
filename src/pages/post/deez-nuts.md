@@ -62,5 +62,3 @@ Ja, we zijn nu een week op tour en we vinden het steeds leuk om van set te veran
 **Als je op tour kan gaan met een niet-hardcore band. Welke zou je kiezen?**
 
 Mijn favoriete muziek buiten hardcore is rap. Ik zou graag eens een keer op tour gaan met Future, Migos of Kendrick Lamar. Ik weet niet hoe realistisch dit is, maar ik zou het wel heel erg graag doen.
-
-&nbsp;

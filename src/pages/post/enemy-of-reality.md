@@ -60,5 +60,3 @@ Zoals je weet leven we in Griekenland en ieder jaar wordt het maar erger en erge
 **Wat kunnen de fans verwachten van Enemy of Reality in de nabije toekomst?**
 
 Momenteel zijn er niet echt plannen voor een tournee of iets dergelijks, maar we zouden wel graag, mits financiële hulp, een tournee door Europa doen.
-
-&nbsp;

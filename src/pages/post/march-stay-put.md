@@ -17,5 +17,3 @@ Het is ‘Head Shears’ die de spits mag afbijten. Meteen maken we kennis met d
 March is een punkrock band die zijn muziek combineert met luide rock ‘n roll en een melodische ondertoon. Met ‘Stay Put’ leveren ze 12 nummers af voor degene die zijn punk graag rauw, doordacht maar vooral luid heeft. Sit back, relax and stay put!
 
 score: 8/10
-
-&nbsp;

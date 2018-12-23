@@ -17,5 +17,3 @@ De kennismaking met Entering Polaris start bij het nummer ‘Nostalgia For Infin
 ‘Godseed’ is met z’n negen een debuut dat kan tellen. Progressieve metal laat ons vaak koud en daarom konden we ons niet zo vinden in de eerste nummers op de plaat, maar naarmate deze vorderde werden we wel enthousiast. Het hele fantasy thema in de teksten en op de artwork spreekt ons enorm aan en ook muzikaal klink alles lekker groots. ‘Godseed’ heeft geen echte dieptepunten, maar wel enkele hoogtepunten. Het zijn dan ook deze die de plaat zo bijzonder maken.
 
 score: 8/10
-
-&nbsp;

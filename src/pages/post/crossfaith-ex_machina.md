@@ -17,5 +17,3 @@ Intro ‘Deus Ex Machina’ start met een portie hardcore, de andere soort welis
 Het verdict: dit is het ideale album om je elektronische (muziek-)vrienden te overtuigen van de donkere kant.
 
 score: 8/10
-
-&nbsp;

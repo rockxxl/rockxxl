@@ -17,5 +17,3 @@ Sommige bands moeten jarenlang knokken voor bekendheid. Anderen wagen zich op hu
 ‘Novaria’ is een toffe EP geworden vol met invloeden uit verschillende kanten van de metal, en met een duidelijke rode draad. Het genre maakt de muziek donker waardoor het een zware plaat is om doorheen te bijten. Vier nummers is perfect, het dubbele was te veel geweest. De eerste EP is in elk geval wel geslaagd, neem dat maar van ons aan.
 
 score: 7/10
-
-&nbsp;

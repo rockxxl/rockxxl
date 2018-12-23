@@ -17,5 +17,3 @@ Een volledig instrumentale plaat is niet voor elke band weggelegd. Het album moe
 ‘Turpentine Valley’ is donker, loom, maar tevens erg hard. Zo hebben we het graag. De band komt met verrassende wendingen, vooral dan in het gitaarspel. Terpentine Valley heeft echter wel een eigen sound, wat er dan wel spijtig genoeg voor zorgt dat alles wat op elkaar gaat lijken, en het trio kan weldegelijk een potje spelen. Wij zijn alvast benieuwd wat de toekomst nog brengt voor deze band.
 
 score: 7/10
-
-&nbsp;

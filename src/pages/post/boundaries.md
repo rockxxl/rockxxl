@@ -54,5 +54,3 @@ Niet op het gebied van songwriting, maar zeker wel op het gebied van structuren.
 **Jullie maakten een spotify playlist vol met Canadese bands: Boundaries & Friends. Samen met een aantal posts op jullie sociale media lijkt het er op dat jullie wel erg trots zijn op de Canadese hardcore scene.**
 
 Zeker, dat is natuurlijk hoe we gestart zijn. De laatste twee jaar is de scene ook zeer levendig. De bands in de playlist zijn allemaal vrienden die naar onze mening goede muziek maken, dus waarom niet delen met meer mensen. De reden dat we hier zijn heeft er ook grotendeels mee te maken dat Get The Shot vorige keer op deze tour speelde. Ze zijn van dezelfde stad, maken dezelfde muziek,… Dat deed onze ogen opengaan dat het mogelijk is om dingen als dit te doen.
-
-&nbsp;

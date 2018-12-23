@@ -23,5 +23,3 @@ Hoe kan je deelnemen?:
 Deze actie eindigt op 4 mei.
 
 Meer info over Rock Louwel: <https://rocklouwel.be/>
-
-&nbsp;

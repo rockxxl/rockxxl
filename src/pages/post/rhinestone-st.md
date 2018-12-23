@@ -19,5 +19,3 @@ Rhinestone doet het goed als beginnende band, al zouden we graag wat meer conseq
 score: 7/10
 
 
-
-&nbsp;

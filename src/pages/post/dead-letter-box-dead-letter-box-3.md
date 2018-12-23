@@ -17,5 +17,3 @@ Openen doet deze EP met ‘The Hunter And His Pray’. Meteen worden de post-inv
 Dead Letter Box #3 is een beetje een moeilijk geval. Hoewel deze band een doorlopende stijl heeft zit er gewoonweg zoveel in hun muziek dat elk nummer anders maakt: shoegaze, metal, punk, rock.,.. noem maar op, Dead Letter Box heeft het wel ergens in kunnen verwerken. Deze zes nummers zijn zeker geslaagd, al was het voor ons persoonlijk vaak net wat teveel van het goede. Hoewel dit het opzet is van Dead Letter Box is less vaak more. We kunnen dit plaatje zeker smaken, maar voor ons geen dagelijkse kost.
 
 score: 7/10
-
-&nbsp;

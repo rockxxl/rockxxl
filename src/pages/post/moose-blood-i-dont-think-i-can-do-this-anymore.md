@@ -17,5 +17,3 @@ Het is duidelijk dat de mannen van Moose Blood geprobeerd hebben een catchy soun
 Algemeen genomen is dit album aangenaam om naar te luisteren. De lead gitaar en zang zijn een sterke combinatie, al horen we redelijk vaak dezelfde sound en zijn de nummer vaak op een identieke manier samengesteld. Nummers als ‘It’s Too Much’, ‘Have I Told You Enough’ en in mindere mate ‘Promise Me' zijn uitschieters in dit album en doen ons al uitkijken naar hun hun show over twee maanden in Antwerpen.
 
 score: 7,5/10
-
-&nbsp;

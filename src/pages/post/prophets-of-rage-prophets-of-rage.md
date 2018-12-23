@@ -15,5 +15,3 @@ Op negen november 2016 kleurde Amerika plots wat donkerder en duurde het niet la
 Prophets Of Rage is duidelijk meer dan wat rocksterren die het tijd vonden om eens wat nieuws te doen. Het feit dat de band deze plaat opnam in een maand, inclusief het schrijfproces, toont dat ze weldegelijk een hele hoop te vertellen hebben. Muzikaal ligt alles wat in het verlengde van Rage Against The Machine, al is de kwaliteit van de nummers, om eerlijk te zijn, lichtelijk te kosten gegaan van de kwantiteit. Begrijp ons niet verkeerd. Deze plaat zit goed in elkaar en rockt van vanachter tot voren al moet de band het vooral hebben van hun boodschap. ’Prophets Of Rage’ is zeker de moeite al moet je geen Rage Against The Machine debuutplaat verwachten van in der tijd.
 
 Score: 7,5/10
-
-&nbsp;

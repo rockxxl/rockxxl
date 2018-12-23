@@ -17,5 +17,3 @@ Openen doet 'Dram-O-Rama' met single Clincher. Meteen wordt er met vrolijke deun
 Altitude heeft zichzelf weer overtroffen! Alle elementen zijn aanwezig die een goeie poppunk plaat zou moeten hebben: doordachte sing-a-longs, een sterke 00's vibe, goeie vocals,&#8230; Voeg er dan nog eens het technische aspect van dit viertal aan toe en als kers op de taart een verzorgde artwork en je hebt gewoonweg 'Dram-O-Rama'. Deze plaat kwam uit in de winter maar de zomer is alvast helemaal klaar voor Altitude en 'Dram-O-Rama'!
 
 score: 8,5/10
-
-&nbsp;

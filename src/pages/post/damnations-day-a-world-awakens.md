@@ -17,5 +17,3 @@ Beginnen doen we met ‘The Witness.’ Meteen krijg je al zin om je hoofd heen 
 Het leukste aan dit album is dat alle liedjes elkaar mooi opvolgen en je zo een mooi geheel krijgt van samenhangende nummers. In het algemeen blijft Damnations Day consequent qua stijl op dit album. Op hun vorige plaat experimenteerden ze met meerdere stijlen door elkaar, maar nu hebben ze hun plekje gevonden en ze doen het verdomd goed. Als ze zo verder blijven doen gaan ze zeker nog meer kansen krijgen en nog meer kunnen groeien als band. Wij kunnen alvast niet wachten om hun groeiproces mee op te volgen!
 
 score: 8/10
-
-&nbsp;

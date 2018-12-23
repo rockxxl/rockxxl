@@ -56,5 +56,3 @@ Niemand weet zelfs hoe je deze titel moet uitspreken. Het is een demon die de ma
 **Wat zijn jullie toekomstplannen? Kunnen we jullie hier binnenkort weer verwachten?**
 
 Als ze ons boeken, dan staan we er. Groezrock is een festival dat we al een lange tijd wilden spelen. We hebben al andere festivals gespeeld in België, maar Groezrock moest nog afgevinkt worden van onze lijst. We hebben ook al gespeeld op Reading, Leeds, Sonisphere,… maar nog nooit op Groezrock. Toen we het aanbod vorige week kregen moest iedereen alles laten vallen, zelfs terugvliegen van Afrika. We moesten en zouden Groezrock spelen. Het was geweldig. Als ze ons nog eens vragen, spelen we zonder twijfel terug.
-
-&nbsp;

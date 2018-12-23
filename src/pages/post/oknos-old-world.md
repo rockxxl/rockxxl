@@ -17,5 +17,3 @@ Hun ietwat Epica-achtige intro ‘Prologue’ doet je meteen zin krijgen om naar
 Het album loopt eigenlijk in dezelfde clichélijn door. Pas op, het is geen slecht album, maar gewoon zeer voorspelbaar. Oknos, wees creatief, onderscheid jezelf van de rest en maak een grote sprong voorwaarts naar jullie volgende album toe!
 
 score: 6,5/10
-
-&nbsp;

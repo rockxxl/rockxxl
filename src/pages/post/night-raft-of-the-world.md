@@ -17,5 +17,3 @@ Zweedse heavy metalband Night bracht reeds hun derde album ‘Raft of the World�
 Over het algemeen heb ik alleen maar positieve dingen te zeggen over dit album. ‘Raft of the World’ is zo’n album dat je opzet tijdens een lange autorit in de zomer. Een echte aanrader voor fans van NWOBHM(-achtige) muziek.
 
 score: 9/10
-
-&nbsp;

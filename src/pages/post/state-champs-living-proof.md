@@ -17,5 +17,3 @@ Waar veel pop punk bands het de laatste jaren over een andere boeg gooiden bij h
 We kunnen besluiten dat de samenwerkingen het album van State Champs naar een hoger niveau hebben gebracht. Volgens ons hebben ze door het in de verf zetten van hun eigen sound hun credits alvast verdient. Het album ‘Living Proof_’_ telt 13 nummers en komt uit op 15 juni.
 
 score: 8/10
-
-&nbsp;

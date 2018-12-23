@@ -17,5 +17,3 @@ Met hun album weet Our Hate een breed publiek aan te spreken. Muzikaal brengen z
 Hoewel het een hele uitdaging is om metal en hardcore te combineren tot een eigen geheel dat buiten de hokjes valt, lukt het deze band verrassend goed. Na het uitbrengen van 'Hate Will Prevail' zijn ze niet blijven stilzitten en zijn ze nu volop shows aan het spelen. Het is niet alleen op CD maar ook live een band die je omver blaast. Met deze korte maar krachtige woorden hopen we jullie warm te maken om deze beuker in huis te halen. Wij zijn alvast overtuigd!
 
 score: 8,5/10
-
-&nbsp;

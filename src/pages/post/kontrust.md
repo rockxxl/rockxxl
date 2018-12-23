@@ -38,5 +38,3 @@ We doen gewoon wat we willen, maar om toch een antwoord op je vraag te geven: ba
 **Al jullie videoclips zijn vrij excentriek; hoe komen jullie in godsnaam bij zo’n concept? **
 
 Ik neem bijvoorbeeld Bomba. Aanvankelijk willen we altijd de creepy, duistere band zijn, maar tijdens bijvoorbeeld de opnames van ‘Bomba’ waren we absoluut blut. In zulke situaties moet je natuurlijk creatief zijn en ga je nadenken over: ‘Wat kunnen we doen wat stom en grappig tegelijkertijd is?’. Bij ‘Bomba’ trokken we gewoonweg onze traditionele Oostenrijkse outfits aan, en wonder bij wonder sloeg dit in als een bom(ba) (lacht)!
-
-&nbsp;

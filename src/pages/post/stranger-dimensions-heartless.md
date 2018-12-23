@@ -19,5 +19,3 @@ Gitarist Maarten Doumen neemt duidelijk de leiding als het op de nummers van Str
 Een leuke EP met een boodschap van een jonge, enthousiaste band die niet bang is van experimenteren en duidelijk het talent heeft om het nog ver te schoppen.
 
 score: 8/10
-
-&nbsp;

@@ -38,5 +38,3 @@ Er zijn enorm veel goede Belgische bands in de hardcorescene die spijtig genoeg 
 **Is er al sprake van een volgende plaat?**
 
 Daar zijn we nu volop aan bezig. Binnen enkele maanden gaan we de studio in. Eén ding is zeker: Walls Of Sorrow is terug!
-
-&nbsp;

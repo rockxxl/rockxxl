@@ -15,5 +15,3 @@ info en tickets:
 http://www.twclassic.be/
 
 <https://www.youtube.com/watch?v=Rbm6GXllBiw>
-
-&nbsp;

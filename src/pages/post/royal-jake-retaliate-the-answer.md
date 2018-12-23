@@ -19,5 +19,3 @@ Bij enkele van de nummers wist ik bij de eerste luisterbeurt zelfs even niet wat
 Al bij al is dit een leuke plaat om jezelf eens op af te reageren. Royal Jake brengt niet de meest originele plaat ooit uit, alles op deze plaat is ooit wel al eens gezegd of gedaan, maar ze combineren hun genres wel lekker. Voor hun breakdown op het nummer ‘Sacrifice You’ krijgen ze van mij zelfs een half bonuspuntje, omdat die gewoon zo lekker hard aankomt.
 
 score: 7,5/10
-
-&nbsp;

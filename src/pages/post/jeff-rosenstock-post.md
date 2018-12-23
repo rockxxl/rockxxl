@@ -17,5 +17,3 @@ Het eerste dat opvalt is de achterkant van de plaat waar slechts tien nummers op
 Post- is een album met veel variatie en de band komt daar goed met weg. Hoewel Jeff bewezen heeft dat hij ook perfecte poprocknummers kan schijven blijft de pop punk waar hij gewoonlijk in opereert toch het meest aanslaan. Wij verkiezen echter zijn vorige plaat ‘Worry.’, maar Post- is ook meer den de moeite waard.
 
 score: 8/10
-
-&nbsp;

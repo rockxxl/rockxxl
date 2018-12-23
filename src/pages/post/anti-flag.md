@@ -48,5 +48,3 @@ Fysieke muziek is voor ons vooral belangrijk omdat er artwork bij komt kijken. M
 **Jullie spelen vandaag op een metal festival. Hoe reageert het metal publiek op een punkband als jullie?** 
 
 Dat kan ons eigenlijk niet schelen (lacht). We spelen even enthousiast als altijd en proberen onze boodschap zo goed mogelijk over te brengen. Metalheads houden ook wel van een circle pit (lacht). We merken wel dat metal nu populairder is dan punkrock. Dit verandert om de zoveel jaar. Het zal ook niet meer lang duren voor de oude garde punkers ermee ophouden. Denk maar aan bands zoals NOFX, Bad Religion, The Offspring, Pennywise, Descendents,… Er zal dan een nieuwe generatie headliners opstaan en laten we hopen dat punkrock dan weer wat extra interesse krijgt. Anti-Flag hoort waarschijnlijk ook al niet meer tot die nieuwe generatie (lacht).
-
-&nbsp;

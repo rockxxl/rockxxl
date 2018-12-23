@@ -15,5 +15,3 @@ facebook:
 https://www.facebook.com/ascendantbelgium/
 
 [<img class="alignnone size-medium wp-image-2673" src="fqfa-e1497890029257.jpg)
-
-&nbsp;

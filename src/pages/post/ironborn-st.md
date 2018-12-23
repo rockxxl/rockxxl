@@ -17,5 +17,3 @@ De EP begint met het nummer ‘Drifting Away’. Deze start rustig met een simpe
 Over het algemeen is het een zeer sterke EP. Het is opmerkelijk dat de mannen van Ironborn zo goed op elkaar afgestemd zijn en zo’n zalige tracks kunnen schrijven na slechts drie jaar samen te spelen. Een echte aanrader voor de doorsnee classic metal -fan.
 
 score: 7/10
-
-&nbsp;

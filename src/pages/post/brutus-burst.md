@@ -17,5 +17,3 @@ Openen doet 'Burst' met het nummer 'March'. Onze eerste gedachten waren: oei. N
 Toen we het nieuws hoorde dat Brutus een langspeler zou gaan uitbrengen hebben we meteen onze spaarpot opengegooid, en dat is met plezier gedaan. We hebben lang moeten wachten op Burst, maar we zijn blij dat Brutus z'n tijd heeft genomen. Productioneel heeft dit trio ongelofelijk werk verricht en ook muzikaal is er geen vuiltje aan de lucht. In het begin hadden we schrik dat alles teveel van hetzelfde zou zijn, maar niets is minder waar. Er valt niet te sollen met Brutus en dat is met 'Burst' nog maar eens bewezen. Wat een debuut!
 
 score: 9/10
-
-&nbsp;

@@ -9,5 +9,3 @@ permalink: /news/nesqueek-zet-eerste-videoclip-online-reunite/
 image: 20915312_270177186803004_6625770714375054695_n-e1528221879173.jpg
 ---
 De nieuwe Kempische metal/ hardcore band **Nesqueek** kwam zopas aanzetten met hun eerste videoclip '**Reunite**'. Het nummer staat op de eerste EP van de band 'The Silence of Violence'.
-
-&nbsp;

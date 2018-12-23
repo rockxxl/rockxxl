@@ -17,5 +17,3 @@ Opener 'The Dying Light' brengt je meteen in de juiste sferen. Dit keer geen ges
 Met Alive heeft Amenra het nog maar eens bewezen: of het nu een cover is van een kleinkunstzanger of een vergeten demo van Amenra zelf, alles wat deze band aanraakt veranderd in goud. Misschien staat er geen nieuw werk op Alive maar dat missen we absoluut niet. Alles is zo herwerkt (op Het Dorp na) dat het wel gewoon een nieuwe plaat lijkt. Tien nummers lang zet Amenra je op een emotionele rollercoaster met onverwachte bochten en verrassende loopings. Hoewel we de gewoonlijke stevige sound van Amenra ook zeker smaken heeft Alive onze visie verbreedt en krijgt deze band alleen nog maar meer respect van ons. België mag trots zijn op een band al Amenra!
 
 score: 9/10
-
-&nbsp;

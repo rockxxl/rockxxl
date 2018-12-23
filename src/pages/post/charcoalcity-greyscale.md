@@ -17,5 +17,3 @@ Het Oost-Vlaamse Charcoalcity zag het levenslicht in 2014 door jawel, enig lid P
 Charcoalcity is een project dat uitgegroeid is tot een band die er gewoonweg staat. Het sterke aan deze band is dat de nummers gemaakt zijn door één persoon en dat is te horen. Hoewel er verschillende stijlen gemixt worden heeft Charcoalcity een zeer duidelijke sound die gedurende het album overeind blijft. Er is werk gestoken in deze Greyscale, er is geëxperimenteerd, de passie loopt gewoon van dit plaatje af, &#8230; Natuurlijk is industrial geen alledaags genre en is het niet gemakkelijk om het grote publiek hiervoor warm te krijgen. 100 procent overtuigd zijn we dan ook nog niet maar ik weet wel dat het potentieel in deze band erg groot is. Met Greyscale is de kop eraf en is het enkel nog verder bouwen op dit toch wel degelijk debuut.
 
 score: 7/10
-
-&nbsp;

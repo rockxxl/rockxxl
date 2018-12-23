@@ -19,5 +19,3 @@ In Clear Sight is terug, en hoe! Natuurlijk zijn er een hoop verschillen te merk
 score: 8/10
 
 
-
-&nbsp;

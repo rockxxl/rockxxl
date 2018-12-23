@@ -13,5 +13,3 @@ Slecht nieuws voor de old school hardcore fans die aanwezig zullen zijn op Groez
 Hierdoor kreeg de timetable ook een kleine update. Deze zie je hier:
 
 http://www.groezrock.be/en/timetable/saturday
-
-&nbsp;

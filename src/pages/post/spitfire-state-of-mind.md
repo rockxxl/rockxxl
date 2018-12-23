@@ -17,5 +17,3 @@ Beginnen doen we met het nummer 'Kingpin'. Kingpin begint stevig maar gaat over 
 Het lijkt erop dat Spitfire nogmaals een grote stap voorwaarts heeft gezet. De nummers met een hoge springfactor zijn beperkter dan op hun vorige EP en ook de melodische kant is een veel grotere rol gaan spelen. Spitfire heeft met State of Mind een debuut neergezet waar vele Belgische bands jaloers op mogen zijn. Groove, melodie, aanstekelijke teksten maar vooral ook variatie zijn de kern van een succes als deze, meer van dat!
 
 score: 9/10
-
-&nbsp;

@@ -44,5 +44,3 @@ De meeste reviews zijn lovend, daar zijn we dus blij mee. We krijgen goede kriti
 **Nummers zoals ‘Musings on the Bank’ zijn iets meer black metal getint. Staan jullie open voor alle extreme genres of is het toch de death metal waarmee jullie steeds opnieuw mee aan de gang gaan?** 
 
 Het schrijven van nieuwe songs is bij ons een groepsgebeuren. Dat betekent dat ieder bandlid, bewust of onbewust, zijn eigen muzikaal referentiekader mee brengt. Dit speelt een rol in de beslissingen die we nemen rond riffs, tempo’s, sfeer en arrangementen. Er is een grote deelverzameling van bands of genres waar we alle vijf naar luisteren, maar evenzeer is er daar een verscheidenheid en deze zorgt ervoor dat verschillende genres van (extreme) metal in onze muziek sluipen. Dat houdt het interessant voor ons om te spelen en de diversiteit wordt ook door de meeste metal fans gesmaakt.
-
-&nbsp;

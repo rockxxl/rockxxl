@@ -9,5 +9,3 @@ permalink: /news/nieuwe-videoclip-en-nummer-van-powerwolf-demons-are-a-girls-bes
 image: powerwolfdec2017promo_638-e1527348661357.jpg
 ---
 Het nieuwe Powerwolf album 'The Sacrament of Sin' komt uit op 20 juli. Deze powermetalers kwamen zopas aanzetten met hun eerste single van het nieuwe album: Demons Are A Girl's Best Friend.
-
-&nbsp;

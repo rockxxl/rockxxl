@@ -19,5 +19,3 @@ Op het album toont Selfmachine dat ze hun eigen, ietwat aparte stijl hebben gevo
 score: 8/10
 
 
-
-&nbsp;

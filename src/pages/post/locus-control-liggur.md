@@ -17,5 +17,3 @@ Het album bestaat uit zes nummers, beginnende met “Triskaidekaphobia”. De in
 Het album is een mengeling van verschillende stijlen waaronder metal, stoner-, post- en progrock. De moeilijkheid van een volledig instrumenteel album is om voldoende variatie te creëren tussen de verschillende nummers. Dit is de mannen van Locus Control zeker gelukt. “Liggur” is zeker een aanrader voor fans van pakweg Opeth, Tool en Alice in Chains.
 
 Score: 8/10
-
-&nbsp;

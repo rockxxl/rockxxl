@@ -27,5 +27,3 @@ Rond tien voor 11 was het tijd voor de afluister van goedgevulde barstage. **Tan
 De headliner van deze editie, of beter gezegd afterparty, heeft geen introductie meer nodig. **Bizkit Park** bracht op magistrale hulde aan de nu-metal. De set bulkte van de klassiekers van Linkin Park, Papa Roach, Limp Bizkit en consorten, maar bevatte ook enkele bij het grote publiek minder bekende pareltjes van Clawfinger, Drowning Pool en P.O.D. Het moet gezegd worden: Bizkit Park is de eerste band waarbij het publiek tot aan de main stage kwam en volledig liet gaan. Ze bewezen met verve dat ze het hoogste schavotje op de affiche dubbel en dik verdienen.
 
 Hou je van gezellige, kleinschalige festivals met een breed aanbod van muziek dan moet je volgend jaar de eerste zaterdag van september al zeker vrijhouden in je agenda. Dijkrock is meer dan de moeite waard om eens te bezoeken. Ook deze editie was een dikke pluim op de hoed van de dames en heren van Jh Den Dijk.
-
-&nbsp;

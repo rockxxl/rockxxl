@@ -17,5 +17,3 @@ Hoewel Amerika al lang gevallen is voor de charmes van emo punk band Senses Fail
 ‘If There Is Light, It Will Find You’ is het zevende wapenfeit van Senses Fail. Eén ding is zeker: de band is het nog niet afgeleerd om goede nummers te maken. Senses Fail gaat mee in het verhaal van de moderne punk, maar klinkt toch dat beetje volwassener. Hoewel we de band in het verleden eerder kwantiteit zagen leveren ipv. Kwaliteit, is het tij gekeerd en zijn deze Amerikanen weer helemaal terug op de juiste rails met ‘If There Is Light, It Will Find You’.
 
 score: 8,5/10
-
-&nbsp;

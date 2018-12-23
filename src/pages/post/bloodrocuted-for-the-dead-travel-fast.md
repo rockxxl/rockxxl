@@ -17,5 +17,3 @@ Wat Bloodrocuted eerst veel minder deed, is nu zeer aanwezig in dit album. Na in
 ‘Riffs, blastbeats en luidkeels gebrul’ lijkt misschien een simplistische beschrijving, maar het is exact wat Bloodrocuted ons met hun recentste album heeft getoond, en hoe. Deze plaat laat je gewoon niet los en we zouden niet eens durven ontkennen dat we bij elk nummer wel op een bepaald punt aan het headbangen waren. De band is duidelijk muzikaal gegroeid ten opzichte van hun vorige werk en durft meer en meer ideeën van buitenaf te incorporeren in hun muziek. Een geslaagd album dat we niet snel zullen vergeten.
 
 score: 8/10
-
-&nbsp;

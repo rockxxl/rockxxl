@@ -17,5 +17,3 @@ Openen doet 'Talk is Cheap' met jawel&#8230; 'Talk is Cheap'. Het titelnummer va
 Onder het motto 'kort maar krachtig' brengt Coldstare hun nieuwe EP 'Talk is Cheap'. De vier nummers duren gemiddeld twee minuten en dan ben je natuurlijk na een kleine acht minuten al weer klaar. Met 'Memories Torn Apart' erbij geteld duurt heel dit plaatje slechts 18 minuten. Hoewel Coldstare in de hardcorescene wat pluimen verloren is zijn wij alvast blij dat dit viertal terug is. 'Talk is Cheap' is alles behalve vernieuwend maar de old school vibe rond deze EP is gewoonweg super. Zin in een gezonde portie nostalgie en zin om keihard mee te brullen? Eén adres: Coldstare.
 
 score: 7/10
-
-&nbsp;

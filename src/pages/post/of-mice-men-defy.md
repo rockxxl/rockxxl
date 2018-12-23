@@ -17,5 +17,3 @@ Het openingsnummer en tevens de titeltrack van het album begint lekker. De gitaa
 Met ‘Defy’ brengt Of Mice & Men een plaat op de markt die gevarieerd is, maar niet echt in de positieve zin. Het album begint erg sterk, maar zwakt af naar het midden toe. Gelukkig kunnen ‘Warzone’ en ‘Still YDG’n’ op het einde veel goedmaken. Ze hebben al betere albums gemaakt, maar deze plaat bevat wel enkele nummers die tijdens een liveshow gaan werken volgens mij.
 
 score: 6.5/10
-
-&nbsp;

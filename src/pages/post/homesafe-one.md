@@ -17,5 +17,3 @@ Het album is dertien nummers rijk en glijdt makkelijk je oorgang binnen met ‘P
 Nu nog de vraag wil beantwoorden die waarschijnlijk op veel mensen hun lippen ligt; “Klinkt het als Knuckle Puck?”. Het is antwoord: ja en nee. De enige manier om daarachter te komen, is het album zelf eens beluisteren.
 
 score: 7,5/10
-
-&nbsp;

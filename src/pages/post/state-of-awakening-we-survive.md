@@ -17,5 +17,3 @@ Twee jaar na het geweldige ‘Ruin to Rebuild’ laat State Of Awakening opnieuw
 De hoge verwachtingen die we vooraf hadden werden ruimschoots ingelost. Jammer dat deze EP maar vier nummers (incl. intro) bevat. 'We Survive' is een must have voor iedere zichzelf respecterende liefhebber van het hardere genre.
 
 score: 8,5/10
-
-&nbsp;

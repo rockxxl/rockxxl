@@ -17,5 +17,3 @@ Op de eerste seconde van opener ‘Life Is Like A Mortal Kombat’ krijgen we al
 Met ‘Singalong’ heeft Krang een goed skate punkplaatje neergezet. Niets meer, maar absoluut ook niets minder. Wij kijken er alvast naar uit om deze heren een keer op Belgische bodem te zien, want we hebben zelf een aantal toppers van bands die perfect in het straatje passen van dit viertal.
 
 score: 7,5/10
-
-&nbsp;

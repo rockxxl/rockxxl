@@ -17,5 +17,3 @@ Openen doet dit plaatje met titeltrack ‘Tobacco Fields’. Deze klinkt meteen 
 Of het nu rock ’n roll, hard rock, country of blues is, William F. Souffreau heeft voor ieder wat wils. Productioneel is ‘Tobacco Fields’ zeer sterk: veel verschillende instrumenten komen aan bod, de genres worden stuk voor stuk perfect uitgevoerd, de muziek en de teksten zijn al eveneens de moeite,… William is het na al die jaren nog niet afgeleerd, in tegendeel. Vakmanschap, meer is er niet nodig om deze plaat te omschrijven. Alle fans van eerder genoemde genres kunnen deze plaat gerust blind aanschaffen, neem dat maar van ons aan.
 
 score: 9,5/10
-
-&nbsp;

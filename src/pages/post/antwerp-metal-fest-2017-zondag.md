@@ -41,5 +41,3 @@ De laatste band die Antwerpen mocht verdedigen op AMF was **Toxic Shock**. Ook 
 Misschien wel het boegbeeld van van thrash editie van Antwerp Metal Fest: **Death Angel**. Death Angel bestaat al sinds 1982 en is dan ook één van de eerste bands die het genre op hun naam kon schrijven. Hoewel de weide niet helemaal gevuld was, was het toch serieus drummen voor een plaats dichtbij het podium. Hun nieuwe plaat 'The Evil Divide' werd uitgebreid gepromoot met geweldige singles als 'Lost' en 'Hatred United/ United Hate'. Ook Death Angel classics al 'Dethroned' kwamen aan bod. De band mag dan 35 jaar bestaan, Death Angel geraakt het niet afgeleerd. Muzikaal was er geen vuiltje aan de lucht en ook de energie op het podium was zeker niet van de minste. Spijtig misschien dat het publiek wat afwachtend was, maar we hebben ons alvast erg geamuseerd. Death Angel is zonder twijfel nog steeds één van de top bands in het genre!
 
 [<img class="alignnone size-full wp-image-2799" src="DeathAngel3-David-e1500837531477.jpg)
-
-&nbsp;

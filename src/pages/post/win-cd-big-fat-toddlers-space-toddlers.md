@@ -32,5 +32,3 @@ Hoe kan je deelnemen?:
 **3. Deel de foto (openbaar)**
 
 Deze actie eindigt op 9 juni. De winnaars zullen via facebook gecontacteerd worden.
-
-&nbsp;

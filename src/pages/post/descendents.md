@@ -48,5 +48,3 @@ Elke keer als we terugkomen van een pauze is die schrik er wel. We hadden persoo
 **Jullie hebben met Descendents al heel wat bereikt. Zijn er echter nog dingen die jullie nog niet hebben gedaan, die jullie nog willen doen?**
 
 We willen nog op heel wat plaatsen spelen waar we nog nooit zijn geweest. China bijvoorbeeld. Vele bands en ook jongere bands touren wereldwijd. We hebben nog nooit gespeeld in Afrika, het midden oosten, India,&#8230; We zijn echter wel plannen aan het maken voor volgend jaar. Hopelijk kunnen we in wat meer landen gaan spelen dan. Karl en Stephen hadden ook nog het idee om een improvisatie album te maken. We zouden dan met vier de studio inkruipen, een riff maken, en alle vier daarop improviseren. Geen idee of dit mogelijk is of het er ooit van komt, maar er is wel zin in de band om wat te experimenteren.
-
-&nbsp;

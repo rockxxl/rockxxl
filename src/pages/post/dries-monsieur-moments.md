@@ -72,5 +72,3 @@ Perfect om voor dit genre te vallen. Zowel op CD als live. Hard, energiek, melod
   3. _Our Last Night – Oak Island_
 
 <img class="alignnone size-thumbnail wp-image-3621" src="https_2F2Fimages.genius.com2F4e0c59f8f455e0b45107938e39fe7884.640x640x1.jpg)
-
-&nbsp;

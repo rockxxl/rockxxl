@@ -17,5 +17,3 @@ Openen doet 'Sett' met 'Finish'. 'Finish' is redelijk traag en aanslepend hoewel
 'Sett' is ontstaan uit een gezonde portie DIY, zo hebben we het graag. Dit maakt wel dat kwaliteit niet prioriteit nummer één is. Badger heeft dit wel goed opgepakt. Hun muziek is niet van de moeilijkste, laat staan origineelste, maar door verschillende stijlen te mixen met punk als basis is variatie in elk geval wel aanwezig. 'Sett' is een tof punk plaatje geworden, niets meer, maar zeker ook niets minder.
 
 score: 6/10
-
-&nbsp;

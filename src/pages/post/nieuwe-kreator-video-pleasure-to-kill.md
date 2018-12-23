@@ -9,5 +9,3 @@ permalink: /news/nieuwe-kreator-video-pleasure-to-kill/
 image: kreator-e1497690074375.jpg
 ---
 Om de release van de re-issues van de eerste vier Kreator albums 'Endless Pain', 'Pleasure to Kill', 'Terrible Certainty' en 'Extreme Aggression' te vieren, heeft de band een clip gemaakt voor het nummer 'Pleasure To Kill'.
-
-&nbsp;

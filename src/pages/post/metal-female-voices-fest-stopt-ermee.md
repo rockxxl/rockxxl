@@ -22,5 +22,3 @@ Metal Female Voices Fest, het metalfestival dat elk jaar plaats vind in het Oost
     </p>
   </blockquote>
 </div>
-
-&nbsp;

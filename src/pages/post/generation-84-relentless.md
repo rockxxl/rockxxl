@@ -17,5 +17,3 @@ Wat bij EP ‘Let’s Do This!’ vooral opviel, was dat Generation 84 terug gin
 Met z’n 43 minuten is ‘Relentless’ een hele brok om te verwerken: energie, melodie,.. Ook de lyrics gaan uit goede gewoonte over politiek, religie en de maatschappij. Alle ingrediënten zijn aanwezig voor een perfecte punkplaat. Kwaliteit hadden we verwacht en kwaliteit hebben we gekregen. Generation 84 bestaat volgend jaar tien jaar, al zouden we het ten zeerste appreciëren om er nog eens tien bij te doen en nog veel van dit soort plaatjes te maken.
 
 score: 8,5/10
-
-&nbsp;

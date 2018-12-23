@@ -17,5 +17,3 @@ In 18 jaar is Colin H. Eeckhout en zijn leger des hels uitgegroeid tot de top va
 Het lukt ze keer op keer: een album uitbrengen waar we met open ogen naar staan te kijken. Zowel productioneel als muzikaal is er geen vuiltje aan de lucht en zelfs de artwork mag er meer dan zijn. Het schreeuwen met momenten achterwege laten, gaat de band echt goed af en het grijpt je soms zelfs bij de keel. Iedereen die fan is van post-metal, Church Of Ra of gewoonweg hele donkere muziek kan 'Mass VI' met gesloten ogen uit de rekken gaan halen, neem dat maar van ons aan!
 
 score: 9/10
-
-&nbsp;

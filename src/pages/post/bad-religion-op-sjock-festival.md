@@ -15,5 +15,3 @@ info en tickets:
 https://www.sjock.com/
 
 [<img class="alignnone size-medium wp-image-1692" src="16904585_10209004931497387_2907736339603536365_o-e1487939557592.jpg)
-
-&nbsp;

@@ -17,5 +17,3 @@ We vliegen er meteen in met titletrack “Incarnation.” Meteen worden we van o
 Het mag dan wel een korte EP zijn maar onze buren in Hibakusha bewijzen zichzelf zeker en vast met deze vijf nummers. Als je opzoek bent naar een band in de stijl van Meshuggah, KoRn en Textures ben je hier aan het juiste adres. Wij kijken alvast uit naar hun full-length album en hun debuutoptreden in België!
 
 Score: 7/10
-
-&nbsp;

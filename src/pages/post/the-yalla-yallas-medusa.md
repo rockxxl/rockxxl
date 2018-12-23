@@ -29,5 +29,3 @@ The album opens with the exentric song 'Mi Corazon part 1’. It has a kind of S
 The atmosphere The Yalla Yallas put us in is indescribable. Their music isn’t the most difficult, musically nor lyrically but they are just so damn catchy. We had to wait a while for 'Medusa’ but the wait was more than worth it. If you’re a fan of old-school punkrock and aren’t afraid singalongs: the Yalla Yallas are the place to be. See for yourself!
 
 score: 7,5/10
-
-&nbsp;

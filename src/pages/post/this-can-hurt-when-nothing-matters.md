@@ -17,5 +17,3 @@ De band beschrijft zichzelf als een mengeling van Muse en Massive Attack, met in
 This Can Hurt zet zich met 'When Nothing Matters' meteen goed op de kaart. Er zit variatie doorheen heel het album en al is er stevig geëxperimenteerd, muzikaal is er geen vuiltje aan de lucht. Een klein minpuntje is misschien wel dat het album redelijk lang duurt om je volledige aandacht er nummer per nummer bij te houden. 'When Nothing Matters' is zware kost om te verteren maar het smaakt verdomme goed!
 
 score: 8/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Beginnen doet 'To The Wall' met het nummer 'Empty Books'. De eerste anderhalve m
 Als je fan bent van dromerige muziek waarbij stevige gitaren een grote rol spelen ben je bij Major aan het juiste adres. Met 'To The Wall' krijgen we vier nummers voorgeschoteld die stuk voor stuk de beste emo rock naar boven halen. 'To The Wall' is en blijft natuurlijk een demo, maar het is ongetwijfeld ook een perfect begin om op verder te bouwen. Nu kijken we nog meer dan voorheen uit naar Major's tweede EP 'With So Much Open Space'.
 
 score: 7/10
-
-&nbsp;

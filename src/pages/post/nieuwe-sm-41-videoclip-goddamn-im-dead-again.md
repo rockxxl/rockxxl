@@ -8,5 +8,3 @@ layout: post
 permalink: /news/nieuwe-sm-41-videoclip-goddamn-im-dead-again/
 ---
 '13 Voices' van Sum 41 is ondertussen al een tijdje uit maar de band kwam aanzetten met een videoclip voor het nummer 'Goddamn I'm Dead Again'.
-
-&nbsp;

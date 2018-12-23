@@ -17,5 +17,3 @@ Openen doet Dune Rats met 'Don't Talk'. Na een korte gitaarintro knallen de eer
 'The Kids Will Know It's Bullshit' is perfect op tijd voor de zomer. Het hele album gaat over feesten en doen waar je zin in hebt. Ik ben nooit echt hevige fan geweest van garagerock en co-soorten maar door er andere elementen zoals surf en punk bij te betrekken heeft Dune Rats een zeer eigen maar vooral frisse sound die ik dit keer wel kan smaken. Onder het motto kort maar krachtig krijgen we 11 nummers voorgeschoteld die gebundeld zijn tot een uitstekende plaat. Een band om in het oog te houden!
 
 score: 8/10
-
-&nbsp;

@@ -17,5 +17,3 @@ De verandering in de sound van Breakfast At Midnight wordt meteen duidelijk met 
 Het is een stap in de goede richting, deze ‘Breakfast At Midnight’. De muziek klinkt beter, origineler en energieker. Ook de variatie zorgt voor een goed geheel. Misschien zouden een paar extra nummers goed zijn geweest om een beter beeld te krijgen van de algemene sound van dit duo. Een klein meesterwerkje is nog teveel gezegd, maar het komt aardig in de buurt.
 
 score: 8/10
-
-&nbsp;

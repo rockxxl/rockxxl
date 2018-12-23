@@ -17,5 +17,3 @@ Openen doet deze EP met ‘Use/Abuse’. Veel tijd om na te denken is er niet wa
 Het moet eerlijk gezegd worden: we hebben altijd al een boontje gehad voor Rites. Dit aan de kant gezet waren we iets minder gelukkig dan normaal met hun vorige EP ‘Inner Plagues’. Met ‘Misery In Company’ heeft Rites zichzelf dan weer overtroffen. Hun muziek blijft al bij al redelijk basis, maar het is de melodische twist die de band maakt wat ze nu zijn. ‘Misery Is Company’ is zeker een aanrader voor elke hardcore punk fan die graag al eens wat variatie heeft.
 
 score: 7,5/10
-
-&nbsp;

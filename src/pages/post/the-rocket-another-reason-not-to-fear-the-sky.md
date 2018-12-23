@@ -17,5 +17,3 @@ Starten doet The Rocket met enkele stevige gitaren en drums op ‘Focus’. Het 
 Toen we hoorden dat The Rocket terug zou komen, waren we erg enthousiast. Met ‘Another Reason Not To Fear The Sky’ hebben ze dan ook een album gemaakt om U tegen te zeggen. De band is volwassener geworden en dat is ook te horen in hun muziek. Alles is gewoonweg zo catchy en doordacht, tot de artwork toe, dat je het bijna niet niet leuk zou kunnen vinden. ‘Another Reason Not To Fear The Sky’ is zonder twijfel de soundtrack van de zomer en nu al één van de betere pop punk platen van het jaar!
 
 score: 9/10
-
-&nbsp;

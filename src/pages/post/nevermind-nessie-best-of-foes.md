@@ -17,5 +17,3 @@ Beginnen doet 'Best of Foes' met een zoals verwacht folky intro. Het nummer 'Dri
 Feesten, dansen, zingen en drinken. Voeg dit samen met een potje punkrock, en je hebt een liveshow van Nevermind Nessie. Ook met hun nieuwe album 'Best of Foes' weet de band dit gevoel naar de huiskamer te brengen. 'Best of Foes' luistert lekker gemakkelijk en is bovendien nog aanstekelijk ook. De Vlaamse Dropkick Murphys hebben een nieuw album uit, en wat voor één!
 
 score: 8,5/10
-
-&nbsp;

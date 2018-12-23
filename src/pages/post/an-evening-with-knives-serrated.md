@@ -17,5 +17,3 @@ Eindhoven is de thuisbasis van veel rock/ metal fans en muzikanten. Ook An Eveni
 An Evening With Knives heeft een visie, een stijl en kan verdomd goed om met hun instrumenten. Allemaal elementen die nodig zijn om een stapje hoger te klimmen als band. Met deze ‘Serrated’ is dat niet anders. Buiten het feit dat ‘Serrated’ lekker rockt is het wel een ongelofelijk dikke koek om door te bijten. Je moet al een getraind stoner of doom luisteraar zijn om dit album in één ruk door te komen. Een zachter of juist een extreem agressief stuk had misschien nog geholpen om het geheel nog beter aan elkaar te lijmen. Anderzijds, aan komen zetten met een debuut als deze is behoorlijk straf.
 
 score: 7/10
-
-&nbsp;

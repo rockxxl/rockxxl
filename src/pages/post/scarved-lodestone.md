@@ -17,5 +17,3 @@ Het album start met het nummer “Naughty Reflexes”. Niet direct een uitspring
 Over het algemeen geeft het album een zeer laid back classic hardrock gevoel met een duidelijke invloed van de vroege Black Sabbath en de flowerpower-periode. Voor hun tweede album is &#8220;Lodestone&#8221; dus toch wel een werk waar ze trots op mogen zijn.
 
 score: 7/10
-
-&nbsp;

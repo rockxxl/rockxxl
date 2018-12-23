@@ -52,5 +52,3 @@ Je moet Muddler eerder zien als een tank, waarvan niet de snelheid maar wel de k
 _Ben_: We wilden een videoclip maken zonder de typische, stoere bandshots. In onze vorige clips kwamen we al genoeg zelf in beeld. Wanneer er dan een actrice van dit niveau bereid is om hieraan mee te werken… Vuurwerk!
 
 _Fons_: Meer vertellen over iets wat je kan zien en horen, valt me moeilijk. Iedereen mag z’n eigen verhaal ervan maken. Ik kan kort zeggen dat iedereen een donkere kant heeft, waarover ik al sprak. Die kant mag best wat meer in de aandacht gebracht worden. Zonder dat er iemand gekwetst wordt welteverstaan! Daardoor wordt alles lichter. Dat wilden we min of meer in beeld brengen.
-
-&nbsp;

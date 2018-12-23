@@ -17,5 +17,3 @@ Als er een band is die de laatste jaren is blijven groeien en meer en meer zielt
 Kort maar krachtig. Dat is het motto van het nieuwe Avatar album ‘Avatar Country’. Hoewel we zoals gezegd niet al te veel volwaardige nummers te horen krijgen mogen de intro en de interlude er ook wel zijn. Het Avatar repertoire heeft er weer een aantal zeer toffe nummers bij, al blijven wij toch vooral fan van die met een hoek af. Voor diegenen die hun metal graag met een korreltje zout eten is ‘Avatar Country’ de perfecte maaltijd.
 
 score: 8,5/10
-
-&nbsp;

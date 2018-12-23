@@ -38,5 +38,3 @@ Terror is erg groot in Europa, maar in Amerika hebben ze hun pluimen al wat meer
 **Ik las dat je schrik hebt wanneer je niet op teksten kan komen. Vanwaar komt die angst?**
 
 Klopt, iedereen die teksten schrijft heeft wel eens last van een schrijversblok. Ik weet niet vanwaar die komt, maar ik betrap mezelf elke keer weer op die angst. Ik zal echter nooit teksten schijven die ik niet meen.
-
-&nbsp;

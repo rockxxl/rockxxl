@@ -17,5 +17,3 @@ Openen doen we met ‘Retaliation Of The Suppressed’, de titeltrack van hun EP
 Verder is er weinig te zeggen over deze EP, aangezien de band met deze plaat zeker niet het hele genre heeft heruitgevonden, maar veilig binnen de voorgestippelde weg blijft, met af en toe eens een kleine bocht naar hier of daar. Dit wil echter niet zeggen dat Corpse Mutilation slecht werk heeft geleverd, integendeel. Deze plaat is goed geproducet en uitmuntend qua instrumentals en vocals, maar voelt gewoon nogal wat formularisch aan.
 
 score: 7,5/10
-
-&nbsp;

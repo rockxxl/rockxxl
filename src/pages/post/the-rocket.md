@@ -38,5 +38,3 @@ Het leven is een kettingreactie. Van het één komt het ander. Je doet iets en d
 **Een deel van de clip van ‘Lost At Sea’ is opgenomen op een volledig lege Keizerlei en in een eveneens volledig leeg centraal station in Antwerpen. Hoe vroeg zijn jullie moeten opstaan om dit te filmen?**
 
 Veel te vroeg. (lacht) Starbucks was zelfs nog niet open, maar het was echter wel de moeite waard. We hebben ook regelmatig mensen moeten tegenhouden die anders in het shot zouden lopen. Een heel ondankbare taak om mensen hun doen en laten te ontnemen, ook al is het maar voor vijf minuten. Alles voor de cause hé.
-
-&nbsp;

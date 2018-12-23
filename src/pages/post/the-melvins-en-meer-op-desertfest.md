@@ -13,5 +13,3 @@ Desertfest, het jaarlijkse sludgemetal en stonerrock festival in Antwerpen kondi
 info en tickets:
 
 http://www.desertfest.be/
-
-&nbsp;

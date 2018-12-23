@@ -52,5 +52,3 @@ Eerst willen we een lyric video uitbrengen, nog voor de EP-release. We hopen dat
 </blockquote>
 
 
-
-&nbsp;

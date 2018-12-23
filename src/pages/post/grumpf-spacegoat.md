@@ -17,5 +17,3 @@ Spacegoat opent meteen in stijl met het nummer 'Facing Demons'. De gitaren weten
 Seks, drugs en rock n roll. Dat zijn de kernwoorden voor deze 'Scapegoat'. Nostalgie nodig? Eén adres: Grumpf!
 
 score: 8/10
-
-&nbsp;

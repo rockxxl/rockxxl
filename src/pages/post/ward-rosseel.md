@@ -64,5 +64,3 @@ John Mayer – Continuum
 Red Hot Chili Peppers – Stadium Arcadium (John ‘playing as a means to express yourself’ Frusciante)
 
 Sum 41 – Chuck (Deryck z’n stembuis klanken, wauw!)
-
-&nbsp;

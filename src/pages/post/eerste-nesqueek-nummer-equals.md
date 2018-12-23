@@ -9,5 +9,3 @@ permalink: /news/eerste-nesqueek-nummer-equals/
 image: nes-e1498066622156.jpg
 ---
 België is weer een hardcore/ thrashmetalband rijker: Nesqueek. Dit gezelschap speelt hun eerste show op 28 oktober in Vorselaar. In afwachting van deze show bracht de band alvast het nummer 'Equals' uit.
-
-&nbsp;

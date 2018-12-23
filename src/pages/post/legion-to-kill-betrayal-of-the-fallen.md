@@ -23,5 +23,3 @@ De rest van de nummers heeft gastartiesten zoals onder andere Tito van Surge Of 
 Legion To Kill brengt een geslaagde EP die niet onopgemerkt voorbij is gegaan. Legion To Kill brengt geen vernieuwende, frisse sound, maar wel een bikkelharde muur van geluid en geschreeuw. En dat is nu net wat muziek moet zijn, een samenvloeiend geheel.
 
 score: 7,5/10
-
-&nbsp;

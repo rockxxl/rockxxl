@@ -21,5 +21,3 @@ Hoe kan je deelnemen?:
 Deze actie eindigt op 5 mei. De winnaars zullen via facebook gecontacteerd worden.
 
 Meer info:[ http://www.heartbreaktunes.com/](http://www.heartbreaktunes.com/)
-
-&nbsp;

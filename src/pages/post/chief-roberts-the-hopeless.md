@@ -17,5 +17,3 @@ Met openingstrack ‘Pantheon’ begint de plaat alvast veelbelovend. De intro v
 Met ‘The Hopeless’ brengt Chief Roberts een knap staaltje alternatieve muziek op de markt. Welk genre plakken we hier op? Geen! Deze plaat is zoals de heren zelf al aangaven een combinatie van zoveel genres dat dit een zo goed als onmogelijke opgave is. Als je wel into doom, sludge en stoner bent, zal deze EP je zeker kunnen bekoren. We zijn vooral benieuwd om dit geweld live eens te aanschouwen.
 
 score: 8/10
-
-&nbsp;

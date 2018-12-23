@@ -9,5 +9,3 @@ permalink: /news/nieuwe-trivium-videoclip-the-heart-from-your-hate/
 image: trivium-e1503684575190.jpg
 ---
 Het is nog even wachten tot 20 oktober voor 'The Sin And The Sentence', het nieuwe album van **Trivium**. In afwachting van dit album bracht de band zopas een videoclip uit voor het nummer '**The Heart From Your Hate**'.
-
-&nbsp;

@@ -38,5 +38,3 @@ image: titan-e1515056872935.jpg
 <span style="font-weight: 400;"><br /> </span>**Jullie hebben nu twee EP's uitgebracht. Zijn er concrete plannen voor een full length? **
 
 <span style="font-weight: 400;">Onze bassist zit momenteel volop in zijn verbouwing maar hierna zijn er wel plannen om terug een EP op te nemen van vijf a zes nummers, maar dat zal ten vroegste april/ mei zijn.</span>
-
-&nbsp;

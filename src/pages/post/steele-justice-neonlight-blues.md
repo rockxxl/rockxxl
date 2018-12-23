@@ -17,5 +17,3 @@ Na gespeeld te hebben in hardcore bands als Violent City, Rabid Wolves en Get Ou
 ‘Neonlight Blues’ is gewoonweg een pure brok energie. Old school punkrock, niets nieuws maar nostalgie alom en vooral ook lekker aanstekelijk. Naar onze mening misschien net wat teveel van hetzelfde, maar moest je net zoals de band heimwee hebben naar de jaren 90 is deze een meer dan geschikte oplossing.
 
 score: 7,5/10
-
-&nbsp;

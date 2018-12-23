@@ -17,5 +17,3 @@ Het eerste wat je opvalt als je het album bekijkt, is de prachtige cover ontworp
 Over het algemeen is het een album dat door veel mensen geapprecieerd kan worden, omdat ze een redelijk toegankelijke sound hebben. Een klein minpuntje is dat er weinig variatie is tussen de nummers, maar als je elke track apart beluistert hoor je zeker en vast groei mogelijkheid. Een album om trots op te zijn dus! Een aanrader voor fans van bands zoals Lacuna Coil.
 
 score: 8/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Openen doet 'Goathorse' met het nummer 'Bad Dreams Pt. 2', en het is meteen voll
 'Goathorse' heeft alles wat een goeie punkplaat zou moeten hebben. Er valt luidkeels mee te zingen, stilstaan is geen optie en alles is vooral heel aanstekelijk. Ach ja, wat had je anders verwacht van The Priceduifkes. (Alweer) nen goeien bal manne!
 
 score: 8,5/10
-
-&nbsp;

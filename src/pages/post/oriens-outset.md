@@ -17,5 +17,3 @@ Openen doet 'Outset' met single 'King of The World'. Deze verscheen al eerder me
 Oriens zet met 'Outset' een mooi debuut neer. Deze plaat is een stevige rocker en variatie is meer dan aanwezig. Muzikaal missen we hier en daar wel de kleine details, maar dat wordt dit viertal meteen vergeven met een nummer als 'Obey' of 'Dido & Areas'. De productie is eveneens best oke en het artwork ziet er ook netjes uit. 'Outset' is niet de meest opvallende plaat maar zonder twijfel een sterk debuut dat de jongens van Oriens helemaal klaarstoomt voor een volgende stap in de wereld van de rockmuziek.
 
 score: 7,5/10
-
-&nbsp;

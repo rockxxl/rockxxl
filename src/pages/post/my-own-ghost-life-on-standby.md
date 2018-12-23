@@ -17,5 +17,3 @@ Het album opent onmiddellijk met de titeltrack ‘Life on Standby’ waarbij de 
 My Own Ghost is weeral een buitenbeentje binnen hun eigen sector, maar verdient zeker een plaats op de betere metal festivals waarbij ze voor velen een openbaring zullen zijn. Met 'Life on Standby' heeft de band er een uitstekend visitekaartje bij.
 
 score: 8,5/10
-
-&nbsp;

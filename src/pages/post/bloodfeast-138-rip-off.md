@@ -17,5 +17,3 @@ Openen doet Rip Off met de 20 seconde durende interlude ‘Welcome Foolish Morta
 Een tributeband is vaak een gevaarlijk concept. Het is altijd leuk om muziek te horen van bekendere bands maar wat veranderd er dan met het origineel? Bloodfeast 138 weet duidelijke verschillen te brengen maar weet tegelijkertijd de essentie van de nummers te behouden. Het is niet gemakkelijk om een plaat te beoordelen met drie nummers, laat staan dat het dan ook nog eens covers zijn. Al bij al is ‘Rip Off’ een plaatje dat enerzijds redelijk eigen klinkt en anderzijds gewoon keihard lijkt op het origineel. Als je hier niet mee kan leven, luister er dan ook gewoon niet naar!
 
 Score: 6/10
-
-&nbsp;

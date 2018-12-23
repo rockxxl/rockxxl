@@ -19,5 +19,3 @@ Beginnen doen we met single ‘Gouden Kooi’. Dit nummer start met een onheils
 Ik denk dat Muddler met Snøck Epos in hun opzet is geslaagd. Het duurde wel even voor we het Nederlandstalige concept volledig door hadden, maar eens je dit gewoon wordt wil je geen weg terug. Het voordeel is zoals eerder vermeld dat alles lekker makkelijk mee te zingen valt. Een nadeel is dan weer dat Muddler kwestie is van voor of tegen. Wij zijn alvast voor en hebben daar ook de volle 20 minuten van genoten. Snøck Epos mist misschien hier en daar nog een extra portie power, maar man, wat een debuut!
 
 score: 7/10
-
-&nbsp;

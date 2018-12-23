@@ -17,5 +17,3 @@ Opener ‘Nightmare City’ zet meteen de toon voor het album. Dit nummer klinkt
 ‘The Origin Of Buzz’ is een mooi debuut geworden. Nummer per nummer rockt de band als nooit tevoren. Zowel muzikaal als vocaal weet Buzzkill Baby te overtuigen. Nu nog net dat beetje extra variatie en de band is klaar om heel wat potten te breken. Laat die langspeler maar komen!
 
 score: 8/10
-
-&nbsp;

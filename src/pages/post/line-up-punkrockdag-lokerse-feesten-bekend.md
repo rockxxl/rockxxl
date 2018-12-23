@@ -13,5 +13,3 @@ De line up voor de punkrockdag van de **Lokerse Feesten** 2018 is bekend gemaak
 info en tickets:
 
 https://www.lokersefeesten.be/
-
-&nbsp;

@@ -17,5 +17,3 @@ Openen doet My Absolute Defiler met ‘Memory Lane’. Memory Lane start met een
 My Absolute Defiler van Sister May is zoals gezegd een plaatje met een ruwe donkere sound. De EP duurt slechts 17 minuten maar hij ligt redelijk zwaar. Dit komt door het melancholische geluid van deze band. Misschien niet de beste rockplaat van 2017 maar absoluut wel een goed begin voor een band als deze. Wij zijn alvast erg benieuwd naar de evolutie Sister May want er is nog wat werk aan, maar we hebben het grootste vertrouwen in deze vier West-Vlamingen.
 
 score: 6,5/10
-
-&nbsp;

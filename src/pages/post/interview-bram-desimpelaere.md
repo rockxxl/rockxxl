@@ -42,5 +42,3 @@ Momenteel wel, je somt hier nu wel de Amerikaanse gasten op maar in de lage land
 **Kampvuren of huiskamers?**
 
 Resoluut huiskamers, en met een bepaalde reden. Zoals reeds gezegd heeft ieder nummer iets speciaals voor me. Ik vertel er dan ook graag het verhaal bij dat achter het nummer zit. Ik probeer dit eigenlijk altijd wel een beetje te doen, maar in een huiskamer kom je ook in een bepaalde intieme zone van mensen. Als je dan zelf ook iets intiem kunt brengen over/ met je nummers vind ik dat zeer speciaal.
-
-&nbsp;

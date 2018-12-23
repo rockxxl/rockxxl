@@ -17,5 +17,3 @@ Intro ‘Ticket 000011’ zet in met een stukje dialoog dat meteen het circus th
 ‘The Circus Of The Tattered And Torn’ is een ware rollercoaster tussen stijlen en invloeden die houvast nemen aan progressieve metal en een donker maar fantasierijk thema. De artwork ziet er goed uit, de productie is meer dan oke, de nummers hangen mooi aan elkaar,… Er is geen vuiltje aan de lucht al luistert ‘The Circus Of The Tattered And Torn’ gewoon zo verdomd moeilijk. Er gebeurt zoveel dat een uur aandachtig luisteren niet gaat, laat staan dat je de nummers vanbuiten leert om mee te zingen. Daydream XI levert met ‘The Circus Of The Tattered And Torn’ zeker een goede plaat af al zien we dit meer als een experiment of kunstwerkje. Ook niet slecht denk ik.
 
 score: 8,5/10
-
-&nbsp;

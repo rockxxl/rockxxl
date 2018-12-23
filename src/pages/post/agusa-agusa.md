@@ -17,5 +17,3 @@ Opener ‘Landet Längesen’ zet meteen met een vrolijke noot in. Het is de flu
 Agusa heeft iets, zoveel is zeker. De mengeling van rock, folk en progressieve muziek zorgen voor een toffe blend. Die weet zich vooral te bewijzen als alles netjes in elkaar vermengd wordt, zonder al te veel “de muzikant” te willen uithangen. Alles wordt gewoonweg te zwaar gebracht. ‘Agusa’ is zeker geen slecht plaatje al houden we het liever wat meer straight to the point.
 
 Score: 6,5/10
-
-&nbsp;

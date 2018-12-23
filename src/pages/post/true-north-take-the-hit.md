@@ -17,5 +17,3 @@ Enorm veel is er natuurlijk niet te zeggen over een EP die nog geen tien minuten
 De opnamekwaliteit van deze demo is niet enorm hoog, maar perfect doenbaar voor een band die nog maar vorig jaar is opgericht. Ze doen duidelijk hun best om een catchy sound te creëren waar veel mensen zich in kunnen vinden. Met titels als ‘Bend ‘til It Breaks’ en ‘Bite Me!’ weet je ongeveer wel waar je je als luisteraar aan mag verwachten, lekker uptempo hardcore waar je de beentjes eens voor wil strekken. A fun listen, maar spijtig genoeg niet veel meer dan dat, want vernieuwend klinkt het allesbehalve. Nostalgie nodig? Take the hit!
 
 score: 6,5/10
-
-&nbsp;

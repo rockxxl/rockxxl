@@ -17,5 +17,3 @@ Deze band levert een EP af van 9 nummers met korte, krachtige nummers. De meeste
 CLCKWS levert een sterke EP af om België mee te veroveren. Op enkele schoonheidsfoutjes na is dit een sterk debuut dat bij fans van het genre zeker gaat aanslaan. Zoals ze het zelf zouden zeggen: CLCKWSFORWORLDDOMINATION!
 
 score: 7,5/10
-
-&nbsp;

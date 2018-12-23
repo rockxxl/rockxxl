@@ -9,5 +9,3 @@ permalink: /news/nieuwe-counterparts-videoclip-bouquet/
 image: counterparts-photo-e1497690426181.jpg
 ---
 22 september zal de geschiedenis ingaan als de dag waarop Counterparts hun derde album 'You're Not You Anymore' op de wereld zal loslaten. De eerste single van dit album is 'Bouquet', bekijk het hier onder:
-
-&nbsp;

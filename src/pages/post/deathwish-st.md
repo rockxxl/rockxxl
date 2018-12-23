@@ -17,5 +17,3 @@ Openingsnummer 'Sirens Call' begint met een ietwat duistere intro, maar breekt n
 Deze EP creëert een zekere brutale en duistere sfeer en gaat door variatie in de nummers niet vervelen. De vocalen zijn ruw en constant, maar we horen vrij veel van hetzelfde. Naast de lage grunts hadden enkele hogere screams hier en daar het geheel nog wat kunnen opfrissen. Over genres valt uiteraard te discussiëren, maar persoonlijk had ik heel andere verwachtingen bij de term 'dark metalcore'. Misschien dekken de vlaggen (melodic) deathcore of melodic deathmetal iets meer de lading. Dit gezegd zijnde levert Deathwish een bijna twintig minuten durende EP af die liefhebbers van bovenvernoemde genres  zeker gaat kunnen bekoren.
 
 score: 7,5/10
-
-&nbsp;

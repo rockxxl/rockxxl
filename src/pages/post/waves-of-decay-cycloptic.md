@@ -17,5 +17,3 @@ Openen doet 'Cycloptic' met single 'Destiny'. Deze kregen we bijna exact een maa
 Super hard, super catchy, maar vooral ook vol variatie. Breakdowns, blastbeats, sing-a-longs, elektronische gedeeltes,&#8230; ga zo maar door. Waves of Decay gebruikt veel verschillende stijlen en opties zonder alles te rommelig te laten klinken. 'Cycloptic' heeft misschien nog niet de prijs gewonnen voor beste metalplaat van 2017 maar het is altijd fijn om bands te zien experimenteren met muziek, en dat is wat Waves of Decay heeft gedaan. Wij zijn alvast overtuigd en zijn ontzettend benieuwd naar de volgende stappen en in het bijzonder volgende plaatjes, van deze band. Cycloptic? Een debuut om trots op te zijn!
 
 score: 7,5/10
-
-&nbsp;

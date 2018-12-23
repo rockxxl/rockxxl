@@ -17,5 +17,3 @@ De opener van de EP is het nummer 'Stark Raving Mad'. Dit nummer start redelijk 
 De nummers van Red Baroness & The Murder Kings zijn redelijk simpel op een aantal gitaarsolo's na. Ook de drums hebben weinig variatie en hoewel de vocals best oke zijn is de variatie hier ook ver zoek. Less is more, maar dat hebben Red Baroness & The Murder Kings misschien net iets te letterlijk genomen. De stijl van deze band ligt vast en deze is gewoonweg niet altijd even moeilijk, en daar is niets mis mee, maar ik mis gewoonweg een hele hoop kracht. Misschien weet dit trio ons in de toekomst nog te verrassen maar voor nu zeg ik toch liever nee.
 
 score: 4/10
-
-&nbsp;

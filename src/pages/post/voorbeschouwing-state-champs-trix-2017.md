@@ -19,5 +19,3 @@ Openen doet de avond met **Northbound**. Voor hen is het de eerste keer in Belg
 
 
 In 2014 stond **State Champs** op het podium van JH Tessloo in Tessenderlo, en vorig jaar stonden ze op het podium van Pukkelpop. Met hun huidige tour ‘Around The World & Back’ – what’s in the name – trokken ze al door de USA en Australië, nu is Europa aan de beurt om af te sluiten in het Verenigd Koninkrijk. State Champs staat bekend voor de pop-punk waar je instant gelukkig van wordt, dit onder meer door de perfecte cleane vocals van zanger Derek DiScanio en melodieuze gitaarlijnen die worden afgewisseld door hele strakke, straight-forward drumlijnen. Kijken we naar voorgaande setlists, zien we dat ze naar alle waarschijnlijkheid ook enkele akoestische nummers zullen brengen! State Champs mag dan niet de allerbekendste pop-punk band zijn, ze gaan er sowieso alles aan doen om het Belgische publiek warm te maken voor hun nieuwe werk.
-
-&nbsp;

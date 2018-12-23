@@ -19,5 +19,3 @@ De band heeft de voorbije jaren veel kritiek gehad met o.a. hun album ‘Rise Of
 score: 8,5/10
 
 
-
-&nbsp;

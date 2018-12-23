@@ -48,5 +48,3 @@ Ons doel is om zoveel mogelijk te spelen, onze muziek zo maximaal mogelijk te ve
 **… en wat is jullie droom voor de band?**
 
 Onze droom is onze boterham verdienen met de band. Day jobs suck!
-
-&nbsp;

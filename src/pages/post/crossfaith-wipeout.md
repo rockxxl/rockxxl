@@ -17,5 +17,3 @@ Wat me meteen opvalt aan het nummer ‘Wipeout’ is dat het harder is, donkerde
 Is dit nu hun toekomst, deze nieuwe sound? Ik ben wel fan anders. Het is harder met minder electronica maar ook beter te begrijpen met meer metalcore. Het toont aan dat de band inderdaad meegaat met hun tijd en innovatief is. Van mij mogen ze gerust nog experimenteren met hun sound.
 
 score: 7,5/10
-
-&nbsp;

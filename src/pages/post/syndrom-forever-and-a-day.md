@@ -19,5 +19,3 @@ Het is al enkele jaren geleden dat we nog nieuw werk hoorden van Syndrome, het s
 Syndrome brengt je mee op reis doorheen een grijs, koud landschap, en dat allemaal enkel door middel van muziek. Bij deze plaat kon ik mezelf weer helemaal verliezen in mijn eigen verbeelding, net als bij voorganger 'Now And Forever'. Jammer genoeg is de winter bijna voorbij, want deze plaat wordt het liefst op donkere, koude dagen gespeeld.
 
 score: 7,5/10
-
-&nbsp;

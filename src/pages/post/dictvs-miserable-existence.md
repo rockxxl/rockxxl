@@ -17,5 +17,3 @@ Na een donkere intro vliegt de band er zonder pardon in. ‘Sea Of Guilt’ is e
 Hardcore, metalcore,… als het kind maar een naam heeft. De melodie in de muziek van dit viertal zorgt ervoor dat alles net wat donkerder gaat klinken dan bij een doorsnee hardcore plaat. ‘Miserable Existence’ is een geslaagde eerste EP. Wij kijken alvast uit naar zijn opvolger die over de hele lijn misschien wat extra variatie met zich meebrengt.
 
 Score: 7,5/10
-
-&nbsp;

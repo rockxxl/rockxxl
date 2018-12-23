@@ -17,5 +17,3 @@ Opener ‘Amongst the Damned’ maakt meteen duidelijk wat we kunnen verwachten 
 In tegenstelling tot vorig werk, klinkt Chalice op ‘Ashes of Hope’ iets trager en minder agressief. Dit maakt het album net wat te aanslepend waardoor het onze concentratie al vlug verliest. Dit vijftal heeft ongetwijfeld vele fans die hun muziek zeker kunnen plaatsen. Wij missen heel wat power en daarom is ‘Ashes of Hope’ niet aan ons besteed.
 
 score: 5,5/10
-
-&nbsp;

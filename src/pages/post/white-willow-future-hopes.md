@@ -17,5 +17,3 @@ Het veranderen van een zanger(es) is vaak een gewaagde zet. Met opener en titelt
 Ik moet toegeven dat ik zelf geen die hard fan ben van progrock en daarom was White Willow me hiervoor ook onbekend. Hoewel dit misschien in het nadeel van de band speelt hadden ze me met hun twee eerste nummers meteen mee. Ook het 18 minuut durende 'Scarred View' kon me wel smaken, de rest daarentegen niet zo. 'Future Hopes' is geen alledaagse plaat en dat maakt het net speciaal of werkt averechts. De band is alles behalve gefaald in hun opzet want hun titeltrack is gewoonweg prachtig en een nummer van 18 minuten boeiend houden is geen gemakkelijke taak al is het bij deze nog maar is bewezen: less is more.
 
 score: 6/10
-
-&nbsp;

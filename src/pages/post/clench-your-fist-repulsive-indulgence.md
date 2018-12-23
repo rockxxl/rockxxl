@@ -17,5 +17,3 @@ Opener en titeltrack ‘Repulsive Indulgence’ geeft ons meteen één van de we
 Met deze plaat overtreft Clench Your Fist zichzelf opnieuw en bewijzen ze dat beatdown hardcore niet altijd hetzelfde moet zijn. Hier en daar een lekkere twist toevoegen is een stap in de goede richting om één van de groten te worden. Wij zijn er alvast steevast van overtuigd.
 
 score: 9/10
-
-&nbsp;

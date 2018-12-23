@@ -17,5 +17,3 @@ Beginnen doen we met het nummer 'In Mijn Hoofd', en dat weet ons meteen te overt
 Koen Dewulf is al enkele jaren bezig en dat is te merken aan zijn ongelofelijke aanstekelijke teksten. Een minpuntje voor ons was het contrast tussen de twee delen. Daarom wordt het ook opgesplitst in delen natuurlijk, maar Kwijt is een soort van concept en Gevonden is dan weer helemaal random. Misschien was het beter geweest om deze apart uit te brengen als 2 EP's? Het is in ieder geval wel een feit dat Koen zijn stiel kent. Met Geef Wat Je Wil heeft hij een plaatje neer gezet dat zowel op donkere als zonnige dagen onze cd-speler nog zal zien.
 
 score: 7/10
-
-&nbsp;

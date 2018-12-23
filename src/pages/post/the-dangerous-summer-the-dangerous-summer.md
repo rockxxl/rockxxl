@@ -17,5 +17,3 @@ De sterkte van deze groep, evenals andere groepen in hetzelfde genre is dat ze e
 Ons favoriete nummer op het album is ‘Wild Again’. Niet veel later gevolgd door ‘When I Get Home’, het minst favoriete nummer. Als dit nummer humor was, was het een onsmakelijk en platvloers mopje. Conclusie: dit is een album dat lichtjes in oor komt fluisteren. Ideaal om te luisteren op een zondagochtend wanneer je toch nog net iets langer in je bed wilt blijven liggen.
 
 score: 8/10
-
-&nbsp;

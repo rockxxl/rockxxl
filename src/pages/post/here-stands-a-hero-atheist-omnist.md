@@ -17,5 +17,3 @@ Openingsnummer 'Atheist' klinkt helemaal anders dan we van Here Stands A Hero ve
 Here Stands A Hero levert met Atheist // Omnist een heel veelzijdig album af met tal van invloeden waardoor het ook door een breed publiek gewaardeerd zal worden. Als je kijkt wat hun EP hen allemaal gebracht heeft, dan durven wij te voorspellen dat er met de komst van dit album nog veel meer van dat op hen staat te wachten.
 
 score: 8,5/10
-
-&nbsp;

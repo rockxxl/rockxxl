@@ -17,5 +17,3 @@ Openen doet deze EP met het nummer 'Restless'. Voor de eerste keer in de geschie
 Zelf kennen we de muziek van Valley al een tijdje en keken dan ook erg uit naar deze plaat. De band heeft zich weer maar eens bewezen binnen het genre van de post-hardcore. Met Dark Tears // Bright Smiles heeft Valley een grote stap vooruit gezet. Misschien volgende keer gewoon wat extra variatie voorzien, en de band zal wel op hun pootjes terecht komen. Het wordt anders wel eens tijd dat Groezrock op de deur van deze band komt kloppen, want ze zijn het waard.
 
 score: 8/10
-
-&nbsp;

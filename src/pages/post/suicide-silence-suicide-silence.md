@@ -19,5 +19,3 @@ De eerste twintig seconden van ‘Run’ klinken veelbelovend, maar vanaf Hermid
 Na het beluisteren van dit nieuwe album snap ik volledig waar alle commotie rond draait. Suicide Silence is zichzelf niet meer. Zij noemen het album een progressie maar ik noem het een regressie. Als ik naar Deftones of KoRn wil luisteren doe ik dat gewoon wel en zal ik niet naar dit album grijpen. Met uitzondering van drie liedjes is het korte album zijn geld niet waard. Suicide Silence heeft zo veel potentieel maar jammer genoeg wordt dit niet gebruikt. Volgende keer (hopelijk) weer beter!
 
 score: 3/10
-
-&nbsp;

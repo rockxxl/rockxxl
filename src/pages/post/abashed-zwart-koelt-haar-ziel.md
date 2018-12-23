@@ -17,5 +17,3 @@ Instrumentaal is Abashed er heel wat op veranderd ten opzichte van hun vorige re
 Desondanks is onze ziel zeker gekoeld door deze zwarter dan zwarte release. De jongens van Abashed weten waar ze mee bezig zijn en volgen duidelijk hun grote voorbeelden, en dat doen ze goed.
 
 score: 7,5/10
-
-&nbsp;

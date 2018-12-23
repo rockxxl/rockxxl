@@ -17,5 +17,3 @@ Single ‘Empire’ valt meteen met de deur in huis. Snel, hard, maar minstens e
 De ervaring van dit vijftal in vorige bands heeft hen geen windeieren gelegd. Het hele plaatje klopt: De muziek zit goed, ze maken gebruik van de juiste guestvocal, de artwork is verzorgd, de connectie tussen de bandnaam en de naam van de EP,… Arson heeft een duidelijk visie die ze reflecteren in hun sound en dat is dan ook de kracht van deze band. ‘Let’s Start a Fire’ is een stevig debuut dat ons alleen maar doet verlangen naar meer.
 
 score: 8,5/10
-
-&nbsp;

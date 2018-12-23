@@ -52,5 +52,3 @@ Zeker en vast! Sjock was één van de leukste ervaringen die we samen hebben mee
 **Wordt het eens geen tijd dat Kaiser Pils jullie gaat sponsoren?** 
 
 Ze mogen ons gerust elke week een kratje opsturen. Daarmee zijn wij al ruim tevreden!
-
-&nbsp;

@@ -60,5 +60,3 @@ Ik zal me beperken tot het punkgenre, omdat een algemene top 3 pas echt onbegonn
   3. The Damned – Damned Damned Damned
 
 [<img class="alignnone size-thumbnail wp-image-4797" src="the_damned_damned_damned_damned_1253538021_crop_550x550.jpg)
-
-&nbsp;

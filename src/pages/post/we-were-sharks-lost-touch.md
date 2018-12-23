@@ -17,5 +17,3 @@ Moderne pop punk is de laatste jaren een ware opmars aan het maken met bands zoa
 Hoewel bij verscheidene pop punk fans deze band erg in de smaak zal vallen, zijn wij nog niet overtuigd. Alles klinkt gewoon oké: niets meer, niets minder. We Were Sharks is de foute band op het foute moment. We missen een eigen originele touch en een extra (derde) gitaar is geen oplossing.
 
 Score: 6/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Tijd om rustig op gang te komen is er niet. Met 'Empyrean' worden de eerste stev
 Hexa Mera had met 'Human Entropy' al een plaatsje in mijn hart veroverd. Objectief blijven is dan niet even gemakkelijk als je een plaat als 'Enlightenment' voorgeschoteld krijgt. Eén ding is wel zeker: deze plaat knalt vanachter tot voren! Hexa Mera is zich blijven ontwikkelen en dat heeft zich geuit in meer variatie. De typische Hexa Mera sound is gebleven maar er zijn meer invloeden te horen die alles net wat interessanter maken. Nogmaals eens geweldig respect voor 'Union', wat een dijk van een plaat! 'Enlightenment' kan zonder twijfel een klein meesterwerkje genoemd worden, see for yourself!
 
 score: 9,5/10
-
-&nbsp;

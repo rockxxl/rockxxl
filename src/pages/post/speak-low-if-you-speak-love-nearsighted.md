@@ -17,5 +17,3 @@ Beginnen doen we meteen met onze persoonlijke favoriet: Contrasting Colours. Het
 ‘Nearsighted’ is een absolute voltreffer. In de laatste jaren zijn er veel nieuwe indie bands opgestaan, en het is moeilijk om hen te klasseren in hokjes. Elke band heeft z’n eigen invloed waardoor het toch steeds weer helemaal anders lijkt. Ook op ‘Nearsighted’ heeft elk nummer iets wat het uniek maakt. De nummers brengen een bepaalde eigenheid en melancholie met zich mee die het album alleen maar ten goede komen. Het album zit vol kleine details die alles naar een hoger niveau tillen. Geëxperimenteerd is er ten volle en het resultaat is een prachtige mix van pop, indie, rock, electronica, emo en shoegaze.
 
 score: 8,5/10
-
-&nbsp;

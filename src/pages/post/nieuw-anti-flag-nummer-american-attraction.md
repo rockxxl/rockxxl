@@ -9,5 +9,3 @@ permalink: /news/nieuw-anti-flag-nummer-american-attraction/
 image: antiflag-cr-atomsplitter-billboard-1548-e1503049459993.jpg
 ---
 **Anti-Flag** bracht zopas het nummer 'American Attraction' uit. Verdere info of wat er nog met het nummer gaat gebeuren is nog niet bekend.
-
-&nbsp;

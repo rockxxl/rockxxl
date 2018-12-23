@@ -17,5 +17,3 @@ Een terugkeer van een band is altijd hout vasthouden. Is de kwaliteit er nog? Is
 ‘American Nightmare’ begon zeer sterk maar ging naargelang het album vorderde toch lichtjes bergaf. Al bij al heeft de band een mooie plaat neergezet. Hoewel de veranderingen niet erg drastisch zijn, is er duidelijk geëxperimenteerd. Het zou wel saai zijn moest een band na 15 jaar een kopie afleveren van hun laatste album. Wij zijn alvast mee met American Nightmare 2.0.
 
 score: 7,5/10
-
-&nbsp;

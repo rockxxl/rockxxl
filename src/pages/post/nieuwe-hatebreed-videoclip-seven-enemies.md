@@ -9,5 +9,3 @@ permalink: /news/nieuwe-hatebreed-videoclip-seven-enemies/
 image: hatebreed-e1498150350803.jpg
 ---
 'The Concrete Confessional' van **Hatebreed** is ondertussen al weer even uit, maar de band kwam aanzetten met een videoclip voor het nummer: **Seven Enemies**.
-
-&nbsp;

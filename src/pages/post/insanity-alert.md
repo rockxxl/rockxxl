@@ -58,5 +58,3 @@ Ik denk het niet (lacht). Ik zit in Nederland in de punkband The Apers. Daar heb
 **Is het soms niet frustrerend dat jullie bekendste nummer een cover is?
   
 ** Live komt het nummer vaak men strot uit. Het is natuurlijk een ander nummer dan dat we zelf zouden maken. Het heeft ons wel kansen gegeven om ons eigen ding te doen. De tekst is wel helemaal origineel, die heb ik volledig zelf geschreven. De muziek is gewoon twee keer zo snel. Covers zijn eigenlijk ook een tribute vind ik. Wat Iron Maiden voor harde muziek heeft gedaan is wel geweldig natuurlijk. Ze hebben nooit video’s gehad op Mtv ofzo en toch verkopen ze stadia uit.
-
-&nbsp;

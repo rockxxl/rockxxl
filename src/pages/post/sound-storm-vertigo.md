@@ -17,5 +17,3 @@ Het album wordt instrumenteel ingeleid door het nummer “Vertigo” maar het is
 “Vertigo” is veruit het meest symfonische album van Sound Storm. Het album bevat meerdere klassieke elementen waaronder een koor, strijkers en klassiek piano maar deze overmeesteren de hevige gitaar en drums zeker niet. Het is zo’n 52 minuten lang, bevat een prachtig verhaal en is een echte aanrader voor fans van Sonata Arctica, Within Temptation en Haggard. Wij kunnen alvast niet wachten om deze band nog een keer aan het werk te zien.
 
 score: 9/10
-
-&nbsp;

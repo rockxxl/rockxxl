@@ -17,5 +17,3 @@ Wiegedood kwam recent aanzetten met hun nieuwe plaat, ‘De Doden Hebben Het Goe
 ‘De Doden Hebben Het Goed II’ is een gepaste titel voor dit album, aangezien het gewoon op het elan van zijn voorganger voort gaat. De band moet opletten dat ze geen ‘carbon copies’ van hun albums blijven maken, want de nummers op beide platen zijn haast verwisselbaar zodat enkel een getraind oor het verschil zou kunnen merken. Strak gespeeld, een geweldige uitvoering en een heel passende, duistere atmosfeer, maar misschien net iets te vaak van hetzelfde.
 
 score: 7,5/10
-
-&nbsp;

@@ -17,5 +17,3 @@ We beginnen met interlude 'Radiant' die eerder elektronisch klinkt in het begin,
 Over het algemeen is 'The Midas Touch' best goed. 2 Years To Apocalypse mist in sommige nummers nog wel de harmonie tussen de twee vocalists maar we zijn zeker dat dit snel goed komt. We wensen hen het allerbeste bij hun release show in de Melkweg en nog veel meer succes in de toekomst!
 
 score: 7/10
-
-&nbsp;

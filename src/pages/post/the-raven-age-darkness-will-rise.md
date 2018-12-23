@@ -17,5 +17,3 @@ Beginnen doen we met titelsong en eveneens interlude ‘Darkness Will Rise’. H
 Dit zijnde het eerste full-length album van The Raven Age, gemaakt zonder platenmaatschappij of enige hulp, vind ik dat ze het erg goed hebben gedaan. De productie zit helemaal goed, de lyrics zitten goed en de muziek in zijn geheel is ook top. Ik zie zeker in waarom Anthrax deze band heeft meegevraagd op hun Europese tour. Ik hoop snel meer te zien van deze band en ze ooit live te zien in ons kleine Belgenlandje.
 
 score: 8/10
-
-&nbsp;

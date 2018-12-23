@@ -17,5 +17,3 @@ Openers ‘Never Sure’ en ‘Hard To Be Religious…’ zijn meteen een schot 
 Net zoals veel vorige albums van Mayday Parade is ook deze ‘Sunnyland’ heel wisselvallig. Enkele top nummers, maar ook evenveel mindere. We trekken ons echter op aan het goede gedeelde van het album, want dat heeft ons toch wel erg kunnen bekoren.
 
 score: 7/10
-
-&nbsp;

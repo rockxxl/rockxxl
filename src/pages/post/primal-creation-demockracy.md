@@ -19,5 +19,3 @@ Over het algemeen is het een zeer sterk eerste album. Met zijn politiek–maatsc
 score: 7,5/10
 
 
-
-&nbsp;

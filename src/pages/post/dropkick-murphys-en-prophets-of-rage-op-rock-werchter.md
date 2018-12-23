@@ -9,5 +9,3 @@ permalink: /news/dropkick-murphys-en-prophets-of-rage-op-rock-werchter/
 image: Dropkick-Murphys-2011-dropkick-murphys-20110766-2560-1603-111-e1486156920615.jpg
 ---
 Rock Werchter liet vandaag weer wat namen op de wereld los. Niemand minder dan Dropkick Murphys zal het hoofdpodium op 2 juli onveilig maken. Spijtig genoeg is dit niet de dag van o.a. Blink 182 en System of a Down. Buiten Dropkick Murphys werd ook Prophets of Rage bekend gemaakt. Prophets of Rage is een nieuwe band met leden van o.a. Rage Against The Machine, Cyprus Hill en Public Enemy. Deze band speelt op donderdag 19 juli.
-
-&nbsp;

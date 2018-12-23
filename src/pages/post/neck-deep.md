@@ -42,5 +42,3 @@ Het zal in elk geval nog zeker een jaar duren. We zijn nog niet begonnen met sch
 **Is het niet verschrikkelijk moeilijk om steeds, in een relatief korte tijd, een heel album te schrijven?**
 
 Absoluut! Veel keuze heb je echter niet als band. Met elk album hebben we wel eens het gevoel dat we niet genoeg nummers hebben of dat ze niet goed genoeg zijn,… Hoe dan ook komt alles in de laatste minuut toch samen. Het is een job en die moet je gewoon gedaan krijgen.
-
-&nbsp;

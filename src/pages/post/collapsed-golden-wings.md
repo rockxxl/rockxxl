@@ -17,5 +17,3 @@ Toen de drums begonnen na een instrumentale piano-introductie en een korte riff,
 Zoals ik al zei is deze EP voorbij voor je het weet, dus het is een echte powerhouse waar het moeilijk is om je aandacht ook maar één moment te verliezen. Ik heb alvast mijn hoofd bijna heel de tijd heen en weer geschud bij het horen van dit plaatje. Een lekker debuut van deze vrij nieuwe band.
 
 score: 7,5/10
-
-&nbsp;

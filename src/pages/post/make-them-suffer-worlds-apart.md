@@ -17,5 +17,3 @@ Die moderne sound manifesteert zich vooral in de gitaren en de clean vocals van 
 Desondanks enkele kinderziektes die elke band die experimenteert met hun sound wel eens doormaakt, is ‘Worlds Apart’ een gepaste titel voor dit album. Het staat mijlenver van hun oudere werk, maar elk album van Make Them Suffer is wel een wereld apart. Deze band is duidelijk thuis in hun genre en weet van elk van de subgenres de vruchten te plukken en de positieve elementen te incorporeren in hun latere werk. Verwacht geen ‘Neverbloom’, verwacht geen ‘Old Souls’, maar verwacht een aparte wereld van melodie en grooviness.
   
 score: 8,5/10
-
-&nbsp;

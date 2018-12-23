@@ -17,5 +17,3 @@ Veel tijd om na te denken is er niet. Opener ‘Pig With a Kid’ start zonder i
 We zijn steeds te vinden voor een portie old school rock ’n roll en zijn daarom erg blij met deze ‘Bonneville Bastards’. Muzikaal klinkt deze strak, rauw, maar toch zet Freeloader, mede door de vocals, een gemakkelijk luisterbare sound neer.  Deze EP rockt als nooit tevoren en daar draait het toch allemaal om, niet?
 
 score: 7,5/10
-
-&nbsp;

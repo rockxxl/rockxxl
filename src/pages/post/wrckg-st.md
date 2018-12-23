@@ -17,5 +17,3 @@ Meteen vliegen we er zwaar in met single ‘Certainty.’ Vocalist Jurjen’s v
 Deze relatief korte EP heeft ons duidelijk gemaakt waar WRCKG staan qua genre dankzij hun consequentie in de volledige EP. Er zijn natuurlijk veel hardcore bands die in dezelfde lijn liggen als deze maar als je daar van houdt is WRCKG misschien wel dé band van de lage landen in dit genre. Wij wensen hun alvast veel succes in hun veelbelovende toekomst!
 
 Score: 8/10
-
-&nbsp;

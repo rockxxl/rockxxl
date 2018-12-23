@@ -17,5 +17,3 @@ Als invloeden geeft deze band op hun facebookpagina onder andere Crowbar en Mesh
 De belangrijkste missie van deze band is dus geslaagd. Een demo opnemen die in twee nummers niet weet te vervelen. Een mooi begin van deze jonge Belgische band die geen gebrek heeft aan ervaring. Hopelijk blijft deze band hard werken en krijgen we binnenkort meer te horen.
 
 score: 7,5/10
-
-&nbsp;

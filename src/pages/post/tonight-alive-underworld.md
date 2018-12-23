@@ -17,5 +17,3 @@ Het album ‘Underworld’ bestaat uit dertien nummers waarvan twee collabs zijn
 Tonight Alive is en blijft een band die nummers schrijft over de harde realiteit: psychisch onwel zijn, liefdesverdriet, niet geaccepteerd worden, etc. Dit laten ze weer sterk naar voor komen in ‘Underworld’. Het album zal niet bij al hun fans in de smaak vallen. Net als bij hun vorig album ‘Limitless’, is de pop punk vibe die je van Tonight Alive verwacht af en toe ver te zoek, maar we kunnen dit geen slecht album noemen. Het is goed opgebouwd en de lyrics zijn zeer rakend en poëtisch. Tonight Alive wordt volwassener, dat is erg te merken aan hun sound. Muzikaal is het album zeer sterk, maar wat meer variatie en iets meer swung had toch weer een puntje gescheeld.
 
 score: 7/10
-
-&nbsp;

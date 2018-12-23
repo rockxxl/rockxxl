@@ -62,5 +62,3 @@ _Rien_: Fysieke dragers zullen altijd onderdeel zijn van muziek. Muziekliefhebbe
 **Wat is de volgende grote stap voor Arson?**
 
 _Fabian_: Eerst werken we naar onze set op Jera on Air en vervolgens RockXXL  Fest. In het najaar hebben we ook nog een pak coole shows gepland, maar de focus ligt wel al bij het schrijven van nieuw materiaal voor een nieuwe release. Momenteel houden we het vuur van onze EP nog brandende. Let’s start a fire!
-
-&nbsp;

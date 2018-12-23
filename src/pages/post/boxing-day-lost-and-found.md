@@ -17,5 +17,3 @@ Openen doet deze EP met 'Father's Day'. Het nummer kent een stevige start met de
 Fans van pop punk en emo zijn bij 'Lost and Found' aan het juiste adres. De kracht van Boxing Day zit hem in de variatie, zonder hun eigen sound te verliezen. De vraag is natuurlijk hoe dit overkomt op een langspeler maar van de 18 minuten die we met 'Lost and Found' voorgeschoteld krijgen hebben we alvast erg genoten. Als Boxing Day als de zelfde sneltrein blijft doorgaan kijken we al uit naar hun volgende plaat begin 2018!
 
 score: 7,5/10
-
-&nbsp;

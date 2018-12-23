@@ -17,5 +17,3 @@ De bekendheid van de band begon te groeien nadat de songs 'Freak' en 'Chrysalis'
 Je merkt al heel snel dat The Maension de lat hoog legt en dat ze een uiterst kwalitatief album willen afleveren. Wel, het opzet is gelaagd. The Maension zal in het najaar touren in België. Op 24 november spelen ze op het festival Rocking Thals 4 Live dat zal doorgaan in Herentals. Wij kijken er naar uit en hopen de band nog vaak aan het werk te zien.
 
 score: 9/10
-
-&nbsp;

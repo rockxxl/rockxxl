@@ -19,5 +19,3 @@ tickets en info:
 </blockquote>
 
 
-
-&nbsp;

@@ -9,5 +9,3 @@ permalink: /news/nieuwe-xandria-videoclip-call-of-destiny/
 image: xandria2-e1484734863164.jpg
 ---
 Xandria brengt binnenkort hun nieuwe langspeler 'Theater of Dimensions' uit. Vandaag liet de band hun eerste single op de wereld los: Call Of Destiny.
-
-&nbsp;

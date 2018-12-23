@@ -66,5 +66,3 @@ review Dance of the Horae:
 </blockquote>
 
 
-
-&nbsp;

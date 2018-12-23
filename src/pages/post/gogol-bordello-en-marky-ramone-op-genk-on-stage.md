@@ -13,5 +13,3 @@ Het Genk On Stage festival in Genk liet weten dat niemand minder dan Gogol Borde
 info + tickets:
 
 http://www.genkonstage.be/nl
-
-&nbsp;

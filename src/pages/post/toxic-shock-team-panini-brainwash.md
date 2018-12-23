@@ -15,5 +15,3 @@ Begin vorig jaar werd de dertigste verjaardag van het nummer 'Walk This Way' van
 Openen doet de EP met de ongelofelijk aanstekelijke single 'Brainwash'. Toxic Shock zingt voor een keer in het Nederlands en ook Team Panini weet zoals gewoonlijk het beste van zichzelf te geven in hun moedertaal. Het nummer klinkt lekker agressief en is zonder problemen keihard mee te brullen door zijn sociale context. Muzikaal doet het ons ook een beetje denken aan 'Bring The Noise' van Public Enemy en Anthrax. Met het nieuwe nummer 'Kak Op Flik' krijgen we een even fantastisch en vergelijkbaar vervolg op 'Brainwash'. Het nummer 'Beastie Boys' is dan weer een straight forward hardcorepunk nummer enkel gebracht wordt door Toxic Shock. Misschien was deze niet noodzakelijk op de EP, maar met 'Brainwash' en 'Kak Op Flik' hebben we er twee nummers bij die zonder twijfel grijsgedraaid gaan worden op onze platenspeler.
 
 score: 7,5/10
-
-&nbsp;

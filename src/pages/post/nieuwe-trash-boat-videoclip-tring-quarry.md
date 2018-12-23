@@ -9,5 +9,3 @@ permalink: /news/nieuwe-trash-boat-videoclip-tring-quarry/
 image: Trash-Boat-band-2016-e1498148751430.jpg
 ---
 De eerste langspeler 'Nothing I Write You Can Change What You've Been Through' van **Trash Boat** kwam exact een jaar geleden op de markt. Dit viert de band met een videoclip voor het nummer '**Tring Quarry**'.
-
-&nbsp;

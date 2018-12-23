@@ -17,5 +17,3 @@ Openen doet 'I Ate Myself To Grow Twice As Big' in stijl. 'Melæna' begint met g
 Consouling Sounds brengt veel donkere platen op de markt, maar ook het noise/ ambient gebeuren krijgt een hoop aandacht op dit Gentse platenlabel. Laat het nu net een mengeling van deze twee zijn waar 30,000 Monkies mee aan de slag is gegaan. I Ate Myself To Grow Twice As Big is chaotischer, minder gestroomlijnd maar vooral ook meer noisy dan zijn voorgangers. Dit plaatje duurt 40 minuten met als gevolg dat hij zwaar op je maag ligt. Het voordeel is wel dat deze goedkoper is als drugs, met hetzelfde resultaat!
 
 score: 7,5/10
-
-&nbsp;

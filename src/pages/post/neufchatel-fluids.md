@@ -17,5 +17,3 @@ Het nummer ‘Scenery’ heeft de taak om dit plaatje te openen. Alles start rus
 Neufchâtel is zo’n band die goochelt met muziek. Droge rock wordt omgetoverd tot een heus schouwspel van noise gemengd met psychedelische elementen die wel eens donker uit de hoek durven te komen. Nu is het enkel nog kwestie om kwaliteit te blijven houden. ‘Fluids’ is een klein meesterwerkje geworden en daar mag dit vier-tal zeker en vast trots op te zijn!
 
 score: 8,5/10
-
-&nbsp;

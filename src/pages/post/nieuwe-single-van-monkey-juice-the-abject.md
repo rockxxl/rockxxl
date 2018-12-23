@@ -9,5 +9,3 @@ permalink: /news/nieuwe-single-van-monkey-juice-the-abject/
 image: 19390612_1514376998640058_3353967301749462675_o-e1525871263399.jpg
 ---
 Het Belgische post-metal landschap kent tegenwoordig een mooi aantal bands. Ook het Waaslandse Monkey Juice is daar één van. Na een album (2015) en twee singles (2017) komt de band ook dit keer weer aanzetten met twee singles, die ze verzamelen op een limited edition cassette. Het nummer 'The Abject' kreeg een bijpassende videoclip.
-
-&nbsp;

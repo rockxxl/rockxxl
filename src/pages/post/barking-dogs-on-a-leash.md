@@ -17,5 +17,3 @@ Na de 39 seconden durende intro, waar we de herkomst van de bandnaam leren kenne
 Deze EP is zeker een aanrader voor de liefhebbers van het hardere genre en heeft bovendien ook nog eens een deftige opnamekwaliteit, wat niet van elke (debuut) EP gezegd kan worden. Barking Dogs heeft alles in huis om het helemaal te maken. Deze band gaat nog potten breken!
 
 score: 8/10
-
-&nbsp;

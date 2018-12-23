@@ -17,5 +17,3 @@ Openen doet deze demo met titelsong ‘Forge’. Dit nummer klokt net geen ander
 Onder het motto ‘kort maar krachtig’ kwam Forge aanzetten met deze demo. Iedereen die houdt van oudere punk en niet vies is van een beetje kritiek is bij deze aan het juiste adres. Onze honger is enkel nog niet gestild met deze zes minuten. Op naar een volgende plaat.
 
 score: 7/10
-
-&nbsp;

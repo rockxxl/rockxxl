@@ -44,5 +44,3 @@ Ja, jammer genoeg wel, dat was onze slechtste show ooit. De micro van Derek werk
 **Wat vinden jullie het leukste: concerten of festivals?**
 
 Het is waarschijnlijk niet het antwoord dat je witl, maar ik vind ze allebei even leuk. Ook al speelden we op Pukkelpop onze slechtste set ooit, ik kon diezelfde dag wel nog Rihanna gaan bekijken en dat was super cool! Festivals zijn leuk om de reden dat je andere bands kan gaan bekijken. Niets kan echter op tegen het headlinen van je eigen tour.
-
-&nbsp;

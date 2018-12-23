@@ -56,5 +56,3 @@ Ja, we houden van kaassoufles. Ik ben niet zeker hoe de Engelse fans zullen reag
 **Je hebt de laatste tijd veel getourd in België en Nederland. Wat vind je zo leuk aan deze landen en ken je al Nederlandse woorden (buiten kaassouffle)?**
 
 Wat ik het leukste vindt aan België en Nederland zijn de mensen. Ook het bier is niet mis. Het voelt als thuis. Ik heb ondertussen ook al een hele hoop vrienden daar. Ik hou er ook van om ze te bezoeken ook al ben ik niet aan het touren. Misschien heb ik er ooit wel een vriendin, misschien een job en misschien zelfs een huis. Mijn Nederlands wordt met de dan beter. Ik kan tot 20 tellen, eten en drinken bestellen, en ik probeer ook de kranten en magazines te verstaan.
-
-&nbsp;

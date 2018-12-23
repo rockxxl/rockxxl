@@ -17,5 +17,3 @@ De plaat hakt er vanaf seconde één al genadeloos op in. Opener ‘Kowloon’ g
 Google leert ons dat Hibakusha letterlijk slachtoffers van een explosie betekent. Deze benaming wordt gebruikt voor de slachtoffers van de atoombommen op Hiroshima en Nagasaki. Het Japanse aspect vinden we ook terug in het erg mooie artwork van dit album.  Hibakusha levert een zeer degelijke plaat af die zowel in het metal- als het coregenre veel aanhang zal krijgen. Als je ziet wat ze met hun EP al bereikt hebben, gaan ze met dit album nog heel wat potten breken. Voorlopig staat er maar één Belgische show op hun planning, maar dat kunnen er spoedig wel eens veel meer worden.
 
 score: 8,5/10
-
-&nbsp;

@@ -17,5 +17,3 @@ Als eerste krijgen we het nummer ‘Absent Shadow’ voorgeschoteld. Die luister
 Mensen die houden van dromerige maar vooral rustigere muziek zijn bij Mermaid aan het juiste adres. De variatie maakt alles toch wat interessanter. De gitaarsolo’s en bijzondere geluiden creëren een aparte sound waardoor de band opvalt. Heb je twintig minuutjes tijd: ga comfortabel zitten en luister eens naar ‘Mermaid’. Je zal het je zeker niet beklagen.
 
 score: 7,5/10
-
-&nbsp;

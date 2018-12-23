@@ -17,5 +17,3 @@ Tijdens het opnameproces zat de band zonder drummer. Gelukkig konden ze beroep d
 Ondanks het feit dat Fireforce bij alle drie albums telkens een andere bezetting had, wisten ze hun eigen herkenbare sound ook dit keer goed te behouden. Ze passen perfect in het rijtje van power metal grootheden zoals Grave Digger en Sabaton. Grijp die luchtgitaar al maar bij de hand. Wij kijken reikhalzend uit naar wat 2018 voor de deze band zal brengen.
 
 score: 8/10
-
-&nbsp;

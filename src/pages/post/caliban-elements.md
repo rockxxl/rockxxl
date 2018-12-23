@@ -17,5 +17,3 @@ Met 'This Is War' opent 'Elements' met een knaller van formaat. Dit nummer bevat
 Echt verrassen doet Caliban met 'Elements' niet en ik zou het zeker niet als hun beste album ooit beschouwen. Toch zal dit album menig metalcorefan kunnen bekoren: brutale en energieke songs, lekkere breakdowns, fijne gitaarsalvo's en de brutale strot van Andreas Dörner in combinatie met clean vocals. Dit album is duidelijk een voortzetting van Gravity en je weet wat ze zeggen: Never change a winning team, al krijg ik bij sommige nummers echt wel het gevoel dat we dit allemaal al eens eerder gehoord hebben.
 
 score: 7,5/10
-
-&nbsp;

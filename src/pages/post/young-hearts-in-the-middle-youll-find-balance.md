@@ -17,5 +17,3 @@ Beginnen doet 'In The Middle You'll Find Balance' met intro 'Roll In The Hay'. D
 Met 'In The Middle You'll Find Balance' sta je een dik half uur garant voor misschien wel de snelste punkrock van België. Tegenover de EP 'Now's My Time' is er in deze plaat meer variatie gestoken, en laat dat nu net zijn wat we vooraf een beetje miste. 'In The Middle You'll Find Balance' is een knaller van een debuut geworden dat zonder twijfel nog verschillen potten zal breken. Nog steeds niet overtuigd? Kom dan volgende week meebrullen op Groezrock want het kan daar nog wel eens een feestje gaan worden!
 
 score: 8,5/10
-
-&nbsp;

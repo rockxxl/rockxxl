@@ -17,5 +17,3 @@ Ondanks wat line-up wissels bleven enkel drummer Doctor en bassist DedMoroz over
 Wij kunnen met plezier zeggen dat dit een opkomend talent zal worden waar we in de toekomst veel van zullen horen. De band heeft al support verzorgt voor grotere namen en is zopas op tour geweest met niemand minder dan Nervosa. In 2018 plannen ze terug een Europese tour en hopen we ze live aan het werk te kunnen zien. Als ze live knallen zoals op 'Game On' mogen we ons verwachten aan een energieke live show waar stilstaan zeer moeilijk zal zijn.
 
 score: 9/10
-
-&nbsp;

@@ -9,5 +9,3 @@ permalink: /news/app-in-de-kijker-cymbal-instagram-voor-muziek/
 image: Screen-Shot-2016-03-21-at-4.23.43-PM-e1496842587611.png
 ---
 Wij kwamen onlangs terecht op de app 'Cymbal'. Deze Amerikaanse app is zoals onze titel vermeld de instagram voor muziek. Zoek een nummer, deel het, en bekijk wat jou vrienden luisteren. Cymbal wordt verbonden met o.a. spotify waardoor je een gigantisch bereik hebt van nummers. Bovendien is de app volledig gratis. Nieuwe muziek ontdekken? Eén adres: Cymbal!
-
-&nbsp;

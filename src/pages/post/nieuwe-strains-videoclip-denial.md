@@ -9,5 +9,3 @@ permalink: /news/nieuwe-strains-videoclip-denial/
 image: 15676129_1209469595813837_811467960031282477_o-e1493292475399.jpg
 ---
 De Belgische hardcoreband Strains kwam zopas aanzetten met hun nieuwe single en videoclip: Denial. Een volgend album is nog niet in zicht maar lang zal dit ook niet meer duren.
-
-&nbsp;

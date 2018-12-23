@@ -17,5 +17,3 @@ Open doet 'The Art of Resilience' met 'The Set Up (Innocence Presumed)'. Het num
 De kracht van 'The Art of Resilience' is ongetwijfeld variatie. Met verschillende gastmuzikanten en een mengeling tussen hardrock, classic rock en melodieuze elementen is de doelgroep voor deze band enorm hoog. Eveneens is er muzikaal bij Beyond The Labyrinth geen vuiltje aan de lucht. 'The Art of Resilience' is ondertussen de vierde plaat van deze band, maar ook absoluut de beste. Het album duurt een uur en deze vliegt zo voorbij. Hopelijk krijgt Beyond The Labyrinth nu wel de aandacht die ze verdienen, wij geloven er alvast in!
 
 score: 8,5/10
-
-&nbsp;

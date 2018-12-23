@@ -19,5 +19,3 @@ Het album duurt, ondanks er maar 10 nummers zijn, langer dan een uur. Met tracks
 score: 8/10
 
 
-
-&nbsp;

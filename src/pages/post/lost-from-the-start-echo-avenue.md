@@ -17,5 +17,3 @@ Het Limburgse Lost From The Start werd opgericht in januari waarna ze meteen ee
 Drie nummers zijn niet veel maar wel perfect om kennis te maken met een band. Daarin is Lost From The Start dan ook geslaagd in hun opzet. Snelle gitaren, een rustiger nummer en aanstekelijke teksten zijn aanwezig op 'Echo Avenue'. Een perfecte basis als je het mij vraagt. Ik ben alvast benieuwd wat de toekomst nog gaat brengen voor deze band.
 
 score: 7/10
-
-&nbsp;

@@ -62,5 +62,3 @@ Punk in zijn puurste vorm kan je voor mijn part nog steeds vinden in bands als B
 Niet echt. Ook weer veel te moeilijk. Ik luister graag naar verschillende subgenres binnen _de punk_. Dat maakt een top 3 opstellen zo moeilijk. Alle platen en bands die ik hier heb vernoemd hebben op een of andere manier een speciaal plaatsje in mijn hart en in mijn platenkast gekregen. Daarenboven ben ik er zeker van dat ik nu nog een heleboel platen die me na aan het hart liggen, niet heb vermeld… Me vragen een top 3 op te stellen, is bijna evenwaardig aan een ouder vragen een favoriet kind te kiezen. Dus, kortom: sorry… No top 3 for me…
 
 Ach ja, muziek… ’t Is me wat!
-
-&nbsp;

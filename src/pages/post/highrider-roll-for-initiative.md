@@ -17,5 +17,3 @@ Met opener ‘Nihilist Lament’ weet de band meteen een krachtige start neer te
 Highrider kan met ‘Roll For Initiave’ wel een beetje het buitenbeentje van de thrash metalscene genoemd worden. Hun teksten zijn allesbehalve standaard en ook hun muziek wijkt af van wat we als ‘normaal’ aanschouwen. Natuurlijk maakt dit alles Highrider wel uniek en dat is een ongelofelijk pluspunt. Thrash maakt de laatste jaren een soort revival met bands als Evil Invaders. Wij zijn nog eens blij om dit genre te zien in een andere context. Hoewel de band misschien nog niet de hoogste toppen scoort qua songwriting, zowel muzikaal als tekstueel, hebben we ons plezier zeker gehad. ‘Roll For Initiative’ is de moeite om zelf eens te beluisteren, maar vergeet je knop van standaard thrash metal niet om te zetten.
 
 score: 7/10
-
-&nbsp;

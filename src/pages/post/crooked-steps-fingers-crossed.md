@@ -17,5 +17,3 @@ De band beschrijft hun stijl als moderne bluesrock en dat is ook wat we te horen
 Fingers Crossed van Crooked Steps is om te beginnen niet het meest originele plaatje, maar das is ook niet erg als het rockt zoals het nu doet. Wij zijn alvast erg fan van het aanstekelijke geluid van deze band en ook een nummer als Hello World kan ons echt wel bekoren. Zoals Equal Idiots vorig jaar bewees in De Nieuwe Lichting zit er toekomst in rockduo's. De volgende zou wel eens Crooked Steps kunnen zijn, Fingers Crossed.
 
 score: 7/10
-
-&nbsp;

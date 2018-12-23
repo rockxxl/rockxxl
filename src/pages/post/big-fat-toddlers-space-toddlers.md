@@ -17,5 +17,3 @@ Starten doet Big Fat Toddlers met ‘BFT’, dat uiteraard een afkorting is van 
 Wij zijn altijd blij met plaatjes zoals deze ‘Space Toddlers’. Niet omdat de muziek zo technisch of speciaal is, maar gewoon omdat toffe pop punk ons gelukkig maakt. De nummers klinken leuk en luisteren gemakkelijk. We betwijfelen of de band ooit de top van de Belgische punkrock zal bereiken, maar voor een punkrock feestje is er maar één adres: Big Fat Toddlers.
 
 score: 6,5/10
-
-&nbsp;

@@ -11,5 +11,3 @@ image: rabid-e1484398599383.jpg
 Midden 2014 werd Rabid Wolves opgericht met leden van o.a. Violent City. Vandaag kondigde dit Limburge vijftal aan dat de band ermee ophoud. De reden is tijdgebrek met hun andere bands waaronder punkband Steele Justice.
 
 
-
-&nbsp;

@@ -17,5 +17,3 @@ Openingstrack ‘New Endeavours’ en ‘Gaia Prevails/ Man Fails’ maken metee
 The Big Game is een zeer degelijke EP die door de  combinatie van hardcore en rap (voor mij) een fijne afwisseling is en zich echt wel weet te onderscheiden. Hoe meer ik naar deze EP luister, hoe meer spijt ik krijg dat we er niet bij waren op Ieperfest. Hopelijk kan deze EP hen naar het pad leiden dat veel van hun H8000-voorgangers al bewandelden. Ik kijk in elk geval uit naar liveshows van dit vijftal. Het zou ons niet verbazen moest dat volgende zomer op één van de grotere festivals zijn.
 
 score: 8,5/10
-
-&nbsp;

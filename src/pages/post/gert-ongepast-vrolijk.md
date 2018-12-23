@@ -17,5 +17,3 @@ Beginnen doen we met single ‘Vrolijk Lied’. Meteen krijgen we de akoestische
 Ongepast Vrolijk is de ondertussen al vijfde plaat van Gert en nog steeds doet hij wat hij vijf albums geleden deed: kritiek geven en vrolijke akoestische nummers maken. Van ons hoeft het ook niet anders te zijn. Soms niet al te strak of evengoed gezongen maar hier gaat het grotendeels ook om de teksten. Misschien zullen velen deze plaat niet dansbaar of agressief genoeg vinden om onder de noemer punk te plaatsen… pech!  Ongepast Vrolijk is een simpel en vrolijk plaatje dat ons doet nadenken over bepaalde zaken. Meer moet dat niet zijn.
 
 score: 7/10
-
-&nbsp;

@@ -17,5 +17,3 @@ De toon van het album wordt gezet met de kerkelijke intro ‘Deaftone’. Na een
 ‘Dog Days On Deck’ is een tof punkplaatje geworden. Niets al te vernieuwends, maar muzikaal en ook tekstueel goed gebracht. Haast je naar de website van Bearded Punk Records. Als hun cd even snel is uitverkocht als hun release show zijn we nog niet aan de nieuwe patatjes. ‘Dog Days On Deck’ is in ieder geval wel de moeite, neem dat maar van ons aan.
 
 score: 8/10
-
-&nbsp;

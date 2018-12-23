@@ -17,5 +17,3 @@ In een wereld van terroristen en oorlog is er Insanity Alert om het lichtpuntje 
 Met hun tweede plaat 'Moshburger' heeft Insanity Alert er een uitstekend visitekaartje bij. Geweldige muziek, een mooie artwork,&#8230; een perfecte plaat als je het mij vraagt. De thrashwereld heeft er sinds 2011 een band bij die met 'Moshburger' klaar is om de wereld te veroveren, let op mijn woorden!
 
 score: 8,5/10
-
-&nbsp;

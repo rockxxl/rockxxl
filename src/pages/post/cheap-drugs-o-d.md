@@ -17,5 +17,3 @@ O.D. trapt af met het album Angst. Vanaf het nummer ‘Bottled Up Tight’ tot �
 Cheap Drugs brengt stevige, catchy muziek die lekker agressief naar voren komt. Live heeft deze band een stevige reputatie, maar de opnames van Cheap Drugs moeten absoluut niet onderdoen. Back to basics en gewoon keihard knallen, dat is alles wat deze band doet, maar ze doen het verdomt goed ook. Het is met O.D. drie kwartier rammen geslagen. Dit zijn van die bands die hardcorepunk interessant houden. Als ze dan nog eens komen aanzetten met een plaat die 24 nummers telt zijn wij al helemaal tevreden!
 
 score: 8/10
-
-&nbsp;

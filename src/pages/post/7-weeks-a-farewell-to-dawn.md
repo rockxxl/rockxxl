@@ -17,5 +17,3 @@ A Farewell To Dawn start met het vijf minuut durende ‘King in the Mud’. De s
 7 Weeks heeft met ‘A Farewell To Dawn’ een mooi plaatje neer gezet. Stonerrock op en top al had de sound voor ons toch wat vettiger gemogen. 7 Weeks klinkt een beetje als de Foo Fighters die zich drie weken niet gewassen hebben. De fans van muzikaal hoogstaande stonerrock zullen deze plaat zonder twijfel erg smaken.
 
 score: 7/10
-
-&nbsp;

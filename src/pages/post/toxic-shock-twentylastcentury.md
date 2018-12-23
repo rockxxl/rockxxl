@@ -19,5 +19,3 @@ We hadden niet anders verwacht van dit Antwerpse vijftal, maar ‘Twentylastcent
 score: 9/10
 
 
-
-&nbsp;

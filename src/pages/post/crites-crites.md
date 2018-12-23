@@ -17,5 +17,3 @@ Meer dan een seconde feedback is er niet nodig voor Crites om op gang te komen m
 Crites kan met hun instrumenten overweg en dat bewijzen ze op dit self-titled album dan ook dubbel en dik. Hoewel hun muziek voor ons misschien net op het randje ligt van 'muzikantenmuziek', zijn er toch enkele nummers die we als pareltjes kunnen bestempelen.
 
 score: 8/10
-
-&nbsp;

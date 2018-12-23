@@ -17,5 +17,3 @@ Beginnen doen we met het nummer ‘Passenger’. Passenger wordt ingezet met een
 Een herkenbare sound, genoeg variatie en ijzersterke muzikanten is al wat je nodig hebt voor de succescocktail die we ‘Divided Kingdom’ noemen. Het is lang geleden dat we nog een plaat hebben gehoord waar je gewoonweg van weet dat er bloed, zweet en tranen zijn aan vooraf gegaan. Elk nummer opnieuw weet Off The Cross ons te verbazen. Wat een dijk van een plaat, wat een debuut! Ik moet er bijna een traantje bij wegpinken.
 
 score: 9,5/10
-
-&nbsp;

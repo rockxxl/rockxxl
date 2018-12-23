@@ -9,5 +9,3 @@ permalink: /news/nieuw-while-she-sleeps-nummer-en-videoclip-silence-speaks-ft-ol
 image: fb5236c584c90c51f8477db888dcf2f8-e1487857623518.jpg
 ---
 While She Sleeps brengt binnenkort hun nieuwe album 'You Are We' uit. De band liet vandaag een video op de wereld los voor het nummer 'Silence Speaks'. De band verzorgde onlangs het voorprogramma van Bring Me The Horizon en nu is frontman Oli Sykes ook te horen in Silence Speaks.
-
-&nbsp;

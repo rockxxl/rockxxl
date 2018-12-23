@@ -17,5 +17,3 @@ Openen doet 'Still Standing' met single 'Habits'. Deze legt meteen een mooie bas
 'Still Standing' van False Archetypes is een debuut met karakter. Hoewel het alles behalve vernieuwend klinkt weet deze band er toch in te slagen om zich duidelijk te onderscheiden van andere bands in het genre. False Archetypes mag trots zijn op 'Still Standing'. Met een debuut als deze zijn we erg benieuwd naar de volgende stappen die deze band nog gaat zetten. Neem het van ons aan, een band om in de gaten te houden!
 
 score: 7,5/10
-
-&nbsp;

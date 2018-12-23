@@ -17,5 +17,3 @@ Openen doet ‘On The Sideline’ met jawel: On The Sideline. Vergezeld door een
 Er zijn absoluut betere zangers, maar gevoelsmatig zit dit plaatje meer dan goed. Drie nummers en een cover is niet al te veel, maar ‘On The Sideline’ is wel een toffe kennismaking met Bram Desimpelaere. Op naar de volgende!
 
 score: 6,5/10
-
-&nbsp;

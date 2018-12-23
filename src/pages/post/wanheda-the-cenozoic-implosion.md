@@ -17,5 +17,3 @@ De Belgische post-rock wereld is weer een band rijker! In tegenstelling tot Brut
 Wanheda heeft met ‘The Cenozoic Implosion’ een prachtig debuut neergezet. De muziek weet je aandacht volledig op te eisen en loodst je zonder moeite door het album heen. Voordat je het goed beseft is het half uur voorbij gevlogen. Enkel de zacht, hard, zacht structuren konden naar onze mening wat interessanter. Deze waren in elk nummer hetzelfde. Wanheda neemt je in elk geval mee op een trip en zet je met beide voeten terug op de grond!
 
 score: 8/10
-
-&nbsp;

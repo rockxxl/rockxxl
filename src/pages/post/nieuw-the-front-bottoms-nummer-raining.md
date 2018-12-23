@@ -9,5 +9,3 @@ permalink: /news/nieuw-the-front-bottoms-nummer-raining/
 image: front-e1503684833552.jpg
 ---
 13 oktober komt het nieuwe **The Front Bottoms** album 'Going Grey' uit. In afwaching van het album werd het nummer '**Raining**' op de wereld losgelaten.
-
-&nbsp;

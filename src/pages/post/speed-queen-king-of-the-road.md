@@ -17,5 +17,3 @@ Openen doet deze EP met single 'Midnight Murder'. De toon wordt alvast in stijl 
 Speed Queen, de belofte van de Belgische thrashmetal, heeft met 'King Of The Road' een prachtig eerste plaatje neergezet. De nummers doen je instant headbangen en meezingen, wat ons dan ook weer doet verlangen naar een liveshow. Niets al te vernieuwend, maar de kracht van Speed Queen zit hem de aanstekelijkheid van de teksten en muziek. Over een debuut gesproken!
 
 score: 8,5/10
-
-&nbsp;

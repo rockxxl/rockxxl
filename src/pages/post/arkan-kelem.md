@@ -19,5 +19,3 @@ Het is geen gemakkelijke taak om ons een uur geboeid te laten luisteren naar een
 Score: 8,5/10
 
 
-
-&nbsp;

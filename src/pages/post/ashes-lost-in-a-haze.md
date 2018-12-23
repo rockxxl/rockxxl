@@ -19,5 +19,3 @@ Het nummer dat er voor ons het meeste uitspringt is ‘Certain Death (ft. Johann
 Deze Belgische band doet zeker niet onder voor muziek uit ons eigen kleine landje. Het album is een mix van korte en iets langere songs maar graag hadden we allemaal full-length nummers gehad omdat ze echt goed zijn. Ashes is zeker en vast een band om naar uit te kijken voor alle hardcore-liefhebbers die de band nog niet kenden. Wij vinden ze alvast top, en dat hebben zo nog maar eens bevestigd met 'Lost In A Haze'.
 
 Score: 8/10
-
-&nbsp;

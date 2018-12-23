@@ -60,5 +60,3 @@ Goh, even nadenken&#8230; Er zijn in de loop der jaren al veel micro's en kabels
 **Er zijn al heel wat Belgische podia gepasseerd maar welke staan nog op jullie verlanglijstje?**
 
 Nog een heleboel. Graspop, Rock Herk, Alcatraz,&#8230;  Zolang er maar zotten zijn die ons willen boeken en een fair bod doen, willen we overal spelen. Of we nu spelen op grote of kleine podia, in een kelder of op een dak, in openlucht of in een donker hol, het maakt allemaal niet uit. De shows die we in Frankrijk, Italië en Portugal speelden waren fantastisch. Nederland en Duitsland zijn ook altijd fijn. Het is al even geleden dat we de plas overstaken om voet te zetten op Engelse bodem. Scandinavië en Amerika staan zeker ook op ons verlanglijstje.
-
-&nbsp;

@@ -11,5 +11,3 @@ image: CC2017-e1490210584863.jpg
 Coma Commander brengt op 26 april een split 7&#8243; vinyl uit met de Nederlands punkrockband Harsh Realms. Een nummer dat zeker op deze vinyl is staan is 'The Untold Story Of The Kid In The Back'.
 
 
-
-&nbsp;
