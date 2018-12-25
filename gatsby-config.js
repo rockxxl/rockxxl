@@ -15,15 +15,15 @@ module.exports = {
         {
             resolve: "gatsby-source-filesystem",
             options: {
-                path: `${__dirname}/src/pages/post`,
-                name: "post",
+                path: `${__dirname}/src/pages/category`,
+                name: "category",
             },
         },
         {
             resolve: "gatsby-source-filesystem",
             options: {
-                path: `${__dirname}/src/pages/category`,
-                name: "category",
+                path: `${__dirname}/src/pages/post`,
+                name: "post",
             },
         },
         {
@@ -65,6 +65,7 @@ module.exports = {
         },
     ],
     mapping: {
-        "MarkdownRemark.frontmatter.category": "MarkdownRemark.frontmatter.title",
+        "MarkdownRemark.fields.categories": "MarkdownRemark",
+        "MarkdownRemark.fields.posts": "MarkdownRemark",
     },
 };

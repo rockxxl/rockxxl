@@ -1,9 +1,11 @@
 const path = require("path");
 const slugify = require("slugify");
-
 const { createFilePath } = require("gatsby-source-filesystem");
+const { templates, relations } = require("./src/gatsby/index");
 
-exports.onCreateNode = ({ node, getNode, actions }) => {
+exports.onCreateNode = ({
+    node, getNode, actions,
+}) => {
     const { createNodeField } = actions;
 
     if (node.internal.type === "MarkdownRemark") {
@@ -19,66 +21,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     }
 };
 
-exports.createPages = ({ actions, graphql }) => {
-    const { createPage, createRedirect } = actions;
-    const postTemplate = path.resolve("src/templates/post.js");
-    const categoryTemplate = path.resolve("src/templates/category.js");
+exports.createPages = ({ actions, graphql }) => templates({ actions, graphql });
 
-    return graphql(`
-    {
-      allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
-        edges {
-            node {
-              fileAbsolutePath
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                author
-                permalink
-                band
-                date
-                image
-                groups
-                album
-                category {
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    title
-                  }
-                }
-              }
-            }
-          }
-      }
-    }
-  `).then(({ errors, data }) => { // eslint-disable-line
-        if (errors) return Promise.reject(errors);
-
-        data.allMarkdownRemark.edges.forEach(({ node }) => {
-            const template = node.fileAbsolutePath.includes("/src/pages/post/")
-                ? postTemplate
-                : categoryTemplate;
-
-            createPage({
-                path: node.fields.slug,
-                component: template,
-                context: {},
-            });
-
-            if (node.frontmatter.permalink) {
-                createRedirect({
-                    fromPath: node.frontmatter.permalink,
-                    toPath: node.fields.slug,
-                    isPermanent: true,
-                });
-            }
-        });
-    });
-};
+exports.sourceNodes = ({ actions, getNodes, getNode }) => relations({ actions, getNodes, getNode });
