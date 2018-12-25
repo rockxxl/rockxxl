@@ -1,7 +1,7 @@
 ---
 id: 2972
 title: Akkerpop 2017
-category: Live review
+category: Live reviews
 date: 2017-08-29T18:04:18+00:00
 author: Seppe Van Ael
 layout: post

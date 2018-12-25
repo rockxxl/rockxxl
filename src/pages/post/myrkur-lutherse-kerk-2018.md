@@ -1,7 +1,7 @@
 ---
 id: 3985
 title: Myrkur (Lutherse Kerk, 2018)
-category: Live review
+category: Live reviews
 date: 2018-01-20T16:11:48+00:00
 author: Seppe Van Ael
 layout: post

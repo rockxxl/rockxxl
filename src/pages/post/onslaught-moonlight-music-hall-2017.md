@@ -1,7 +1,7 @@
 ---
 id: 3118
 title: Onslaught (Moonlight Music Hall, 2017)
-category: Live review
+category: Live reviews
 date: 2017-10-04T18:44:48+00:00
 author: Seppe Van Ael
 layout: post

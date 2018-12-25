@@ -1,7 +1,7 @@
 ---
 id: 1866
 title: State Champs (Trix, 2017)
-category: Live review
+category: Live reviews
 date: 2017-03-14T16:32:24+00:00
 author: Seppe Van Ael
 layout: post

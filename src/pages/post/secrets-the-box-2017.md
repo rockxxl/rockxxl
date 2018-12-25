@@ -1,7 +1,7 @@
 ---
 id: 3547
 title: Secrets (The Box, 2017)
-category: Live review
+category: Live reviews
 date: 2017-12-10T14:04:11+00:00
 author: Seppe Van Ael
 layout: post

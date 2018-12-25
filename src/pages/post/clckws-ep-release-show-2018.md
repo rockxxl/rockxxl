@@ -1,7 +1,7 @@
 ---
 id: 4277
 title: CLCKWS EP Release Show 2018
-category: Live review
+category: Live reviews
 date: 2018-02-18T13:36:47+00:00
 author: Seppe Van Ael
 layout: post

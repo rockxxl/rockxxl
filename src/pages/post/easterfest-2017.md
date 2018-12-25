@@ -1,7 +1,7 @@
 ---
 id: 2057
 title: Easterfest 2017
-category: Live review
+category: Live reviews
 date: 2017-04-03T15:39:02+00:00
 author: Seppe Van Ael
 layout: post

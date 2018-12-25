@@ -1,7 +1,7 @@
 ---
 id: 2876
 title: Lokerse Feesten 2017 (woensdag)
-category: Live review
+category: Live reviews
 date: 2017-08-11T10:48:17+00:00
 author: Seppe Van Ael
 layout: post

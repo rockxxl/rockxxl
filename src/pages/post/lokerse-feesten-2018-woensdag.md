@@ -1,7 +1,7 @@
 ---
 id: 5398
 title: Lokerse Feesten 2018 (woensdag)
-category: Live review
+category: Live reviews
 date: 2018-08-13T11:35:02+00:00
 author: Seppe Van Ael
 layout: post

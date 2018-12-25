@@ -1,7 +1,7 @@
 ---
 id: 5258
 title: De Belgen op Graspop Metal Meeting 2018
-category: Live review
+category: Live reviews
 date: 2018-06-23T11:04:39+00:00
 author: Seppe Van Ael
 layout: post

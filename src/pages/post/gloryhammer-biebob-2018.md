@@ -1,7 +1,7 @@
 ---
 id: 4040
 title: Gloryhammer (Biebob, 2018)
-category: Live review
+category: Live reviews
 date: 2018-01-27T17:16:35+00:00
 author: Seppe Van Ael
 layout: post

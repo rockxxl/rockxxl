@@ -1,7 +1,7 @@
 ---
 id: 4478
 title: Knives To A Gunfight (JH Zigzag, 2018)
-category: Live review
+category: Live reviews
 date: 2018-03-11T12:17:55+00:00
 author: Seppe Van Ael
 layout: post

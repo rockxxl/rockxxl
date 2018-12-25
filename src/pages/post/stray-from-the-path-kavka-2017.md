@@ -1,7 +1,7 @@
 ---
 id: 3161
 title: Stray From The Path (Kavka, 2017)
-category: Live review
+category: Live reviews
 date: 2017-10-15T14:19:16+00:00
 author: Seppe Van Ael
 layout: post

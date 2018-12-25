@@ -1,7 +1,7 @@
 ---
 id: 2088
 title: Bury Tomorrow (Kavka, 2017)
-category: Live review
+category: Live reviews
 date: 2017-04-06T12:02:43+00:00
 author: Seppe Van Ael
 layout: post

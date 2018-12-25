@@ -1,7 +1,7 @@
 ---
 id: 3385
 title: Xandria (Moonlight Music Hall, 2017)
-category: Live review
+category: Live reviews
 date: 2017-11-23T18:54:37+00:00
 author: Seppe Van Ael
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 206
 title: Dijkrock 2016
-category: Live review
+category: Live reviews
 date: 2016-09-05T13:51:55+00:00
 author: Seppe Van Ael
 layout: post

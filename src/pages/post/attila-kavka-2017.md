@@ -1,7 +1,7 @@
 ---
 id: 2189
 title: Attila (Kavka, 2017)
-category: Live review
+category: Live reviews
 date: 2017-04-15T14:16:59+00:00
 author: Seppe Van Ael
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 3839
 title: Wolves Scream (JH Korridor, 2018)
-category: Live review
+category: Live reviews
 date: 2018-01-14T18:31:05+00:00
 author: Seppe Van Ael
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 118
 title: Bring Me The Horizon (Vorst Nationaal, 2016)
-category: Live review
+category: Live reviews
 date: 2016-11-14T07:55:14+00:00
 author: Seppe Van Ael
 layout: post

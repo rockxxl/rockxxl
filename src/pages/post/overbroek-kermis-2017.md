@@ -1,7 +1,7 @@
 ---
 id: 3073
 title: Overbroek Kermis 2017
-category: Live review
+category: Live reviews
 date: 2017-09-16T17:47:26+00:00
 author: Seppe Van Ael
 layout: post

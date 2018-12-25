@@ -1,7 +1,7 @@
 ---
 id: 4059
 title: Escape The Fate (JC De Klinker, 2018)
-category: Live review
+category: Live reviews
 date: 2018-01-28T13:16:04+00:00
 author: Seppe Van Ael
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 3404
 title: Set Things Right Goodbye Show 2017
-category: Live review
+category: Live reviews
 date: 2017-11-26T11:36:36+00:00
 author: Seppe Van Ael
 layout: post

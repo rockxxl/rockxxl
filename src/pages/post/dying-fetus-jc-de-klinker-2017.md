@@ -1,7 +1,7 @@
 ---
 id: 3325
 title: Dying Fetus (JC De Klinker 2017)
-category: Live review
+category: Live reviews
 date: 2017-11-11T11:10:52+00:00
 author: Seppe Van Ael
 layout: post

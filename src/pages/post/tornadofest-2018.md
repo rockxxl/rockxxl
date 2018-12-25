@@ -1,7 +1,7 @@
 ---
 id: 4547
 title: Tornadofest 2018
-category: Live review
+category: Live reviews
 date: 2018-03-25T13:38:46+00:00
 author: Seppe Van Ael
 layout: post

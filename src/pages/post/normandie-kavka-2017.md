@@ -1,7 +1,7 @@
 ---
 id: 3498
 title: Normandie (Kavka, 2017)
-category: Live review
+category: Live reviews
 date: 2017-12-04T14:41:09+00:00
 author: Seppe Van Ael
 layout: post

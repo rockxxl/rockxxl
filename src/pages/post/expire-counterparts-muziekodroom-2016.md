@@ -1,7 +1,7 @@
 ---
 id: 836
 title: Expire + Counterparts (Muziekodroom, 2016)
-category: Live review
+category: Live reviews
 date: 2016-12-09T17:04:38+00:00
 author: Seppe Van Ael
 layout: post

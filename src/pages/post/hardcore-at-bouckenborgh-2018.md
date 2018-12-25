@@ -1,7 +1,7 @@
 ---
 id: 4968
 title: Hardcore At Bouckenborgh 2018
-category: Live review
+category: Live reviews
 date: 2018-05-27T18:59:51+00:00
 author: Seppe Van Ael
 layout: post

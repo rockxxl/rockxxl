@@ -1,7 +1,7 @@
 ---
 id: 1948
 title: Korricore 2017
-category: Live review
+category: Live reviews
 date: 2017-03-19T19:31:31+00:00
 author: Seppe Van Ael
 layout: post

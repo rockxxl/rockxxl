@@ -1,7 +1,7 @@
 ---
 id: 4872
 title: Rock Louwel 2018 (woensdag)
-category: Live review
+category: Live reviews
 date: 2018-05-10T13:46:57+00:00
 author: Seppe Van Ael
 layout: post

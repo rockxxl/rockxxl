@@ -1,7 +1,7 @@
 ---
 id: 3276
 title: Never Say Die Tour 2017
-category: Live review
+category: Live reviews
 date: 2017-11-05T19:28:02+00:00
 author: Seppe Van Ael
 layout: post

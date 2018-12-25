@@ -1,7 +1,7 @@
 ---
 id: 3487
 title: Nasty + Lionheart (Zappa, 2017)
-category: Live review
+category: Live reviews
 date: 2017-12-03T15:14:11+00:00
 author: Seppe Van Ael
 layout: post

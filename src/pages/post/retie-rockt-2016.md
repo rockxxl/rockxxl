@@ -1,7 +1,7 @@
 ---
 id: 284
 title: Retie Rockt 2016
-category: Live review
+category: Live reviews
 date: 2016-06-13T13:39:53+00:00
 author: Seppe Van Ael
 layout: post

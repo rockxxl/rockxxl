@@ -1,7 +1,7 @@
 ---
 id: 1584
 title: Set Things Right album release (Zappa, 2017)
-category: Live review
+category: Live reviews
 date: 2017-02-20T10:54:07+00:00
 author: Seppe Van Ael
 layout: post

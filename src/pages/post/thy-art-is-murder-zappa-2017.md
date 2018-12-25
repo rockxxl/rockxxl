@@ -1,7 +1,7 @@
 ---
 id: 3238
 title: Thy Art Is Murder (Zappa, 2017)
-category: Live review
+category: Live reviews
 date: 2017-10-31T10:49:57+00:00
 author: Seppe Van Ael
 layout: post

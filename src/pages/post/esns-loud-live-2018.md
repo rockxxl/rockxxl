@@ -1,7 +1,7 @@
 ---
 id: 3966
 title: ESNS Loud Live 2018
-category: Live review
+category: Live reviews
 date: 2018-01-18T21:57:22+00:00
 author: Seppe Van Ael
 layout: post

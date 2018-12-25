@@ -1,7 +1,7 @@
 ---
 id: 748
 title: The Amity Affliction (Trix, 2016)
-category: Live review
+category: Live reviews
 date: 2016-12-04T14:29:47+00:00
 author: Seppe Van Ael
 layout: post

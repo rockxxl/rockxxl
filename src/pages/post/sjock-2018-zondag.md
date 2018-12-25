@@ -1,7 +1,7 @@
 ---
 id: 5325
 title: Sjock 2018 (zondag)
-category: Live review
+category: Live reviews
 date: 2018-07-12T06:45:46+00:00
 author: Seppe Van Ael
 layout: post

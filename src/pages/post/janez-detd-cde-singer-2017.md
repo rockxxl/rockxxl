@@ -1,7 +1,7 @@
 ---
 id: 2105
 title: Janez Detd. (De Singer, 2017)
-category: Live review
+category: Live reviews
 date: 2017-04-07T07:47:38+00:00
 author: Seppe Van Ael
 layout: post

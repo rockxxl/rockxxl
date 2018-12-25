@@ -1,7 +1,7 @@
 ---
 id: 3321
 title: Nails (Muziekodroom, 2017)
-category: Live review
+category: Live reviews
 date: 2017-11-10T10:52:27+00:00
 author: Seppe Van Ael
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 2203
 title: Thy Art Is Murder + Being As An Ocean (Zappa, 2017)
-category: Live review
+category: Live reviews
 date: 2017-04-19T07:35:21+00:00
 author: Seppe Van Ael
 layout: post

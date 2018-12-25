@@ -1,7 +1,7 @@
 ---
 id: 4373
 title: Homer Farewell Show 2018
-category: Live review
+category: Live reviews
 date: 2018-02-25T15:18:43+00:00
 author: Seppe Van Ael
 layout: post

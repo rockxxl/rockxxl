@@ -1,7 +1,7 @@
 ---
 id: 2763
 title: Sjock 2017 (zaterdag)
-category: Live review
+category: Live reviews
 date: 2017-07-10T18:46:51+00:00
 author: Seppe Van Ael
 layout: post

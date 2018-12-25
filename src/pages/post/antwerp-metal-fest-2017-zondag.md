@@ -1,7 +1,7 @@
 ---
 id: 2790
 title: Antwerp Metal Fest 2017 (zondag)
-category: Live review
+category: Live reviews
 date: 2017-08-11T13:24:08+00:00
 author: Seppe Van Ael
 layout: post

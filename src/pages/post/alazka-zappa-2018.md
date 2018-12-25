@@ -1,7 +1,7 @@
 ---
 id: 4860
 title: Alazka (Zappa, 2018)
-category: Live review
+category: Live reviews
 date: 2018-05-10T09:27:08+00:00
 author: Seppe Van Ael
 layout: post

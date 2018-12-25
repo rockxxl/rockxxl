@@ -1,7 +1,7 @@
 ---
 id: 4533
 title: Deez Nuts (Muziekodroom, 2018)
-category: Live review
+category: Live reviews
 date: 2018-03-24T15:23:06+00:00
 author: Seppe Van Ael
 layout: post

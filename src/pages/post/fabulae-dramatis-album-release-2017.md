@@ -1,7 +1,7 @@
 ---
 id: 3151
 title: Fabulae Dramatis album release 2017
-category: Live review
+category: Live reviews
 date: 2017-10-09T17:19:30+00:00
 author: Seppe Van Ael
 layout: post

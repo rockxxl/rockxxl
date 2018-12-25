@@ -1,7 +1,7 @@
 ---
 id: 5070
 title: Moose Blood (Kavka, 2018)
-category: Live review
+category: Live reviews
 date: 2018-05-31T12:17:55+00:00
 author: Seppe Van Ael
 layout: post

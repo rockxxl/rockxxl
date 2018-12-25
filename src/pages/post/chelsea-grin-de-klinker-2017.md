@@ -1,7 +1,7 @@
 ---
 id: 1454
 title: Chelsea Grin (De Klinker, 2017)
-category: Live review
+category: Live reviews
 date: 2017-02-08T15:16:40+00:00
 author: Seppe Van Ael
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 3084
 title: Turnover (JC Den Eglantier, 2017)
-category: Live review
+category: Live reviews
 date: 2017-09-17T19:35:54+00:00
 author: Seppe Van Ael
 layout: post

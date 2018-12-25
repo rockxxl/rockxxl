@@ -1,7 +1,7 @@
 ---
 id: 4382
 title: Carnifex (Muziekodroom, 2018)
-category: Live review
+category: Live reviews
 date: 2018-02-28T19:23:43+00:00
 author: Seppe Van Ael
 layout: post

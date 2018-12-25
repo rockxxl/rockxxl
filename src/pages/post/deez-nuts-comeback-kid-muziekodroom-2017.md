@@ -1,7 +1,7 @@
 ---
 id: 1507
 title: Deez Nuts + Comeback Kid (Muziekodroom, 2017)
-category: Live review
+category: Live reviews
 date: 2017-02-13T17:16:16+00:00
 author: Seppe Van Ael
 layout: post
