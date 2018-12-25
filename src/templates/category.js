@@ -1,16 +1,27 @@
+/* eslint-disable react/no-danger */
 import React from "react";
 import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import Container from "../components/Container";
 
 export default function Template({
-    data, // this prop will be injected by the GraphQL query below.
+    data,
 }) {
-    const { markdownRemark } = data; // data.markdownRemark holds our post data
-    const { frontmatter, html } = markdownRemark;
+    const { markdownRemark } = data;
+    const {
+        frontmatter: {
+            title,
+        }, html,
+    } = markdownRemark;
     return (
-        <article>
-            <h1>{frontmatter.title}</h1>
-            <div dangerouslySetInnerHTML={{ __html: html }} />
-        </article>
+        <Layout>
+            <Container>
+                <article>
+                    <h1>{title}</h1>
+                    <div dangerouslySetInnerHTML={{ __html: html }} />
+                </article>
+            </Container>
+        </Layout>
     );
 }
 

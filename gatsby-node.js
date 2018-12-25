@@ -21,7 +21,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = ({ actions, graphql }) => {
     const { createPage, createRedirect } = actions;
-    const blogPostTemplate = path.resolve("src/templates/post.js");
+    const postTemplate = path.resolve("src/templates/post.js");
+    const categoryTemplate = path.resolve("src/templates/category.js");
 
     return graphql(`
     {
@@ -31,6 +32,7 @@ exports.createPages = ({ actions, graphql }) => {
       ) {
         edges {
             node {
+              fileAbsolutePath
               fields {
                 slug
               }
@@ -60,9 +62,13 @@ exports.createPages = ({ actions, graphql }) => {
         if (errors) return Promise.reject(errors);
 
         data.allMarkdownRemark.edges.forEach(({ node }) => {
+            const template = node.fileAbsolutePath.includes("/src/pages/post/")
+                ? postTemplate
+                : categoryTemplate;
+
             createPage({
                 path: node.fields.slug,
-                component: blogPostTemplate,
+                component: template,
                 context: {},
             });
 

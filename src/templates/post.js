@@ -6,7 +6,6 @@ import Grid from "styled-components-grid";
 import styled from "styled-components";
 import { p } from "styled-components-spacing";
 import Layout from "../components/Layout";
-// import Container from "../components/Container";
 
 const Wrapper = styled(Grid)`
     display: flex;
@@ -37,13 +36,17 @@ export default function Template({
     data, // this prop will be injected by the GraphQL query below.
 }) {
     const { markdownRemark } = data; // data.markdownRemark holds our post data
-    const { frontmatter, html } = markdownRemark;
+    const {
+        frontmatter: {
+            title,
+        }, html,
+    } = markdownRemark;
     return (
         <Layout>
             <Wrapper>
                 <Content size={{ md: 3 / 4 }}>
                     <Article>
-                        <h1>{frontmatter.title}</h1>
+                        <h1>{title}</h1>
                         <div dangerouslySetInnerHTML={{ __html: html }} />
                     </Article>
                 </Content>
