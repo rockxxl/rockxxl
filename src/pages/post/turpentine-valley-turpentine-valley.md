@@ -8,7 +8,7 @@ date: 2018-02-24T13:59:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-turpentine-valley-turpentine-valley/
-image: Naamloos-e1519040222440.png
+image: Naamloos.png
 ---
 Na hun demo (2016) komt het Oost-Vlaamse Turpentine Valley aanzetten met hun eerste EP die eveneens de naam ‘Turpentine Valley’ krijgt. Alles wat ‘post-‘ in de naam heeft staan, wist de laatste jaren menig muziek fan te overtuigen. Post-rock, post-metal of post-hardcore: Turpentine Valley doet het allemaal. Het trio gaat back to the roots en vult acht nummers met enkel een gitaar, een bas en een drum.
 

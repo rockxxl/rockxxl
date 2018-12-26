@@ -8,7 +8,7 @@ date: 2017-05-16T16:44:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-titans-change-of-heart/
-image: Cover-e1494952801433.png
+image: Cover.png
 ---
 Titans, een gloednieuwe melodische hardcoreband uit Beveren, bracht eind april zonder veel aanleiding een videoclip uit voor hun single ‘Change Of Heart’. Geloof het of niet, maar deze jongens hebben ook al een EP opgenomen, die ze hopelijk binnenkort aan de wereld kunnen tonen. Titans ontstond uit de restanten van bands als onder andere Disobedience, The Wrong Kid Died en Heads Up High, dus ervaren zijn deze jongens zeker en vast al. Deze EP telt 7 nummers en zitten allemaal bomvol passie voor muziek.
 

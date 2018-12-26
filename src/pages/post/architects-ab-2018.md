@@ -6,7 +6,7 @@ date: 2018-02-05T16:12:28+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-architects-ab-2018/
-image: DJsOk5kX0AA1YHK-e1517846843451.jpg
+image: DJsOk5kX0AA1YHK.jpg
 ---
 **Eén februari, een dag waar ik al lang naar uitkeek. Niet omdat ik mijn schoolresultaten eindelijk zou weten, maar omdat ik Counterparts(!!!), While She Sleeps (!!) en Architects(!) live zou gaan zien in AB. Mijn hoge verwachtingen werden voldaan en soms ook overtroffen.**
 

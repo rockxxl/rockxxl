@@ -7,7 +7,7 @@ date: 2018-02-19T15:50:07+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-filip-tyskens-mantis/
-image: 24991050_1751647348239678_3040195628561705507_n-e1519055006884.jpg
+image: 24991050_1751647348239678_3040195628561705507_n.jpg
 ---
 **Het Limburgse Mantis komt binnenkort aanzetten met hun nieuwste plaat 'Magnolia'. In tussentijd doken wij met bassist Filip in zijn platenkast om te zien wat die te bieden heeft. Met een kort maar krachtig resultaat als gevolg.  **
 

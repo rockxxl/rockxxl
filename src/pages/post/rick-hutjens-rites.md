@@ -7,7 +7,7 @@ date: 2018-06-05T10:25:33+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-rick-hutjens-rites/
-image: 1505495_10207101181316289_567156715778934612_n-e1528194322726.jpg
+image: 1505495_10207101181316289_567156715778934612_n.jpg
 ---
 **Met hun nieuwe EP 'Misery Is Company' zakte de Nederlandse hardcore punk band Rites af naar Engeland. Ook zien we deze heren en dame meer en meer verschijnen in ons eigen Belgenlandje. Als we de band tegenkomen op een optreden praat drummer Rick maar al te graag over muziek. Dat is dan ook de reden dat we met hem in zijn platenkast doken.     **
 

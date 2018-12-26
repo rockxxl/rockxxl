@@ -8,7 +8,7 @@ date: 2017-04-09T16:58:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-hexa-mera-enlightenment/
-image: 16251854_1322726327750384_7045817867883193562_o-e1491756396853.jpg
+image: 16251854_1322726327750384_7045817867883193562_o.jpg
 ---
 Het Mechelse Hexa Mera staat ondertussen al weer zeven jaar op de planken. De band veroverde in 2013 een plaatsje op het podium van Graspop en niet veel daarna brachten ze hun geweldige eerste full album 'Human Entropy' uit. Het was weer even stil rond deze metalband maar het was stilte voor de storm. Hun nieuwe plaat 'Enlightenment' ligt sinds één april in de rekken en dat is geen grap, in tegendeel. Met het succes van 'Human Entropy' hadden we wat schrik dat evenaren moeilijk zou zijn maar onderschat Hexa Mera nooit! Dat is bij deze nog maar eens gebleken.
 

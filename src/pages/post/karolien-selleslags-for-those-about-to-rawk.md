@@ -7,7 +7,7 @@ date: 2017-11-29T10:56:06+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-karolien-selleslags-for-those-about-to-rawk/
-image: 14022159_986913954739562_7319825014190934766_n-e1511696665926.jpg
+image: 14022159_986913954739562_7319825014190934766_n.jpg
 ---
 **Karolien Selleslags staat aan het roer van For Those About To Rawk. Als boeker van hardcore en punk shows in het Antwerpse is ze geen onbekende meer. Tijd dus om eens samen met haar de platenkast open te trekken met enkele bekende en minder bekende pareltjes als gevolg. Zet alvast je youtube of spotify open want er valt hier nog wat te ontdekken!**
 

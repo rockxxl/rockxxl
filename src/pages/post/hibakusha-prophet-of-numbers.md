@@ -8,7 +8,7 @@ date: 2018-03-14T16:16:36+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-hibakusha-prophet-of-numbers/
-image: 27545729_1153539228083079_7474565799049095457_n-e1521044167545.jpg
+image: 27545729_1153539228083079_7474565799049095457_n.jpg
 ---
 Het met je EP tot op het podium van o.a. Fortarock schoppen? Je moet het maar doen. In 2016 is de Nederlandse band Hibakusha met hun EP ‘Incarnation’ die een jaartje eerder het levenslicht zag hier in geslaagd. 19 maart brengt deze Haarlemse band met ‘Prophet Of Numbers’ hun debuutalbum uit.
 

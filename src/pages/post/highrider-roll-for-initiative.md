@@ -8,7 +8,7 @@ date: 2018-01-30T19:14:23+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-highrider-roll-for-initiative/
-image: brentt-e1517339152659.jpg
+image: brentt.jpg
 ---
 Highrider is het alter ego van vier olijke thrash metallers uit Zweden. Na hun EP ‘Armageddon Rock’ komen ze aanzetten met hun eerste langspeler: Roll For Initiave. Zoals hun albumtitels en artwork al doen veronderstellen, hebben deze heren het over ridders, draken en de met een korreltje zout genomen geschiedenis van Zweden. Verwacht geen vrolijke Gloryhammerachtige toestanden, maar een portie donkere boardgame metal.
 

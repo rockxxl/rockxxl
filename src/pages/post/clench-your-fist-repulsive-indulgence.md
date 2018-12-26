@@ -8,7 +8,7 @@ date: 2018-08-17T19:06:30+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-clench-your-fist-repulsive-indulgence/
-image: clench-e1534532679299.png
+image: clench.png
 ---
 De Genkse ‘koldermosh’ beatdownformatie Clench Your Fist brengt komende zaterdag 18 augustus hun nieuwe langspeler ‘Repulsive Indulgence’ uit. Na de eerdere kleppers die ‘Threat Of Life’ en ‘Break The Jaw’ waren, weten we niet of België wel klaar is voor 11 nieuwe tracks aan Limburgse mepmuziek. Hun single ‘Look At Me’ beloofde alvast veel goeds, dus wij waren benieuwd of de rest van dit album ook kon verrassen.
 

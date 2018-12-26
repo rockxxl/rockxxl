@@ -7,7 +7,7 @@ date: 2018-04-24T12:18:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-emile-dekeyser-london-bullet/
-image: 14900422_10209332199134719_8711378885916337820_n-e1524571628548.jpg
+image: 14900422_10209332199134719_8711378885916337820_n.jpg
 ---
 **Wie van de kanten van Gent is en af en toe eens een lokaal punk optreden bezoekt, zal ongetwijfeld al wel gehoord hebben van London Bullet. Deze band bestaat ondertussen ook weer acht jaar. Wij gingen praten met London Bullet frontman Emile over zijn platenkast. **
 

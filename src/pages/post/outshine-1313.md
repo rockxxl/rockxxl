@@ -8,7 +8,7 @@ date: 2018-07-28T14:06:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-outshine-1313/
-image: 30739522_1215549765248652_3151441099194373628_n-e1532786415373.jpg
+image: 30739522_1215549765248652_3151441099194373628_n.jpg
 ---
 Het Zweedse Outshine kwam zopas aanzetten met hun alweer vierde langspeler ‘1313’. Hun eerste plaat in vijf jaar, want dat is de tijd die Outshine gemiddeld gebruikt voor het uitbrengen van een album. Ja hoor, deze band bestaat alweer 22 jaar!
 

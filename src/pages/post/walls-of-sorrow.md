@@ -7,7 +7,7 @@ date: 2017-11-09T20:31:32+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-walls-of-sorrow/
-image: wos-eter-e1510262220262.jpg
+image: wos-eter.jpg
 ---
 **De Kempische hardcore band Walls Of Sorrow hield er begin dit jaar mee op. Na een knaller van een afscheidsshow werd een klein jaar later een comeback show aangekondigd, met jawel, een nieuwe zanger. Dit vijftal is nog niet aan hun laatste adem toe, zoveel is zeker. Wij gingen aan tafel met gitarist en oprichter Sven om te praten over hoe het nu gesteld staat met Walls Of Sorrow en wat we nog mogen verwachten de komende maanden.**
 

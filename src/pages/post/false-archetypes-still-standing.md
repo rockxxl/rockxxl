@@ -8,7 +8,7 @@ date: 2017-03-20T21:48:22+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-false-archetypes-still-standing/
-image: a3074942511_10-e1490043757547.jpg
+image: a3074942511_10.jpg
 ---
 Punkrock en in het bijzonder pop punk wordt zienderogen populairder en populairder. Dit geldt eveneens voor het in 2013 opgerichte False Archetypes. Met 'Still Standing' komt deze band aanzetten met hun eerste echte plaatje. Vijf nummers lang staan we garant voor een portie vrolijke female fronted pop punk. Punkbands met een vrouw aan de micro worden al vlug geassocieerd met Paramore maar False Archetypes gaat verder dan dat, en dat is 'Still Standing'.
 

@@ -7,7 +7,7 @@ date: 2018-02-15T15:18:44+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-anthony-joosen-titans/
-image: 22089411_10203909900865797_495209669254288041_n-e1517568284517.jpg
+image: 22089411_10203909900865797_495209669254288041_n.jpg
 ---
 **Deze zomer speelde Titans hun eerste show op ons eigen RockXXL Fest. Een dik half jaar later heeft de band een hele hoop optredens achter de rug en er staan er nog een hele hoop gepland. Wij spraken met bassist Anthony over wat zijn platenkast.**
 

@@ -8,7 +8,7 @@ date: 2017-10-22T19:08:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-deathwish-st/
-image: 22046853_1883100805287378_5459153679657489046_n-e1508698862378.jpg
+image: 22046853_1883100805287378_5459153679657489046_n.jpg
 ---
 In 2016 werd de metalscene opnieuw een band rijker want in het Vlaams-Brabantse Opwijk zag **Deathwish** het levenslicht. Eerder deze maand brachten ze hun eerste selftitled EP uit. Hun facebookpagina belooft ons 'dark metalcore'. Tijd om het schijfje eens te checken.
 

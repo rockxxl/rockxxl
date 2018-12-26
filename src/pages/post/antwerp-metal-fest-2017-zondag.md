@@ -6,7 +6,7 @@ date: 2017-08-11T13:24:08+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-antwerp-metal-fest-2017-zondag/
-image: antwerpppp-e1496759151966.jpg
+image: antwerpppp.jpg
 ---
 **Het Bouckenborghpark in Merksem werd dit jaar voor de ondertussen vijfde keer omgetoverd tot Antwerp Metal Fest. Het doet deugd om festivals als deze elk jaar meer en meer te zien groeien. Bovenaan de poster stonden dit jaar dan ook niemand minder dan Sepultura en Death Angel. Wij brachten op zondag een bezoek aan het festival en keerden 's avonds terug met pijn in het hart, maar vooral in onze nek van het headbangen op een hele hoop fantastische acts. **
 

@@ -7,7 +7,7 @@ date: 2017-12-06T14:09:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-stijn-debontridder-get-off-my-shoes-the-rocket/
-image: 15492154_10154931381719940_8978133222906726936_n-e1512567629151.jpg
+image: 15492154_10154931381719940_8978133222906726936_n.jpg
 ---
 **Voor de meeste Belgische punk fans is Stijn geen onbekend figuur meer. Met zijn bands Get Off My Shoes en The Rocket speelde hij al podiums als Groezrock plat en stond hij mee aan de wieg van Thanks But No Thanks Records. Wij doken samen met Stijn zijn platenkast in. **
 

@@ -6,7 +6,7 @@ date: 2017-08-11T10:48:17+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-lokerse-feesten-2017-woensdag/
-image: lokerseeeeee-e1502441586443.jpg
+image: lokerseeeeee.jpg
 ---
 **Voor de eerste keer in 43 jaar tijd kondigde de Lokerse Feesten dit jaar een punk dag aan. Met niemand minder dan The Offspring en Pennywise vanboven aan de affiche kon het op 9 augustus niet anders dan een groot feest worden op de Grote Kaai in Lokeren. Wij gingen een kijkje nemen op dit uiterst gezellige festival met enkele ups en downs als gevolg.  **
 

@@ -6,7 +6,7 @@ date: 2018-01-14T18:31:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-wolves-scream-jh-korridor-2018/
-image: 22728659_1538631472883033_2844132640635408500_n-e1515954198308.jpg
+image: 22728659_1538631472883033_2844132640635408500_n.jpg
 ---
 **Zaterdag 13 januari zijn we al vrij vroeg onderweg naar Beerse voor de eerste shows van het nieuwe jaar. Jeugdhuis Korridor heeft verschillende bands uitgenodigd om hun podium af te komen breken.**
 

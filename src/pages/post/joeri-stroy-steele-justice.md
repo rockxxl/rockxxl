@@ -7,7 +7,7 @@ date: 2018-01-30T12:43:53+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-joeri-stroy-steele-justice/
-image: 19642521_10155389505026904_9223293464453144070_n-e1517315285915.jpg
+image: 19642521_10155389505026904_9223293464453144070_n.jpg
 ---
 **In 2015 ontstond uit de assen van verschillende bands een nieuwe punkrocksensatie met de naam Steele Justice. Bijna drie jaar later bracht de band een eerste langspeler uit en ook hun lijst met te spelen show wordt steeds langer en langer. Gitarist Joeri was er al vanaf dag één bij. Joeri gidste ons door zijn platenkast en bewees nog maar eens dat hij ook buiten zijn band een doorwinterde punk fan is.  **
 

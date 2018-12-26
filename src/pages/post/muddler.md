@@ -7,7 +7,7 @@ date: 2018-08-14T11:49:22+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-muddler/
-image: muddler1-e1534246931951.jpg
+image: muddler1.jpg
 ---
 **Vlaanderen heeft de hype van de Nederlandstalige parodiemuziek te pakken. Er zijn echter nog bands die net het tegenovergestelde doen: muziek maken met tekstueel heel wat diepgang, in het Nederlands weliswaar. Zo'n band is het Lierse Muddler. Met een nieuwe plaat in het vooruitzicht, ging RockXXL praten met zanger Fons, bassist Ben en drummer Maxim.  **
 

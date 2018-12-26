@@ -7,7 +7,7 @@ date: 2018-02-27T15:04:35+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-tim-nonneman-diss-guy/
-image: 10329123_155719491477230_2373330260358362111_n-e1519742353331.jpg
+image: 10329123_155719491477230_2373330260358362111_n.jpg
 ---
 **Hardcore, punk,&#8230; als het kind maar een naam heeft. Dat is het motto van de zelfbenoemde boze band Diss Guy uit Aarschot. Wij raakten aan de praat met zanger Tim en doken in zijn platenkast.**
 

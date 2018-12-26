@@ -8,7 +8,7 @@ date: 2017-05-15T14:18:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-altitude-dram-o-rama/
-image: altitude-seppe-e1494853995500.jpg
+image: altitude-seppe.jpg
 ---
 Na een meer dan geslaagd debuut 'Benihana' kwam het Antwerpse Altitude aanzetten met hun nieuwste wapenfeit 'Dram-O-Rama'. De titel van het album zal velen doen denken aan de 'Punk-O-Rama' albumreeks en dat is ook meteen waarin we Altitude qua stijl kunnen plaatsen. Hierbij denken we aan punkbands uit de late jaren '90, begin '00 zoals pakweg Blink 182 en New Found Glory, met deze laatste heeft Altitude het podium ook al mogen delen.
 

@@ -8,7 +8,7 @@ date: 2018-02-22T20:29:18+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-captain-kaiser-dog-days-on-deck/
-image: a0542126697_10-e1519329566388.jpg
+image: a0542126697_10.jpg
 ---
 Twee jaar geleden maakten we kennis met het Kempische Captain Kaiser. Met hun eerste EP, die de excentrieke naam ‘Greatest Hits Vol. 1‘ kreeg, burgerde dit vijftal zich moeiteloos in in de Belgische punkscene. Nu komt Captain Kaiser aanzetten met hun eerste langspeler: Dog Days On Deck. Een op voorhand uitverkochte release show en het plannen van een eigen festival bewijst dat deze vijf heren niet onopgemerkt voorbij gaan.
 

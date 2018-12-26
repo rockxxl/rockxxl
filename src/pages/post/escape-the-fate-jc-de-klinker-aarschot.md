@@ -6,7 +6,7 @@ date: 2018-01-28T13:16:04+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-escape-the-fate-jc-de-klinker-aarschot/
-image: escape-e1517136750417.jpg
+image: escape.jpg
 ---
 **Op dinsdag 23 februari zakte Escape The Fate af naar JC De Klinker in Aarschot op vraag van HeartBreakTunes. De band is op tour door Europa om hun recentste werk 'Hate Me' voor te stellen, al is deze ondertussen bijna drie jaar oud. Hun nieuw album 'I Am Human' komt dit jaar op 16 februari uit en hiervan werden ook enkele nummers gespeeld. De support werd verzorgd door Set To Stun en Shields. **
 

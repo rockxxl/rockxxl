@@ -8,7 +8,7 @@ date: 2017-04-02T16:24:04+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-captain-kaiser-greatest-hits-vol-1/
-image: a1482319187_10-e1491047183956.jpg
+image: a1482319187_10.jpg
 ---
 Vorig jaar sloegen de heren van Yellow Snow de handen in elkaar met o.a. zanger Sacha van No Guarantee. Zo werd het ultra Kempische Captain Kaiser geboren. Met 'Greatest Hits vol. 1' krijgen we vier punknummers voorgeschoteld die grotendeels gaan over jawel&#8230; feesten en drinken.
 

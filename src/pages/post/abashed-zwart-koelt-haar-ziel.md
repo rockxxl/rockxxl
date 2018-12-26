@@ -8,7 +8,7 @@ date: 2018-02-15T14:31:22+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-abashed-zwart-koelt-haar-ziel/
-image: 17098476_1408635019170733_1857388631568286402_n-e1518704792245.jpg
+image: 17098476_1408635019170733_1857388631568286402_n.jpg
 ---
 Abashed, een vierkoppige band uit Aalter die een mix brengt tussen hardcore en black metal, is intussen toe aan hun tweede release ‘Zwart Koelt Haar Ziel’. Deze tweede EP klinkt op vele vlakken helemaal anders dan hun vorige release ‘Trash // Sunlight’, die nog een hele sludgy, meer op hardcore gefocuste sound had. Op hun bandcamp is ook niets meer te bespeuren van deze release, dus misschien willen ze met deze release hun definitieve sound op punt stellen en zich zo meer tonen aan de buitenwereld.
 

@@ -6,7 +6,7 @@ date: 2017-09-24T10:14:39+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-bram-desimpelaere/
-image: braammm-e1506248073264.jpg
+image: braammm.jpg
 ---
 **Ons kleine Belgenlandje heeft er sinds kort weer een singer-songwriter bij: Bram Desimpelaere. Binnenkort komt zijn eerste EP 'On The Sideline' uit. Door zijn eerste release en zijn jarelange ervaring als trouwe punkfan vonden wij het eens tijd om samen met Bram in zijn platenkast te duiken.**
 

@@ -7,7 +7,7 @@ date: 2017-05-03T13:14:52+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-moments/
-image: 15418591_1458392430845477_8597358955220313955_o-e1492712199670.jpg
+image: 15418591_1458392430845477_8597358955220313955_o.jpg
 ---
 **Zaterdag zaten we neer met het vijftal van Moments net na hun geweldig optreden op Groezrock. We hadden het over festivals, de Belgische hardcore scene en hun nieuwe EP 'Outlast'. **
 

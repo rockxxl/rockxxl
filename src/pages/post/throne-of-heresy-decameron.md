@@ -8,7 +8,7 @@ date: 2017-12-28T08:50:51+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-throne-of-heresy-decameron/
-image: 661834-e1514450872544.jpg
+image: 661834.jpg
 ---
 Throne Of Heresy, een blackened death metalband uit Zweden kwam recent aanzetten met hun nieuwe langspeler ‘Decameron’. Het is een conceptalbum dat rauwe verhalen vertelt over de pest in de 14<sup>e</sup> eeuw en is opgedeeld in 3 delen. Een mooi concept met een al even onstuimige cover.
 

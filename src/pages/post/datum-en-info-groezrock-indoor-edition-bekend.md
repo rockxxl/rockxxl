@@ -6,7 +6,7 @@ date: 2018-03-02T17:13:26+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/datum-en-info-groezrock-indoor-edition-bekend/
-image: 28379826_10157027873223765_2714884604427516998_n-e1520010586189.jpg
+image: 28379826_10157027873223765_2714884604427516998_n.jpg
 ---
 **Groezrock** 2018 zal zoals de meeste onder jullie wel weten doorgaan op een indoor locatie. Veel info was er nog niet bekend, tot vandaag. Het festival zal doorgaan in de **Muziekodroom** in Hasselt op 27 oktober. Er zijn slechts 1300 tickets verkrijgbaar dus wees snel!
 

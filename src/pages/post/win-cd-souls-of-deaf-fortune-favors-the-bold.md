@@ -6,7 +6,7 @@ date: 2018-07-10T12:19:13+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/win-cd-souls-of-deaf-fortune-favors-the-bold/
-image: WIN-souls-e1531225139462.jpg
+image: WIN-souls.jpg
 ---
 Kennen jullie de Nederlandse metalband **Souls Of Deaf** al? Dit viertal bracht zopas hun eerste album ‘Fortune Favors The Bold’ uit. RockXXL geeft hiervan twee exemplaren weg!
 

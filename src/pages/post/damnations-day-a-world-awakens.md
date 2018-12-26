@@ -8,7 +8,7 @@ date: 2017-04-10T19:23:54+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-damnations-day-a-world-awakens/
-image: damnation-verena-e1491851944128.jpg
+image: damnation-verena.jpg
 ---
 Na hun debuutplaat ‘Invisible, The Dead’ in 2013 kwamen de Australische mannen van Damnations Day met een nieuwe plaat genaamd ‘A World Awakens.’ Deze driekoppige band beschrijft zichzelf als onderdeel van het melodic heavy metal genre. Na de recente uitkomst van dit album, en hun album releaseshow in de aantocht, namen wij de tijd om de plaat onder de loep te nemen.
 

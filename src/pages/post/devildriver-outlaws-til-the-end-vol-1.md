@@ -8,7 +8,7 @@ date: 2018-08-17T19:36:25+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/devildriver-outlaws-til-the-end-vol-1/
-image: 1000x1000-e1534534549142.jpg
+image: 1000x1000.jpg
 ---
 Devildriver is een band die niet echt veel introductie meer nodig heeft. Nadat frontman Dez Fafara stopte met Coal Chamber stampte hij niet veel later Devildriver uit de grond. 15 jaar en zeven albums later stelt dit zootje ongeregeld hun alweer achtste album 'Outlaws ‘Til The End: Vol 1' aan ons voor.
 

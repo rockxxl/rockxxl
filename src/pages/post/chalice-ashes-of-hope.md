@@ -8,7 +8,7 @@ date: 2018-06-28T20:38:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-chalice-ashes-of-hope/
-image: a1533798187_10-e1530215988620.jpg
+image: a1533798187_10.jpg
 ---
 Maar liefst 20 jaar al timmert het Kortrijkse Chalice aan hun weg doorheen de Belgische metal scene. Hoewel de band bijna constant van bandleden wisselde en hierdoor heel wat pauzes moest inlassen, is Chalice toch aankomen zetten met hun nieuwste wapenweit: ‘Ashes of Hope’. Wat echter nog niet veranderd is, is de stijl van de band. Dit vijftal speelt na 20 jaar nog steeds hun vertrouwde death/ thrash metal.
 

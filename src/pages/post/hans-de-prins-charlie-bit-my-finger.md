@@ -7,7 +7,7 @@ date: 2018-04-06T10:19:27+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-hans-de-prins-charlie-bit-my-finger/
-image: 20106331_10212290568651089_6063718527806703942_n-e1523009283704.jpg
+image: 20106331_10212290568651089_6063718527806703942_n.jpg
 ---
 **Punkband Charlie Bit My Finger bracht vorig jaar hun tweede plaat ‘Third Time’s A Farm’ uit en met succes! Dit jaar trekt deze Vlaams Brabantse band naar Canada om te spelen op het Pouzza Festival met bands zoals Reel Big Fish, Face To Face en Anti-Flag. Wij geraakten aan de praat met Charlie Bit My Finger drummer Hans en vroegen hem uit over zijn platenkast.**
 

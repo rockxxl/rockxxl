@@ -8,7 +8,7 @@ date: 2017-06-13T11:47:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-speed-queen-king-of-the-road/
-image: 17796693_1265151043597814_8526443703449854385_n-e1497283420153.jpg
+image: 17796693_1265151043597814_8526443703449854385_n.jpg
 ---
 Het heeft even geduurd, maar het Limburgse Speed Queen kwam aanzetten met hun eerste EP 'King Of The Road'. Een mooie reeks shows in binnen -en buitenland en een uitermate sterke live reputatie heeft ervoor gezorgd dat 'King Of The Road' bestaat uit slechts zes, maar meer dan kwalitatief volle nummers.
 

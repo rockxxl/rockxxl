@@ -7,7 +7,7 @@ date: 2017-05-08T14:19:51+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-hanne-terweduwe-for-i-am/
-image: 16640761_10154412050409072_4308154264668825222_n-e1493928626765.jpg
+image: 16640761_10154412050409072_4308154264668825222_n.jpg
 ---
 **Hanne is zangeres van pop punkband For I Am en is mede-eigenaar van het label Bearded Punk Records. For I Am is net terug van een Engelse tour en ook Bearded Punk deed al een aantal internationale releases. Het werd eens tijd dat we een kijkje namen in de platenkast van Hanne, bij deze!**
 

@@ -7,7 +7,7 @@ date: 2017-12-18T13:37:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-bo-moris-for-i-am/
-image: 13921194_10209470233860016_949725785527650491_n-e1512733727699.jpg
+image: 13921194_10209470233860016_949725785527650491_n.jpg
 ---
 **Om te beginnen: cd of vinyl?**
 

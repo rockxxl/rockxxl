@@ -8,7 +8,7 @@ date: 2018-03-31T08:40:34+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-melted-space-darkening-light/
-image: n-melted-space-darkening-light-6978-426-e1521133728132.jpg
+image: n-melted-space-darkening-light-6978-426.jpg
 ---
 De Nederlandse metal band Ayreon vierde zopas hun vijfentwintigste verjaardag. Deze band heeft zonder twijfel een hoop deuren geopend als het gaat om concept albums. Zoals het recept zich voordoet: geschreven door één persoon en opgenomen met een hele hoop gastmuzikanten. De schreeuw naar meer bands die dit soort muziek moeten spelen werd ongetwijfeld gehoord door Fransman Pierre Le Pape. Hij stond in 2007 aan de wieg van Melted Space. Na twee langspelers en een EP is de band terug met hun vierde plaat ‘Darkening Light’. Net zoals het laatste Ayreon album is ook deze gebaseerd op de toekomst. Dit kan geen toeval zijn.
 

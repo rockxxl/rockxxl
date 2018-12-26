@@ -8,7 +8,7 @@ date: 2018-03-05T19:31:03+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-novaria-novaria/
-image: 24899685_1834605483217243_537183935878584966_n-e1520278217515.jpg
+image: 24899685_1834605483217243_537183935878584966_n.jpg
 ---
 Sommige bands moeten jarenlang knokken voor bekendheid. Anderen wagen zich op hun eentje aan een solo album, maken de muziek die ze zelf willen en werken samen met de mensen die ze zelf willen. Of de muziek aanslaat zijn zorgen voor later. Dit deed ook de Nederlandse Novaria aka Moniek Roeloffs. Na het uitbrengen van een ambient nummer komt ze nu ook aanzetten met haar eerste self-titled EP. Vier doom, post metal nummers krijgen we voorgeschoteld in de stijl van bands zoals Chelsea Wolfe, Anathema en Katatonia. Bovendien heeft elk nummer zijn eigen vocalist(e).
 

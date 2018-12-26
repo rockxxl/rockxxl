@@ -7,7 +7,7 @@ date: 2017-05-01T12:57:20+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-eppo-janssen-pukkelpop/
-image: 13239356_10209145160205828_676201909546417433_n-e1493643333126.jpg
+image: 13239356_10209145160205828_676201909546417433_n.jpg
 ---
 **Programmator bij Pukkelpop, zanger/gitarist bij Cornflames, DJ,&#8230; We hebben het natuurlijk over niemand minder dan Eppo Janssen. Eppo is uitgegroeid tot een begrip in de Belgische muziekwereld, geen twijfel mogelijk. Meer hadden we niet nodig om eens een kijkje te nemen in de platenkast van deze sympathieke Limburger.**
 

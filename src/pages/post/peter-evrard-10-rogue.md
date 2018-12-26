@@ -7,7 +7,7 @@ date: 2017-03-20T18:47:00+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-peter-evrard-10-rogue/
-image: Naamloos-1-e1490035493719.jpg
+image: Naamloos-1.jpg
 ---
 **De meeste zullen Peter kennen als winnaar van Idool 2003 maar hij staat ondertussen ook al drie jaar aan het roer van hardrockband 10 Rogue. Reden genoeg om eens in de platenkast te neuzen van een oude rot uit het vak. **
 

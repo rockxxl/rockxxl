@@ -6,7 +6,7 @@ date: 2017-05-31T17:46:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-graspop-metal-meeting/
-image: poster-website-e1496251839384.jpg
+image: poster-website.jpg
 ---
 **Graspop metal Meeting, het is weer bijna zover! De hoogmis voor de Belgische metalfan komt dichter en dichter. Uiteraard is het moeilijk kiezen uit vijf podia en over de honderd bands. Wij pikten er 16 bands uit die naar onze menig niet te missen zijn op de wei in Dessel.**
 

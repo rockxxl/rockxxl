@@ -8,7 +8,7 @@ date: 2018-04-12T08:42:33+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-caliban-elements/
-image: ob_837a55_caliban-elements-e1523522259258.jpg
+image: ob_837a55_caliban-elements.jpg
 ---
 Het is weer lente en naast nieuw leven in de natuur is er dit jaar ook nieuw leven in de metalcorescene te vinden. De Duitsers van Caliban brachten bijna twintig jaar na hun eerste release hun elfde (!!) studioalbum 'Elements' uit. Net als zijn voorganger 'Gravity' uit 2016 oogt het artwork sober. Hoe hij klinkt is natuurlijk iets belangrijker. Hoog tijd om dat eens uit te vissen.
 

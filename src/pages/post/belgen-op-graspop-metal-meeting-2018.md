@@ -6,7 +6,7 @@ date: 2018-06-23T11:04:39+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-belgen-op-graspop-metal-meeting-2018/
-image: gmm18lineup1200x16972-5-e1527768137560.jpg
+image: gmm18lineup1200x16972-5.jpg
 ---
 **De hoogdagen voor de Belgische metalfan zijn weer aangebroken! Graspop Metal Meeting opende donderdag z’n deuren. Uit goede gewoonte nodigde het festival enkele Belgische bands uit. Signs Of Algorithm, Moments en Toxic Shock mochten de Metal Dome onveilig maken, Fleddy Melculy de Jupiler Stage en Diablo Blvd schopte het vrijdag tot op Main Stage 2. Wij waren erbij en zagen dat het goed was!**
 

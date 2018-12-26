@@ -7,7 +7,7 @@ date: 2017-07-10T15:47:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-brutus/
-image: BRUTUS_2017_009_press_©EvaVlonk_Web-1-e1499680716163.jpg
+image: BRUTUS_2017_009_press_©EvaVlonk_Web-1.jpg
 ---
 **Onder het motto 'trouble comes in threes' bracht Brutus begin dit jaar wereldwijd hun debuut 'Burst' uit. Met verschillende buitenlandse optredens en zomerfestivals op de planning is de bal van Brutus serieus aan het rollen. Hoog tijd dus om eens aan tafel te gaan zitten met dit uiterst sympathieke trio. **
 

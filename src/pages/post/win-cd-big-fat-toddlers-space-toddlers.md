@@ -6,7 +6,7 @@ date: 2018-05-26T15:51:03+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/win-cd-big-fat-toddlers-space-toddlers/
-image: WIN-bf-e1527349639531.jpg
+image: WIN-bf.jpg
 ---
 Kennen jullie de Belgische punkrock band **Big Fat Toddlers** al? Dit viertal bracht zopas hun eerste EP 'Space Toddlers' uit. Wij geven een exemplaar weg!
 

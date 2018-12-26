@@ -7,7 +7,7 @@ date: 2018-03-20T13:07:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-dries-monsieur-moments/
-image: 13873122_10206887700855230_8494009160704437563_n-e1521550844772.jpg
+image: 13873122_10206887700855230_8494009160704437563_n.jpg
 ---
 **Twee maal Groezrock, dit jaar Graspop, support voor bands als Bury Tomorrow en Our Last Night,&#8230; Moments uit Tessenderlo raast als een trein door de Belgische hardcore scene. Tijd dus om eens een kijkje te nemen in de platenkast van zanger en oprichter Dries.**
 

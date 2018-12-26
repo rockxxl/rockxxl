@@ -6,7 +6,7 @@ date: 2017-03-19T19:31:31+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-korricore-2017/
-image: 17410334_1292729317441120_1627377882_n-e1490005303997.jpg
+image: 17410334_1292729317441120_1627377882_n.jpg
 ---
 **Korricore, een organisatie van jeugdhuis Korridor in Beerse, is een weerkerend event waar elke band die ergens 'core' in hun omschrijving heeft wel op het podium zou kunnen staan. In het verleden waren dit telkens al zeer geslaagde avonden. De laatste editie dateert ondertussen al van 10 maanden geleden. Hoog tijd voor een vervolg dus. Ook deze keer zouden ze ons weer heel wat lekkers voorschotelen. Deze avond stond dus al een tijdje met stip in onze agenda. **
 

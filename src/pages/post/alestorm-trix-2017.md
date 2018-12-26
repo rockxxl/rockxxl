@@ -6,7 +6,7 @@ date: 2017-10-29T13:17:41+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-alestorm-trix-2017/
-image: alestorm-ngbts-european-tour-2017-web-poster-1-e1509282156143.jpg
+image: alestorm-ngbts-european-tour-2017-web-poster-1.jpg
 ---
 **Op zondag 22 november kwam Alestorm hun nieuwste album 'No Grave But The Sea' voorstellen in zaal Trix te Antwerpen. Hun album werd zeer goed ontvangen waardoor een groot deel van alle shows in korte tijd uitverkocht waren. Ook in ons land was de show zeer snel uitverkocht. Support werd verzorgd door het voor ons nog onbekende Troldhaugen en Aether Realm**.
 

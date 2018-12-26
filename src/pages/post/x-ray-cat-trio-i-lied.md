@@ -8,7 +8,7 @@ date: 2017-10-23T14:04:13+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-x-ray-cat-trio-i-lied/
-image: x-ray-e1508767402798.jpg
+image: x-ray.jpg
 ---
 Wat krijg je als je garagerock mixt met rock ‘n roll? Het antwoord is simpel: X-Ray Cat Trio. Meer specifiek: hun laatste EP ‘I Lied’. ‘I Lied’ telt vier nummers en werd enkel uitgebracht op 7” vinyl. Deze EP wijkt een beetje af van wat we gewoon zijn van deze Engelsmannen, maar beklagen hoeft de band alvast niet te doen.
 

@@ -6,7 +6,7 @@ date: 2017-11-10T10:52:27+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-nails-muziekodroom-2017/
-image: 22688018_1457058627708627_2778917726773393615_n-e1509907613423.jpg
+image: 22688018_1457058627708627_2778917726773393615_n.jpg
 ---
 **Maandag 6 november verwelkomde HeartBreakTunes Nails in de MOD te Hasselt. Nails is een van de ruigste opkomende bands van het moment. Deze show konden we onmogelijk missen. De support werd voorzien door uitsluitend Belgische opkomende bands binnen het genre. Er was voor de bezoekers dus heel wat om te ontdekken.**
 

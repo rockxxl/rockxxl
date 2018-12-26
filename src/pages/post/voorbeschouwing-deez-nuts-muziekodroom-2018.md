@@ -6,7 +6,7 @@ date: 2018-03-22T19:21:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-deez-nuts-muziekodroom-2018/
-image: 29249418_1844539552232622_1668904848185098240_n-e1521746472868.jpg
+image: 29249418_1844539552232622_1668904848185098240_n.jpg
 ---
 **Begin vorig jaar trad Deez Nuts nog op in de Muziekodroom in Hasselt. Een dik jaar en vier passages in België later staan deze Australiërs er morgen weer met de ‘You Are Part Of This Tour’. Dezelfde tour als vorig jaar, maar met een gloednieuwe line-up. Publiekslieveling Trash Talk is erbij, maar ook Capsize, Brutality Will Prevail en Boundaries zullen enkele harde muziekjes door de boxen knallen. Trek je dansschoenen aan, zing mee, maar vergeet vooral niet te stagediven!** 
 

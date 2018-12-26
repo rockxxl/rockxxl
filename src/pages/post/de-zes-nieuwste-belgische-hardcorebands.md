@@ -6,7 +6,7 @@ date: 2017-06-21T17:42:30+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-zes-nieuwste-belgische-hardcorebands/
-image: logo-e1498067072911.jpg
+image: logo.jpg
 ---
 **Titans**
 

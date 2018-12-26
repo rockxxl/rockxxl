@@ -8,7 +8,7 @@ date: 2018-01-11T18:50:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-myrkur-mareridt/
-image: a2836519406_10-e1515696344933.jpg
+image: a2836519406_10.jpg
 ---
 Na een eerste EP en de debuutplaat ‘M’ krijgt het Myrkur verhaal een vervolg: Mareridt. Hoewel ‘M’ door velen maar matig werd bevonden en de black metal scene een soort afkeer had aan Myrkur, kreeg frontvrouw Amalie toch een hele hoop steun van verschillende grote namen in het wereldje. Met ‘Mareridt’ doet Myrkur echter een paar grote stappen vooruit in de juiste richting.
 

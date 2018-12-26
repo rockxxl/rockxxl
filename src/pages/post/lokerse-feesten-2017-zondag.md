@@ -6,7 +6,7 @@ date: 2017-08-08T18:28:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-lokerse-feesten-2017-zondag/
-image: 19222964_10155294411888654_6270644261494970201_o-e1502113324525.jpg
+image: 19222964_10155294411888654_6270644261494970201_o.jpg
 ---
 **Ook dit jaar had de Lokerse Feesten weer een metaldag voor ons in petto. Met headliners Marilyn Manson en Alice Cooper kon festival dan ook niet anders als uitverkopen. Eén ding is zeker: de line up was dit jaar super gevarieerd en dat was voor de ene al positiever als voor de andere. Ons kon de line up alvast wel bekoren en daarom namen we ook een kijkje op de zwarte dag van de Lokerse Feesten.**
 

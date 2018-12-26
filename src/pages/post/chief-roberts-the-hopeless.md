@@ -8,7 +8,7 @@ date: 2018-02-26T17:13:07+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-chief-roberts-the-hopeless/
-image: a0808883374_10-e1519660038968.jpg
+image: a0808883374_10.jpg
 ---
 Chief Roberts … we weten niet of het bij jullie een belletje doet rinkelen, maar we hadden er eerlijk gezegd nog niet van gehoord. Op hun facebookpagina beloven ze ons een mix van rock, post hardcore, punk, stoner en noise, beïnvloed door alles in de wereld van heavy en duistere muziek. Twee jaar na hun debuut brengt deze vijfkoppige DIY band uit Antwerpen met ‘The Hopeless’ een vervolg uit. Benieuwd hoe dat klinkt…
 

@@ -8,7 +8,7 @@ date: 2017-11-22T16:26:15+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-prophets-of-rage-prophets-of-rage/
-image: prophets-e1511367925492.png
+image: prophets.png
 ---
 Op negen november 2016 kleurde Amerika plots wat donkerder en duurde het niet lang voor er opstand kwam langs verschillende kanten. Ook de muziekwereld liet van zich horen. Zo kreeg thrash metal band  Municipal Waste nog een rechtszaak aan hun been toen ze een t-shirt uitbrachten met Trump op die zichzelf door zijn kop schoot. De grootste verrassing kwam echter van Rage Against The Machine gitarist Tom Morello die aan de grond stond van supergroep Prophets Of Rage. Samen met het instrumentarium van RATM, Chuck D van Public Enemy en B-Real van Cyprus Hill kregen we een eerste EP voorgeschoteld waarmee ze o.a. de wei van Rock Werchter plat speelden. Een klein jaar later, na het ontstaan van de band kwam dit Amerikaanse vijftal aanzetten met hun nieuwe self-titled album. De soundtrack van het verzet: Prophets Of Rage.
 

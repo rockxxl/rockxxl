@@ -6,7 +6,7 @@ date: 2017-09-16T17:47:26+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-overbroek-kermis-2017/
-image: 20994300_894162664083848_5910702237602406938_n-e1505573125309.jpg
+image: 20994300_894162664083848_5910702237602406938_n.jpg
 ---
 **Overbroek Kermis vierde dit jaar hun 25ste verjaardag. Koste nog moeite werden gespaard om hun vrijdag, waar er zoals gewoonlijk bands spelen, om te toveren tot een heus feest met de top van de Belgische metal en punk. De affiche bestond uit niemand minder dan Fleddy Melculy, Belgian Asociality en het lokale Black Leather Jacket. Wij gingen een kijkje nemen op deze niet alledaagse setting en zagen dat het goed was. **
 

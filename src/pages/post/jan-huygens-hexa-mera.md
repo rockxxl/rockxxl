@@ -7,7 +7,7 @@ date: 2017-08-11T16:38:04+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jan-huygens-hexa-mera/
-image: 17800071_10155957316223032_7244599251492925739_n-e1502469024378.jpg
+image: 17800071_10155957316223032_7244599251492925739_n.jpg
 ---
 **2017 zal de geschiedenis ingaan als het jaar van Hexa Mera. Hexa Mera bracht een tweede plaat uit en speelde voor een tweede keer op Graspop. Als kers op de taart nam de band een nummer op met 14 zangers. Wij namen een kijkje in de platenkast van het brein achter de band en tevens gitarist Jan.**
 

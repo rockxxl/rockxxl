@@ -7,7 +7,7 @@ date: 2017-03-21T13:08:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-mark-bolsens-the-octopussys/
-image: 12096406_10153397594948096_1040077055768471564_n-e1490101297348.jpg
+image: 12096406_10153397594948096_1040077055768471564_n.jpg
 ---
 **Al tien jaar staat Mark aan de basgitaar van punkband The Octopussys. Na een hele hoop shows, ervaringen en gewoon een grote punkfan te zijn vonden wij het tijd om eens rond te neuzen in de platenkast van Mark.**
 

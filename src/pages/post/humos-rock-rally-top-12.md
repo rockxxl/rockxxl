@@ -6,7 +6,7 @@ date: 2017-12-23T14:09:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/humos-rock-rally-top-12/
-image: b5034948-805b-43ab-9cbb-81ffa12b9494-e1513696920931.png
+image: b5034948-805b-43ab-9cbb-81ffa12b9494.png
 ---
 **Het is weer bijna zover: Humo's Rock Rally. Misschien wel DE springplank om als Belgische muzikant hogerop te komen. Meer dan achthonderd bands en muzikanten schreven zich in, waarvan er slechts honderd geselecteerd werden voor de voorrondes. Met een overvloed aan genres kan het natuurlijk nog alle kanten op. Wij voorspellen, of hopen liever, deze tien terug te zien in de finale. **
 

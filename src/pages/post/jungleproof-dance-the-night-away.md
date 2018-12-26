@@ -8,7 +8,7 @@ date: 2017-12-03T16:20:38+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-jungleproof-dance-the-night-away/
-image: 21766693_2032040590359986_6161185170285295674_n-e1512317800575.jpg
+image: 21766693_2032040590359986_6161185170285295674_n.jpg
 ---
 Vorig jaar kwam het Limburgse Jungleproof aanzetten met hun eerste vier-track EP ‘Make Up Your Mind’. Een dik jaar later, nu, is deze ska punk band terug met een eerste langspeler die de naam ‘Dance The Night Away’ kreeg. De titel verklapt al meteen waarvoor Jungleproof staat: dansen, of het nu een circle pit is of je gewoon even je benen wilt los zwieren.
 

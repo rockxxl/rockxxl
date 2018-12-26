@@ -8,7 +8,7 @@ date: 2017-05-17T12:14:51+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-rhinestone-st/
-image: verena-rhinohorn-e1495022712960.png
+image: verena-rhinohorn.png
 ---
 Vandaag reviewen we de Waaslandse band Rhinestone. Hun eerste split EP “Greed // Rhinestone” brachten ze uit in 2015 samen met de band Greed. Na een aantal overtuigende live-optredens waren we meer dan geïnteresseerd om hun deel van de EP eens van dichter bij te bekijken. Greed is ondertussen gestopt als band en hun deel zal dan ook niet aan bod komen
 

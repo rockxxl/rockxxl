@@ -8,7 +8,7 @@ date: 2017-04-11T14:14:46+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-red-baroness-the-murder-kings-st/
-image: red-baroness-seppe-e1491918818663.jpg
+image: red-baroness-seppe.jpg
 ---
 Het Merchtemse Red Baroness & The Murder Kings werd opgericht in 2014 door zangeres Marcia aka Red Baroness. De band had te kampen met een aantal line up wissels maar nu dit achter de rug is kwam dit trio aanzetten met hun eerste self titled EP.
 

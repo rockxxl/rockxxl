@@ -8,7 +8,7 @@ date: 2018-06-17T08:20:20+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-night-raft-of-the-world/
-image: 20257960_1355579187831034_4459850718464355496_n-e1529223609396.jpg
+image: 20257960_1355579187831034_4459850718464355496_n.jpg
 ---
 Zweedse heavy metalband Night bracht reeds hun derde album ‘Raft of the World’ uit. Hun eerste twee albums ‘Night’ en ‘Soldiers of Time’ kregen eerder al positieve reviews van fans. Er staat dus een bepaalde druk op de band. Night werd in 2011 opgericht in de Zweedse stad Linköping en bestaat momenteel uit vier bandleden. Hoewel er weinig gekend is over de geschiedenis van deze band, weten we wel dat ze al samengewerkt hebben met Niels Nielsen (live keyboards voor In Flames en tourmanager voor Ghost in 2011) en Mattias Frisk (albumcoverart voor Ghost – If You have Ghost).
 

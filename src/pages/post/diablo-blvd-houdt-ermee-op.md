@@ -6,7 +6,7 @@ date: 2018-06-28T13:38:49+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/diablo-blvd-houdt-ermee-op/
-image: 20349-e1530192828247.jpg
+image: 20349.jpg
 ---
 De Antwerpse rock/ metal band Diablo Blvd houdt er definitief mee op! Een laatste optreden houdt de band 10 december in de AB in Brussel.
 

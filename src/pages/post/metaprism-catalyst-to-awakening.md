@@ -8,7 +8,7 @@ date: 2018-03-15T16:46:11+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-metaprism-catalyst-to-awakening/
-image: 26001197_1184123678386003_354300161395131636_n-e1521131599576.jpg
+image: 26001197_1184123678386003_354300161395131636_n.jpg
 ---
 In 2012 richte gitarist Ollie Roberts Metaprism op. Hij omschrijft de band als een melodic metal, dual vocaled, powerhouse. Ondanks de speciale omschrijving kunnen we hem hier toch gelijk in geven. In 2015 bracht de band hun debuut album 'The Human Encryption' uit die op veel lovende reacties kon rekenen en zelfs een optreden op Wacken wist te veroveren. Begin dit jaar bracht de band hun tweede album 'Catalyst To Awakening' uit en meteen erna gingen ze op tour met niemand minder dan Iced Earth en Freedom Call. Dat belooft!
 

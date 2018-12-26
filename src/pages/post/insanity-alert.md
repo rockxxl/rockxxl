@@ -7,7 +7,7 @@ date: 2018-05-10T16:16:35+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-insanity-alert/
-image: 9fc8bbcc-19e9-45f0-a315-8af049e2774f-e1525951883296.jpg
+image: 9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg
 ---
 **Thrash metal band Insanity Alert stond onlangs nog op Hellfest en nam deel aan de Persistance Tour met bands als Hatebreed en Terror. Wij gingen rond tafel zitten met zanger Kevin Stout en stelde hem wat vragen over hun album 'Moshburger' en het derde album dat er binnenkort aankomt. **
 

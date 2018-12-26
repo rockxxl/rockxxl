@@ -7,7 +7,7 @@ date: 2017-05-18T12:56:49+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-the-yalla-yallas/
-image: 18491424_1846964091984156_2060356962502361504_o-e1495043025274.jpg
+image: 18491424_1846964091984156_2060356962502361504_o.jpg
 ---
 **De Engelse punkband The Yalla Yallas komt binnenkort aanzetten met hun nieuwe album 'Medusa'. Na een aantal jaar stilte en een aantal tours door de lage landen gingen wij praten met frontman Rob Galloway. **
 

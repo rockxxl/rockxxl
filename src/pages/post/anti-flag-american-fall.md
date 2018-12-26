@@ -8,7 +8,7 @@ date: 2017-11-03T14:09:53+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-anti-flag-american-fall/
-image: anti-flag-american-fall-e1509717855274.png
+image: anti-flag-american-fall.png
 ---
 Eén van de meest sociale en politiek geëngageerde bands op deze planeet is zonder enige twijfel de Amerikaanse punkband Anti-Flag. In mei 2015 kwam hun vorige album ‘American Spring’ uit, waarop een uitgebreide tour volgde. Nu komt dit viertal aanzetten met hun nieuwste wapenfeit: American Fall. Het album duurt slechts 30 minuten, maar geeft een ongelofelijk duidelijke boodschap mee. Het feit dat de Amerikaanse verkiezingen, waar Trump won, middenin het opname proces van Anti-Flag vielen, heeft de band geen windeieren gelegd. Zoveel is zeker.
 

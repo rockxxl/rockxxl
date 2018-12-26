@@ -7,7 +7,7 @@ date: 2018-01-28T16:11:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-gloryhammer/
-image: gloru-e1517043764910.jpg
+image: gloru.jpg
 ---
 **Voor diegenen die niet bekend zijn met het begrip Gloryhammer: Gloryhammer is de power metal band van Christopher Bowes, die ook zanger is bij Alestorm, met als thema ‘fantasie’. RockXXL ging tijdens hun passage samenzitten met dit zootje ongeregeld in de Biebob in Vosselaar. Christopher was er dit keer spijtig genoeg niet bij, maar wij spraken met bassist James (The Hootsman) en de tijdelijke vervanger van Christopher: Mike (the evil wizard Zargothrax).** 
 

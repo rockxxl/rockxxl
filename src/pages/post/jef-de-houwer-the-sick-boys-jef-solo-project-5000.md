@@ -7,7 +7,7 @@ date: 2017-11-26T11:22:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jef-de-houwer-the-sick-boys-jef-solo-project-5000/
-image: 21314766_10211916060071625_6400418389606620290_n-e1511694844388.jpg
+image: 21314766_10211916060071625_6400418389606620290_n.jpg
 ---
 **Jef De Houwer, een excentriek figuur dat het Kempische platteland momenteel plat speelt met zijn punk band The Sick Boys en zijn solo project: Jef Solo Project 5000. Ook bij RockXXL is Jef geen onbekende meer en het werd dus eens tijd om in zijn platenkast te duiken.**
 

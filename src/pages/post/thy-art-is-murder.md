@@ -7,7 +7,7 @@ date: 2017-04-21T16:05:38+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-thy-art-is-murder/
-image: Thy-Art-Is-Murder-2-e1492707043211.jpg
+image: Thy-Art-Is-Murder-2.jpg
 ---
 **Op 18 april gingen we praten met CJ McMahon van Thy Art Is Murder op de Heaven and Hell Tour. We spraken over de tijd wanneer hij uit de band was, het leven op tour, de groeiende faam van de band en de disputen met andere bands. Het resultaat lees je hier onder!**
 

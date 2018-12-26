@@ -8,7 +8,7 @@ date: 2017-08-19T18:27:20+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-neck-deep-the-peace-and-the-panic/
-image: 59f2b46351768ea4b8889bca1f5bde6b.1000x1000x1-e1503165213610.jpg
+image: 59f2b46351768ea4b8889bca1f5bde6b.1000x1000x1.jpg
 ---
 Hier is hij dan: The Peace and the Panic. Het langverwachte en de ondertussen al weer derde plaat van Neck Deep. Neck Deep is zonder twijfel één van de snelst groeiende bands van het moment. Na een aantal uitgebreide tours was een nieuwe plaat dan ook in zicht. Eerder kregen we al vier toffe singles te horen die over het algemeen redelijk verschillend leken. Hoog tijd dus om deze plaat eens in z’n volledigheid te gaan beluisteren.
 

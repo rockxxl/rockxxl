@@ -6,6 +6,6 @@ date: 2017-08-25T18:15:15+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-the-front-bottoms-nummer-raining/
-image: front-e1503684833552.jpg
+image: front.jpg
 ---
 13 oktober komt het nieuwe **The Front Bottoms** album 'Going Grey' uit. In afwaching van het album werd het nummer '**Raining**' op de wereld losgelaten.

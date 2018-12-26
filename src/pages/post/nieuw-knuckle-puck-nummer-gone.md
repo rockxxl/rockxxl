@@ -6,6 +6,6 @@ date: 2017-08-01T10:39:25+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-knuckle-puck-nummer-gone/
-image: a7899ef9-3b7e-409f-bce5-b19a6988d307-e1501583931398.jpg
+image: a7899ef9-3b7e-409f-bce5-b19a6988d307.jpg
 ---
 Op 13 oktober komt het gloednieuwe Knuck Puck album 'Shapeshifter' uit. In afwachting van dit op en top pop punk plaatje liet de band een eerste nummer op de wereld los: Gone.

@@ -8,7 +8,7 @@ date: 2018-08-04T08:29:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-crossfaith-ex_machina/
-image: vd5fnM0k7sE-e1533304683836.jpg
+image: vd5fnM0k7sE.jpg
 ---
 Geef ons een collectieve schreeuw, want Crossfaith is terug! Luid, chaotisch, energetisch en elektronisch als nooit tevoren. Het nieuwe album heet ‘Ex_Machina’ en is een metafoor voor de toekomst. De Japanners zien onze toekomst niet rooskleurig. Om een lang verhaal kort te maken, technologie neemt over.
 

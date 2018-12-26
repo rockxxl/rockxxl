@@ -6,7 +6,7 @@ date: 2018-08-13T11:35:02+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-lokerse-feesten-2018-woensdag/
-image: 2470fest-e1534159341132.jpg
+image: 2470fest.jpg
 ---
 **Voor het tweede jaar op rij organiseerde de Lokerse Feesten een dag vol met punkrock. Eén ding is zeker: 'punk's not dead'! Dat bewezen enkele punkrock grootheden op de Grote Kaai in Lokeren, maar ook een nieuwe generatie staat klaar om de vlag over te nemen. Een mooie mix die de woensdag van de Lokerse Feesten maakte tot een heus feest vol met gitaren en sing-alongs.   **
 

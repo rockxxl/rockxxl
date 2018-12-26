@@ -8,7 +8,7 @@ date: 2018-03-06T15:51:00+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-we-were-sharks-lost-touch/
-image: 9200000086937746-e1520351321960.jpg
+image: 9200000086937746.jpg
 ---
 ‘We Were Sharks, wie?’ Dachten we toen we een mail kregen van Victory Records met de vraag om ‘Lost Touch’ van We Were Sharks te reviewen. Na wat research werd al snel duidelijk waarom we nog niet gehoord hadden van deze band. Ze komen namelijk uit Canada en bleven ondanks hun eerste twee albums tot op de dag van vandaag onder de radar. Hoewel de band bestaat uit zes leden, spelen ze gewoon doorsnee pop punk.
 

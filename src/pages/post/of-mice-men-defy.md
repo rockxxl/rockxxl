@@ -8,7 +8,7 @@ date: 2018-01-18T20:47:24+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-of-mice-men-defy/
-image: 605760b0-d80d-41d7-96e1-80248a138f5d-e1516307995948.jpg
+image: 605760b0-d80d-41d7-96e1-80248a138f5d.jpg
 ---
 Morgen, 19 januari 2018 zal de geschiedenis ingaan als de dag waarop Of Mice & Men hun inmiddels vijfde studioalbum ‘Defy’ uitbracht. Na het vertrek van zanger Austin Carlile werd er door de fans met argusogen uitgekeken naar dit nieuwe album, al werden er naast enkele teasers op facebook met o.a. ‘Unbreakable’ en ‘Warzone’ al verschillende nummers van de nieuwe plaat de wereld in gestuurd. Hier werd al duidelijk dat er met bassist Aaron Pauley, die voorheen ook al een deel van de vocals op zich nam, een waardige vervanger is opgestaan.
 

@@ -8,7 +8,7 @@ date: 2018-02-16T16:41:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-makasrr-demo/
-image: 28117072_10214170666372976_90748212_n-e1518799216839.png
+image: 28117072_10214170666372976_90748212_n.png
 ---
 Makasrr is een band uit Roeselare met ex-leden van o.a. Restless, Regression en Carneia, die nog maar recentelijk het levenslicht zag. Nu brengen ze hun eerste demo uit die slechts twee nummers telt. Voor nieuwe bands is dat nooit slecht, toch maar iets aan de wereld kunnen tonen, ook al is het niet enorm veel. Het nadeel is wel dat als één van de twee nummers dan net niet goed uitdraait, de helft van de EP niet goed is. Gelukkig is dat hier helemaal niet het geval.
 

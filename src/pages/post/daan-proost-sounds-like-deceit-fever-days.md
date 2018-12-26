@@ -7,7 +7,7 @@ date: 2018-01-14T21:25:03+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-daan-proost-sounds-like-deceit-fever-days/
-image: 23244453_10212788906390801_8324006049282713292_n-e1515962460204.jpg
+image: 23244453_10212788906390801_8324006049282713292_n.jpg
 ---
 **In het begin van 2017 maakte de Kempische hardcoreband Sounds Like Deceit een terugkeer. Begin 2018 zou er een nieuwe band ontstaan: Fever Days. Pop punk deze keer. De gelijkenis met beide bands is gitarist Daan Proost. Fever Days wordt zeker niet zijn laatste band, en met een hele hoop ervaring achter de kiezen, vonden wij het eens tijd om in de platenkast van Daan te duiken.  **
 

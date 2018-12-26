@@ -6,7 +6,7 @@ date: 2017-06-06T15:54:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-antwerp-metal-fest/
-image: antwerpppp-e1496759151966.jpg
+image: antwerpppp.jpg
 ---
 **8 en 9 juli kleurt het Bouckenborgh Park in Merksem weer helemaal zwart voor de alweer vijfde editie van Antwerp Metal Fest. We krijgen dit jaar een line up voorgeschoteld vol toppers, maar we kiezen er acht bands uit die naar onze mening niet te missen zijn op dit gezellige festival in Merksem.**
 

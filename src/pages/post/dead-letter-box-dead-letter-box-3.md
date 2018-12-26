@@ -8,7 +8,7 @@ date: 2017-11-27T13:34:42+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-dead-letter-box-dead-letter-box-3/
-image: verena-e1511789544886.jpg
+image: verena.jpg
 ---
 Een mix van punk, rock en hardcore in een post-jasje. Inderdaad, dat kan niet anders dan Dead Letter Box zijn. Deze Mechelse band bracht na twee EP’s hun nummer drie uit: Dead Letter Box #3. Dit viertal speelt geen alledaags genre, zoveel is zeker, maar speelt dit in hun nadeel of juist niet?
 

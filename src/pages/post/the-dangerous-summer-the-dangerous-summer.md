@@ -8,7 +8,7 @@ date: 2018-02-18T11:01:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-dangerous-summer-the-dangerous-summer/
-image: 9200000085458382-e1518951654703.jpg
+image: 9200000085458382.jpg
 ---
 Een beetje Jimmy Eat World, een vleugje Nickelback en wat U2 herkennen we voornamelijk in de band ‘The Dangerous Summer’. Om het met een metafoor te zeggen, het is zo van die muziek die je kan opleggen tijdens een etentje met vrienden die helemaal niets van rock willen weten en waarmee je toch positieve reacties zal ontvangen over je muzieksmaak. (Om hen daarna gradueel te verleiden tot de zwartste krochten van de black metal). Een beetje gewaagd altijd, zo’n self-titled album uitbrengen. Want het is een statement: dit is onze identiteit, dit is onze sound. Dat was ook exact het doel van het nieuwe album van TDS. De Amerikanen schreven er een halfjaar aan en waagden de sprong in het diepe… en RockXXL sprong even mee.
 

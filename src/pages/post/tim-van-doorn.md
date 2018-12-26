@@ -7,7 +7,7 @@ date: 2017-04-26T17:09:42+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-tim-van-doorn/
-image: 16298532_10209590655377787_6588407768449497341_n-e1493226139267.jpg
+image: 16298532_10209590655377787_6588407768449497341_n.jpg
 ---
 **Tim Van Doorn staat aan het roer van opnamestudio Big Dog Recordings. Buiten dit bracht hij zelf ook al een paar prachtige solo albums uit. Deze Nederlands/ Antwerpse punkrocker heeft hopen van ervaring en staat al verschillende jaren in het vak. Wij zochten Tim op en keken in zijn platenkast.**
 

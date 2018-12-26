@@ -6,7 +6,7 @@ date: 2017-04-07T07:47:38+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-janez-detd-cde-singer-2017/
-image: Naamloos-2-e1491513498384.jpg
+image: Naamloos-2.jpg
 ---
 **De Singer, een zaal in Rijkevorsel die vooral jazz en pop programmeert vulde zes april voor het eerst, als we hun website mogen geloven toch, een avond vol punkrock. Niemand minder dan Janez Detd. deed een try-out van hun nieuwe 'Punk Rock Highschool' show. De show bevat 17 nummers om precies te zijn, stuk voor stuk pareltjes uit de jaren 90. **
 

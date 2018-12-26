@@ -7,7 +7,7 @@ date: 2017-06-08T09:17:25+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-dean-van-den-brande-muziekodroom/
-image: 14021713_1066860686733535_7155409199290389652_n-e1496912991917.jpg
+image: 14021713_1066860686733535_7155409199290389652_n.jpg
 ---
 **Dean is fotograaf in de toch wel legendarische zaal Muziekodroom in Hasselt. Als fan van hardcore en bezoeker van oneindig veel concerten, uiteraard mede door zijn carrière als fotograaf, vonden wij het eens dringend tijd om een keer in de platenkast van Dean te duiken.**
 

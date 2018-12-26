@@ -7,7 +7,7 @@ date: 2017-05-04T09:59:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jeroen-sels-coma-commander-muziekodroom/
-image: 12249622_10153773660464345_4254967055567638070_n-e1493891389444.jpg
+image: 12249622_10153773660464345_4254967055567638070_n.jpg
 ---
 **Jeroen speelt gitaar bij punkrockband Coma Commander en deze stond o.a. al op Groezrock. Neem er dan nog eens bij dat Jeroen verantwoordelijk is voor wat er op het podium van de Hasseltse Muziekodroom komt te staan. Meer reden is er niet nodig om eens een duik te nemen in de platenkast van deze muziekfanaat. **
 

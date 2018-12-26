@@ -6,7 +6,7 @@ date: 2017-10-09T17:19:30+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-fabulae-dramatis-album-release-2017/
-image: 20294365_1133047693461791_3024356310451581543_n-e1507568014334.jpg
+image: 20294365_1133047693461791_3024356310451581543_n.jpg
 ---
 **Op zaterdag 30 september vond de releaseshow van Fabulae Dramatis nieuwste album 'Solar Time's Fabels' plaats in Olen. Samen met Elusion en Solitude Within mochten we ons verwachten aan een prachtige live show. **
 

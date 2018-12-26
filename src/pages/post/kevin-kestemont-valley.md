@@ -7,7 +7,7 @@ date: 2018-01-19T11:09:49+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-kevin-kestemont-valley/
-image: 10407268_10153980869883467_9044554460731463823_n-e1516360532286.jpg
+image: 10407268_10153980869883467_9044554460731463823_n.jpg
 ---
 **Eén van de meest excentrieke hardcore bands van het moment is zonder twijfel Valley. Met een hele hoop melodie en emotie weet deze band een bijna poëtische versie van die genre neer te zetten. Hun gitarist Kevin die eveneens ook Apathy Bookings runt stond ons bij in wat vragen over zijn platenkast.**
 

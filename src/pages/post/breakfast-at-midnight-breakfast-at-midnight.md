@@ -8,7 +8,7 @@ date: 2018-04-05T19:57:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-breakfast-at-midnight-breakfast-at-midnight/
-image: 23659254_875687032597289_6525543192157162106_n-1-e1523012012674.jpg
+image: 23659254_875687032597289_6525543192157162106_n-1.jpg
 ---
 Een EP online gooien zonder aankondiging, je moet het maar durven. Breakfast At Midnight uit hartje Kempen speelde de laatste jaren, met hun mengeling van hardrock en metal, een heel aantal podia plat. Zanger Sten werd door velen zelfs vergeleken met Eddie Vedder van Pearl Jam. Wat een compliment! Na het wegvallen van hun bassist besloot dit duo gewoon met hun tweeën verder te gaan. Niet enkel hun line up wist te veranderen, maar ook hun sound kreeg een omzwaai. Breakfast At Midnight 2.0 is geboren in een self-titled EP.
 
