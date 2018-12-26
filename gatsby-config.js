@@ -1,4 +1,4 @@
-const theme = require("./theme.js");
+const theme = require("./src/theme.js");
 const pkg = require("./package.json");
 
 module.exports = {
