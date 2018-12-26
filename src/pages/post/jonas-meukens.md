@@ -7,7 +7,7 @@ date: 2016-11-14T19:36:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jonas-meukens/
-image: 14449785_10154339986760339_7644699421330326604_n-1-e1480423398654.jpg
+image: 14449785_10154339986760339_7644699421330326604_n-1.jpg
 ---
 **Bij de meeste zal er wel een belletje gaan rinkelen als ze de naam Jonas Meukens horen. Het is ondertussen al weer 13 jaar geleden dat X!nk Junior Eurosong won en Jonas en co ons land mochten vertegenwoordigen in Denemarken. Ondertussen is Jonas zanger en gitarist van indierock band Get Off My Shoes en punkrock band The Waiting Game. Wij keken eens in zijn platenkast met een zeer gevarieerd resultaat als gevolg.**
 

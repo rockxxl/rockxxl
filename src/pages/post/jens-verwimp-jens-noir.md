@@ -7,7 +7,7 @@ date: 2017-02-22T10:16:08+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jens-verwimp-jens-noir/
-image: 10891676_1017587981589035_2681708611784008201_n-e1487757679799.jpg
+image: 10891676_1017587981589035_2681708611784008201_n.jpg
 ---
 **Jens Verwimp, ook wel bekend als Jens Noir speelde zes jaar lang akoestische punkrock en bracht onlangs zijn eerste en laatste EP 'Six Years of Fucking Around' uit. Misschien niet de bekendste persoon in punkrockland maar hij kent het wel uit zijn broekzak. Materiaal genoeg dus om eens in zijn platenkast te duiken.**
 

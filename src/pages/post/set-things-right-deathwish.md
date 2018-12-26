@@ -8,7 +8,7 @@ date: 2017-02-12T11:08:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-set-things-right-deathwish/
-image: SetThingsRight-Deathwish-e1486897126781.png
+image: SetThingsRight-Deathwish.png
 ---
 Wie de Belgische hard- & metalcorescene een beetje kent, heeft sowieso al van Set Things Right gehoord. Na hun vorige album ‘This Is Hope’ uit 2014 stonden deze heren zowel op het podium van Graspop als het podium van Groezrock. Enkele weken terug kregen we bij RockXXL hun allernieuwste werk in de bus: DEATHWISH!
 

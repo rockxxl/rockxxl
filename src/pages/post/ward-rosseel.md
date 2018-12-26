@@ -7,7 +7,7 @@ date: 2017-01-09T21:48:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-ward-rosseel/
-image: 15943396_10210750359848273_917449147_o-e1483998504301.jpg
+image: 15943396_10210750359848273_917449147_o.jpg
 ---
 **Your Face Offends Me, Wasted 24/7, From Whence We Came,&#8230; het lijkt er op dat Ward in elke West-Vlaamse band wel iets te zeggen heeft. Nee, deze jongeman ademt muziek, enkel maar respect hiervoor! Wij vroegen ons af wat de oorzaak is van al die muziek en keken daarom samen met Ward in zijn platenkast.**
 

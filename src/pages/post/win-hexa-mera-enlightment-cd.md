@@ -6,7 +6,7 @@ date: 2017-04-05T11:12:48+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/win-hexa-mera-enlightment-cd/
-image: 16252182_1324672520889098_3477984979230228662_o-e1486143117479.jpg
+image: 16252182_1324672520889098_3477984979230228662_o.jpg
 ---
 RockXXL geeft de nieuwe Hexa Mera plaat 'Enlightenment' weg. Het enige dat je moet doen is de link hieronder delen op je facebook!
 

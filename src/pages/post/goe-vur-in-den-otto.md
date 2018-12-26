@@ -6,7 +6,7 @@ date: 2016-12-30T10:02:13+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-goe-vur-in-den-otto/
-image: 14350990_1592394017730936_749352007_n-e1483091992486.jpg
+image: 14350990_1592394017730936_749352007_n.jpg
 ---
 **Het Antwerpse metal dj-duo van Goe Vur In Den Otto had in 2016 het jaar van hun leven. Ze speelde meerdere keren op Graspop, Groezrock, Alcatraz,&#8230; noem maar op, en zelfs de Nationale radio moest eraan geloven. Wij vroegen ons af wat de muzikale roots van Johnny Jailbait en Pete Da Bomber zijn. Geen betere manier om dit te weten te komen dan samen met deze heren hun platenkast open te trekken**
 

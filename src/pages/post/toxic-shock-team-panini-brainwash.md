@@ -8,7 +8,7 @@ date: 2017-03-04T14:22:59+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-toxic-shock-team-panini-brainwash/
-image: IMG_0806-e1488635246287.jpg
+image: IMG_0806.jpg
 ---
 Begin vorig jaar werd de dertigste verjaardag van het nummer 'Walk This Way' van Run DMC en Aerosmith gevierd in het Antwerpse Trix. Trix en hardcoreband Toxic Shock sloegen de handen in elkaar en gingen opzoek naar metalbands die voor een keer een nummer zouden schrijven in samenwerking met rappers en hiphoppers.Ondertussen een jaar verder leeft dit project nog steeds verder. Toxic Shock en Team Panini die samen het nummer 'Brainwash' maakte komen nu aanzetten met een 7&#8243; vinyl met deze single en twee gloednieuwe nummers.
 

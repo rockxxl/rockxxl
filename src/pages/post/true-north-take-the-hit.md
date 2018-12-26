@@ -8,7 +8,7 @@ date: 2017-01-31T18:59:18+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-true-north-take-the-hit/
-image: Naamloos-1-e1485888928596.jpg
+image: Naamloos-1.jpg
 ---
 Snak jij soms ook naar de old school sound van hardcore? Zijn bands in het hardcoregenre volgens jou tegenwoordig te veel gefocust op het onverstaanbare geschreeuw en mis je het meezingen op hardcoreshows? Zoek dan niet verder, True North heeft met hun eerste EP ‘Take The Hit!’ het antwoord klaar.
 

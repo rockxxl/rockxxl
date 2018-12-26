@@ -7,7 +7,7 @@ date: 2017-01-25T15:20:32+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-damien-gillain-rockxxl-pressure-commander-recovery-records/
-image: 14368903_10154069754728892_1775706235096986099_n-e1485356682698.jpg
+image: 14368903_10154069754728892_1775706235096986099_n.jpg
 ---
 **Het wordt eens tijd dat we de platenkasten van RockXXL aan jullie voorstellen. Als eerste is Damien aan de beurt. Deze jongeman speelt ook in postmetal band Pressure Commander en vult zijn dagen met het uitbrengen van cassettes via Recovery Records. Muzikale bezigheden genoeg om een interessante platenkast neer te zetten&#8230;  **
 

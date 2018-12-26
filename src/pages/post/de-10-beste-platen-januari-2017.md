@@ -6,7 +6,7 @@ date: 2017-02-08T12:13:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-10-beste-platen-januari-2017/
-image: logo-e1486556865315.jpg
+image: logo.jpg
 ---
 **10. Black Anvil – As Was**
 

@@ -7,7 +7,7 @@ date: 2016-10-24T17:32:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /platenkast/de-platenkast-jeroen-camerlynck-aka-fleddy/
-image: fleddyy-e1480884305264.jpg
+image: fleddyy.jpg
 ---
 **Op De Fanfaar en Urbanus na zal iedereen Jeroen wel kennen van Fleddy Melculy. Met hun nieuwe album ‘Helgië’ stonden er ineens hardcore/metal nummers in de Vlaamse hitlijsten. Misschien is Fleddy Melculy wel de minst serieuze maar meest succesvolle metal/hardcore band van het moment. Wij keken eens in de platenkast van Jeroen en zagen meteen een aantal stevige plaatjes voorbij komen.    **
 

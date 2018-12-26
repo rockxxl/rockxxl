@@ -7,7 +7,7 @@ date: 2016-12-28T13:31:08+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jan-cassiers/
-image: 10926421_754800287944541_8531169210684657359_n-e1482930791994.jpg
+image: 10926421_754800287944541_8531169210684657359_n.jpg
 ---
 **OnderGronds is een onmisbare speler in de Antwerpse metalscene. Verschillende keren per maand doen ze Het Bos en Antwerp Music City zware metalen aan. Jan Cassiers stond mee aan de wieg van OnderGronds. Wij vroegen ons af met welke platen het allemaal begon en welke platen Jan zijn bijgebleven doorheen de jaren. Het enige dat je dan kan doen is de platenkast van deze sympathieke metalhead opentrekken&#8230;**
 

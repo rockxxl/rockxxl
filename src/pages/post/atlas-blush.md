@@ -8,7 +8,7 @@ date: 2017-01-10T20:15:51+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-atlas-blush/
-image: 14330148_1153063471399820_8094466981039606797_n-e1484079169253.jpg
+image: 14330148_1153063471399820_8094466981039606797_n.jpg
 ---
 Atlas, een Post-Hardcoreband uit het Gentse, laat met hun debuut ‘Blush’ de wereld zien wat de perfecte manier is om emoties te vertalen in muziek. De band bracht in 2013 al een EP uit, getiteld ‘For You, Forever’, die nog veel meer hardcore-gericht was dan hun veel alternatievere opvolger.
 

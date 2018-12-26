@@ -7,7 +7,7 @@ date: 2016-11-29T12:55:44+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-rik-van-humbeeck/
-image: 14100397_10153962412424385_6110157394476814910_n-e1480424115938.jpg
+image: 14100397_10153962412424385_6110157394476814910_n.jpg
 ---
 **Elke Belgische punkrocker heeft ongetwijfeld al wel eens gehoord van You Nervous?. Gitarist Rik Van Humbeeck zorgt voor de riffs en verkoopt ook nog eens gitaren. Muziek alom, maar wat zijn nu net de favoriete platen van deze sympathieke Gentenaar? Tijd dus om een kijkje te nemen in de platenkast van Rik. Ohja, het is ook een wonder dat You Nervous? nog niet op Groezrock heeft gestaan…**
 

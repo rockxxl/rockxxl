@@ -6,7 +6,7 @@ date: 2017-02-15T16:46:26+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/pushed-too-far-houd-er-tijdelijk-mee-op/
-image: 412592_10150849079016372_143058702_o-e1487177176132.jpg
+image: 412592_10150849079016372_143058702_o.jpg
 ---
 De Kempische hardcoreband Pushed Too Far liet via facebook weten dat de band er tijdelijk mee ophoud om te focussen op hun gezin, jobs,&#8230;
 

@@ -8,7 +8,7 @@ date: 2017-02-28T11:41:37+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-amenra-alive/
-image: amenra-alive-e1488277720311.jpg
+image: amenra-alive.jpg
 ---
 Al 15 jaar lang weet het West-Vlaamse Amenra ons te verbazen met waanzinnige sludge/ postmetal songs. De band bracht al vijf langspelers uit en een hele hoop EP's, singles,&#8230; Met 'Alive' gaan ze door waar de akoestische EP 'Afterlife' ophield. Alive is een livealbum waarbij de band de stekkers uittrekt en geschreeuw inruilt voor zweverige zanglijnen. De nummers op Alive zijn gerecycleerde songs die te vinden zijn op oudere, obscure demo's, vinyls, cassettes,&#8230; De die hard fans worden dus op hun wenken bediend, maar ook voor degene die Amenra nog niet zo goed kennen is Alive zeker het proberen waard.
 

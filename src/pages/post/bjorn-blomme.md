@@ -7,7 +7,7 @@ date: 2016-10-29T13:10:48+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /platenkast/de-platenkast-bjorn-blomme/
-image: tumblr_inline_oft86dBYb01uncqs0_540-e1480422755728.jpg
+image: tumblr_inline_oft86dBYb01uncqs0_540.jpg
 ---
 **Het Bearded Punk label heeft zopas één kaarsje mogen uitblazen en toch zijn ze er al in geslaagd enkele geweldige Belgische punkplaten uit te brengen op zowel cd als vinyl. Mee aan de basis van het label ligt Bjorn Blommé die eveneens ook gitarist is van poppunk band For I Am. Genoeg redenen dus om zijn platenkast eens open te trekken!**
 

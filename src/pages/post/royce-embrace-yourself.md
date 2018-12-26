@@ -8,7 +8,7 @@ date: 2016-06-06T19:14:28+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-royce-embrace-yourself/
-image: l1ITF0rUwbY-e1480431073374.jpg
+image: l1ITF0rUwbY.jpg
 ---
 Royce, de band die ontstond uit de restanten van onder andere Angelskin, de haast legendarische Kempische metalcoreband die pas nog een reünie speelde, brengt met ‘Embrace Yourself’ hun eerste plaat uit. Wie verwacht had dat deze band zoals Angelskin ging klinken, zit echter wel fout. Royce speelt een veel melodischere vorm van metalcore, en hoewel er wel enkele gelijkenissen zijn, geven ze toch nog een andere touch aan het genre.
 

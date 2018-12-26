@@ -7,7 +7,7 @@ date: 2017-01-18T11:50:13+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-samuel-paul-de-roeck/
-image: 12066052_10207620428765962_2396284062560676964_n-e1484738485780.jpg
+image: 12066052_10207620428765962_2396284062560676964_n.jpg
 ---
 **Samuel Paul De Roeck ook wel bekend als 'de Sam' is mede organisator van de Antwerpse Rodeo Shows en zanger van de metalband Black Swarm. Black Swarm hield er vorige maand spijtig genoeg mee op. Wij gingen praten met deze lokale held en kwamen meer te weten over zijn platenkast.**
 

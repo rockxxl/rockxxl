@@ -6,7 +6,7 @@ date: 2017-02-13T12:58:23+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/metal-female-voices-fest-stopt-ermee/
-image: 10628159_970856599617593_6458211208495709008_n-e1486990635144.jpg
+image: 10628159_970856599617593_6458211208495709008_n.jpg
 ---
 Metal Female Voices Fest, het metalfestival dat elk jaar plaats vind in het Oost-Vlaamse Wieze stopt er tijdelijk mee. Dit liet de organisatie weten in onderstaand facebookbericht:
 

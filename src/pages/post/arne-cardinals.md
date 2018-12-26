@@ -7,7 +7,7 @@ date: 2017-01-06T19:08:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-arne-cardinals/
-image: 13934866_10210775143959540_3715612842227492878_n-e1483191768371.jpg
+image: 13934866_10210775143959540_3715612842227492878_n.jpg
 ---
 **De Belgische muziekwereld heeft een hele hoop geweldige fotografen, slechts een hand vol worden echt onthouden door het publiek. Metal heeft zo z'n Tim Tronckoe en hardcore z'n Cardinalsmedia. Arne is oprichter van Cardinalsmedia en zorgde al voor een hele hoop geweldige plaatjes. Wij vroegen ons af wat er zich achter de foto's bevind en keken samen met Arne in zijn platenkast. **
 

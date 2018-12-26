@@ -8,7 +8,7 @@ date: 2016-09-23T17:52:56+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-ink-bomb-invincible-summer/
-image: 14344282_1617086345256470_1612583704771655958_n-e1480427494163.jpg
+image: 14344282_1617086345256470_1612583704771655958_n.jpg
 ---
 Vorig jaar werden onze noorderburen met de komst van Ink Bomb weer een punkband rijker. Exact een jaar later kwam dit 4-tal uit Nijmegen aanzetten met hun eerste EP Invincible Summer. Ink Bomb is een band die te vinden is in het vaarwater van o.a. Bad Religion, dat beloofd?!
 

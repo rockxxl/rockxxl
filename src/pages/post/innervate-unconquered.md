@@ -8,7 +8,7 @@ date: 2017-02-01T12:29:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-innervate-unconquered/
-image: Naamloos-1-e1485948813494.jpg
+image: Naamloos-1.jpg
 ---
 Het Belgische death metal landschap is sowieso al niet de grootste, en als we dat dan nog eens verkleinen naar de Kempen zijn deze bands op één hand te tellen. Het Heist-op-den-Bergse Innervate is zo'n uitzondering op de regel. Innervate werd opgericht in 2014 en ondertussen is ook hun eerste album 'Unconquered' een feit.
 

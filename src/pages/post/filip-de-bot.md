@@ -7,7 +7,7 @@ date: 2016-11-20T12:47:34+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-filip-de-bot/
-image: filipa-e1480883964847.jpg
+image: filipa.jpg
 ---
 **De Penthouse Studio in Heist-op-den-Berg is voor vele Belgische punkrock en hardcore bands onmisbaar als het op opnames aankomt. Aan de knoppen zit Filip De Bot die zijn werk absoluut meer als goed doet. Let maar is op welke albums er allemaal Penthouse Studio op hun hoes hebben staan…
   

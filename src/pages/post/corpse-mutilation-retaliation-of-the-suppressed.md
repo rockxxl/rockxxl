@@ -8,7 +8,7 @@ date: 2017-01-10T14:53:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-corpse-mutilation-retaliation-of-the-suppressed/
-image: a3857330561_10-e1484059852117.jpg
+image: a3857330561_10.jpg
 ---
 De deathmetalband Corpse Mutilation uit Ieper bracht reeds in 2014 hun debuut-EP ‘Retaliation Of The Suppressed’ uit. We waren in elk geval al vrij overtuigd van hun meest recente video ‘Herald Of Idiocy’, maar we waren toch benieuwd hoe deze band enkele jaren geleden klonk. Het is echter wel belangrijk om te weten dat deze band in 2014 nog een andere zanger had.
 

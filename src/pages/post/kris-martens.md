@@ -7,7 +7,7 @@ date: 2016-12-11T11:13:06+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-kris-martens/
-image: 13076928_10154154517172533_5493611934648021608_n-e1481453894255.jpg
+image: 13076928_10154154517172533_5493611934648021608_n.jpg
 ---
 **Wie een beetje mee is in de Belgische metalwereld zal ongetwijfeld Kris Martens wel kennen. Zo niet, doen Diablo Blvd en Tangled Horns een belletje rinkelen? Kris is al jaren drummer van beide bands en was er van het begin bij. Wij vroegen ons af welke platen een rol hebben gespeeld in het doen en laten van de jarenlange ervaring van Kris. Er is maar één manier om daar achter te komen&#8230; het hem gewoon vragen! **
 

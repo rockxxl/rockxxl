@@ -7,7 +7,7 @@ date: 2017-01-31T17:02:15+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-in-clear-sight/
-image: 16443348_10154552717118401_169963829_n-e1485882809509.jpg
+image: 16443348_10154552717118401_169963829_n.jpg
 ---
 **Midden 2013 werd de Antwerpse hardcoreband In Clear Sight opgedoekt. Een dikke drie jaar later kondigde de band aan terug te bestaan, maar met een gloednieuwe line up. Als kers op de taart bracht In Clear Sight meteen een nieuwe EP uit: Dance of the Horae. Wij gingen eens horen hoe het nu gesteld is in het kamp van In Clear Sight.**
 

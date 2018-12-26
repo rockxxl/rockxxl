@@ -7,7 +7,7 @@ date: 2017-03-14T20:21:48+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-stef-exelmans-atmospheres/
-image: 14563575_1490390407644538_5959107299105387156_n-e1489522508104.jpg
+image: 14563575_1490390407644538_5959107299105387156_n.jpg
 ---
 **Stef is producer in verschillende studio's en tevens gitarist van Atmospheres die al speelde op o.a. Graspop. Ook heeft hij twee tributebands: Riot! (Paramore) en Boiler (Limp Bizkit). Muzikale bezigheden genoeg om inspiratie te gaan opdoen in zijn platenkast.**
 

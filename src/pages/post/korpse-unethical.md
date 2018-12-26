@@ -8,7 +8,7 @@ date: 2016-06-01T22:07:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-korpse-unethical/
-image: 12400855_703381023095700_2875249882576259342_n-e1480429420977.jpg
+image: 12400855_703381023095700_2875249882576259342_n.jpg
 ---
 De albumhoes en booklet van dit album zeggen al genoeg over waar we mee te maken hebben met deze band. Pure brutaliteit. De Nederlandse slamming brutal death metalband Korpse is met ‘Unethical’ al aan hun tweede album toe, na hun self-titled debuut uit 2013. De band is op productiekwaliteit zeker geëvolueerd ten opzichte van hun debuutalbum, waar niet altijd alle instrumenten even hoorbaar waren. Op ‘Unethical’ blendt de mix van de typische dubbele bassen, grunts en squeals goed samen, en moet het gitaarwerk niet onderdoen aan de brutale vocalen.
 

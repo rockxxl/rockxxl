@@ -7,7 +7,7 @@ date: 2016-11-02T13:18:40+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /platenkast/de-platenkast-mike-keirsbilck/
-image: mike-e1480885167238.jpg
+image: mike.jpg
 ---
 **Ongetwijfeld één van de belangrijkste personen die het Belgische postrock/metal gebeuren mee in ere houd is Mike Keirsbilck. Met het label Consouling Sounds en de platenwinkel Consouling Store wordt België bijna dagelijks voorzien van een nieuwe portie postrock/metal. Geen gemakkelijke taak met een platenwinkel als Consouling Store maar Mike wist ons toch zijn favoriete platen te tonen.**
 

@@ -6,7 +6,7 @@ date: 2016-09-05T13:51:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-dijkrock-2016/
-image: 14064029_1221751817837525_6736177105099653036_n-e1480425641502.jpg
+image: 14064029_1221751817837525_6736177105099653036_n.jpg
 ---
 **Dijkrock is zo’n festival dat elk jaar afkomt met een super gevarieerde line up, zolang het maar stevig rockt. Midden in het dorp van Sint Lenaarts met twee podia waarvan er één het gezellige bluescafé Willem Tell is. Dit jaar was het vooral Your Highness en Katastroof die de aandacht trokken op de affiche.  **
 

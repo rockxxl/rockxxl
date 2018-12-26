@@ -8,7 +8,7 @@ date: 2016-08-29T12:35:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-x-ray-cat-trio-out-for-blood/
-image: 13445263_10153813309698040_5377067635164119230_n-e1480428193546.jpg
+image: 13445263_10153813309698040_5377067635164119230_n.jpg
 ---
 Verschillende kleine tourtjes leed het Britse drietal van X Ray Cat Trio door een aantal Belgische cafés en clubs zoals Trix. Hun tweede album Out For Blood werd vorig jaar uitgebracht en kwam niet onopgemerkt voorbij. Tijd voor rock n roll!
 

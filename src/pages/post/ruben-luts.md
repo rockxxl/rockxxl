@@ -7,7 +7,7 @@ date: 2017-01-05T22:02:31+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-ruben-luts/
-image: 15439742_10210401111479095_4687002657410681830_n-e1483010649451.jpg
+image: 15439742_10210401111479095_4687002657410681830_n.jpg
 ---
 **Ruben Luts beter bekend als R Hellshrieke van metalband Bütcher is zonder twijfel één van Antwerps grootste muziekfanaten. Het hoeven niet altijd de bekende te zijn die de aandacht verdienen. Wij keken in de platenkast van Ruben en zagen dat het goed was!**
 

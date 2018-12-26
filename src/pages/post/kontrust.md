@@ -7,7 +7,7 @@ date: 2016-10-28T14:25:00+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /interview/interview-kontrust/
-image: just-kontrust-e1480423660952.jpg
+image: just-kontrust.jpg
 ---
 **Trek die lederhosen dirndl’s al maar aan, want het Oostenrijke Kontrust zal uzelf uit uw broek slaan! Tijdens Metal Female Voices Fest hadden we het genoegen om met zangeres Agata en gitarist Mike de band uit te lichten. **
 

@@ -7,7 +7,7 @@ date: 2017-02-26T23:09:49+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jason-bond-bloodrocuted/
-image: 15578474_1156294794461219_8724587568141592039_n-e1488149753936.jpg
+image: 15578474_1156294794461219_8724587568141592039_n.jpg
 ---
 **Nog exact één maand wachten tot dat het nieuwe Bloodrocuted album 'For The Dead Travel Fast' uitkomt. De band heeft een aantal line up wissels doorstaan, waaronder die van hun zanger, maar Bloodrocuted is levendiger dan ooit! Wij namen een kijkje in de platenkast van gitarist Jason om te weten te komen wat de muzikale invloeden zijn achter het brein van Bloodrocuted.   **
 

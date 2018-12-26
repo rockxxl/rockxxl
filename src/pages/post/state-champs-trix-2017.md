@@ -6,7 +6,7 @@ date: 2017-03-14T16:32:24+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-state-champs-trix-2017/
-image: 15220009_1148615031886323_6227064647380899619_n-e1488888478552.jpg
+image: 15220009_1148615031886323_6227064647380899619_n.jpg
 ---
 De avond werd op gang getrapt door het Amerikaanse **Northbound**. Deze band, opgericht door Jonathon Fraser, startte als akoestisch project, maar groeide uit naar een volledige band. De opkomst van het publiek was mager, zeker in vergelijking met de andere bands van de avond. De toon was wel meteen gezet na hun eerste, en tevens bekendste nummer ‘Lucky Sentimental’. Northbound mag dan wel niet de meest technische band zijn, er heerst een goeie harmonie tussen de nummers en bandleden. Ze hebben hierin een uitstekende balans gevonden. Ook de leadvocals waren op en top. Er werd ook echt plezier gemaakt op het podium, zonder daarin te overdrijven.
 

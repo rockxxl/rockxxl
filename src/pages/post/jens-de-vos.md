@@ -7,7 +7,7 @@ date: 2016-12-28T17:45:17+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-jens-de-vos/
-image: de-vos-ofwa-e1482946968220.jpg
+image: de-vos-ofwa.jpg
 ---
 **Panda Productions is een onmisbare speler in de Belgische metalscene als het aankomt op video's en ook met Off The Cross heeft Jens De Vos als gitarist zijn handen vol. Dit kan ook niet anders als je de eerste show van je band op Groezrock speelt. Wij vroegen ons af hoe de platenkast van Jens eruit zag, maar er bleek niet veel platenkast te bestaan&#8230;. Zijn Spotify playlist dan maar.**
 

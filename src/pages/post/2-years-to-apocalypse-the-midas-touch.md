@@ -8,7 +8,7 @@ date: 2017-03-12T15:50:07+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-2-years-to-apocalypse-the-midas-touch/
-image: 16195654_1194999147242989_1804215027529303802_n-e1489333093978.jpg
+image: 16195654_1194999147242989_1804215027529303802_n.jpg
 ---
 Het Amsterdamse quintet van 2 Years To Apocalypse komt na EPs 'Dawn' en 'Dissonance' uit met een full-length album genaamd 'The Midas Touch'. Deze melodic metalcoreband heeft een unieke sound dankzij hun twee vocalists die afgewisseld clean vocals en grunts brengen. Een leuk weetje is dat één van de vocalists een vrouw is, wat je niet veel tegenkomt in de metalcore scene. Het album komt pas uit op 24 maart maar wij geven je al een voorproefje.
 

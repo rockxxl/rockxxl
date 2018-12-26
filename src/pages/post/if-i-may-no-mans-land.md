@@ -8,7 +8,7 @@ date: 2017-01-21T16:26:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-if-i-may-no-mans-land/
-image: IfIMayNoMansLand2017-e1485015748938.png
+image: IfIMayNoMansLand2017.png
 ---
 If I May, de Post-Hardcoreband die eerder al de EP ‘House Of Wolves’ uitbracht, bracht pas hun eerste langspeler ‘No Man’s Land’ uit. Op hun eerste EP focuste If I May vooral op clean vocals en catchy gitaarriffs en dat konden we bij RockXXL zeker smaken. Benieuwd of dit album hun geweldige EP kan overtreffen.
 

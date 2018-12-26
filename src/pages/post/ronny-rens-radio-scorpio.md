@@ -7,7 +7,7 @@ date: 2017-01-25T14:40:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-ronny-rens-radio-scorpio/
-image: 1959427_10208414124614117_1956822576847827507_n-e1485354625452.jpg
+image: 1959427_10208414124614117_1956822576847827507_n.jpg
 ---
 **Ronny Rens ook wel bekend als DJ Ronny van de Leuvense radio 'Radio Scorpio'  is de allesweter als het gaat om garagerock en alles wat daar rond hangt. Ook zijn kennis over het Belgische rockcircuit is niet van de minste en daarom voerden we een kort gesprek met Ronny over zijn platenkast.**
 

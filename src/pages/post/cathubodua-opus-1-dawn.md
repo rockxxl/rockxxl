@@ -8,7 +8,7 @@ date: 2016-07-16T12:40:12+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-cathubodua-opus-1-dawn/
-image: Cathubodua-Opus-I-Dawn_pe-e1480428436442.jpg
+image: Cathubodua-Opus-I-Dawn_pe.jpg
 ---
 Met veel plezier recenseren we nog een keertje een band binnen de symfonische metal. Dit keer viel de eerste EP van Cathubodua in de brievenbus. Waan jezelf in een sfeer van Lord of the Rings en een stevige portie middeleeuws drinkgelag, want dit ‘Opus’ is het begin van een reis terug in de tijd.
 

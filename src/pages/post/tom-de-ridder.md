@@ -7,7 +7,7 @@ date: 2016-11-21T16:45:56+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-tom-de-ridder/
-image: Naamloos-tomm-e1480883697548.jpg
+image: Naamloos-tomm.jpg
 ---
 **Het is ondertussen al weer 17 jaar geleden dat Gino’s Eyeball werd opgericht door Tom De Ridder en co. Je kan bijna zeggen dat de Gino’s de oprichters zijn van de Belgische poppunk. Doorheen die jaren zijn er honderden punkrock platen uitgebracht maar welke zijn zoal blijven hangen bij Tom? Maar één manier om hier achter te komen: het simpelweg vragen…**
 

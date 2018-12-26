@@ -7,7 +7,7 @@ date: 2017-01-28T15:27:52+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-brent-bertels-rockxxl-pressure-commander/
-image: 13737695_10208569727974254_8422491351195811477_o-e1485616873905.jpg
+image: 13737695_10208569727974254_8422491351195811477_o.jpg
 ---
 **De 2de die RockXXL mag vertegenwoordigen in de platenkast is Brent. Tot vorig jaar zong hij in beatdown band Draw the Line maar ook bij post-metal band Pressure Commander is de micro van Brent. Geen twijfel mogelijk dat deze een harde platenkast gaat worden.**
 

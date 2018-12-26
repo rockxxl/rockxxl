@@ -7,7 +7,7 @@ date: 2016-11-07T14:09:58+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /interview/interview-enemy-of-reality/
-image: 11083876_738267516291943_5256470957915761030_n-e1480423864869.jpg
+image: 11083876_738267516291943_5256470957915761030_n.jpg
 ---
 ** ****Als we bij RockXXL aan Griekenland in combo met metal denken, dan denken we ENEMY OF REALITY. Deze Griekse symfonische metalband bestaat nog maar sinds 2014, maar heeft tot nu toe toch al twee albums in het verschiet. Ze verzorgend onder meer het voorprogramma van Anneke van Giersbergen en mochten optreden op het Artmania festival. Reden te meer om een aantal vragen te stellen…**
 

@@ -7,7 +7,7 @@ date: 2017-01-18T11:16:08+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-thibault-christiaensen/
-image: thibo-e1484738476216.jpg
+image: thibo.jpg
 ---
 **2016 was ongetwijfeld het jaar van Equal Idiots. Dit garagerock duo won De Nieuwe Lichting en eindigde in de finale van Humo's Rock Rally. Wij gingen praten met zanger Thibault over zijn muzikale voorkeuren maar vooral ook over zijn platenkast.**
 

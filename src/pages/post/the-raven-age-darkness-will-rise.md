@@ -8,7 +8,7 @@ date: 2017-03-07T12:29:35+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-raven-age-darkness-will-rise/
-image: theravenagedarknesscd-e1488888708617.jpg
+image: theravenagedarknesscd.jpg
 ---
 Deze straffe mannen van The Raven Age zijn gevormd in 2009. Sinds dan hebben ze al veel bereikt op hun eentje. Ze zijn niet bij een platenmaatschappij, maar deze melodische metalband weet zeker hun weg te vinden in de scene, ze gaan binnenkort zelfs op tour met Anthrax. Na hun self titled EP brengen ze deze maand na al deze jaren hun nieuwste wapenfeit 'Darkness Will Rise' uit.
 

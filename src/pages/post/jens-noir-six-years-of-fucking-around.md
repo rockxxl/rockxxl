@@ -8,7 +8,7 @@ date: 2016-06-16T17:18:16+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-jens-noir-six-years-of-fucking-around/
-image: a3453277841_10-e1480428789431.jpg
+image: a3453277841_10.jpg
 ---
 Na zes jaar besloot Jens Noir op te houden met solo spelen. Die zes jaar zijn nu voorbij en zijn laatste optreden vindt plaats op onze Summer Showcase in juli. Het eigenaardige aan dit verhaal is dat Jens Noir nog nooit een EP of album heeft opgenomen tot… nu. ‘Six Years Of Fucking Around’ is de titel geworden van de laatste maar eveneens debuutplaat van Jens Noir.
 

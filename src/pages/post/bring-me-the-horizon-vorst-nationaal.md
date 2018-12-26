@@ -6,7 +6,7 @@ date: 2016-11-14T07:55:14+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-bring-me-the-horizon-vorst-nationaal/
-image: bmth-e1480858841884.jpg
+image: bmth.jpg
 ---
 **Het was de vierde keer dit jaar dat de Britse band ‘Bring Me The Horizon’ naar België kwam. Na de AB, Rock Werchter en Pukkelpop was het nu de beurt aan Vorst Nationaal. Het eerste wat meteen opviel was het grote aantal politie- en securitypersoneel. Het is namelijk één jaar geleden dat enkele terroristen de Parijse concertzaal ‘Bataclan’ aanvielen.**
 

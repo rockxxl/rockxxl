@@ -6,7 +6,7 @@ date: 2017-01-10T12:21:41+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-top-10-platen-van-2016/
-image: logo-e1486556865315.jpg
+image: logo.jpg
 ---
 **Ook de redactie van RockXXL gaf een kijk op hun 10 favoriete platen van het afgelopen jaar:**
 

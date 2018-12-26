@@ -8,7 +8,7 @@ date: 2017-03-11T16:58:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-barking-dogs-on-a-leash/
-image: 17238864_733690500127158_260852272_n-e1489154937236.jpg
+image: 17238864_733690500127158_260852272_n.jpg
 ---
 Hardcoreband Pushed Too Far liet enige tijd geleden weten dat de band even 'on hold' wordt gezet. Toch is de band niet helemaal verdwenen. Enkele ex-leden sloegen samen met huidig PTF drummer Kris Rijnen en Toon Flameng (Think Ahead) de handen in elkaar.  Barking Dogs was geboren en de Kempense hardcorescene was terug een band rijker. Nu, een dik half jaar later, wordt dat gevierd met hun debuut EP 'On A Leash'.
 

@@ -8,7 +8,7 @@ date: 2017-03-17T16:58:06+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-waves-of-decay-cycloptic/
-image: 666848-e1489766103124.jpg
+image: 666848.jpg
 ---
 Uit de assen van het Westmalse Horny Moses werd Waves of Decay geboren. Ook al bestaat deze band nog maar sinds december, dit vijftal brengt binnenkort hun eerste EP 'Cycloptic' uit. Drie eerder geschreven nummers werden gerecycleerd, en met twee gloednieuwe songs krijgen we een portie metal voorgeschoteld die zich ergens bevind tussen death en industrial, met het melodieuze aspect niet te vergeten.
 

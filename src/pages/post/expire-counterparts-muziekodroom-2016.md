@@ -6,7 +6,7 @@ date: 2016-12-09T17:04:38+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-expire-counterparts-muziekodroom-2016/
-image: 13606915_1029646987116462_6480729479719295009_n-e1481302546352.jpg
+image: 13606915_1029646987116462_6480729479719295009_n.jpg
 ---
 **HeartBreakTunes organiseerde op 7 december weer een stevig potje heel gevarieerde hardcore in de MOD in Hasselt. Sinterklaas besloot nog een dagje extra te blijven blijkbaar, want ook nu kregen de hardcorekids weer enkele prachtige cadeaus voorgeschoteld.**
 

@@ -6,7 +6,7 @@ date: 2017-01-10T13:05:12+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-rockxxl-show-jungleproof-the-sick-boys-neighbours-tanks-4-nothing-gert-kleinpunk/
-image: 15972423_1195567493852440_6770581749311755118_o-e1484053490852.jpg
+image: 15972423_1195567493852440_6770581749311755118_o.jpg
 ---
 <a href="https://www.facebook.com/rockxxlrockenmetal/" data-hovercard="/ajax/hovercard/page.php?id=163891360353397&extragetparams=%7B%22directed_target_id%22%3A398482317209407%7D" data-hovercard-prefer-more-content-show="1">RockXXL</a> organiseert weer een avond vol punk en feest!
 

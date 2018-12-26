@@ -7,7 +7,7 @@ date: 2017-02-22T10:40:02+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-alexander-van-der-wallen-black-leather-jacket-fox-hunt/
-image: 15622333_10208142070857301_9201517781271774015_n-e1487758702883.jpg
+image: 15622333_10208142070857301_9201517781271774015_n.jpg
 ---
 **Het Kempische Black Leather Jacket haalde het tot de finale van De Nieuwe Lichting, maar jammer genoeg niet tot de laatste drie. Frontman Alexander die tevens ook de bas voor z'n rekening neemt bij rockband Fox Hunt stond ons bij voor een aantal vragen over zijn platenkast.**
 

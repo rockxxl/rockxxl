@@ -8,7 +8,7 @@ date: 2017-03-12T13:55:36+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-grumpf-spacegoat/
-image: 13668888_10154325746922225_7014676599425334213_o-e1489325268856.jpg
+image: 13668888_10154325746922225_7014676599425334213_o.jpg
 ---
 Het viertal van Grumpf komt na hun twee vorige plaatjes aanzetten met nummer drie: Scapegoat. Voor degene die Grumpf niet kennen, Grumpf zit in hetzelfde vaarwater als pakweg Mötley Crüe. Stevige, eerlijke nummers met een knipoog naar Sunset Strip. Met een portie nostalgie in onze broekzak zijn we helemaal klaar voor dit nieuwe prachtplaatje.
 

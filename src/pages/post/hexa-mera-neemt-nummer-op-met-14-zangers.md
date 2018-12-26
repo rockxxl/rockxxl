@@ -6,7 +6,7 @@ date: 2017-02-24T11:13:53+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/hexa-mera-neemt-nummer-op-met-14-zangers/
-image: 16252182_1324672520889098_3477984979230228662_o-e1486143117479.jpg
+image: 16252182_1324672520889098_3477984979230228662_o.jpg
 ---
 31 maart komt het nieuwe Hexa Mera album 'Enlightenment' uit. De band nam een nummer op met 14 verschillende vocalisten. Bekijk het eindresultaat hieronder.
 

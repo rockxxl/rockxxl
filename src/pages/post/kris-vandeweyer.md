@@ -7,7 +7,7 @@ date: 2016-11-06T14:08:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /platenkast/de-platenkast-kris-vandeweyer/
-image: 13615110_1062196760527060_2459006668915851762_n-e1480861506501.jpg
+image: 13615110_1062196760527060_2459006668915851762_n.jpg
 ---
 **Voor degene die een beetje bekend zijn met het Belgische punkmilieu zullen Steele Justice vast wel kennen. Steele Justice is namelijk één van de meest groeiende Belgische punkbands van het moment. Drummer Kris Vandeweyer die eveneens ook drumt bij hardcoreband Rabid Wolves en invaller is voor verschillende andere bands stond ons bij voor een kort interview over zijn platenkast. **
 

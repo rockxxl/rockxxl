@@ -8,7 +8,7 @@ date: 2016-06-01T22:05:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-knives-to-a-gunfight-nomad/
-image: 13236277_10156913874175183_239854023_n-e1480429090393.jpg
+image: 13236277_10156913874175183_239854023_n.jpg
 ---
 De naam KTAG is bijna niet meer weg te denken uit de Belgische metalwereld. Deze band mocht onder andere al op Graspop spelen, ze staan er dit jaar ook voor een tweede keer en ze speelden ook op talloze andere festivals. In december waren ze zelfs headliner op de RockXXL-stage van Oostmal Rockt. Voor ons geen onbekende band dus, maar als je als metalfan niet onder een steen hebt geleefd de afgelopen jaren, doet Knives To A Gunfight waarschijnlijk wel een belletje rinkelen.
 

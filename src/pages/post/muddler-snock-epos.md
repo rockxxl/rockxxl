@@ -8,7 +8,7 @@ date: 2016-12-09T11:51:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-muddler-snock-epos/
-image: 15109501_1071787456253677_2134640988006888422_n-e1481279361593.jpg
+image: 15109501_1071787456253677_2134640988006888422_n.jpg
 ---
 ****
 

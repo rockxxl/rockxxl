@@ -6,7 +6,7 @@ date: 2016-12-29T11:07:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-tim-tronckoe/
-image: 13517648_10210254127299669_2976640192240347034_o-e1482950798600.jpg
+image: 13517648_10210254127299669_2976640192240347034_o.jpg
 ---
 **Belgisch bekendste rock -en metalfotograaf is zonder enige twijfel Tim Tronckoe. Noem een bekendere band en hij heeft ze gefotografeerd. Natuurlijk gaat dit niet over één nacht ijs. Wij waren eens benieuwd met welke platen en bands het allemaal begon dus trokken we zijn platenkast open&#8230;**
 

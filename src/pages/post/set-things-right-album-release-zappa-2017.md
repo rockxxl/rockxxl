@@ -6,7 +6,7 @@ date: 2017-02-20T10:54:07+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-set-things-right-album-release-zappa-2017/
-image: 16265687_1425716787452302_8855190189934549262_n-e1487540141476.jpg
+image: 16265687_1425716787452302_8855190189934549262_n.jpg
 ---
 **Zaterdag 18 februari zal de geschiedenis ingaan als de dag waarop Set Things Right hun tweede album Deathwish officieel releasde. De eerlijkheid gebiedt ons te zeggen dat we nog nooit in Zappa geweest waren. Na een korte zoektocht en na de juiste deur gevonden te hebben ontdekten we een mooie en moderne zaal waar onder een feeëriek rood licht het eerste drumstel stond te wachten om aan flarden te worden gemept.** 
 

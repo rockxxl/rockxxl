@@ -8,7 +8,7 @@ date: 2017-03-07T15:41:10+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-clench-your-fist-threat-of-life/
-image: cyf-e1488901238852.jpg
+image: cyf.jpg
 ---
 Clench Your Fist, een beatdown hardcoregezelschap uit Limburg, kwam recent aanzetten met hun nieuwe EP ‘Threat Of Life’. Dit is hun eerste release sinds hun full length ‘Break The Jaw’ uit 2015, die al verschrikkelijk ruw en hard klonk en de zeer memorabele clip van ‘All Hell Breaks Loose’ bevatte. Deze EP telt vijf nummers en werd ons geleverd in een van de meest originele CD-hoezen die we ooit al ontvangen hebben. Het is een hoes in DVD-formaat die er vrij minimalistisch uitziet, met album artwork die we niet direct bij beatdown zouden plaatsen. Het is echter niet alleen de hoes, maar voornamelijk de muziek die telt. Benieuwd of deze band bij hun beatdownroots bleef en of hun nieuwe EP even hard-hitting klinkt als hun LP.
 

@@ -8,7 +8,7 @@ date: 2017-02-23T19:34:44+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-brutus-burst/
-image: 15134672_1230722386992451_155310526591816202_n-e1487876611388.jpg
+image: 15134672_1230722386992451_155310526591816202_n.jpg
 ---
 Veel introductie heeft deze Brutus ondertussen niet meer nodig. Dit trio brengt kort gezegd stevige songs vergezeld van engelenvocalen en duivelse gitaarlijnen. Na een demo op cassette te hebben uitgebracht, een reeks van drie 7 inch plaatjes en een split LP met The Guru Guru is het Leuvense Brutus er dan toch in geslaagd om aan te komen zetten met een langspeler 'Burst'. En ja hoor, het was het wachten waard!
 

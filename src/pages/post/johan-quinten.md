@@ -7,7 +7,7 @@ date: 2016-11-09T15:21:27+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-johan-quinten/
-image: tumblr_inline_ogdrzm5WCm1uncqs0_540-e1480423184341.jpg
+image: tumblr_inline_ogdrzm5WCm1uncqs0_540.jpg
 ---
 **Als Johan Quinten geen belletje doet rinkelen denk dan maar eens aan hardcoreband Homer of het label Funtime Records. Funtime bestaat al vele jaren en ook Homer stond al eerder op Pukkelpop en op de mainstage van Groezrock. Het werd eens tijd dat we met RockXXL een kijkje gingen nemen in de platenkast van Johan…    **
 

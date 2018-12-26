@@ -8,7 +8,7 @@ date: 2017-02-25T15:29:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-30000-monkies-i-ate-myself-to-grow-twice-as-big/
-image: a1708940688_10-e1488033680159.jpg
+image: a1708940688_10.jpg
 ---
 Het Limburgse viertal van 30,000 Monkies is ondertussen aangekomen aan hun derde album: I Ate Myself To Grow Twice As Big. Zoals het cliché zegt is de derde plaat de beste, maar dan zal de band het beter moeten doen dan op hun vorige EP 'Somewhere Over The Painbow', en dat is een hele klus. Wij gaven deze noiserockers het voordeel van de twijfel en stortte ons op een rollercoaster van nachtmerries en gecontroleerde chaos.
 

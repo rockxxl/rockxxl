@@ -7,7 +7,7 @@ date: 2017-01-14T13:17:39+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-platenkast-pieter-coolen/
-image: 12345599_10153781857497442_5024823504046176493_n-e1484399474946.jpg
+image: 12345599_10153781857497442_5024823504046176493_n.jpg
 ---
 **Pieter Coolen is gitarist van de Antwerpse hardcoreband Toxic Shock en speelde onlangs wat reünieshows met Zyklome A. Als je de facebook van Pieter bekijkt draait alles rond muziek. Zo worden er wekelijks foto's van platen geupload uit zijn persoonlijke verzameling. Wij vroegen ons af met welke platen de muziekverslaving van Pieter begon en wat nu net zijn favoriete platen zijn. Wij trokken zijn platenkast open met een hele lijst als gevolg.**
 
