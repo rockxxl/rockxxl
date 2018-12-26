@@ -39,4 +39,9 @@ export default createGlobalStyle`
     h3 { font-size: ${props => props.theme.font.size.xxl}rem; }
     h4 { font-size: ${props => props.theme.font.size.xl}rem; }
     h5 { font-size: ${props => props.theme.font.size.lg}rem; }
+
+    figure {
+        padding: 0;
+        margin: 0;
+    }
 `;

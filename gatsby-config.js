@@ -1,29 +1,27 @@
 const theme = require("./src/theme.js");
 const pkg = require("./package.json");
 
+require("dotenv").config();
+
 module.exports = {
+    siteMetadata: {
+        title: "Rock XXL",
+        cldnryCloudName: process.env.CLOUDINARY_CLOUD_NAME,
+        cldnryApiKey: process.env.CLOUDINARY_API_KEY,
+    },
     plugins: [
-        "gatsby-plugin-eslint",
-        "gatsby-plugin-extract-schema",
-        "gatsby-plugin-styled-components",
-        "gatsby-plugin-netlify",
-        "gatsby-plugin-netlify-cms",
         {
-            resolve: "gatsby-plugin-stylelint",
-            options: { files: ["./src/**/*.js"] },
+            resolve: "gatsby-source-filesystem",
+            options: {
+                path: `${__dirname}/src/pages/post`,
+                name: "post",
+            },
         },
         {
             resolve: "gatsby-source-filesystem",
             options: {
                 path: `${__dirname}/src/pages/category`,
                 name: "category",
-            },
-        },
-        {
-            resolve: "gatsby-source-filesystem",
-            options: {
-                path: `${__dirname}/src/pages/post`,
-                name: "post",
             },
         },
         {
@@ -62,6 +60,16 @@ module.exports = {
                     windows: false,
                 },
             },
+        },
+        "gatsby-plugin-eslint",
+        "gatsby-plugin-extract-schema",
+        "gatsby-plugin-styled-components",
+        "gatsby-plugin-react-helmet",
+        "gatsby-plugin-netlify",
+        "gatsby-plugin-netlify-cms",
+        {
+            resolve: "gatsby-plugin-stylelint",
+            options: { files: ["./src/**/*.js"] },
         },
     ],
     mapping: {

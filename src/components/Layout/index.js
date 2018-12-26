@@ -1,6 +1,7 @@
 import React from "react";
 import styled, { ThemeProvider } from "styled-components";
 import { Normalize } from "styled-normalize";
+import { Helmet } from "react-helmet";
 import GlobalStyle from "./GlobalStyle";
 import theme from "../../theme";
 import Header from "../App/Header";
@@ -28,6 +29,9 @@ const Main = styled.main`
 export default ({ children }) => (
     <ThemeProvider theme={theme}>
         <App>
+            <Helmet>
+                <meta httpEquiv="Accept-CH" content="DPR, Viewport-Width, Width" />
+            </Helmet>
             <Normalize />
             <GlobalStyle />
             <Header />

@@ -17,22 +17,6 @@ module.exports = ({ actions, graphql }) => {
                     html
                     fields {
                         slug
-                        posts {
-                            fields {
-                                slug
-                            }
-                            frontmatter {
-                                title
-                            }
-                        }
-                        categories {
-                            fields {
-                                slug
-                            }
-                            frontmatter {
-                                title
-                            }
-                        }
                     }
                     frontmatter {
                         title
