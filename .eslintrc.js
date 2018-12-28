@@ -30,4 +30,7 @@ module.exports = {
     globals: {
         graphql: true,
     },
+    env: {
+        browser: true,
+    }
 };

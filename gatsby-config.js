@@ -34,7 +34,7 @@ module.exports = {
             resolve: "gatsby-plugin-favicon",
             options: {
                 logo: "./src/components/Layout/favicon.png",
-                appName: pkg.name,
+                appName() { return this.siteMetadata.title; },
                 appDescription: pkg.description,
                 developerName: pkg.author.name,
                 developerURL: pkg.author.url,
@@ -72,8 +72,4 @@ module.exports = {
             options: { files: ["./src/**/*.js"] },
         },
     ],
-    mapping: {
-        "MarkdownRemark.fields.categories": "MarkdownRemark",
-        "MarkdownRemark.fields.posts": "MarkdownRemark",
-    },
 };

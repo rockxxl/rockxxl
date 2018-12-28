@@ -5,7 +5,7 @@ import { Link } from "gatsby";
 import logo from "./logo.png";
 
 const Logo = styled.img`
-    height: 1.5rem;
+    height: 4.5rem;
     padding: 1.5rem 0;
     display: block;
 `;

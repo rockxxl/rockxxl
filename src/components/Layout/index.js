@@ -1,4 +1,5 @@
 import React from "react";
+import { StaticQuery, graphql } from "gatsby";
 import styled, { ThemeProvider } from "styled-components";
 import { Normalize } from "styled-normalize";
 import { Helmet } from "react-helmet";
@@ -25,18 +26,36 @@ const Main = styled.main`
     }
 `;
 
-
 export default ({ children }) => (
-    <ThemeProvider theme={theme}>
-        <App>
-            <Helmet>
-                <meta httpEquiv="Accept-CH" content="DPR, Viewport-Width, Width" />
-            </Helmet>
-            <Normalize />
-            <GlobalStyle />
-            <Header />
-            <Main>{children}</Main>
-            <Footer />
-        </App>
-    </ThemeProvider>
+    <StaticQuery
+        query={graphql`
+            query {
+                site {
+                    siteMetadata {
+                        title
+                    }
+                }
+            }
+        `}
+        render={({ site: { siteMetadata: { title } } }) => (
+            <ThemeProvider theme={theme}>
+                <App>
+                    <Helmet
+                        meta={[
+                            {
+                                httpEquiv: "Accept-CH",
+                                content: "DPR, Viewport-Width, Width",
+                            },
+                        ]}
+                        titleTemplate={`%s | ${title}`}
+                    />
+                    <Normalize />
+                    <GlobalStyle />
+                    <Header />
+                    <Main>{children}</Main>
+                    <Footer />
+                </App>
+            </ThemeProvider>
+        )}
+    />
 );

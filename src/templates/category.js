@@ -1,16 +1,32 @@
 /* eslint-disable react/no-danger */
 import React from "react";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Container from "../components/Container";
+import PostGrid from "../components/PostGrid";
 
 export default function Template({ data }) {
-    const { markdownRemark } = data;
+    const { allMarkdownRemark: { edges } } = data;
     const {
-        frontmatter: { title },
-        fields: { posts },
-        html,
-    } = markdownRemark;
+        node: {
+            frontmatter: { title },
+            html,
+        },
+    } = edges.filter(({ node }) => !node.frontmatter.category)[0];
+
+    const posts = edges.filter(({ node }) => node.frontmatter.category === title);
+
+    const aspectRatio = () => {
+        switch (title.toLowerCase()) {
+        case "interviews":
+            return "4:3";
+        case "live reviews":
+            return "210:297";
+        default:
+            return "1:1";
+        }
+    };
+
     return (
         <Layout>
             <Container>
@@ -18,17 +34,10 @@ export default function Template({ data }) {
                     <h1>{title}</h1>
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                 </article>
-                <ul>
-                    {posts ? posts.map(({
-                        fields: { slug },
-                        frontmatter: { title: postTitle },
-                    }) => (
-                        <li key={postTitle}>
-                            <Link to={slug}>{ postTitle }</Link>
-                        </li>
-                    )) : null}
-                </ul>
-
+                <PostGrid
+                    posts={posts}
+                    aspectRatio={aspectRatio()}
+                />
             </Container>
         </Layout>
     );
@@ -36,23 +45,29 @@ export default function Template({ data }) {
 
 export const pageQuery = graphql`
     query($path: String!) {
-        markdownRemark(fields: { slug: { eq: $path } }) {
-            fileAbsolutePath
-            html
-            fields {
-                slug
-                posts {
+        allMarkdownRemark(
+            filter: { fields: { slug: { regex: $path } } }
+            sort: { order: DESC, fields: [frontmatter___date] }
+        ) {
+            edges {
+                node {
+                    fileAbsolutePath
                     html
                     fields {
                         slug
                     }
                     frontmatter {
                         title
+                        category
+                        author
+                        permalink
+                        band
+                        date
+                        image
+                        groups
+                        album
                     }
                 }
-            }
-            frontmatter {
-                title
             }
         }
     }

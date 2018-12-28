@@ -4,7 +4,14 @@ export default createGlobalStyle`
     @import url("${props => props.theme.font.family.import}");
 
     html {
+        box-sizing: border-box;
         font-size: ${props => props.theme.font.size.default}px;
+    }
+
+    *,
+    *:before,
+    *:after {
+        box-sizing: inherit;
     }
 
     body {
