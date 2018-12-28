@@ -1,4 +1,5 @@
 import { createGlobalStyle } from "styled-components";
+import { mb } from "styled-components-spacing";
 
 export default createGlobalStyle`
     @import url("${props => props.theme.font.family.import}");
@@ -50,5 +51,13 @@ export default createGlobalStyle`
     figure {
         padding: 0;
         margin: 0;
+    }
+
+    p,
+    ul,
+    address,
+    ol {
+        margin: 0;
+        ${mb(4)};
     }
 `;
