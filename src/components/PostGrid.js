@@ -7,13 +7,9 @@ import Image from "./Image";
 const List = styled.ul`
     display: grid;
     padding: 0;
-    list-style: reset;
+    list-style: none;
     grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
     grid-gap: 1.5rem;
-`;
-
-const Post = styled.li`
-    display: block;
 `;
 
 const Link = styled(GatsbyLink)`
@@ -48,30 +44,45 @@ const Content = styled.div`
     ${p(6)};
 `;
 
-export default ({ posts, aspectRatio }) => (
-    <List>
-        {posts && posts.map(({
-            node: {
-                fields: { slug },
-                frontmatter: {
-                    title,
-                    image,
-                },
-            },
-        }) => (
-            <Post key={slug}>
-                <Link to={slug}>
-                    { image ? (
-                        <Image
-                            publicId={image}
-                            aspectRatio={aspectRatio}
-                        />
-                    ) : null }
-                    <Content>
-                        { title }
-                    </Content>
-                </Link>
-            </Post>
-        ))}
-    </List>
+const aspectRatio = (category) => {
+    switch (category.toLowerCase()) {
+    case "interviews":
+        return "4:3";
+    case "live reviews":
+        return "210:297";
+    default:
+        return "1:1";
+    }
+};
+
+const Post = ({
+    node: {
+        fields: { slug },
+        frontmatter: {
+            title,
+            image,
+            category,
+        },
+    },
+}) => (
+    category && (
+        <li>
+            <Link to={slug}>
+                { image && (
+                    <Image
+                        publicId={image}
+                        aspectRatio={aspectRatio(category)}
+                        alt={title}
+                    />
+                )}
+                <Content>
+                    { title }
+                </Content>
+            </Link>
+        </li>
+    )
+);
+
+export default ({ posts }) => posts && (
+    <List>{posts.map(post => <Post key={post.node.fields.slug} {...post} />)}</List>
 );

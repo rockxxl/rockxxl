@@ -106,8 +106,6 @@ class ImageLazyLoader extends Component {
             isLoaded, src, srcSet, sizes,
         } = this.state;
 
-        console.log(aspectRatio);
-
         const image = (
             isVisible
                 && (

@@ -12,20 +12,7 @@ export default function Template({ data }) {
             frontmatter: { title },
             html,
         },
-    } = edges.filter(({ node }) => !node.frontmatter.category)[0];
-
-    const posts = edges.filter(({ node }) => node.frontmatter.category === title);
-
-    const aspectRatio = () => {
-        switch (title.toLowerCase()) {
-        case "interviews":
-            return "4:3";
-        case "live reviews":
-            return "210:297";
-        default:
-            return "1:1";
-        }
-    };
+    } = edges[0];
 
     return (
         <Layout>
@@ -34,10 +21,7 @@ export default function Template({ data }) {
                     <h1>{title}</h1>
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                 </article>
-                <PostGrid
-                    posts={posts}
-                    aspectRatio={aspectRatio()}
-                />
+                <PostGrid posts={edges} />
             </Container>
         </Layout>
     );
