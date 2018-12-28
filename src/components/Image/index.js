@@ -41,6 +41,8 @@ class ImageLazyLoader extends Component {
                 defaultOptions: {
                     dpr: 1,
                     crop: "scale",
+                    fetch_format: "auto",
+                    quality: "auto",
                 },
             },
         };
@@ -133,5 +135,5 @@ class ImageLazyLoader extends Component {
 
 export default withIntersectionObserver({
     threshold: 0,
-    rootMargin: "1000px 0px",
+    rootMargin: "500px 0px",
 })(ImageLazyLoader);
