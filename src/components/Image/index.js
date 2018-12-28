@@ -6,12 +6,8 @@ import withIntersectionObserver from "./withIntersectionObserver";
 const Image = styled.img`
     width: 100%;
     display: block;
-    transition: opacity .25s ease-in-out, filter .25s ease-in-out, transform .25s ease-in-out;
+    transition: opacity .25s ease-in-out;
     opacity: ${({ styled: { loaded } }) => (loaded ? 1 : 0)};
-    /* filter: ${({ styled: { loaded } }) => (loaded ? "none" : "blur(50px)")}; */
-    /* transform: ${({ styled: { loaded } }) => (loaded ? "none" : "scale(1.5, 1.5)")}; */
-
-    /* transform-origin: 50% 50%; */
     ${({ styled: { fit } }) => fit && `
         position: absolute
         top: 0;
@@ -24,12 +20,10 @@ const Image = styled.img`
 const Figure = styled.figure`
     position: relative;
     background-color: ${props => props.theme.color.extremelyLight};
-    overflow: hidden;
-    padding-bottom: ${(({ aspectRatio }) => {
-        const [width, height] = aspectRatio.split(":");
-        const ratio = height / width * 100;
-        return `${ratio}%`;
-    })};
+    ${({ aspectRatio }) => aspectRatio && `
+        overflow: hidden;
+        padding-bottom: ${`${aspectRatio.split(":")[1] / aspectRatio.split(":")[0] * 100}%`};
+    `}
 `;
 
 class ImageLazyLoader extends Component {
@@ -112,6 +106,8 @@ class ImageLazyLoader extends Component {
             isLoaded, src, srcSet, sizes,
         } = this.state;
 
+        console.log(aspectRatio);
+
         const image = (
             isVisible
                 && (
@@ -122,7 +118,7 @@ class ImageLazyLoader extends Component {
                         onLoad={() => this.imageLoaded()}
                         onError={() => this.imageLoaded()}
                         styled={{
-                            fit: aspectRatio !== null,
+                            fit: aspectRatio,
                             loaded: isLoaded,
                         }}
                         sizes={sizes}

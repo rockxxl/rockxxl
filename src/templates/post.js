@@ -34,7 +34,7 @@ const Article = styled.article`
     line-height: ${props => props.theme.leading.loose};
 `;
 
-const Figure = styled.figure`
+const Media = styled.div`
     width: 50%;
     float: left;
     margin-left: -25%;
@@ -61,9 +61,9 @@ export default function Template({
                 <Content size={{ md: 3 / 4 }}>
                     <Article>
                         <h1>{title}</h1>
-                        <Figure>
+                        <Media>
                             <Image publicId={image} />
-                        </Figure>
+                        </Media>
                         <div dangerouslySetInnerHTML={{ __html: html }} />
                     </Article>
                 </Content>
