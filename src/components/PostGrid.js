@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import { Link as GatsbyLink } from "gatsby";
 import styled from "styled-components";
 import { p } from "styled-components-spacing";
@@ -44,6 +44,15 @@ const Content = styled.div`
     ${p(6)};
 `;
 
+const Title = ({ title }) => (
+    <Fragment>
+        <div>{title.split(" - ")[0]}</div>
+        { title.split(" - ")[1] && (
+            <div>{title.split(" - ")[1]}</div>
+        )}
+    </Fragment>
+);
+
 const aspectRatio = (category) => {
     switch (category.toLowerCase()) {
     case "interviews":
@@ -76,7 +85,7 @@ const Post = ({
                     />
                 )}
                 <Content>
-                    { title }
+                    <Title title={title} />
                 </Content>
             </Link>
         </li>
