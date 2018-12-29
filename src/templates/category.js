@@ -1,6 +1,7 @@
 /* eslint-disable react/no-danger */
 import React from "react";
 import { graphql } from "gatsby";
+import { Helmet } from "react-helmet";
 import Layout from "../components/Layout";
 import Container from "../components/Container";
 import PostGrid from "../components/PostGrid";
@@ -9,6 +10,7 @@ export default function Template({ data }) {
     const { allMarkdownRemark: { edges } } = data;
     const {
         node: {
+            fields: { slug },
             frontmatter: { title },
             html,
         },
@@ -16,6 +18,13 @@ export default function Template({ data }) {
 
     return (
         <Layout>
+            <Helmet
+                title={title}
+                meta={[
+                    { property: "og:title", content: title },
+                    { property: "og:url", content: `${process.env.GATSBY_APP_URL}${slug}` },
+                ]}
+            />
             <Container>
                 <article>
                     <h1>{title}</h1>

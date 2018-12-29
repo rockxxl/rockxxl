@@ -4,8 +4,10 @@ import React from "react";
 import { graphql } from "gatsby";
 import Grid, { grid } from "styled-components-grid";
 import styled from "styled-components";
+import cloudinary from "cloudinary-core";
 import { p, mb, mr } from "styled-components-spacing";
 import { Helmet } from "react-helmet";
+import striptags from "striptags";
 import { format } from "date-fns";
 import nlDateFnsLocale from "date-fns/locale/nl";
 import Layout from "../components/Layout";
@@ -84,9 +86,17 @@ const Subtitle = styled.div`
     color: ${props => props.theme.color.extraLight};
 `;
 
+const OgImage = (image) => {
+    const cldnry = new cloudinary.Cloudinary({ cloud_name: process.env.GATSBY_CLOUDINARY_CLOUD_NAME });
+    return cldnry.url(image, { transformation: "og_image" });
+};
+
 export default function Template({ data }) {
     const { markdownRemark } = data;
     const {
+        fields: {
+            slug,
+        },
         frontmatter: {
             title,
             image,
@@ -96,11 +106,24 @@ export default function Template({ data }) {
         }, html,
     } = markdownRemark;
 
+    const strippedDescription = striptags(html);
+
     return (
         <Layout>
-            <Helmet>
-                <title>{title}</title>
-            </Helmet>
+            <Helmet
+                title={title}
+                link={[
+                    { rel: "canonical", href: `${process.env.GATSBY_APP_URL}${slug}` },
+                ]}
+                meta={[
+                    { name: "description", content: strippedDescription },
+                    { property: "og:title", content: title },
+                    { property: "og:description", content: strippedDescription },
+                    { property: "og:url", content: `${process.env.GATSBY_APP_URL}${slug}` },
+                    { property: "og:image", content: OgImage(image) },
+                    { property: "og:article:published_time", content: date },
+                ]}
+            />
             <Wrapper>
                 <Content>
                     <Header>
@@ -137,6 +160,9 @@ export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(fields: { slug: { eq: $path } }) {
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         category
