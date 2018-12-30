@@ -88,12 +88,12 @@ class ImageLazyLoader extends Component {
     generateSrcSet() {
         const { publicId } = this.props;
         const { srcSetSizes, cldnry } = this.state;
-        const src = `${cldnry.core.url(publicId, { transformation: "responsive_placeholder" })} 1w`;
+        const src = cldnry.core.url(publicId, { transformation: "responsive_placeholder" });
 
         this.setState({
             src,
             srcSet: [
-                ...[src],
+                ...[`${src} 32w`],
                 ...srcSetSizes.map((size) => {
                     const url = cldnry.core.url(publicId, { ...cldnry.defaultOptions, width: size });
                     return `${url} ${size}w`;
