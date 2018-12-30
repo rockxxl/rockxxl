@@ -7,14 +7,16 @@ import Container from "../components/Container";
 import PostGrid from "../components/PostGrid";
 
 export default function Template({ data }) {
-    const { allMarkdownRemark: { edges } } = data;
+    const { allMarkdownRemark: { group, listOfCategories } } = data;
+    const posts = group.find(({ fieldValue }) => fieldValue === listOfCategories[0]).edges;
+    const category = group.find(({ fieldValue, totalCount }) => fieldValue === "undefined" && totalCount === 1).edges[0];
     const {
         node: {
             fields: { slug },
             frontmatter: { title },
             html,
         },
-    } = edges[0];
+    } = category;
 
     return (
         <Layout>
@@ -30,7 +32,7 @@ export default function Template({ data }) {
                     <h1>{title}</h1>
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                 </article>
-                <PostGrid posts={edges} />
+                <PostGrid posts={posts} />
             </Container>
         </Layout>
     );
@@ -42,23 +44,28 @@ export const pageQuery = graphql`
             filter: { fields: { slug: { regex: $path } } }
             sort: { order: DESC, fields: [frontmatter___date] }
         ) {
-            edges {
-                node {
-                    fileAbsolutePath
-                    html
-                    fields {
-                        slug
-                    }
-                    frontmatter {
-                        title
-                        category
-                        author
-                        permalink
-                        band
-                        date
-                        image
-                        groups
-                        album
+            totalCount
+            listOfCategories: distinct(field: frontmatter___category)
+            group(field: frontmatter___category) {
+                fieldValue
+                totalCount
+                edges {
+                    node {
+                        html
+                        fields {
+                            slug
+                        }
+                        frontmatter {
+                            title
+                            category
+                            author
+                            permalink
+                            band
+                            date
+                            image
+                            groups
+                            album
+                        }
                     }
                 }
             }

@@ -8,12 +8,15 @@ const Image = styled.img`
     display: block;
     transition: opacity .25s ease-in-out;
     opacity: ${({ styled: { loaded } }) => (loaded ? 1 : 0)};
+    position: relative;
+    z-index: 2;
     ${({ styled: { fit } }) => fit && `
         position: absolute
         top: 0;
         left: 0;
         height: 100%;
-        object-fit: cover
+        object-fit: cover;
+
     `}
 `;
 
@@ -24,6 +27,31 @@ const Figure = styled.figure`
         overflow: hidden;
         padding-bottom: ${`${aspectRatio.split(":")[1] / aspectRatio.split(":")[0] * 100}%`};
     `}
+`;
+
+const Placeholder = styled.div`
+    overflow: hidden;
+
+    &,
+    &:after {
+        z-index: 1;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    &:after {
+        transform: scale(2);
+        transform-origin: 50% 50%;
+        display: block;
+        content: "";
+        background-image: url(${({ styled: { backgroundImage } }) => backgroundImage});
+        background-size: cover;
+        filter: blur(25px);
+    }
 `;
 
 class ImageLazyLoader extends Component {
@@ -91,7 +119,7 @@ class ImageLazyLoader extends Component {
         const src = cldnry.core.url(publicId, { transformation: "responsive_placeholder" });
 
         this.setState({
-            src,
+            src: cldnry.core.url(publicId, { transformation: "responsive_placeholder" }),
             srcSet: [
                 ...[`${src} 32w`],
                 ...srcSetSizes.map((size) => {
@@ -108,9 +136,9 @@ class ImageLazyLoader extends Component {
             isLoaded, src, srcSet, sizes,
         } = this.state;
 
-        const image = (
-            isVisible
-                && (
+        return (
+            <Figure aspectRatio={aspectRatio}>
+                {isVisible && (
                     <Image
                         ref={this.image}
                         src={src}
@@ -124,11 +152,14 @@ class ImageLazyLoader extends Component {
                         sizes={sizes}
                         alt={alt}
                     />
-                )
-        );
-
-        return (
-            <Figure aspectRatio={aspectRatio}>{image}</Figure>
+                )}
+                <Placeholder
+                    styled={{
+                        backgroundImage: src,
+                        loaded: isLoaded,
+                    }}
+                />
+            </Figure>
         );
     }
 }

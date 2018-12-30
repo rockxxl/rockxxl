@@ -60,4 +60,15 @@ export default createGlobalStyle`
         margin: 0;
         ${mb(4)};
     }
+
+    a {
+        color: ${props => props.theme.color.primary};
+        text-decoration: underline;
+
+        &:hover,
+        &:focus,
+        &:active {
+            color: ${props => props.theme.color.primary};
+        }
+    }
 `;

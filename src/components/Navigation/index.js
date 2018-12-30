@@ -15,10 +15,16 @@ const Link = styled(GatsbyLink)`
 
     &:hover,
     &:focus,
-    &.active {
+    &.active,
+    &[data-active] {
         color: ${props => props.theme.color.primary};
     }
 `;
+
+const isPartiallyActive = ({
+    isPartiallyCurrent,
+}) => ({ "data-active": isPartiallyCurrent || null });
+
 
 export default () => (
     <StaticQuery
@@ -50,6 +56,7 @@ export default () => (
                         key={title}
                         to={slug}
                         activeClassName="active"
+                        getProps={isPartiallyActive}
                     >
                         { title }
                     </Link>
