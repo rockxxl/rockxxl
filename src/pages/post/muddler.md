@@ -9,8 +9,7 @@ layout: post
 permalink: /news/interview-muddler/
 image: muddler1.jpg
 ---
-**Vlaanderen heeft de hype van de Nederlandstalige parodiemuziek te pakken. Er zijn echter nog bands die net het tegenovergestelde doen: muziek maken met tekstueel heel wat diepgang, in het Nederlands weliswaar. Zo'n band is het Lierse Muddler. Met een nieuwe plaat in het vooruitzicht, ging RockXXL praten met zanger Fons, bassist Ben en drummer Maxim.  **
-
+**Vlaanderen heeft de hype van de Nederlandstalige parodiemuziek te pakken. Er zijn echter nog bands die net het tegenovergestelde doen: muziek maken met tekstueel heel wat diepgang, in het Nederlands weliswaar. Zo'n band is het Lierse Muddler. Met een nieuwe plaat in het vooruitzicht, ging RockXXL praten met zanger Fons, bassist Ben en drummer Maxim.**
 **Muddler doopte hun muziek tot het genre sn****øck. Vanwaar komt deze naam en waarom zelf een genre uitvinden?**
 
 _Fons_: Dat is eigenlijk begonnen als een grap van onze gitarist. Vroeger was Muddler pure metal. Na een paar personeelswisselingen besloten we voor het Nederlands te gaan. Ook de muziek zelf wijzigde in een bepaalde richting. We hebben nooit echt nagedacht over wat die richting zou moeten zijn. Dat is eigenlijk organisch gegroeid. Plots begonnen we ons zelf af te vragen: ‘Welk genre muziek spelen wij nu eigenlijk?’ Er zit rock in, een beetje pop, de metalinvloeden blijven zeker ook duidelijk aanwezig, misschien wat stoner, indie,&#8230;. soit, een serieuze mix. De muzikale invloeden binnen de band verschillen ook wel, maar natuurlijk hebben we die X-aantal bands die elk van ons fantastisch vindt. Black Joe kwam plots met het woord Snøck. We lachten en dat werd het. Dat woord staat nu voor wat wij doen: soms vuil, soms vettig, met een hoek af en een scherp randje, nooit gepolijst, eerlijk, ruw, donker, onze moedertaal, zelfrelativerend, energiek en loeihard.
@@ -32,8 +31,6 @@ _Fons_: In het Nederlands kan ik beter zeggen wat ik wil zeggen. Dan kan ik bete
 **Jullie teksten zijn kleine gedichten. Is een nummer zonder diepgang geen Muddler nummer?** 
 
 _Fons_: Bedankt voor het compliment. De diepgang is geen doel op zich, maar tot nu toe kon ik niets anders schrijven. Omdat de teksten goed verstaanbaar zijn, wil ik er ook wel aandacht aan besteden. Ze komen uit mijn (ons) hart, zijn eerlijk en persoonlijk. Er ligt een zekere gevoeligheid en kwetsbaarheid in met een rauw en scherp randje. Daar huist kracht in. Maar eigenlijk zit dat in iedereen. Alleen hebben wij de ballen om dat te laten zien en voelen.
-
-** **
 
 **Muddler zingt ook vaak over donker en kilte. Was dit een specifieke keuze die jullie bij het ontstaan van de band gemaakt hebben?** 
 

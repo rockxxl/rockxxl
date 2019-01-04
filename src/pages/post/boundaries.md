@@ -11,8 +11,6 @@ image: 26172407_1767226799963898_2551281455828945907_o.jpg
 ---
 **Wij hadden nog niet gehoord van het Canadese Boundaries voor dat ze op de affiche van de ‘You’re Part Of This Tour’ verschenen. Een eerste tour doen met bands als Deez Nuts en Trash Talk is een kans die niet voor elke band is weggelegd. Met hun eerste plaat ‘Quarter Life Crisis’ hebben ze ons alvast kunnen overtuigen. Wij spraken in de Muziekodroom in Hasselt, tot onze grote vreugde, met de volledige band. Het lijkt erop dat een nieuwe band zich aanmeldt in de hardcore scene.**
 
-** **
-
 **De tour is ondertussen een week bezig. Hoe is deze al geweest voor jullie?**
 
 We zijn precies een bende kleine kinderen die heel de tijd rondlopen omdat we zo enthousiast zijn over alles. Het is onze eerste keer en we hebben nog nooit echt iets als dit gedaan. Elke band op de tour is super vriendelijk en we hebben gewoon een goede tijd.
@@ -20,8 +18,6 @@ We zijn precies een bende kleine kinderen die heel de tijd rondlopen omdat we zo
 **Zoals gezegd is dit de eerste keer dat jullie op tour gaan buiten Canada. Wat zijn de grootste verschillen die jullie ondervinden tussen de Canadese hardcore scene en die van Europa?**
 
 Het publiek is hier redelijk verlegen, in Duitsland toch. Het zal er natuurlijk ook wel mee te maken hebben dat we steeds de eerste band zijn. Bij de eerste drie bands was er tot nu toe weinig of geen beweging. We proberen het publiek zoveel mogelijk op hun gemak te stellen, maar het lukt ons niet altijd om die barrière te doorbreken. Zolang we de mensen met hun hoofd zien bewegen zijn we tevreden. Nog een groot verschil is de hele productie. We gaan met een grote bus in plaats van met een busje, we krijgen elke dag eten, we hebben een chauffeur, we worden behandeld als prinsen (lacht). In Canada moeten we alles zelf doen. Het enige dat we nu moeten doen is spelen en ons materiaal in -en uitladen. Lekker gemakkelijk dus.
-
-** **
 
 **Jullie spelen steeds als opener op deze tour. De zalen zijn dan niet altijd even gevuld. Maakt dit het niet moeilijker om interactie te hebben met je publiek?**
 

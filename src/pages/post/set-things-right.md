@@ -11,8 +11,6 @@ image: 15039507_1338155776208404_2040673305254975013_o.jpg
 ---
 **Set Things Right, Belgisch bekendste metalcore band, houdt er na drie full albums en een podiumplaats op Groezrock en Graspop mee op. De band speelt hun laatste show op 25 november in Hangar 27 in Edegem.  Wij gingen rond tafel zitten met bassist en zanger Jonas De Roeck  en blikten terug op negen jaar Set Things Right in hun, jawel, laatste interview ooit!**
 
-** **
-
 **Wat was nu echt het moment waarop jullie besloten om ermee op te houden?**
   
 We hadden het idee al langer in ons hoofd. Bij de opnames van onze laatste plaat ‘Deathwish’ was dat ook de afspraak die we onderling maakte: dit wordt onze laatste. We hadden het gevoel dat we het lage plafond in België bereikt hadden en dat de enige logische keuze naar het buitenland vertrekken met een mini-van was. Die optie was voor ons gewoonweg niet mogelijk doordat vele van ons al gesetteld waren en andere prioriteiten in het leven hadden. Kinderen, een carrière-stap, bouwen, etc. en de grote shows in België kan je op één hand tellen. We wilden echt niet die resident-band worden die heel het jaar wat rondploetert in jeugdhuizen en met wat geluk op Groezrock of Graspop mag spelen of een voorprogramma in een grote club mag verzorgen. Pas op, we zijn heel dankbaar dat we dat mochten doen, maar we did that all before & we don’t wanna sound like a broken record. Als laatste mag je ook zeker niet vergeten dat de professionele opnames van muziek en video’s niet gratis zijn en dat er erg weinig geld zit in deze kleine scene. Niet dat we het voor de ‘flappen’ deden, maar we hebben genoeg broeken gescheurd.

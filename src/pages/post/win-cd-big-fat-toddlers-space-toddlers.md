@@ -14,8 +14,7 @@ Hoe kan je deelnemen?:
 
 **1. Like RockXXL op facebook: <https://www.facebook.com/rockxxlbe/>**
 
-**2. Open deze foto op facebook: **
-
+**2. Open deze foto op facebook:**
 <div id="fb-root">
 </div>
 

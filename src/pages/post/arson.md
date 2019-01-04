@@ -27,8 +27,6 @@ _Fabian_: Een groot deel van onze inspiratie komt uit de jaren 20 en 30, interbe
 
 _Rien_: Het idee van de handen is ook een referentie naar de DIY mentaliteit binnen de band. We maken veel dingen zelf en hebben de EP ook zelf opgenomen in ons repetitiekot, met uitzondering van de drums die we bij Much Luv studio hebben opgenomen. Het idee van je handen vuil te maken als je aan iets wilt werken is dus een belangrijke rode draad doorheen de EP.
 
-** **
-
 **Op facebook lazen we dat Arson werd opgericht met de intentie om op één jaar tijd op het podium van Groezrock te staan. Dit jaar is het geen Groezrock, maar jullie staan wel op Jera On Air. Is dit volgens jullie even geslaagd?** 
 
 _Rien_: Dat was niet echt de algemene intentie, maar eerder een doel om naar te streven. Zodat je als groep toch weet waar je naartoe probeert te werken. We hadden op dat moment al veel energie in de band gestoken en op een podium als Groezrock mogen spelen zou de kers op de taart geweest zijn. En inderdaad, geen Groezrock dit jaar, maar het openen van de main stage op Jera on Air is minstens even cool!
@@ -48,8 +46,6 @@ _Rien_: Zelf heb ik lang in een metal band gespeeld en had ik naar het einde toe
 _Rien_: John Coffey is zeker een invloed geweest. Hoe zij het hardere gitaarwerk toch min of meer in de mainstream hebben kunnen krijgen, is wonderlijk. Ik denk dat het redelijk duidelijk is bij welke bands we inspiratie gevonden hebben. Dat steken we niet onder stoelen of banken.
 
 _Fabian_: We hebben nooit de bedoeling gehad om het warm water uit te vinden. De focus lag altijd op goede nummers maken en ons enorm amuseren tijdens repetities en op het podium.
-
-** **
 
 **Buiten vuur zijn jullie teksten vaak religieus getint.** 
 

@@ -31,8 +31,6 @@ Op korte termijn zorgt het voor vertraging van de ontwikkeling van de band. Muzi
 
 Eigenlijk niet. Ondanks het feit dat er samen met de hoogtes ook laagtes zijn geweest. Op een gegeven moment moesten we bijvoorbeeld als trio (zang, drum, bas) op zoek naar twee gitaristen. Dan weet je dat het moeilijke weken worden. Als onderlinge ergernissen op tafel kwamen, gebeurde dit steeds op een constructieve manier, met het oog op het verder schrijven aan het Chalice verhaal.
 
-** **
-
 **Een grote doorbraak is er nooit geweest voor Chalice. Denken jullie dat dit te maken heeft gehad met alle vertragingen?**
 
 Dit speelt zeker een rol. Daarnaast hebben we in het verleden iets te weinig aandacht gehad voor het promoten van de band en onze albums. Daar hebben we misschien kansen laten schieten. Laat wel duidelijk zijn dat Chalice geen uitdovend verhaal is. Met de nieuwe plaat onder de arm en met een aantal mensen die ons steunen, willen we mikken op meer en betere shows in binnen- en buitenland. We hebben nog plannen op de tekentafel. Daarmee willen we alles uit de nieuwste plaat halen en dingen beter of anders aanpakken dan in het verleden. Onze exposure op sociale media moet bijvoorbeeld beter en we zoeken bijvoorbeeld naar een label dat ‘Ashes Of Hope’ wil uitbrengen op vinyl.

@@ -68,8 +68,6 @@ _Zondag 7 juli / 21u00 – 21u45 / Marquee_
 
 
 
-** **
-
 **Death Angel**
 
 Eén van onze favoriete thrashmetal bands is zonder twijfel het Amerikaanse Death Angel. Met hun nieuwe album 'The Evil Divide' liet de band enkele heavy tunes vallen. Ook al is de band jaarlijks meer te zien op verschillende Belgische podia, teleurstellen doet dit vijftal nooit. Een meer dan gepaste headliner dus!

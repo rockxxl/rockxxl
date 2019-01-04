@@ -19,8 +19,7 @@ Dat hopen we. We zouden het echt leuk vinden om nog eens met Crooks op te treden
 
 Het is geweldig! We werken erg hard en hebben veel plezier samen. Mensen vinden onze band goed en dat is echt geweldig. We tourden ook veel meer het afgelopen jaar. Dat vat het zo wat samen.
 
-**Groezrock is een van onze grootste alternatieve festivals van België. Spelen jullie de laatste tijd meer van zulke festivals? **
-
+**Groezrock is een van onze grootste alternatieve festivals van België. Spelen jullie de laatste tijd meer van zulke festivals?**
 2000 Trees komt volgens ons het dichtste bij als je spreekt over de grootte. Vandaag is onze eerste dag op Europese festivals en we hebben er ongelofelijk veel zin in. We hebben nog niet de kans gehad om rond te lopen, omdat we net zijn aangekomen. Het is grappig, want telkens als we naar België komen, regent het. Het is goed weer nu, dus dat is een aangename verrassing.
 
 **Hoe verschilt het publiek van festivals en shows voor jullie?**

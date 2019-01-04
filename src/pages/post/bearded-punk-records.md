@@ -23,19 +23,13 @@ Het leuke aan het label is dat, ondanks het kleine team, we allemaal een verschi
 
 Eerst en vooral moeten we met het hele team 100% overtuigt zijn van de nummers. Van het moment iemand van ons toch twijfels heeft brengen we een bepaalde plaat/band niet uit. Als het gaat om een buitenlandse band dan wordt ook besproken in hoeverre ze het zien zitten om een Europese tour te doen. Sinds kort werken wij samen met een officieel bookingskantoor dat ons hier bij helpt. Het wordt moeilijker en moeilijker om via sociale media je boodschap over te brengen en reclame te maken. Qua persoonlijkheid is het natuurlijk ook belangrijk dat ze in het BPR plaatje passen.
 
-** **
-
 **Cd of vinyl?**
 
 Ongetwijfeld vinyl. Zelf zijn we allemaal fervente vinylverzamelaars, maar helaas kost het laten maken van die dingen ongelooflijk veel geld. Hierdoor zijn we niet altijd in staat om elke release op vinyl uit te brengen. We betalen nl. de hele persingkost voor onze bands.
 
-** **
-
 **Onlangs deden jullie een vinyl release van het Amerikaanse The Dopamines. Hoe kom je bij een kans als deze?**
 
 Ik ben altijd al een ontzettend grote Dopamines fan geweest. Herinner je je Crossbone fest 2015 nog? Wat een feest! Wat een band! Toch zal het je verbazen als je beseft hoe ‘klein’ de punkwereld eigenlijk is. Ik heb Josh persoonlijk leren kennen toen we samen het nieuwe album van The Priceduifkes hebben gereleased. Toen we onze dagelijkse nachtelijke gesprekken hadden over die release, kwam die van The Dopamines natuurlijk ook aan bod. Hier heb ik geen seconde over moeten nadenken. De DIY wereld van de punk is eigenlijk redelijk klein en ik ben van mening dat DIT (Do It Together) veel leuker, efficiënter is dan wanneer je het alleen zou doen. Er is een nieuwe beweging op gang waardoor DIY labels meer gaan samenwerken. Er zijn nog een paar grote aankondigen die we daaromtrent moeten doen. Spannend he?
-
-** **
 
 **Het is misschien vragen om te kiezen welk kind je het leukste vind, maar op welk van je releases ben je het meest trots?**
 

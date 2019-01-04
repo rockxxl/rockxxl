@@ -9,10 +9,7 @@ layout: post
 permalink: /news/interview-anti-flag/
 image: Anti-Flag.jpg
 ---
-**Op Graspop Metal Meeting zat RockXXL rond tafel met Anti-Flag drummer Pat Thetic. Anti-Flag is de politieke punkband bij uitstek. Eind vorig jaar kwam hun nieuw album ‘American Fall’ uit, waarmee ze een uitgebreide mening gaven over het presidentschap van Donald Trump en de huidige situatie in Amerika. Hierover ging dan ook ons gesprek.  **
-
-** **
-
+**Op Graspop Metal Meeting zat RockXXL rond tafel met Anti-Flag drummer Pat Thetic. Anti-Flag is de politieke punkband bij uitstek. Eind vorig jaar kwam hun nieuw album ‘American Fall’ uit, waarmee ze een uitgebreide mening gaven over het presidentschap van Donald Trump en de huidige situatie in Amerika. Hierover ging dan ook ons gesprek.**
 **In november kwam jullie nieuw album ‘American Fall uit’. Jullie vorige plaat kreeg de naam ‘American Spring’. Wat is de gelijkenis of het verschil tussen deze twee albums?**
 
 Het grote verschil is vooral dat beide albums een ander uitgangspunt hebben. Bij ‘American Spring’ waren we vooral bezig met het klein beetje hoop dat er bleek te zijn in de wereld. ‘American Fall’ gaat er dan weer over hoe dat de wereld er nu uitziet. Vooral hoe Trump het racisme in Amerika onderlijnt. Hij is zeker niet de oorzaak, maar helpen doet hij ook niet bepaald. Trump maakt racisme terug oké in de US. Ook vluchtelingen die naar de grens komen, worden gescheiden van hun kinderen en soms apart teruggestuurd. Dit alles is gewoonweg gestoord. ‘American Spring’ was redelijk optimistisch en ‘American Fall’ is pessimistisch. We brengen binnenkort ‘American Reckoning’ uit, het derde deel in de reeks. Hier zullen enkele akoestische nummers, enkele covers en enkele nieuwe nummers op staan. Die komt ergens in de volgende maanden uit.

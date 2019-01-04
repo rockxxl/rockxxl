@@ -8,8 +8,7 @@ layout: post
 permalink: /live-review/live-review-dijkrock-2016/
 image: 14064029_1221751817837525_6736177105099653036_n.jpg
 ---
-**Dijkrock is zo’n festival dat elk jaar afkomt met een super gevarieerde line up, zolang het maar stevig rockt. Midden in het dorp van Sint Lenaarts met twee podia waarvan er één het gezellige bluescafé Willem Tell is. Dit jaar was het vooral Your Highness en Katastroof die de aandacht trokken op de affiche.  **
-
+**Dijkrock is zo’n festival dat elk jaar afkomt met een super gevarieerde line up, zolang het maar stevig rockt. Midden in het dorp van Sint Lenaarts met twee podia waarvan er één het gezellige bluescafé Willem Tell is. Dit jaar was het vooral Your Highness en Katastroof die de aandacht trokken op de affiche.**
 Volk op de been brengen om half vier ’s middags is niet gemakkelijk, maar daar had Dijkrock al bij al geen probleem mee. Beginnen deed Dijkrock met het lokale geweld van **Kevlar**. Deze band maakt al een dikke drie jaar stevige rock die neigt naar de stoner kant en hier en daar ook lekker donker aanvoelt. Het publiek was aandachtig en de band gaf zich ook voor de volle 100 procent. Neem dan nog een frisse pint in de hand en meer is er niet nodig om een festivalletje op perfecte wijze te openen.
 
 Nog een band die niet van ver moest komen was **Fox Hunt**. Dit vijftal mocht podium twee openen. Het is altijd leuk om op grotere podia’s te staan maar een café als Willem Tell is voor een band als Fox Hunt misschien wel een meer ideale setting. Fox Hunt bracht heavy metal/ hard rock nummers op een geweldige old school manier. Met een cover van Doctor Doctor van U.FO. kreeg Dijkrock de eerste signalen naar een feestje. Drie gitaren en stevige gitaarsolo’s zijn de keys naar succes. Meer van dat!

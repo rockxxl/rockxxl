@@ -8,8 +8,7 @@ layout: post
 permalink: /live-review/live-review-stray-from-the-path-kavka-2017/
 image: 21768033_1430349413712882_6535907887110210513_n.jpg
 ---
-**Op donderdag 12 oktober toverde HeartBreakTunes de Kavka in Antwerpen om tot een toneel van een hardcoreshow van jewelste. Ook al was de line up een mengelmoes van alles dat de naam hardcore draagt, met bands als o.a. Stray From The Path en Obey The Brave op de affiche kon de avond alvast niet stuk.  **
-
+**Op donderdag 12 oktober toverde HeartBreakTunes de Kavka in Antwerpen om tot een toneel van een hardcoreshow van jewelste. Ook al was de line up een mengelmoes van alles dat de naam hardcore draagt, met bands als o.a. Stray From The Path en Obey The Brave op de affiche kon de avond alvast niet stuk.**
 http://www.heartbreaktunes.com/
 
 Opener van de avond was **Renounced**. Een London-based recht voor de raap hardcore band die met recht en reden op de affiche stond. Toen Renounced hun eerste noten speelde was de zaal amper gevuld. Hoe dan ook heeft dit de band niet van hun stokje gebracht. Door hun harde no nonsense muziek bleven de eerste moshpits dan ook niet lang achterweg. Tijdens hun set hebben ze een mix van oude en nieuwe nummers gespeeld wat de diehard fans zeker konden smaken. Renounced was zeker een geslaagde opener, een aantal technische probleempjes met de micro meegerekend.

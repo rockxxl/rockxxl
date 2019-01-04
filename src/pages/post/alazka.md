@@ -27,8 +27,7 @@ Het heeft alles te maken met de herrijzenis van onze band uit de assen van Burni
 
 Ik wil niet zeggen dat dit een marketing stunt was, maar als we gewoon van de ene dag op de andere onze naam veranderden, zouden mensen het niet opgemerkt hebben. We creëerden dus een heel deel vragen bij onze fans: “Gaat de band uit elkaar?” . Zo ging onze naamsverandering niet onopgemerkt voorbij. Mochten we dit niet gedaan hebben hadden we misschien wel fans verloren.
 
-**Jullie zijn nu met twee zangers en combineren een schreeuwende stem met een cleane stem. Hoe reageerden de fans op deze verandering?  **
-
+**Jullie zijn nu met twee zangers en combineren een schreeuwende stem met een cleane stem. Hoe reageerden de fans op deze verandering?**
 Heel positief eigenlijk. Het was altijd al de bedoeling om een meer cleane stem te hebben in onze band, maar in ons eerste album zochten we altijd naar gaststemmen. Zo deden we bijvoorbeeld een samenwerking met Michael McGough van Being As An Ocean op ons eerste album. Sommige mensen reageren dat ze het oude werk leuker vinden, maar wij gaan deze weg in omdat we dit altijd al gepland hadden. Ik vind sommige muziekgenres ook niet leuk, dus ik vind het niet zo erg, iedereen heeft zijn eigen mening. We hebben zeker nieuwe fans gemaakt door deze verandering, maar dat was oorspronkelijk nooit onze bedoeling geweest. Er waren heel wat fans die het schreeuwen maar niets vinden en de stem van Kassim wel weten te appreciëren. Daar kan ik natuurlijk ook mee leven. Maar het schreeuwen zal altijd bij de band blijven, net zoals de stem van Kassim. Ik kan ook een beetje zingen, maar het is vermoeiend om telkens te moeten wisselen tussen de twee stemmen. Juist daarom komt Kassim als een geschenk voor deze band.
 
 **De band maakte eerder al een akoestische versie van de nummers 'Phoenix' en 'Empty Throne', met alleen de stem van Kassim. Plannen jullie meer van deze versies?** 

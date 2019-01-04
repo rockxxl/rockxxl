@@ -11,8 +11,6 @@ image: 20994232_1533421133386982_5448356111535561427_n.jpg
 ---
 **De Canadese punkband The Penske File trekt voor de tweede keer op Europese tour. Met de Europese release van hun album ‘Burn Into This’ achter de rug en een nieuwe plaat in het vooruitzicht, vonden wij het tijd om eens een praatje te slaan met dit uiterst sympathieke trio. ** 
 
-** **
-
 **Om te beginnen: jullie bandnaam. Als ik mij niet vergis komt deze van de serie ‘Seinfeld’.** 
 
 Helemaal correct. We zijn alle drie grote fans van deze show. We kozen deze naam een aantal jaar  geleden in de middelbare school. Onze vroegere tweede gitarist had een lijst met potentiële namen waarvan The Penske File één was en ook als beste uitkwam. The Penske File betekent dat je doet alsof je productief bent terwijl je eigenlijk gewoon niets doet.

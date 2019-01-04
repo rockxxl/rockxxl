@@ -11,13 +11,9 @@ image: Deez-Nuts-Hardcore-Band-2017.jpg
 ---
 **Het Australische Deez Nuts weet sinds 2007 verschillende hardcore fans te plezieren met een aanstekelijk stukje muziek. Hoewel hun teksten over drank, drugs en feesten enige controversie wisten op te wekken, lijkt dit viertal tien jaar na hun ontstaan toch een andere insteek gevonden te hebben. Deez Nuts zakte af naar de Muziekodroom in Hasselt waar wij gingen praten met zanger en oprichter JJ Peters.**
 
-** **
-
 **Vorig jaar speelden jullie vier keer in België. Het is nog maar maart en jullie zijn alweer terug. Jullie spelen wel erg veel in de Europese landen.**
 
 We spelen inderdaad veel in Europa. Om eerlijk te zijn, is onze sterkste fanbase hier. De shows zijn hier beter georganiseerd, het publiek steunt ons heel hard, … Elke keer als we terug komen naar Europa of België lijkt het op al die vlakken steeds beter te gaan. We hebben niet echt een reden om hier weg te blijven. Mijn dochter woont in België, dus ik hang hier wel vaker rond.
-
-** **
 
 **De laatste keer dat jullie in de Muziekodroom stonden, was ‘Binge & Purgatory’ nog niet uit. Jullie speelden de titelsong als laatste nummer. Ik las een aantal reviews dat mensen liever een bekender nummer wilden als afsluiter. ** 
 
@@ -31,13 +27,9 @@ We wilden mensen een voorsmaakje geven van wat er ging komen. Natuurlijk is het 
 
 Inderdaad. Als je de achterkant van ons album bekijkt, staat daar een kruis gemaakt uit heroïnezakjes. Ook de Maria op onze nieuwe tourposter is gemaakt uit sigaretten en heroïneballonnen. Dat is weer een ‘Binge & Purgatory’ ding: we zetten het religieuze tegenover de donkere realiteit. We zijn niet bepaald gelovig, maar we zijn ook niet tegen religie Het geeft wel ongelofelijk sterke beelden weer.
 
-** **
-
 **Jullie hebben deze vraag waarschijnlijk al meerdere keren gekregen, maar het is zeer opvallend dat  thema’s als drinken en feesten niet meer zoveel voorkomen in ‘Binge & Purgatory’.**
 
 We brachten al vier albums uit waarin dat de focus was, maar de mensen weten ondertussen wel dat we van drinken en feesten houden. We hadden het ook allemaal al op zoveel verschillende manieren gezegd en het mag natuurlijk ook niet saai worden. Met ‘Binge & Purgatory’ hebben we meer gereflecteerd naar onszelf toe. Ondertussen zijn we 35 in plaats van 25 en hebben we andere dingen aan ons hoofd dan non-stop drinken, drugs en feesten. De meesten van ons hebben ondertussen een gezin, en die moet ook onderhouden worden natuurlijk. Je kunt ook niet iedereen tevreden houden. Als we nog hierover nog een album hadden gemaakt, zullen veel mensen gezegd hebben: weer een album over feesten? Maar nu zijn er evenveel mensen die dat thema wel missen. Je moet doen wat je goed lijkt en dit leek de beste keuze voor Deez Nuts, vandaar.
-
-** **
 
 **In nummers zoals ‘Discord’ passen jullie een meer zingende stijl toe. Hoe bevalt dit je?**
 

@@ -8,8 +8,7 @@ layout: post
 permalink: /news/onze-tips-voor-jera-on-air/
 image: 17796176_1541197222589502_7617440270522174901_n.png
 ---
-**Wat Groezrock is in België, is Jera On Air in Nederland: punkrock & hardcore. Het festival in Ysselsteyn is ondertussen al aan zijn 25e editie toe. Moeite met het maken van een geschikte watchlist? Hier alvast enkele bands die je volgens RockXXL zeker niet mag missen: **
-
+**Wat Groezrock is in België, is Jera On Air in Nederland: punkrock & hardcore. Het festival in Ysselsteyn is ondertussen al aan zijn 25e editie toe. Moeite met het maken van een geschikte watchlist? Hier alvast enkele bands die je volgens RockXXL zeker niet mag missen:**
 **1) While She Sleeps** 
 
 Hun derde studioalbum ‘You Are We’ was meteen een schot in de roos. Vooral het nummer ‘Silence Speaks’ werd door het publiek zeer gewaardeerd, dit in samenwerking met Oli Sykes van Bring Me The Horizon. While She Sleeps opende voor hen afgelopen jaar in Vorst Nationaal. Toen hadden ze door enkele technische problemen niet de mogelijkheid om hun set af te werken. Met een hele CD aan nieuwe nummers is Jera On Air een meer dan ideale herkansing.

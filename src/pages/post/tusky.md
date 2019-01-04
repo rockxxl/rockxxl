@@ -11,8 +11,6 @@ image: Tusky_2018_1.jpeg
 ---
 **Begin vorig jaar zag Tusky het levenslicht. Tusky is een Nederlandse punkrock band die door velen gekend is omdat Chris en Afred van John Coffey deel uit maken van de band. Wij gingen met dit viertal rond de tafel zitten op het gezellige Jera On Air, waar Tusky een knaller van een show neerzette. Zanger en gitarist Alfred voerde het woord.** 
 
-** **
-
 **Het gaat heel erg goed voor Tusky. Hoe bevalt dit jullie?**
 
 We hebben tien jaar lang in andere bands onze reet eraf gewerkt. Het duurde allemaal heel erg lang voordat je echt iets kon bereiken. Wat we nu meemaken, is dan gewoon heel erg vet! Het is enorm tof dat het geen tien jaar duurt vooraleer je op een Jera On Air of Zwarte Cross staat.
@@ -38,8 +36,6 @@ Die combinatie is alleen maar goed denk ik. We maken heel veel feestelijke en en
 **Zes van de negen nummers die op ‘Rated Gnar’ staan, zijn ook apart uitgebracht met videoclip. Is het de bedoeling dat ze alle negen aan de beurt komen?**
 
 Ja, dat is het zeker. Ik vind dat je al je nummers als aparte singles zou moeten kunnen uitbrengen, anders heb je niet een compleet goed album gemaakt. Dan had je dat bepaald nummer net even goed niet kunnen uitbrengen. Met video’s bereik je ook gewoon meer mensen die zo sneller de tekst kunnen meezingen.
-
-** **
 
 **Jullie doen binnenkort jullie eerste tour buiten Nederland met Black Peaks. Wat verwachten jullie daarvan?**
 

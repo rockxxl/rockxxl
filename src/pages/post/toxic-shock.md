@@ -27,8 +27,6 @@ Die is maar op 500 exemplaren geperst. En die 500 7”-en waren snel weg. Maar v
 
 Niet, denk ik (lacht). Dat was een once-in-a-lifetime ding. Dit was een speciaal project toen wij artist in residence in TRIX waren. Dat zou ook niet lukken met zomaar eender welke andere band. Met Team Panini was er een klik en wij kenden elkaar ook al langer. Zij doen hun eigen ding in hip hop land en wij doen ons eigen ding in het harde muziek segment. Wij waren twee buitenbeentjes/underdogs bijeen en dat werkte mooi. Het was fijn dat die samenwerking (een uitverkochte avond in TRIX met een zestal harde acts + hip hop acts) ook leidde tot een aantal 'Toxic Panini' shows en die 7”. Shout out naar Lost Youth Records die het plaatje uitbrachten.
 
-** **
-
 **De metal invloed op ‘Twentylastcentury’ is belangrijker dan voorheen.**
 
 Metal heeft altijd in onze sound gezeten denk ik. Ook in het begin was die invloed er, maar minder. Wij zijn echter geen full on metal band. Ik moet wel toegeven dat er in 20LC meer metal invloeden zijn geslopen, maar dat heet dan evolutie zeker? Toxic Shock blijft een echte crossover band, niet vies van hardcore punk met een gezonde dosis metal erin. Maar om op jullie vraag te antwoorden: wij zijn een iets grotere band geworden die regelmatig de grens oversteekt om te spelen. Het is allemaal iets serieuzer geworden dan toen we pas bezig waren.

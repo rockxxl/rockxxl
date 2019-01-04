@@ -11,8 +11,6 @@ image: 65-og.jpg
 ---
 **De Amerikaanse punkrockband Descendents bestaat ondertussen al weer 40 jaar en wordt door velen gezien als de grondlegger van de pop punk. In 2016 kwam hun eerste album in 12 jaar ‘Hypercaffium Spazzinate’ uit. Op Sjock Festival ontmoette wij zanger Milo voor een gesprek en iets later nam ook drummer Bill deel.**
 
-** **
-
 **‘Hypercaffium Spazzinate’ is nu twee jaar uit. Jullie deden echter twaalf jaar over het schrijven van het nieuwe album.** 
 
 We zijn in de jaren 2000 meer niet, dan wel actief geweest. We probeerden meer tijd te maken voor onze kinderen, Bill hield een opnamestudio open en moest geopereerd worden aan zijn hersenen en ik probeerde de wetenschapper uit te hangen. Er is nooit kwaad opzet geweest tussen ons. We hadden gewoon heel wat aan ons hoofd. De operatie van Bill bracht ons terug bij elkaar en we zijn dan een tijdje later, in 2010, terug begonnen met het spelen van optredens. Een logisch vervolg was dan uiteraard een nieuwe plaat. Het schrijf -en opname proces heeft uiteindelijk maar vijf jaar in beslag genomen. Dat valt uiteindelijk nog wel mee voor Descendents. (lacht)

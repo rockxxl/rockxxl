@@ -11,8 +11,6 @@ image: gloru.jpg
 ---
 **Voor diegenen die niet bekend zijn met het begrip Gloryhammer: Gloryhammer is de power metal band van Christopher Bowes, die ook zanger is bij Alestorm, met als thema ‘fantasie’. RockXXL ging tijdens hun passage samenzitten met dit zootje ongeregeld in de Biebob in Vosselaar. Christopher was er dit keer spijtig genoeg niet bij, maar wij spraken met bassist James (The Hootsman) en de tijdelijke vervanger van Christopher: Mike (the evil wizard Zargothrax).** 
 
-** **
-
 **Hier is het nu winter. Hoe is het weer in Dundee?**
 
 _James:_ Het is daar minstens even koud als hier, of misschien wel een miljoen keer erger. Ik herinner me dat het daar verschrikkelijk stormt en de mensen hebben daardoor zelfs geen elektriciteit.
@@ -36,8 +34,6 @@ _James:_ Ja, elke show krijgen we wel een stoffen eenhoorn of dergelijke. Ik ben
 **Zargothrax is van gezicht veranderd. Wat voor magie is dat?**
 
 _James:_ Christopher heeft net zijn tour doorheen Engeland gedaan met Alestorm en is nu terug in Amerika. Hij zit in twee relatief bekende bands en het is dus niet altijd evident om al onze shows mee te doen. Voor hij naar Amerika verhuisde hebben ik en Christopher lang samen in een flat gewoond.  We hebben dan samen beslist dat als er iemand niet kan spelen, we gewoon een vervanger zoeken voor een tour. Alestorm is geen gewone hobby meer en dat maakt het dus alleen maar moeilijker voor Gloryhammer. We houden van wat we doen en de show must go on. Mike is dan voor hem ingevallen en dat heeft geen slechte invloed op onze show, integendeel.
-
-**
   
 Mike lijkt ook wel heel erg op Christopher.**
 

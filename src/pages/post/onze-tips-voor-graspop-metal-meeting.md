@@ -42,8 +42,6 @@ _Vrijdag 16 juni / 20u15 – 21u15 / Main Stage 2_
 
 
 
-** **
-
 **Brides of Lucifer**
 
 Het allereerste optreden van het Belgische Brides of Lucifer is als headliner van de marquee op de vrijdag van Graspop. Hier is uiteraard een verklaring voor. Brides of Lucifer is een project van het vrouwenkoor Scala in samenwerking met o.a. Koen Buyse van Zornik. Meer is er nog niet geweten maar wij zijn alvast benieuwd naar dit uiterst interessant project.

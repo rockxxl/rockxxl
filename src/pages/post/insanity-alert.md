@@ -9,8 +9,7 @@ layout: post
 permalink: /news/interview-insanity-alert/
 image: 9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg
 ---
-**Thrash metal band Insanity Alert stond onlangs nog op Hellfest en nam deel aan de Persistance Tour met bands als Hatebreed en Terror. Wij gingen rond tafel zitten met zanger Kevin Stout en stelde hem wat vragen over hun album 'Moshburger' en het derde album dat er binnenkort aankomt. **
-
+**Thrash metal band Insanity Alert stond onlangs nog op Hellfest en nam deel aan de Persistance Tour met bands als Hatebreed en Terror. Wij gingen rond tafel zitten met zanger Kevin Stout en stelde hem wat vragen over hun album 'Moshburger' en het derde album dat er binnenkort aankomt.**
 **Jullie recentste album heet ‘Moshburger’. Wat is een moshburger en waar komt deze vandaan?** 
 
 Als we op tour zijn schrijf ik in de bus vaak dingen op waar ik aan denk. Vaak ben ik dan ook stoned (lacht). Als ik de dag erna terug kijk naar wat ik heb opgeschreven denk ik wel vaak ‘what the fuck’, maar deze vonden we zo grappig dat we het wilde gebruiken voor de artwork. We hebben het idee dan doorgestuurd naar de tekenaar van Municipal Waste. Die heeft uiteindelijk iets helemaal anders bedacht dan wij in ons hoofd hadden, maar de artwork was zo goed dat we het gewoon hebben gehouden.
@@ -31,8 +30,6 @@ Ja, dat proberen we altijd wel te doen. Dat doen we bijvoorbeeld ook op onze web
 
 De teksten schrijf ik allemaal. Ik schrijf gewoon alles op dat in me opkomt. Het is een soort humor dat ik heb en dan gaat het natuurlijk vanzelf. Meestal heb ik zelfs alleen een titel die ik grappig vind en werk daar op verder. Bij het nummer ‘Confessions of a Crabman’ bijvoorbeeld had ik krabbenhanden gevonden op Amazon. Omdat ik het zo geniaal vond heb ik ze besteld en daarna pas het nummer geschreven. We proberen altijd attributen op het podium te gebruiken en dan moet het natuurlijk wel bij een nummer passen.
 
-** **
-
 **Is het nummer ‘Why is David Guetta Still Alive’ een reactie op de muziekscene of kan je hem gewoon echt niet uitstaan?**
 
 Dat is ook weer een vreemd verhaal (lacht). We zaten in de tourbus en ik was het nieuws aan het checken op een website. Het artikel ging erover dat Marc Dutroux misschien zou vrijkomen. Hij heeft natuurlijk veel mensen pijn gedaan en ik dacht: waarom is het nu niet zo dat één van die mensen compleet is beginnen flippen, een pistool koopt en hem gewoon dood schiet. Iemand op de tourbus zei dan: ja, waarom is David Guetta dan eigenlijk nog in leven? Dat vonden we zo grappig dat we er dan maar een nummer over hebben geschreven. Eigenlijk ken ik hem helemaal niet, misschien als je er een liedje van laat horen.
@@ -52,8 +49,6 @@ De eerste plaat ging inderdaad wel soepel omdat we al een hoop nummers op voorha
 **Denken jullie dat Iron Maiden weet dat jullie ‘Run To The Pit’ hebben gemaakt?** 
 
 Ik denk het niet (lacht). Ik zit in Nederland in de punkband The Apers. Daar hebben we vroeger ‘Teenage Kicks’ van The Undertones mee gecoverd. Een paar jaar later kwamen The Undertones in Rotterdam en daar kondigde ze ‘Teenage Kicks’ aan met: Dit nummer wordt beter gedaan door The Apers. Het was gewoon tof dat ze uberhout wisten dat het nummer bestond, laat staan hoe dat de band noemde. Het zou wel geniaal zijn moest ‘Run To The Pit’ verboden worden, dan hebben we een verhaal. We spelen ondertussen ook al weer vijf jaar en de meeste mensen kennen ons door dat lied. Waar we ook heen gaan of hoe saai de avond ook is, zodra we dat nummer inzetten gaat iedereen uit de bol omdat het herkenbaar klinkt.
-
-** **
 
 **Is het soms niet frustrerend dat jullie bekendste nummer een cover is?
   

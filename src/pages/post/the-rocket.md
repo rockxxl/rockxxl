@@ -9,8 +9,7 @@ layout: post
 permalink: /news/interview-the-rocket/
 image: 31936547_10156481851954940_4977021880859885568_n.jpg
 ---
-**Na drie jaar radiostilte begon de facebookpagina van The Rocket terug te leven. En jawel hoor, deze Belgische pop punk band plande een comeback. Niet veel later liet The Rocket hun gloednieuwe album ‘Another Reason Not To Fear The Sky’ op de wereld los. Wij bestempelden dit kleine kunstwerkje eerder al als de soundtrack van de zomer. Hoog tijd om eens een praatje te maken met oprichter en zanger Tom.  **
-
+**Na drie jaar radiostilte begon de facebookpagina van The Rocket terug te leven. En jawel hoor, deze Belgische pop punk band plande een comeback. Niet veel later liet The Rocket hun gloednieuwe album ‘Another Reason Not To Fear The Sky’ op de wereld los. Wij bestempelden dit kleine kunstwerkje eerder al als de soundtrack van de zomer. Hoog tijd om eens een praatje te maken met oprichter en zanger Tom.**
 **We gaan even terug naar een aantal jaar geleden. Waar liep het destijds mis dat The Rocket ermee ophield?**
 
 Ik denk dat we het spoor wat bijster waren. We wisten niet goed meer welke richting we op moesten. De eerste drummer Rogier hield er mee op, Geoff hing zijn synths aan de haak. Ik stopte er dan zelf iets later mee. Bandleden kwamen en gingen. Hans van F.O.D. was ook even zanger en zong de laatste plaat in. Nog een paar frontmannen, gitaristen en synthspelers passeerden de revue. Het leek ons toen tijd om een laatste show te spelen en toch wel even te herbronnen.

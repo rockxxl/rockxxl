@@ -31,10 +31,8 @@ image: titan.jpg
 
 <span style="font-weight: 400;">Dat wil al eens variëren. Hans (gitarist) of ik komen vaak met een riff of sequentie van riffs waar we samen met Wim (drummer) mee aan de slag gaan. Als de basis ongeveer klaar is hebben Jim (zanger) en Kevin (bassist) ook vaak nog kritiek wat er soms toe leidt dat een nummer compleet wordt herschreven. Het leukst vind ik wanneer een jamsessie een heel organisch klinkend geheel vormt. </span>
 
-<span style="font-weight: 400;"><br /> </span>**Onlangs hebben jullie een split uitgebracht met Witness The Fall. Heeft dit project jullie windeieren gelegd? **
-
+<span style="font-weight: 400;"><br /> </span>**Onlangs hebben jullie een split uitgebracht met Witness The Fall. Heeft dit project jullie windeieren gelegd?**
 <span style="font-weight: 400;">We voelen ons met deze release toch wel gezegend door alle support die we van allerhande labels hebben gekregen. Bound By Modern Age Records uit Duitsland bracht het uit op een 7&#8243;, Mark My Words Records uit de UK deed een release van de CD en Arduous Path Records uit de US kwam aanzetten met tapes. Veel van deze labels hebben contact met een aantal labels uit Japan waardoor ons werk ook ginder te vinden is. </span><span style="font-weight: 400;">Voorlopig ziet het ernaar uit dat deze labels ook interesse hebben in nieuwe releases, dus we hebben eigenlijk weinig klagen momenteel.</span>
 
-<span style="font-weight: 400;"><br /> </span>**Jullie hebben nu twee EP's uitgebracht. Zijn er concrete plannen voor een full length? **
-
+<span style="font-weight: 400;"><br /> </span>**Jullie hebben nu twee EP's uitgebracht. Zijn er concrete plannen voor een full length?**
 <span style="font-weight: 400;">Onze bassist zit momenteel volop in zijn verbouwing maar hierna zijn er wel plannen om terug een EP op te nemen van vijf a zes nummers, maar dat zal ten vroegste april/ mei zijn.</span>

@@ -10,8 +10,6 @@ image: 30124052_10212048948435908_3981074273237421404_n-1.jpg
 ---
 **De Poeyelhei in Gierle werd ook dit jaar weer omgetoverd tot het jaarlijkse Sjock Festival, voor de 43<sup>ste</sup> keer ondertussen. Hoewel het festival dit jaar namen als MC50 en Dead Kennedys op de affiche had staan, was het toch de zondag die ging lopen met heel wat mooie punkrock bands zoals Descendents en Pennywise. RockXXL nam een kijkje op dit uiterst gezellige festival in hartje Kempen.**
 
-** **
-
 De eer om de laatste dag van Sjock te openen was weggelegd voor **This Means War**. Deze half Belgisch, half Nederlandse band mocht al op heel wat mooie plaatsen spelen: The Sound Of Revolution, Rebellion Festivals en nu ook Sjock. Achja, hoe kan het ook anders als je band bestaat uit leden van Convict, Discipline,… Deze punkrock superband bracht dan ook meteen de sfeer op de weide. Na het nummer ‘Those Were The Days’ werden er enkele flexi discs lp’s vrolijk het publiek ingegooid. Een leuk souvenir dat we maar al te graag mee naar huis namen, na een toch wel zeer geslaagd optreden!
 
 [<img class="alignnone size-full wp-image-5337" src="36909156_2096349397271647_9022502077187751936_o-e1531377751233.jpg)

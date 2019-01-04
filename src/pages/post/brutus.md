@@ -9,8 +9,7 @@ layout: post
 permalink: /news/interview-brutus/
 image: BRUTUS_2017_009_press_©EvaVlonk_Web-1.jpg
 ---
-**Onder het motto 'trouble comes in threes' bracht Brutus begin dit jaar wereldwijd hun debuut 'Burst' uit. Met verschillende buitenlandse optredens en zomerfestivals op de planning is de bal van Brutus serieus aan het rollen. Hoog tijd dus om eens aan tafel te gaan zitten met dit uiterst sympathieke trio. **
-
+**Onder het motto 'trouble comes in threes' bracht Brutus begin dit jaar wereldwijd hun debuut 'Burst' uit. Met verschillende buitenlandse optredens en zomerfestivals op de planning is de bal van Brutus serieus aan het rollen. Hoog tijd dus om eens aan tafel te gaan zitten met dit uiterst sympathieke trio.**
 **Jullie komen net terug van de UK en ook daar speelt Brutus meer en meer. Hoe bekend zijn jullie daar ondertussen?**
 
 _Stijn_: Ik denk volledig niet (lacht). We hebben wel het geluk dat we daar een aantal festivals hebben kunnen spelen. Ook gisteren stonden we op een festival en ik merkte toch wel dat er een aantal mensen waren die wilde weten wat het verhaal achter Brutus was. De tent stond in elk geval aangenaam vol.

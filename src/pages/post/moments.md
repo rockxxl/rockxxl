@@ -9,10 +9,7 @@ layout: post
 permalink: /news/interview-moments/
 image: 15418591_1458392430845477_8597358955220313955_o.jpg
 ---
-**Zaterdag zaten we neer met het vijftal van Moments net na hun geweldig optreden op Groezrock. We hadden het over festivals, de Belgische hardcore scene en hun nieuwe EP 'Outlast'. **
-
-**
-  
+**Zaterdag zaten we neer met het vijftal van Moments net na hun geweldig optreden op Groezrock. We hadden het over festivals, de Belgische hardcore scene en hun nieuwe EP 'Outlast'.**  
 Jullie staan ondertussen voor de tweede keer op Groezrock, hoe voelt het om hier terug te zijn?**
 
 Geweldig, zo simpel is het. Het is drie jaar geleden dat we hier voor de eerste keer speelden en ik denk dat de tweede keer alles heeft overtroffen. Het is een heel leuke beloning voor al het harde werk dat we leveren. Om op festivals als Groezrock te mogen spelen, daar doen we het voor. Het was prachtig.

@@ -19,8 +19,6 @@ Er zijn niet echt serieuze veranderingen. We zijn natuurlijk wel een jaartje oud
 
 Ja, klopt helemaal, maar we willen ons niet beperken tot dat idee van die identiteit. Elk nummer bekijken we apart. ‘In Bloom’ is misschien wel de meest opvallende van de nieuwe video’s en ook het nummer zelf valt op doorheen het album. Net omdat het nummer zo verschilt van de rest wilden we ook iets anders doen met de videoclip. We hadden heel wat ideeën, maar het idee dat uiteindelijk werd gebruikt, kwam van de regisseur zelf. De video past naar onze mening erg goed bij het nummer en daar draait het om.
 
-** **
-
 **Hoewel veel van jullie nummers op ‘The Peace And The Panic’ meer poppy klinken, hebben de teksten vaak een zwaarder onderwerp.**
 
 Onze vorige plaat ‘Life’s Not Out To Get You’ was een vrolijke plaat. Met de simpele reden dat we allemaal blij waren omdat alles gewoon zo vlot verliep en onze droom om fulltime muziek te maken werkelijkheid werd. Ondertussen hebben we zowel op persoonlijk vlak als met de band heel wat tegenslagen gehad. Dit heeft ons volwassener gemaakt. Ook het grote enthousiasme was op een bepaald moment weg. De nummers gaan dan ook allemaal over echte ervaringen en zijn een reflectie van hoe we ons op dat moment voelden.
@@ -32,8 +30,6 @@ Toen we het nummer schreven, hadden we het idee dat er iets miste. We dachten da
 **Jullie zijn een jonge, relatief succesvolle band. Zijn jullie niet bang dat het succes niet al te lang zou kunnen duren?**
 
 Zeker! We denken dat elke artiest dat wel wat heeft. Je kan niet verwachten dat je altijd even succesvol blijft. Elke keer als we een album uitbrengen, hebben we die stress wel. Wat als mensen je nieuwe nummers niet meer goed vinden? Op die manier kan het snel gedaan zijn. Uiteindelijk kan je niet anders dan doen wat voor jezelf goed voelt. Je kan mensen niet zeggen wat ze leuk vinden. Als je zelf tevreden bent met je eigen plaat, heb je gedaan wat je moest doen. Het moet ook gewoon leuk blijven. Het is en blijft muziek.
-
-** **
 
 **Jullie brengen gemiddeld elk jaar een album uit. Er is ondertussen een jaar verstreken sinds ‘The Peace And The Panic’. Is er een nieuwe plaat in aantocht?** 
 

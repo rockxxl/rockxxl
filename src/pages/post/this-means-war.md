@@ -11,8 +11,6 @@ image: this-meansss.jpg
 ---
 **De Oostmalse hardcore punk band Convict** **rond de broers Bert en Dries Van Dijck stopte** **er** **onlangs voor een tweede keer mee****. Ditmaal na hun tour met niemand minder dan Agnostic Front. Niet veel later kondigde dit duo hun nieuwe band aan: This Means War. Ondertussen b****racht This Means War een plaat uit op Pirate Press Records in Amerika en staan er een hele hoop interessante shows op deze heren te wachten. Tijd om eens aan tafel te zitten met zanger Bert Van Dijck.**
 
-** **
-
 **Je vorige band Convict bracht na vijf jaar terug een plaat uit, jullie tourden met niemand minder dan Agnostic Front,… en plots stopt het hele Convict verhaal. Bijna meteen daarna begon je This Means War. Waarom deze onverwachte koerswisseling?** 
 
 Veel muzikanten zullen dit wel herkennen maar het verhaal bij Convict was helemaal geschreven. De tour met Agnostic Front was de kers op de taart, daarna kon het enkel nog bergaf gaan. Ik geloof ook dat we met de laatste Convict plaat de beste plaat hadden geschreven die in ons zat.  Vreemd genoeg werd het zaadje van This Means War gepland tijdens de tour met Agnosic Front. Op de tourbus werd bijna de klok rond oude punk en oi gedraaid. Toen Old Firm Casuals de revue passeerde met het nummer ‘Perry Boys’ sloeg dat bij mij en Dries in als een atoombom. De kracht en melodie die in die punk verweven zitten is ongeëvenaard. Ook de baas van ons toenmalig tabel Wouter Davids had me al eens gezegd dat mijn stem best zou passen bij old school punk en oi (punk voor de werkende klasse)… en zo begon het dus allemaal

@@ -11,8 +11,6 @@ image: download.jpg
 ---
 **Op 18 april gingen we praten met Levi Benton en Ryan Neff van Miss May I op de Heaven and Hell tour in het Antwerpse Zappa. We hadden het over het tourleven, het publiek en over hun nieuwe werk.**
 
-** **
-
 **De Heaven and Hell tour is pas begonnen. Hoe voelt het om shows te doen die zo divers zijn qua genre?**
 
 Het is zeer cool dat deze tour zo diverse is, net omdat we al zo lang geen diverse tour meer gedaan hebben. Toen we met deze band begonnen, deden we altijd diverse tours, waar we meestal dan nog de enige hevige band op heel de tour waren. Daarom zijn we dus heel blij om deel te zijn van deze tour, en vooral om weer in Europa te zijn.

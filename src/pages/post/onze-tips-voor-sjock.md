@@ -8,8 +8,7 @@ layout: post
 permalink: /news/onze-tips-voor-sjock/
 image: sjokckk.jpg
 ---
-**7, 8 en 9 juli wordt de Poeyelhei in Gierle weer omgetoverd tot het jaarlijkse Sjock Festival. Ondertussen viert het festival z'n 42ste verjaardag met niemand minder dan Bad Religion als top of the bill. Ook het nodige aantal Belgische artiesten is dit jaar aanzienlijk hoog. Meer is er niet nodig voor een gezellig weekend vol punk, rock n roll. Wij kozen tien bands uit de affiche en zette deze even op een rijtje. **
-
+**7, 8 en 9 juli wordt de Poeyelhei in Gierle weer omgetoverd tot het jaarlijkse Sjock Festival. Ondertussen viert het festival z'n 42ste verjaardag met niemand minder dan Bad Religion als top of the bill. Ook het nodige aantal Belgische artiesten is dit jaar aanzienlijk hoog. Meer is er niet nodig voor een gezellig weekend vol punk, rock n roll. Wij kozen tien bands uit de affiche en zette deze even op een rijtje.**
 **The Living End**
 
 Het Australische The Living End mag het festival aftrappen op de mainstage. Met hun nieuwe album 'Shift' gaat de band meer op zoek naar een alternatieve rocksound die lichtelijk afwijkt van hun punkrock/ rockabilly geluid van de voorbije jaren. Meer kans om fan te worden dus, al kijken wij eerder uit naar nummers als 'Prisoner Of Society', die ook niet zullen ontbreken.

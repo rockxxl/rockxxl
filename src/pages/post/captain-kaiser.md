@@ -27,8 +27,6 @@ Eerlijk gezegd was eerst de titel er en dan pas het nummer. We zochten een conne
 
 Billy Bragg is één van mijn favoriete folkzangers aller tijden. Als je naar zowat al zijn nummers luistert, dan hoor je gewoon punkrock. ‘A New England’ heeft dat zeker ook, dus dachten we om dat extra in de verf te zetten. We hebben geprobeerd er ons eigen ding mee te doen, maar het toch ook zoveel mogelijk te behouden. Naar onze mening zijn we daar enorm goed in geslaagd !
 
-** **
-
 **Na de cd kwam ‘Dog Days On Deck’ zopas uit op vinyl. Hoe belangrijk is fysieke muziek voor Captain Kaiser?**
 
 We willen natuurlijk zoveel mogelijk beluisterd worden, ookal is het grootste luister platform niet meer de fysieke muziek. Toch willen we hier op blijven inzetten. Ik merk dat wie een cd of vinyl heeft gekocht, de nummers beter kan meezingen. En ja, wat is er voor een band leuker als een meezingend publiek? Zo simpel kan het leven zijn!
@@ -37,13 +35,9 @@ We willen natuurlijk zoveel mogelijk beluisterd worden, ookal is het grootste lu
 
 Die kans is vrij reël. Als we aan dit tempo hits blijven schrijven, zullen er nog veel volgen!
 
-** **
-
 **De eerste editie van Kaiser Fest vond zopas plaats. Vanwaar het idee voor een eigen festival op poten te zetten?** 
 
 Ik woon in het pitoreske dorp Oevel waar Kaiser Fest plaats vond. Op een chirofuif of dorpsfeest waar Sam Goris en Stan Van Samang komen optreden (twee geweldige artiesten in hun genre) na is er muziekaal weinig te beleven. Tijd om de Belgische punkfans naar het geweldige Oevel te lokken! We hopen dat we met Kaiser Fest punkrock en in het algemeen alternatieve muziek een boost geven. Naar onze mening krijgen de alternatievere genres nog steeds te weinig aandacht.
-
-** **
 
 **Jullie spelen/ speelden op Sjock Festival. Toch een bucketlist dingetje als je het aan ons vraagt. Op welke andere festivals willen jullie ooit nog gespeeld hebben?** 
 

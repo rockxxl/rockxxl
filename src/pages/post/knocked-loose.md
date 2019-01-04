@@ -11,13 +11,9 @@ image: kockedloose_4x3.jpg
 ---
 **Eén van de meest opkomende hardcore bands van het moment is zonder twijfel het Amerikaanse Knocked Loose. Met hun eerste full-album ‘Laugh Tracks’ kreeg de band heel wat mooie kansen voorgeschoteld, zo ook Graspop Metal Meeting. Hier zaten wij dan ook samen Knocked Loose zanger Bryan Garris en stelden hem enkele vragen.**
 
-** **
-
 **Twee jaar geleden kwam jullie eerste full-album ‘Laugh Tracks’ uit. Sinds die release is het voor jullie zeer snel gegaan als band. Hoe is dat?**
 
 We kunnen het amper zelf geloven. We zijn Knocked Loose gestart met de intentie om een plaat uit te brengen die we zelf erg goed vonden, meer niet. En zie waar we nu staan! We hebben natuurlijk wel erg hard gewerkt aan ‘Laugh Tracks’ en we hebben bijna non stop getoerd in Amerika. Het doet deugd om te weten dat al dat harde werk toch iets oplevert, ook al was het nooit de bedoeling om zelfs maar de oceaan over te steken naar Europa.
-
-** **
 
 **We kunnen jullie stijl niet terugbrengen in één genre. Er zijn echter wel heel wat nieuwere bands die net zoals jullie trage, laag gestemde hardcore brengen. We denken dan aan bands als Code Orange, Malevolence,… Het lijkt stilaan op een trend. Hoe zie jij dat?**
 

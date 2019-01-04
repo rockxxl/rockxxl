@@ -9,8 +9,7 @@ layout: post
 permalink: /news/interview-if-i-may/
 image: 18260865_10213325976681794_1644302700_o.jpg
 ---
-**De Oost-Vlaamse post-hardcoreband If I May bracht pas hun tweede EP 'No Man's Land' uit. If I May is vaak de vreemde eend in de bijt maar tegelijkertijd weten mensen de iets alternatievere factor toch zeer te smaken. Wij gingen praten met zanger Linz en bassist Joren en kwamen beter te weten hoe de muziek van dit vijftal nu eenmaal in elkaar zit. **
-
+**De Oost-Vlaamse post-hardcoreband If I May bracht pas hun tweede EP 'No Man's Land' uit. If I May is vaak de vreemde eend in de bijt maar tegelijkertijd weten mensen de iets alternatievere factor toch zeer te smaken. Wij gingen praten met zanger Linz en bassist Joren en kwamen beter te weten hoe de muziek van dit vijftal nu eenmaal in elkaar zit.**
 **Licht eens even jullie albumtitel ‘No Man’s Land’ toe.**
 
 <span style="font-weight: 400;"><em>Linz:</em> Dit vat zowat het hele album samen. We leven in een wereld waar mensen in angst leven, maar waar dezelfde mensen alles vernietigen dat we hebben opgebouwd. Als we zo blijven doorgaan; racisme, discriminatie, geen liefde, verdeeld door ons geloof en kleur, &#8230; dan is er niets meer om voor te leven.Terwijl we proberen om onze kop boven water te houden, moeten we opkomen voor onszelf en voor anderen. Oorlog is een eindeloze weg, vrede is het antwoord, or it won’t take long ‘til we all live in .. ‘No Man’s Land’.</span>
