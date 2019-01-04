@@ -23,24 +23,22 @@ const Post = styled(GridItem)`
     display: flex;
     flex-direction: column;
     grid-column: 1;
-    ${breakpoint("sm")`
-    grid-column: ${({ index }) => {
-        if (index === 0) return "1 / span 2";
-        if (index % 2 === 0) return "2 / 2";
-        return "1 / 2";
-    }};
+    ${breakpoint("sm", "md")`
+        grid-column: 1 / 2;
+        &:nth-child(2n + 1) { grid-column: 2 / 2; }
+        &:nth-child(1) { grid-column: 1 / span 2; }
     `}
 
     ${breakpoint("md")`
-    grid-column: ${({ index }) => {
-        if (index === 0) return "1 / span 2";
-        return "3 / 3";
-    }};
-    grid-row: ${({ index }) => {
-        if (index === 0) return "1 / span 2";
-        if (index === 2) return "2 / 2";
-        return "1 / 2";
-    }};
+        grid-row: 1 / 2;
+        grid-column: 3 / 3;
+        &:nth-child(1) {
+            grid-column: 1 / span 2;
+            grid-row: 1 / span 2;
+        }
+        &:nth-child(3) {
+            grid-row: 2 / 2;
+        }
     `}
 `;
 

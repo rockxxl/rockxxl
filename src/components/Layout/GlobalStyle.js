@@ -22,6 +22,7 @@ export default createGlobalStyle`
         line-height: ${props => props.theme.leading.normal};
         color: ${props => props.theme.color.text};
         background-color: ${props => props.theme.color.body};
+        overflow-x: hidden;
     }
 
     h1,
@@ -70,5 +71,14 @@ export default createGlobalStyle`
         &:active {
             color: ${props => props.theme.color.primary};
         }
+    }
+
+    pre {
+        font-family: "Dank Mono", monospace;
+        font-size: 11px;
+        letter-spacing: .125px;
+        padding: 1rem;
+        background: #333333;
+        color: #dddddd;
     }
 `;

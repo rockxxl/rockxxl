@@ -1,5 +1,15 @@
 import React from "react";
+import styled from "styled-components";
+import { pb } from "styled-components-spacing";
 import { StaticQuery, graphql } from "gatsby";
+import Category from "./Category";
+
+const Categories = styled.div`
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1.5rem;
+    ${pb(12)}
+`;
 
 export default () => (
     <StaticQuery
@@ -12,7 +22,7 @@ export default () => (
                 group(
                     field: frontmatter___category,
                     limit: 4
-                    ) {
+                ) {
                     fieldValue
                     edges {
                         node {
@@ -37,20 +47,13 @@ export default () => (
         }
     `}
         render={data => (
-            <div>
-                <pre>{JSON.stringify(data, null, 2) }</pre>
-                {/* { data.allMarkdownRemark.edges.map(({
-                    node: { fields: { slug }, frontmatter: { title } },
-                }) => (
-                    <Link
-                        key={title}
-                        to={slug}
-                        activeClassName="active"
-                    >
-                        { title }
-                    </Link>
-                )) } */}
-            </div>
+            <Categories>
+                { data.allMarkdownRemark.group
+                    .filter(({ fieldValue }) => fieldValue !== "undefined")
+                    .map(category => (
+                        <Category category={category} />
+                    ))}
+            </Categories>
         )}
     />
 );

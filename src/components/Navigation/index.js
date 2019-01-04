@@ -26,7 +26,7 @@ const isPartiallyActive = ({
 }) => ({ "data-active": isPartiallyCurrent || null });
 
 
-export default () => (
+export default ({ className }) => (
     <StaticQuery
         query={graphql`
         query NavgiationQuery {
@@ -48,7 +48,7 @@ export default () => (
         }
     `}
         render={data => (
-            <Navigation>
+            <Navigation className={className}>
                 { data.allMarkdownRemark.edges.map(({
                     node: { fields: { slug }, frontmatter: { title } },
                 }) => (

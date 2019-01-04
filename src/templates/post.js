@@ -1,9 +1,19 @@
 /* eslint-disable react/no-danger */
 
-import React from "react";
-import { graphql } from "gatsby";
+import React, { Fragment } from "react";
+import styled from "styled-components";
+import { px, py } from "styled-components-spacing";
+import { graphql, Link as GatsbyLink } from "gatsby";
 import Post from "../components/Post/Detail";
-import Sidebar from "../components/Post/Sidebar";
+import List from "../components/Post/List";
+
+const ToFullList = styled(GatsbyLink)`
+    display: block;
+    font-size: ${props => props.theme.font.size.sm}rem;
+    border-top: 1px solid ${props => props.theme.color.extremelyLight};
+    ${py(3)}
+    ${px(4)}
+`;
 
 export default function Template({
     data: { markdownRemark: post, allMarkdownRemark },
@@ -14,10 +24,17 @@ export default function Template({
         <Post
             post={post}
             sidebar={(
-                <Sidebar
-                    posts={related}
-                    category={category}
-                />
+                <Fragment>
+                    <List
+                        posts={related}
+                        category={category}
+                    />
+                    <ToFullList to={category.node.fields.slug}>
+                        Terug naar
+                        {" "}
+                        {category.node.frontmatter.title}
+                    </ToFullList>
+                </Fragment>
             )}
         />
     );

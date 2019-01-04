@@ -7,14 +7,10 @@ import Hero from "../components/Home/Hero";
 import Categories from "../components/Home/Categories";
 
 const Intro = styled.div`
-    text-align: center;
-    /* font-family: ${props => props.theme.font.family.headings}; */
-    letter-spacing: 0;
-    font-weight: ${props => props.theme.font.weight.headings};
-    /* line-height: ${props => props.theme.leading.none}; */
+    letter-spacing: -.5px;
+    /* font-weight: ${props => props.theme.font.weight.headings}; */
     font-size: ${props => props.theme.font.size.xl}rem;
-    font-style: italic;
-    ${py(6)}
+    ${py(12)}
 `;
 
 export default () => (

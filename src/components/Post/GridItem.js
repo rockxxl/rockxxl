@@ -1,6 +1,7 @@
 import React, { Fragment } from "react";
 import { Link as GatsbyLink } from "gatsby";
 import styled from "styled-components";
+import breakpoint from "styled-components-breakpoint";
 import { p, my } from "styled-components-spacing";
 import Image from "../Image";
 
@@ -40,8 +41,11 @@ const Content = styled.div`
 const Heading = styled.h1`
     color: ${props => props.theme.color.body};
     font-weight: ${props => props.theme.font.weight.bold};
-    font-size: ${({ large, theme }) => (large ? `${theme.font.size.xxxl}rem` : "1rem")};
+    font-size: 1rem;
     ${my(0)}
+    ${breakpoint("sm")`
+        font-size: ${({ large, theme }) => (large ? `${theme.font.size.xxxl}rem` : "1rem")};
+    `}
 `;
 
 const Title = ({ title }) => (

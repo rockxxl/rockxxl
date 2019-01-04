@@ -23,8 +23,8 @@ const socialmedia = [
     { name: "Spotify", icon: faSpotify, route: "https://open.spotify.com/user/rockxxl" },
 ];
 
-export default () => (
-    <SocialMedia>
+export default ({ className }) => (
+    <SocialMedia className={className}>
         {
             socialmedia.map(({ name, icon, route }) => (
                 <a key={name} href={route} target="_blank" rel="noopener noreferrer" title={name}>

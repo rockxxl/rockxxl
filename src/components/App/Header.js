@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { px } from "styled-components-spacing";
+import breakpoint from "styled-components-breakpoint";
 import Brand from "../Brand";
 import Navigation from "../Navigation";
 import SocialMedia from "../SocialMedia";
@@ -19,13 +20,22 @@ const Wrapper = styled(Container)`
     ${px(6)};
 `;
 
+const Nav = styled(Navigation)`
+    display: none;
+    ${breakpoint("md")` display: flex; `}
+`;
+
+const SocMed = styled(SocialMedia)`
+    display: none;
+    ${breakpoint("md")` display: flex; `}
+`;
 
 export default () => (
     <Header>
         <Wrapper>
             <Brand />
-            <Navigation />
-            <SocialMedia />
+            <Nav />
+            <SocMed />
         </Wrapper>
     </Header>
 );
