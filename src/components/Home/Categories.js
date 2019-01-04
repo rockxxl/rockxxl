@@ -1,14 +1,17 @@
 import React from "react";
 import styled from "styled-components";
 import { pb } from "styled-components-spacing";
+import breakpoint from "styled-components-breakpoint";
 import { StaticQuery, graphql } from "gatsby";
 import Category from "./Category";
 
 const Categories = styled.div`
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 1.5rem;
     ${pb(12)}
+    grid-template-columns: 1fr;
+    ${breakpoint("sm")` grid-template-columns: 1fr 1fr; `}
+    ${breakpoint("lg")` grid-template-columns: 1fr 1fr 1fr 1fr; `}
 `;
 
 export default () => (

@@ -1,27 +1,32 @@
 /* eslint-disable react/no-danger */
 
-import React from "react";
-import { Helmet } from "react-helmet";
-import Grid, { grid } from "styled-components-grid";
-import styled from "styled-components";
-import cloudinary from "cloudinary-core";
-import { p, mb, mr } from "styled-components-spacing";
-import striptags from "striptags";
 import { format } from "date-fns";
+import { Helmet } from "react-helmet";
+import { p, mb, mr } from "styled-components-spacing";
+import breakpoint from "styled-components-breakpoint";
+import cloudinary from "cloudinary-core";
 import nlDateFnsLocale from "date-fns/locale/nl";
+import React from "react";
+import striptags from "striptags";
+import styled from "styled-components";
 import Layout from "../Layout";
 import Image from "../Image";
 
-const Wrapper = styled(Grid)`
-    display: flex;
+const Grid = styled.div`
     flex-grow: 1;
     max-width: 1440px;
     width: 100%;
+    ${breakpoint("md")`
+        display: grid;
+        grid-template-columns: 1fr 320px;
+    `}
 `;
 
 const Sidebar = styled.aside`
-    ${grid.unit({ size: { md: 1 / 4 } })}
-    border-left: 1px solid ${props => props.theme.color.extremelyLight};
+    ${breakpoint("md")`
+        width: 320px;
+        border-left: 1px solid ${props => props.theme.color.extremelyLight};
+    `}
 `;
 
 const Sticky = styled.div`
@@ -34,11 +39,12 @@ const Scroll = styled.div`
 `;
 
 const Content = styled.article`
-    ${grid.unit({ size: { md: 3 / 4 } })}
     display: flex;
     flex-direction: column;
-    align-items: center;
     ${p(6)};
+    ${breakpoint("md")`
+        align-items: center;
+    `}
 `;
 
 const Header = styled.header`
@@ -49,16 +55,24 @@ const Header = styled.header`
 
 const Section = styled.section`
     width: 100%;
-    max-width: 640px;
     line-height: ${props => props.theme.leading.loose};
+    ${breakpoint("md")`
+        max-width: 640px;
+    `}
 `;
 
 const Media = styled.div`
-    width: 50%;
-    float: left;
-    margin-left: -25%;
     ${mb(3)};
-    ${mr(6)};
+    ${breakpoint("sm")`
+        max-width: 320px;
+        width: 50%;
+        float: left;
+        ${mr(6)};
+    `}
+
+    ${breakpoint("lg")`
+        margin-left: -25%;
+    `}
 `;
 
 const aspectRatio = (category) => {
@@ -131,7 +145,7 @@ export default ({
                     { property: "og:article:published_time", content: date },
                 ]}
             />
-            <Wrapper>
+            <Grid>
                 <Content>
                     <Header>
                         <Title title={title} />
@@ -159,7 +173,7 @@ export default ({
                         </Scroll>
                     </Sticky>
                 </Sidebar>
-            </Wrapper>
+            </Grid>
         </Layout>
     );
 };

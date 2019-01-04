@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { py } from "styled-components-spacing";
+import breakpoint from "styled-components-breakpoint";
 import Layout from "../components/Layout";
 import Container from "../components/Container";
 import Hero from "../components/Home/Hero";
@@ -8,9 +9,11 @@ import Categories from "../components/Home/Categories";
 
 const Intro = styled.div`
     letter-spacing: -.5px;
-    /* font-weight: ${props => props.theme.font.weight.headings}; */
-    font-size: ${props => props.theme.font.size.xl}rem;
-    ${py(12)}
+    ${py(6)}
+    ${breakpoint("md")`
+        font-size: ${props => props.theme.font.size.xl}rem;
+        ${py(12)}
+    `}
 `;
 
 export default () => (

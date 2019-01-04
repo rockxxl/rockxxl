@@ -18,8 +18,16 @@ const ToFullList = styled(GatsbyLink)`
 export default function Template({
     data: { markdownRemark: post, allMarkdownRemark },
 }) {
-    const related = allMarkdownRemark.group.find(({ fieldValue }) => fieldValue === post.frontmatter.category).edges;
-    const category = allMarkdownRemark.group.find(({ fieldValue }) => fieldValue === "undefined").edges[0];
+    const related = allMarkdownRemark
+        .group
+        .find(({ fieldValue }) => fieldValue === post.frontmatter.category).edges;
+
+    const category = allMarkdownRemark
+        .group
+        .find(({ fieldValue }) => fieldValue === "undefined")
+        .edges
+        .find(({ node }) => node.frontmatter.title === post.frontmatter.category);
+
     return (
         <Post
             post={post}
