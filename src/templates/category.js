@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 import Layout from "../components/Layout";
 import Container from "../components/Container";
-import PostGrid from "../components/PostGrid";
+import Grid from "../components/Post/Grid";
 
 export default function Template({ data }) {
     const { allMarkdownRemark: { group, listOfCategories } } = data;
@@ -32,7 +32,7 @@ export default function Template({ data }) {
                     <h1>{title}</h1>
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                 </article>
-                <PostGrid posts={posts} />
+                <Grid posts={posts} />
             </Container>
         </Layout>
     );

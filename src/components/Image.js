@@ -20,38 +20,39 @@ const Image = styled.img`
     `}
 `;
 
-const Figure = styled.figure`
+const Figure = styled.figure.attrs(
+    ({ aspectRatio }) => aspectRatio && {
+        style: {
+            overflow: "hidden",
+            paddingBottom: `${aspectRatio.split(":")[1] / aspectRatio.split(":")[0] * 100}%`,
+        },
+    },
+)`
     position: relative;
     background-color: ${props => props.theme.color.extremelyLight};
-    ${({ aspectRatio }) => aspectRatio && `
-        overflow: hidden;
-        padding-bottom: ${`${aspectRatio.split(":")[1] / aspectRatio.split(":")[0] * 100}%`};
-    `}
 `;
 
-const Placeholder = styled.div`
+const Placeholder = styled.div.attrs(
+    ({ styled: { backgroundImage } }) => ({
+        style: {
+            backgroundImage: `url(${backgroundImage})`,
+        },
+    }),
+)`
+    background-size: cover;
+    content: "";
+    display: block;
+    filter: blur(25px);
+    height: 100%;
+    left: 0;
+    object-fit: cover;
     overflow: hidden;
-
-    &,
-    &:after {
-        z-index: 1;
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    &:after {
-        transform: scale(2);
-        transform-origin: 50% 50%;
-        display: block;
-        content: "";
-        background-image: url(${({ styled: { backgroundImage } }) => backgroundImage});
-        background-size: cover;
-        filter: blur(25px);
-    }
+    position: absolute;
+    top: 0;
+    transform-origin: 50% 50%;
+    transform: scale(2);
+    width: 100%;
+    z-index: 1;
 `;
 
 class ImageLazyLoader extends Component {
