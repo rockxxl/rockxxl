@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { px } from "styled-components-spacing";
+import breakpoint from "styled-components-breakpoint";
 import Container from "../Container";
 
 const Footer = styled.footer`
@@ -21,10 +22,12 @@ const Anchor = styled.a`
 `;
 
 const Wrapper = styled(Container)`
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     ${px(6)};
+    ${breakpoint("md")`
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    `}
 `;
 
 export default () => (
