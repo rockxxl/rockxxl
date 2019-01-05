@@ -54,7 +54,10 @@ export default () => (
                 { data.allMarkdownRemark.group
                     .filter(({ fieldValue }) => fieldValue !== "undefined")
                     .map(category => (
-                        <Category category={category} />
+                        <Category
+                            key={category.fieldValue}
+                            category={category}
+                        />
                     ))}
             </Categories>
         )}
