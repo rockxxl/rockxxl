@@ -1,3 +1,6 @@
+display_url: https://rockxxl.com
+logo_url: https://rockxxl.com/static/logo-b7c90a3e4bcae1f3d79055f3a301bdb9.png
+
 backend:
   name: git-gateway
   accept_roles:
@@ -13,18 +16,28 @@ media_library:
     output_filename_only: true
 public_folder: assets
 
+editor:
+  preview: false
+
 collections:
   - name: category
-    label: Category
+    label: Categories
+    label_singular: Category
     folder: src/pages/category
     create: true
+    delete: true
     fields:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
   - name: post
-    label: Post
+    label: Posts
+    label_singular: Post
     folder: src/pages/post
     create: true
+    delete: true
+    filter:
+      - field: category
+        value: Nieuws
     fields:
       - name: title
         label: Title
