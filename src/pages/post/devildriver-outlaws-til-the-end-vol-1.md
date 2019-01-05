@@ -1,14 +1,9 @@
 ---
-id: 5422
-title: "Devildriver - Outlaws ‘Til The End: Vol 1"
+title: 'Devildriver - Outlaws ‘Til The End: Vol 1'
+thumbnail: >-
+  https://res.cloudinary.com/rockxxl/image/upload/v1546720113/20180326_devildriver_cd_lg_4.jpg
+date: 2018-08-17T19:36:25.000Z
 category: Album reviews
-groups: Devildriver
-album: "Outlaws ‘Til The End: Vol 1"
-date: 2018-08-17T19:36:25+00:00
-author: Seppe Van Ael
-layout: post
-permalink: /album-review/devildriver-outlaws-til-the-end-vol-1/
-image: 1000x1000.jpg
 ---
 Devildriver is een band die niet echt veel introductie meer nodig heeft. Nadat frontman Dez Fafara stopte met Coal Chamber stampte hij niet veel later Devildriver uit de grond. 15 jaar en zeven albums later stelt dit zootje ongeregeld hun alweer achtste album 'Outlaws ‘Til The End: Vol 1' aan ons voor.
 
