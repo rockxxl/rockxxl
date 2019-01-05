@@ -2,7 +2,7 @@ exports.onClientEntry = () => {
     // IntersectionObserver polyfill for gatsby-image (Safari, IE)
     if (typeof window.IntersectionObserver === "undefined") {
       import("intersection-observer");
-      console.log("👍 IntersectionObserver is polyfilled");
+      console.log("👍 IntersectionObserver is polyfilled"); // eslint-disable-line
     }
 
     // Object-fit/Object-position polyfill for gatsby-image (IE)
@@ -12,6 +12,6 @@ exports.onClientEntry = () => {
       || typeof testImg.style.objectPosition === "undefined"
     ) {
       import("object-fit-images")();
-      console.log("👍 Object-fit/Object-position are polyfilled");
+      console.log("👍 Object-fit/Object-position are polyfilled"); // eslint-disable-line
     }
 };
