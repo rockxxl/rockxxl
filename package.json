@@ -37,6 +37,7 @@
     "gatsby-transformer-remark": "^2.1.17",
     "intersection-observer": "^0.5.1",
     "netlify-cms": "^2.3.1",
+    "object-fit-images": "^3.2.4",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
