@@ -27,10 +27,8 @@ const Title = styled.div`
     font-family: ${props => props.theme.font.family.headings};
     letter-spacing: 0;
     font-weight: ${props => props.theme.font.weight.headings};
-    font-size: ${props => props.theme.font.size.lg}rem;
+    font-size: ${props => props.theme.font.size.md}rem;
 `;
-
-// const Subtitle = styled.div;
 
 const Media = styled.div`
     width: 4.5rem;

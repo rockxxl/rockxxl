@@ -36,7 +36,7 @@ export default ({ category: { fieldValue: title, edges: posts } }) => {
             </Heading>
             <FirstPost
                 key={posts[0].node.fields.slug}
-                aspectRatio="16:9"
+                aspectRatio="1:1"
                 {...posts[0]}
             />
             <List posts={posts.slice(1)} />
