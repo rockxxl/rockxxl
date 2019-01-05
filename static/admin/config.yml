@@ -10,21 +10,20 @@ media_library:
   config:
     cloud_name: rockxxl
     api_key: 953577883219134
-    username: rockxxl
     output_filename_only: true
 public_folder: assets
 
 collections:
   - name: category
     label: Category
-    folder: content/category
+    folder: src/pages/category
     create: true
     fields:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
   - name: post
     label: Post
-    folder: content/post
+    folder: src/pages/post
     create: true
     fields:
       - name: title
