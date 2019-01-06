@@ -5,7 +5,6 @@ category: Interviews
 band: Descendents
 date: 2018-07-22T09:43:12+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-descendents/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/65-og.jpg

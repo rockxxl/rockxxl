@@ -5,7 +5,6 @@ category: Interviews
 band: Alazka
 date: 2018-05-14T18:44:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-alazka/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30167387_1729463600472645_8376228245183222276_o.jpg

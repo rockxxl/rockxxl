@@ -6,7 +6,6 @@ groups: Lost From The Start
 album: Echo Avenue
 date: 2017-04-05T17:29:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-lost-from-the-start-echo-avenue/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17103414_1259968707450492_7976351898830536261_n.jpg

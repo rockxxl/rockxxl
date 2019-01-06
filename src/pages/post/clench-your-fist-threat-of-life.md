@@ -6,7 +6,6 @@ groups: Clench Your Fist
 album: Threat Of Life
 date: 2017-03-07T15:41:10+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-clench-your-fist-threat-of-life/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/cyf.jpg

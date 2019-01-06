@@ -6,7 +6,6 @@ groups: Evening Call
 album: Restore
 date: 2016-06-01T22:05:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-evening-call-restore/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12243460_1084146271609917_7634810914401244494_n.jpg

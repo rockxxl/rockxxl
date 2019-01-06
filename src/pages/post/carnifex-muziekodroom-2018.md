@@ -4,7 +4,6 @@ title: Carnifex (Muziekodroom, 2018)
 category: Live reviews
 date: 2018-02-28T19:23:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-carnifex-muziekodroom-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/1000x1000.jpg

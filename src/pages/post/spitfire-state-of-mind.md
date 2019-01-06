@@ -6,7 +6,6 @@ groups: Spitfire
 album: State of Mind
 date: 2017-01-20T16:02:56+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-spitfire-state-of-mind/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/cover-spitfire-state-of-mind-1.jpg

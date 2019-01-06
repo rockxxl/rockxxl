@@ -6,7 +6,6 @@ groups: Crossfaith
 album: Wipeout
 date: 2018-01-30T16:15:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-crossfaith-wipeout/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/u4jhLnLxY_g.jpg

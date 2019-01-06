@@ -6,7 +6,6 @@ groups: Cocaine Piss
 album: The Dancer
 date: 2016-10-17T20:00:16+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-cocaine-piss-the-dancer/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3892833783_10.jpg

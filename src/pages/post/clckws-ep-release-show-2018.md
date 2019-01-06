@@ -4,7 +4,6 @@ title: CLCKWS EP Release Show 2018
 category: Live reviews
 date: 2018-02-18T13:36:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-clckws-ep-release-show-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26805234_2079013462374402_7258324155669346647_n.jpg

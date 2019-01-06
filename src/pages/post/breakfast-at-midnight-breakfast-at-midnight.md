@@ -6,7 +6,6 @@ groups: Breakfast At Midnight
 album: Breakfast At Midnight
 date: 2018-04-05T19:57:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-breakfast-at-midnight-breakfast-at-midnight/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/23659254_875687032597289_6525543192157162106_n-1.jpg

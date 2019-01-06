@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Deez Nuts (Muziekodroom, 2018)"
 date: 2018-03-22T19:21:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-deez-nuts-muziekodroom-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29249418_1844539552232622_1668904848185098240_n.jpg

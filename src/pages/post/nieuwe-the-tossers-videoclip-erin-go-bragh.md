@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe The Tossers videoclip: Erin Go Bragh"
 date: 2017-03-13T15:27:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-the-tossers-videoclip-erin-go-bragh/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/the-tossers-4df292e055d21.jpg

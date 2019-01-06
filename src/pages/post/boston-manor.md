@@ -5,7 +5,6 @@ category: Interviews
 band: Boston Manor
 date: 2017-05-09T10:38:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-boston-manor/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/image.jpg

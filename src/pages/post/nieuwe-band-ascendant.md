@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe groups: Ascendant"
 date: 2017-06-19T16:38:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-band-ascendant/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/19055541_304477176658617_6957245165111637884_o.jpg

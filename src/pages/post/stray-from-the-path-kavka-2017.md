@@ -4,7 +4,6 @@ title: Stray From The Path (Kavka, 2017)
 category: Live reviews
 date: 2017-10-15T14:19:16+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-stray-from-the-path-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/21768033_1430349413712882_6535907887110210513_n.jpg

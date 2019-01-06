@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Valley nummer: Deception"
 date: 2017-02-12T13:23:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-valley-nummer-deception/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/valley.jpg

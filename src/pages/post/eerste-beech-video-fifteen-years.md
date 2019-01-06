@@ -4,7 +4,6 @@ category: Nieuws
 title: "eerste Beech video: Fifteen Years"
 date: 2018-02-22T10:30:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-beech-video-fifteen-years/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/27972834_1647580951999503_713531577629991954_n.jpg

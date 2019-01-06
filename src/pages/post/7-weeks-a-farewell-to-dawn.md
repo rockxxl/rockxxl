@@ -6,7 +6,6 @@ groups: 7 Weeks
 album: A Farewell to Dawn
 date: 2016-11-14T08:17:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-7-weeks-a-farewell-to-dawn/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14068312_10154180694728859_3129661618941147680_n.jpg

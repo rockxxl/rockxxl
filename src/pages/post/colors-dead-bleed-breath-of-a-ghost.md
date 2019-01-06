@@ -6,7 +6,6 @@ groups: Colors Dead Bleed
 album: Breath Of A Ghost
 date: 2016-06-01T22:15:28+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-colors-dead-bleed-breath-of-a-ghost/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/colorsdeadbleedEP.jpg

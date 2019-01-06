@@ -6,7 +6,6 @@ groups: Big Fat Toddlers
 album: Space Toddlers
 date: 2018-05-23T17:28:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-big-fat-toddlers-space-toddlers/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3533234055_10.jpg

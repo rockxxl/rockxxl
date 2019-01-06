@@ -6,7 +6,6 @@ groups: Forge
 album: Demo
 date: 2017-11-05T21:54:44+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-forge-demo/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/cvoer-forge.jpg

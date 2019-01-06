@@ -6,7 +6,6 @@ groups: Corpse Mutilation
 album: Retaliation Of The Suppressed
 date: 2017-01-10T14:53:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-corpse-mutilation-retaliation-of-the-suppressed/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3857330561_10.jpg

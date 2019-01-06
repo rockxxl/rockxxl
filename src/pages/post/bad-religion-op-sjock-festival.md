@@ -4,7 +4,6 @@ category: Nieuws
 title: Bad Religion op Sjock Festival
 date: 2017-02-24T12:34:16+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/bad-religion-op-sjock-festival/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16681801_1864195777191642_395589003916488977_n.jpg

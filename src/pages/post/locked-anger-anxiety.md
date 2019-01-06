@@ -6,7 +6,6 @@ groups: Locked
 album: Anger &amp; Anxiety
 date: 2016-09-08T10:07:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-locked-anger-anxiety/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_od6irgD1j41uncqs0_1280.jpg

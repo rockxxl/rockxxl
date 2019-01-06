@@ -6,7 +6,6 @@ band: Cathubodua
 album: "Opus 1: Dawn"
 date: 2016-07-16T12:40:12+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-cathubodua-opus-1-dawn/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Cathubodua-Opus-I-Dawn_pe.jpg

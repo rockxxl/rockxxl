@@ -6,7 +6,6 @@ groups: Blackest Sunset
 album: Kingdom of Sorrow
 date: 2017-05-04T13:16:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-blackest-sunset-kingdom-of-sorrow/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/brent-bs.jpg

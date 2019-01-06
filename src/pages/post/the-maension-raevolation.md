@@ -6,7 +6,6 @@ groups: The Maension
 album: Raevolution
 date: 2018-05-22T16:56:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-maension-raevolation/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/rævolution-cover-album-with-halo2kopie.png

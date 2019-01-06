@@ -6,7 +6,6 @@ groups: Amenra
 album: Alive
 date: 2017-02-28T11:41:37+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-amenra-alive/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/amenra-alive.jpg

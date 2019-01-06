@@ -6,7 +6,6 @@ groups: Valley
 album: Dark Tears // Bright Smiles
 date: 2017-02-17T15:18:17+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-valley-dark-tears-bright-smiles/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/digipack_Album2-1500x1500-1.jpg

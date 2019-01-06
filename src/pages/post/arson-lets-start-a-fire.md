@@ -6,7 +6,6 @@ groups: Arson
 album: Let's Start a Fire
 date: 2018-04-10T08:13:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-arson-lets-start-a-fire/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30442940_2143132975975469_942359680653459456_n.jpg

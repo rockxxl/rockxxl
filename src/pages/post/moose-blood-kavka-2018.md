@@ -4,7 +4,6 @@ title: Moose Blood (Kavka, 2018)
 category: Live reviews
 date: 2018-05-31T12:17:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-moose-blood-kavka-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg

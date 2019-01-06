@@ -6,7 +6,6 @@ groups: Mark My Way
 album: The Big Game
 date: 2017-08-25T13:11:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-mark-my-way-the-big-game/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20106540_1675731549104822_410703919206271363_n.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw The Flatliners nummer: Infinite Wisdom"
 date: 2017-03-15T17:01:27+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-the-flatliners-nummer-infinite-wisdom/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/The_Flatliners_1_by_Katie_Hovland.jpg

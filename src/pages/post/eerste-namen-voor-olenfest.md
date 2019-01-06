@@ -4,7 +4,6 @@ category: Nieuws
 title: Eerste namen voor Olensfest
 date: 2017-06-22T16:23:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-namen-voor-olenfest/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/olenfest.jpg

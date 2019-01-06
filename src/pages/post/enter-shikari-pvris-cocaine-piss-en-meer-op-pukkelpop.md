@@ -4,7 +4,6 @@ category: Nieuws
 title: Enter Shikari, Pvris, Cocaine Piss en meer op Pukkelpop
 date: 2017-03-29T13:45:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/enter-shikari-pvris-cocaine-piss-en-meer-op-pukkelpop/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15823567_10154131468549249_2497820417011362313_n.png

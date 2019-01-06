@@ -6,7 +6,6 @@ groups: Gert
 album: Ongepast Vrolijk
 date: 2016-11-21T15:48:41+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-gert-ongepast-vrolijk/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14718670_1339626649429467_5773290926041720592_n.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: Diablo Blvd houdt ermee op!
 date: 2018-06-28T13:38:49+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/diablo-blvd-houdt-ermee-op/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20349.jpg

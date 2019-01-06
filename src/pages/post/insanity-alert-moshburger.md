@@ -6,7 +6,6 @@ groups: Insanity Alert
 album: Moshburger
 date: 2017-03-17T19:31:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-insanity-alert-moshburger/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3934439289_10.jpg

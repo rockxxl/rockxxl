@@ -6,7 +6,6 @@ groups: Set Things Right
 album: Deathwish
 date: 2017-02-12T11:08:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-set-things-right-deathwish/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/SetThingsRight-Deathwish.png

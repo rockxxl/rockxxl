@@ -6,7 +6,6 @@ groups: Myrkur
 album: Mareridt
 date: 2018-01-11T18:50:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-myrkur-mareridt/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a2836519406_10.jpg

@@ -6,7 +6,6 @@ groups: Agusa
 album: Agusa
 date: 2017-11-30T21:44:41+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-agusa-agusa/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a2581895878_10.jpg

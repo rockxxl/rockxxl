@@ -5,7 +5,6 @@ category: Interviews
 band: Tristania
 date: 2016-10-31T16:58:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /interview/interview-tristania/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tristania-8099.jpg

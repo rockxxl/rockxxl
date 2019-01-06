@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Deez Nuts + Comeback Kid (Muziekodroom, 2017)"
 date: 2017-02-11T22:32:40+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-deez-nuts-comeback-kid-muziekodroom-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/deez.jpg

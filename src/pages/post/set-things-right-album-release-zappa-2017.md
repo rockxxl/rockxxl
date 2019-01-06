@@ -4,7 +4,6 @@ title: Set Things Right album release (Zappa, 2017)
 category: Live reviews
 date: 2017-02-20T10:54:07+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-set-things-right-album-release-zappa-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16265687_1425716787452302_8855190189934549262_n.jpg

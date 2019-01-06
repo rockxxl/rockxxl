@@ -6,7 +6,6 @@ groups: The Devil’s 3rd
 album: Ventriloquism
 date: 2016-06-01T22:06:20+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-devils-3rd-ventriloquism/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12370698_800577166717792_3104003345651762912_o.jpg

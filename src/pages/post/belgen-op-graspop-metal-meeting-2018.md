@@ -4,7 +4,6 @@ title: De Belgen op Graspop Metal Meeting 2018
 category: Live reviews
 date: 2018-06-23T11:04:39+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-belgen-op-graspop-metal-meeting-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gmm18lineup1200x16972-5.jpg

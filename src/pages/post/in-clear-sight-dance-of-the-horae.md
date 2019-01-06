@@ -6,7 +6,6 @@ groups: In Clear Sight
 album: Dance of the Horae
 date: 2016-12-29T15:21:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-in-clear-sight-dance-of-the-horae/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14322523_1063192187083117_3717263511045170225_n.jpg

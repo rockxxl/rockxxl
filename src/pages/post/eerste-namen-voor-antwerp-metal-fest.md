@@ -4,7 +4,6 @@ category: Nieuws
 title: eerste namen voor Antwerp Metal Fest
 date: 2017-01-29T20:04:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-namen-voor-antwerp-metal-fest/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16422841_1352313624808354_8671101220986729529_o.jpg

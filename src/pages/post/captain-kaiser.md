@@ -5,7 +5,6 @@ category: Interviews
 band: Captain Kaiser
 date: 2018-08-09T06:38:33+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-captain-kaiser/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/36883430_1292966824139871_7842316279099686912_n.jpg

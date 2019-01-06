@@ -4,7 +4,6 @@ title: Normandie (Kavka, 2017)
 category: Live reviews
 date: 2017-12-04T14:41:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-normandie-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/23795870_1862513097119254_7905667569753512540_n.jpg

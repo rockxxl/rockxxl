@@ -5,7 +5,6 @@ category: Interviews
 band: Insanity Alert
 date: 2018-05-10T16:16:35+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-insanity-alert/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: Eerste namen voor Antwerp Metal Fest 2018 bekend
 date: 2018-03-02T17:04:00+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-namen-bekend-voor-antwerp-metal-fest-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/28576283_1738132286226484_1989540426175081590_n-1.jpg

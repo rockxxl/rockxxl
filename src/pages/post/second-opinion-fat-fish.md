@@ -6,7 +6,6 @@ groups: Second Opinion
 album: Fat Fish
 date: 2016-10-03T15:13:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-second-opinion-fat-fish/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14915262_1798323483722305_608423489589546540_n.jpg

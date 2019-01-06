@@ -6,7 +6,6 @@ groups: Ink Bomb
 album: Invincible Summer
 date: 2016-09-23T17:52:56+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-ink-bomb-invincible-summer/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14344282_1617086345256470_1612583704771655958_n.jpg

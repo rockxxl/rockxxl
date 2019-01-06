@@ -6,7 +6,6 @@ groups: Arkan
 album: Kelem
 date: 2016-12-03T14:13:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-arkan-kelem/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14192770_10154091089908043_8100762265543710586_n.jpg

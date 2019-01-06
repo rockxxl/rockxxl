@@ -5,7 +5,6 @@ category: Interviews
 band: This Means War
 date: 2017-10-29T12:45:00+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-this-means-war/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/this-meansss.jpg

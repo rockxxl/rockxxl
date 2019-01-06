@@ -5,7 +5,6 @@ category: Interviews
 band: State Champs
 date: 2018-05-26T14:02:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-state-champs/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/statechamps-1437156640.jpg

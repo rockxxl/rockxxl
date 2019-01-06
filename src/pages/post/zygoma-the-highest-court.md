@@ -6,7 +6,6 @@ band: Zygoma
 album: "The Highest Court"
 date: 2016-06-01T22:12:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-zygoma-the-highest-court/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12920473_10153967746193213_4100350747650008015_n.jpg

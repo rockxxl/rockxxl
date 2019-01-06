@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Spitfire videoclip: Kill Me"
 date: 2017-01-11T19:33:40+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-spitfire-videoclip-kill-me/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15325381_1198228586881434_4489829688506221409_o.jpg

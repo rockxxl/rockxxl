@@ -4,7 +4,6 @@ category: Nieuws
 title: Onze tips voor Antwerp Metal Fest!
 date: 2017-06-06T15:54:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/onze-tips-voor-antwerp-metal-fest/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/antwerpppp.jpg

@@ -6,7 +6,6 @@ groups: Walk in Darkness
 album: Welcome To The New World
 date: 2018-03-27T15:25:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-walk-in-darkness-welcome-to-the-new-world/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a0082174919_10.jpg

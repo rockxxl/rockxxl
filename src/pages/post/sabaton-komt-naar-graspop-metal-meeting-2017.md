@@ -4,7 +4,6 @@ category: Nieuws
 title: Sabaton komt naar Graspop Metal Meeting 2017
 date: 2017-01-09T10:12:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/sabaton-komt-naar-graspop-metal-meeting-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Sabaton-Top-Interview-2014.jpg

@@ -5,7 +5,6 @@ category: Interviews
 band: Boundaries
 date: 2018-03-24T11:24:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-boundaries/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26172407_1767226799963898_2551281455828945907_o.jpg

@@ -6,7 +6,6 @@ groups: Amörtisseur
 album: Lemmium
 date: 2016-07-04T09:26:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-amortisseur-lemmium/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_o9s8xtNKps1uncqs0_540.jpg

@@ -6,7 +6,6 @@ groups: 2 Years To Apocalypse
 album: The Midas Touch
 date: 2017-03-12T15:50:07+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-2-years-to-apocalypse-the-midas-touch/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16195654_1194999147242989_1804215027529303802_n.jpg

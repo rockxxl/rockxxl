@@ -6,7 +6,6 @@ groups: Temptations For The Weak
 album: Banished Heroes
 date: 2018-01-16T12:09:32+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-temptations-for-the-weak-banished-heroes/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22491575_1684153774948182_364403623473517818_n.jpg

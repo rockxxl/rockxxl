@@ -6,7 +6,6 @@ groups: Badger
 album: Sett
 date: 2017-09-02T13:12:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-badger-sett/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Cover.jpg

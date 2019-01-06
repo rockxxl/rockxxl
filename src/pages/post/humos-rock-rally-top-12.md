@@ -4,7 +4,6 @@ category: Nieuws
 title: Humo's Rock Rally top 10
 date: 2017-12-23T14:09:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/humos-rock-rally-top-12/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/b5034948-805b-43ab-9cbb-81ffa12b9494.png

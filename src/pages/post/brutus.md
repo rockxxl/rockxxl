@@ -5,7 +5,6 @@ category: Interviews
 band: Brutus
 date: 2017-07-10T15:47:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-brutus/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/BRUTUS_2017_009_press_©EvaVlonk_Web-1.jpg

@@ -6,7 +6,6 @@ groups: Outshine
 album: "1313"
 date: 2018-07-28T14:06:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-outshine-1313/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30739522_1215549765248652_3151441099194373628_n.jpg

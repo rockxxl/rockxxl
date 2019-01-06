@@ -6,7 +6,6 @@ groups: The Yalla Yallas
 album: Medusa
 date: 2017-05-18T14:25:41+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/review-the-yalla-yallas-medusa/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18342110_1315765531794042_2245348493887582201_n.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuw Parkway Drive nummer: Wishing Wells"
 date: 2018-02-27T19:03:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-parkway-drive-nummer-wishing-wells/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Parkway-Drive-South-Africa-Crushed-2015-620x400.jpg

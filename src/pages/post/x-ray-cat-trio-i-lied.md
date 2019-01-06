@@ -6,7 +6,6 @@ groups: X-Ray Cat Trio
 album: I Lied
 date: 2017-10-23T14:04:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-x-ray-cat-trio-i-lied/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/x-ray.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: De zes nieuwste Belgische hardcorebands
 date: 2017-06-21T17:42:30+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/de-zes-nieuwste-belgische-hardcorebands/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/logo.jpg

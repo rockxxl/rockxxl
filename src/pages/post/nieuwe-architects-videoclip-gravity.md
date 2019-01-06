@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Architects videoclip: Gravity"
 date: 2017-02-21T19:06:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-architects-videoclip-gravity/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/architectsuk2.jpg

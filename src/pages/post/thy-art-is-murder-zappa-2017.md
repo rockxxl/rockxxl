@@ -4,7 +4,6 @@ title: Thy Art Is Murder (Zappa, 2017)
 category: Live reviews
 date: 2017-10-31T10:49:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/review-thy-art-is-murder-zappa-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/thy-art.jpg

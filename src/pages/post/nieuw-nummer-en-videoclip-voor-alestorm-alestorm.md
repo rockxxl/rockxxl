@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw nummer en videoclip voor Alestorm: Alestorm"
 date: 2017-04-22T07:49:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-nummer-en-videoclip-voor-alestorm-alestorm/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/f5eef88fa80e8012ec5537965ac858f7.jpg

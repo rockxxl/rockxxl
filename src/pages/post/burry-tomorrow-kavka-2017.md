@@ -4,7 +4,6 @@ title: Bury Tomorrow (Kavka, 2017)
 category: Live reviews
 date: 2017-04-06T12:02:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-burry-tomorrow-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gq-1.jpg

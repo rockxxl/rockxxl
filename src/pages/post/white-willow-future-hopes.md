@@ -6,7 +6,6 @@ groups: White Willow
 album: Future Hopes
 date: 2017-04-06T11:52:16+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-white-willow-future-hopes/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16649249_10155070798278118_8293659672786383566_n.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Hexa Mera video: Anthropic Principle"
 date: 2017-07-18T08:16:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-hexa-mera-video-anthropic-principle/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16252182_1324672520889098_3477984979230228662_o.jpg

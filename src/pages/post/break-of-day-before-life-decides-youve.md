@@ -6,7 +6,6 @@ groups: Break Of Day
 album: Before Life Decides You’ve Had Enough
 date: 2016-07-24T13:32:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-break-of-day-before-life-decides-youve/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13055457_10154104242164450_1551895992434792527_n.jpg

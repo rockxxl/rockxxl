@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Here Stands A Hero nummer en video: Mercenary"
 date: 2017-06-06T08:41:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-here-stands-a-hero-nummer-en-video-mercenary/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14469437_1693416180878915_3950079864473068161_n.jpg

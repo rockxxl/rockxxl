@@ -6,7 +6,6 @@ groups: Neighbours
 album: Drifting Away
 date: 2018-02-14T11:57:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-neighbours-drifting-away/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/27999328_10211178580036560_431402502_o.jpg

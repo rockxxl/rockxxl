@@ -6,7 +6,6 @@ groups: Of Mice &#038; Men
 album: Defy
 date: 2018-01-18T20:47:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-of-mice-men-defy/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/605760b0-d80d-41d7-96e1-80248a138f5d.jpg

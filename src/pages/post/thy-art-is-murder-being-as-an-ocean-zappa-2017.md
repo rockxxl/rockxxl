@@ -4,7 +4,6 @@ title: Thy Art Is Murder + Being As An Ocean (Zappa, 2017)
 category: Live reviews
 date: 2017-04-19T07:35:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-thy-art-is-murder-being-as-an-ocean-zappa-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17620217_1266094183471740_8375112362376236693_o.jpg

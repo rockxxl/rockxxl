@@ -4,7 +4,6 @@ category: Nieuws
 title: "Cathubodua komt aanzetten met nieuw nummer: The Journey of Lysilde"
 date: 2018-04-13T13:28:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/cathubodua-komt-aanzetten-met-nieuw-nummer-the-journey-of-lysilde/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/cathud.jpg

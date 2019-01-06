@@ -6,7 +6,6 @@ groups: Oriens
 album: Outset
 date: 2017-04-20T16:44:39+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-oriens-outset/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/oreins.jpg

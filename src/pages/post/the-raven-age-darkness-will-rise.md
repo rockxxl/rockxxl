@@ -6,7 +6,6 @@ groups: The Raven Age
 album: Darkness Will Rise
 date: 2017-03-07T12:29:35+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-raven-age-darkness-will-rise/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/theravenagedarknesscd.jpg

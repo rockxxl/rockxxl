@@ -6,7 +6,6 @@ groups: Blessthefall
 album: Hard Feelings
 date: 2018-04-23T08:41:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-blessthefall-hard-feelings/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/blessthefall_hardfeelings.jpg

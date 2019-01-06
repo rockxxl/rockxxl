@@ -6,7 +6,6 @@ groups: The Rocket
 album: Another Reason Not To Fear The Sky
 date: 2018-05-11T13:13:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-rocket-another-reason-not-to-fear-the-sky/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29597366_10155978629940700_3630984455449521524_n.jpg

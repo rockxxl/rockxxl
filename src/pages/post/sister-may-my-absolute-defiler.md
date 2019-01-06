@@ -6,7 +6,6 @@ groups: Sister May
 album: My Absolute Defiler
 date: 2017-02-04T22:50:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-sister-may-my-absolute-defiler/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16265917_1642249372747492_3649620135149402787_n.jpg

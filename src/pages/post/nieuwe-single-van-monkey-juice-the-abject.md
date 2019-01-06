@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe single van Monkey Juice: The Abject"
 date: 2018-05-09T13:06:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-single-van-monkey-juice-the-abject/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/19390612_1514376998640058_3353967301749462675_o.jpg

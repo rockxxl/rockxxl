@@ -6,7 +6,6 @@ groups: Thornhill
 album: Butterfly
 date: 2018-04-06T11:15:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-thornhill-butterfly/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/439002.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw F.O.D. nummer en videoclip: Last"
 date: 2017-01-23T13:21:52+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-f-o-d-nummer-en-videoclip-last/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15800225_10154323602502775_6539605626749727418_o.jpg

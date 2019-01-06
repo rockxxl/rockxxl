@@ -5,7 +5,6 @@ category: Interviews
 band: Chalice
 date: 2018-08-16T08:13:06+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-chalice/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/chalice.jpg

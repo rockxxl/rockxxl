@@ -6,7 +6,6 @@ groups: 6 Days Of Justice
 album: Eternal Devastation
 date: 2018-04-27T07:21:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-6-days-of-justice-eternal-devastation/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/23244041_1533371676699731_3030399992974656171_n.jpg

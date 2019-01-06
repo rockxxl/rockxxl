@@ -6,7 +6,6 @@ groups: Anti-Flag
 album: American Fall
 date: 2017-11-03T14:09:53+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-anti-flag-american-fall/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/anti-flag-american-fall.png

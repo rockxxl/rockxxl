@@ -5,7 +5,6 @@ category: Interviews
 band: If I May
 date: 2017-05-02T08:59:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-if-i-may/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18260865_10213325976681794_1644302700_o.jpg

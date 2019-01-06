@@ -6,7 +6,6 @@ groups: Ironborn
 album: S/T
 date: 2017-06-01T10:44:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-ironborn-st/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/seppe-ironborn.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: 20 nieuwe namen voor Ieper Hardcore Fest
 date: 2018-02-23T11:51:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/20-nieuwe-namen-voor-ieper-hardcore-fest/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/4x5-feb_0.jpg

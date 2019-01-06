@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe New Trash videoclip: Vicious Circle"
 date: 2017-04-06T16:47:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-new-trash-nummer-vicious-circle/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15272100_1787111438196992_519128925404182435_o.jpg

@@ -6,7 +6,6 @@ groups: Tonight Alive
 album: Underworld
 date: 2018-02-06T16:22:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-tonight-alive-underworld/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/TA_Underworld-Cover-1-600x600.jpg

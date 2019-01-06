@@ -6,7 +6,6 @@ groups: If I May
 album: No Man's Land
 date: 2017-01-21T16:26:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-if-i-may-no-mans-land/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/IfIMayNoMansLand2017.png

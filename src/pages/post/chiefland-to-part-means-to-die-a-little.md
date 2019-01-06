@@ -6,7 +6,6 @@ band: Chiefland
 album: "To Part Means To Die A Little"
 date: 2016-06-02T12:05:53+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-chiefland-to-part-means-to-die-a-little/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a0617102521_10.jpg

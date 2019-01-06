@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe videoclip en single van Fever Days: Wait For Me"
 date: 2018-07-31T14:01:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-videoclip-en-single-van-fever-days-wait-for-me/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/27504029_191557208096484_3279346560822202037_o.jpg

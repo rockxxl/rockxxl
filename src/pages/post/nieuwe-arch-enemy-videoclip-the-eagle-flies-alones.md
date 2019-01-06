@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Arch Enemy videoclip: The Eagle Flies Alones"
 date: 2017-08-25T18:06:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-arch-enemy-videoclip-the-eagle-flies-alones/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/arch-enemey.jpeg

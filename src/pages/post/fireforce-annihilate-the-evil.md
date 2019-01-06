@@ -6,7 +6,6 @@ groups: Fireforce
 album: Annihilate The Evil
 date: 2018-02-08T10:05:54+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-fireforce-annihilate-the-evil/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18698106_10156182117011679_5141408182369644776_n.jpg

@@ -6,7 +6,6 @@ groups: Sound Storm
 album: Vertigo
 date: 2017-06-27T12:08:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-sound-storm-vertigo/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14606506_10154616733003734_6570919156900858661_n.jpg

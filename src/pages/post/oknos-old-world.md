@@ -6,7 +6,6 @@ groups: Oknos
 album: Old World
 date: 2017-05-28T17:39:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-oknos-old-world/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/pieter-oknos.jpg

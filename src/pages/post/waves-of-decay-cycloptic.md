@@ -6,7 +6,6 @@ groups: Waves of Decay
 album: Cycloptic
 date: 2017-03-17T16:58:06+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-waves-of-decay-cycloptic/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/666848.jpg

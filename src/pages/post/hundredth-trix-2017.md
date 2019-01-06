@@ -4,7 +4,6 @@ title: Hundredth (Trix, 2017)
 category: Live reviews
 date: 2017-04-03T15:21:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-hundredth-trix-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17022475_1297461726966668_5286234047588962746_n.jpg

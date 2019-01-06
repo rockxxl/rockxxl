@@ -6,7 +6,6 @@ groups: Makasrr
 album: Demo
 date: 2018-02-16T16:41:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-makasrr-demo/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/28117072_10214170666372976_90748212_n.png

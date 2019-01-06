@@ -6,7 +6,6 @@ groups: Tanks 4 Nothing
 album: Demo
 date: 2016-11-08T13:38:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-tanks-4-nothing-demo/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_ogbs6fJEgr1uncqs0_500.jpg

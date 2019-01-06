@@ -4,7 +4,6 @@ title: Escape The Fate (JC De Klinker, 2018)
 category: Live reviews
 date: 2018-01-28T13:16:04+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-escape-the-fate-jc-de-klinker-aarschot/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/escape.jpg

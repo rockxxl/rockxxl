@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe Ghost videoclip: He Is"
 date: 2017-08-25T18:03:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-ghost-videoclip-he-is/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/ghost.jpg

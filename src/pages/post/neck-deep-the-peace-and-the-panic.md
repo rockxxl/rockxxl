@@ -6,7 +6,6 @@ groups: Neck Deep
 album: The Peace And The Panic
 date: 2017-08-19T18:27:20+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-neck-deep-the-peace-and-the-panic/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/59f2b46351768ea4b8889bca1f5bde6b.1000x1000x1.jpg

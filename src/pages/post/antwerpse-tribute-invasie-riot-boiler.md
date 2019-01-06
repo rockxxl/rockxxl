@@ -4,7 +4,6 @@ category: Nieuws
 title: "Antwerpse tribute invasie: Riot! + Boiler"
 date: 2017-02-21T19:21:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/antwerpse-tribute-invasie-riot-boiler/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16423107_461374840653261_368752526114662871_o.jpg

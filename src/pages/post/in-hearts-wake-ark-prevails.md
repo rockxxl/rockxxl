@@ -6,7 +6,6 @@ groups: In Hearts Wake
 album: Ark Prevails
 date: 2018-02-07T16:04:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-in-hearts-wake-ark-prevails/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/679990.jpg

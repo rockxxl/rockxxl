@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe You Nervous? videoclip: Picture Not So Perfect"
 date: 2017-03-30T20:38:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-you-nervous-videoclip-picture-not-so-perfect/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14358682_1300313220021596_3471676499181854692_n.jpg

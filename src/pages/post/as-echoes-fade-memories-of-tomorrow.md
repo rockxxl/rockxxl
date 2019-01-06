@@ -6,7 +6,6 @@ groups: As Echoes Fade
 album: Memories of Tomorrow
 date: 2017-03-14T16:16:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-as-echoes-fade-memories-of-tomorrow/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/as-echoes-fade-...-verena.jpg

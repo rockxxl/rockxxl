@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe groups: VØlva"
 date: 2018-02-10T10:57:44+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-band-volva/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Volva.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe videoclip voor Dimmu Borgir: Council Of Wolves And Snakes"
 date: 2018-04-01T09:51:32+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-videoclip-voor-dimmu-borgir-council-of-wolves-and-snakes/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/di.jpg

@@ -6,7 +6,6 @@ groups: We Were Sharks
 album: Lost Touch
 date: 2018-03-06T15:51:00+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-we-were-sharks-lost-touch/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/9200000086937746.jpg

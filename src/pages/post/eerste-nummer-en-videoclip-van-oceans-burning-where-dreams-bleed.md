@@ -4,7 +4,6 @@ category: Nieuws
 title: "Eerste nummer en videoclip van Oceans Burning: Where Dreams Bleed"
 date: 2018-04-06T09:33:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-nummer-en-videoclip-van-oceans-burning-where-dreams-bleed/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29791780_10213858320064669_7238878631051657216_o.png

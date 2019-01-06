@@ -5,7 +5,6 @@ category: Interviews
 band: Toxic Shock
 date: 2018-02-06T12:11:17+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-toxic-shock/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18836854_1406267046121826_3458718445501663696_o.jpg

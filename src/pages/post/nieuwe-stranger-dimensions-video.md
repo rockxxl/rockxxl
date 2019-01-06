@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Stranger Dimensions video: Demolished"
 date: 2017-02-20T13:06:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-stranger-dimensions-video/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/10995574_1769458246632006_6569721891721010336_n.jpg

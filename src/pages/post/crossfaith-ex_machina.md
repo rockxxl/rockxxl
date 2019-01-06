@@ -6,7 +6,6 @@ groups: Crossfaith
 album: Ex_Machina
 date: 2018-08-04T08:29:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-crossfaith-ex_machina/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/vd5fnM0k7sE.jpg

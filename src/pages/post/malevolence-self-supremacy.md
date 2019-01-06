@@ -6,7 +6,6 @@ groups: Malevolence
 album: Self Supremacy
 date: 2017-05-22T16:30:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-malevolence-self-supremacy/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/malevolence_selfsupremacy_800.jpg

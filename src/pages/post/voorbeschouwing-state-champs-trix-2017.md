@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: State Champs (Trix, 2017)"
 date: 2017-03-07T12:07:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-state-champs-trix-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15220009_1148615031886323_6227064647380899619_n.jpg

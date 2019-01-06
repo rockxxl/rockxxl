@@ -6,7 +6,6 @@ groups: Access Unlocked
 album: Cosmos
 date: 2018-04-24T08:38:12+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-access-unlocked-cosmos/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30127407_1430649193708223_5749587902141038592_o.jpg

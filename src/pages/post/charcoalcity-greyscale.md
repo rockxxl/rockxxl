@@ -6,7 +6,6 @@ groups: Charcoalcity
 album: Greyscale
 date: 2017-02-03T22:25:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-charcoalcity-greyscale/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/CD-front.jpg

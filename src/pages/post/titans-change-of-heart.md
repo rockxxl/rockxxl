@@ -6,7 +6,6 @@ groups: Titans
 album: Change Of Heart
 date: 2017-05-16T16:44:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-titans-change-of-heart/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Cover.png

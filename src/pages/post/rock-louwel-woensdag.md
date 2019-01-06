@@ -4,7 +4,6 @@ title: Rock Louwel 2018 (woensdag)
 category: Live reviews
 date: 2018-05-10T13:46:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-rock-louwel-woensdag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29790042_906818529498302_5958637918565840139_n.jpg

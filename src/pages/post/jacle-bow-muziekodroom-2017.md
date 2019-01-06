@@ -4,7 +4,6 @@ title: Jacle Bow (Muziekodroom, 2017)
 category: Live reviews
 date: 2017-11-30T22:02:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-jacle-bow-muziekodroom-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22046652_1574052542617210_6584396368686117153_n.jpg

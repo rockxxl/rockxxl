@@ -6,7 +6,6 @@ groups: Cave On Fire
 album: Voices
 date: 2016-06-01T22:08:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-cave-on-fire-voices/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/1937296_749924468471091_5206940949304470466_n.jpg

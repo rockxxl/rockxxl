@@ -5,7 +5,6 @@ category: Interviews
 band: Bearded Punk Records
 date: 2018-03-26T18:35:33+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-bearded-punk-records/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Image-1.jpg

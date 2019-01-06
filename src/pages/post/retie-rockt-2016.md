@@ -4,7 +4,6 @@ title: Retie Rockt 2016
 category: Live reviews
 date: 2016-06-13T13:39:53+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-retie-rockt-2016/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/retie-rockt.jpg

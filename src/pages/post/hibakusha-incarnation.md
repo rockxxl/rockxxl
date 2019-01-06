@@ -6,7 +6,6 @@ groups: Hibakusha
 album: Incarnation
 date: 2017-03-01T11:32:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-hibakusha-incarnation/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Final-Cover-Art.jpg

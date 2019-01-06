@@ -4,7 +4,6 @@ category: Nieuws
 title: affiche Graspop Metal Meeting volledig
 date: 2017-03-07T12:52:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/laatste-namen-voor-graspop/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gmm17-ad-a4-0306.jpg

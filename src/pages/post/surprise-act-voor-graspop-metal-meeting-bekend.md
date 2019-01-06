@@ -4,7 +4,6 @@ category: Nieuws
 title: surprise act voor Graspop Metal Meeting bekend
 date: 2017-06-12T13:01:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/surprise-act-voor-graspop-metal-meeting-bekend/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gmm17-ad-a4-0306.jpg

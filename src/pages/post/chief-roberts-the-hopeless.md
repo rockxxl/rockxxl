@@ -6,7 +6,6 @@ groups: Chief Roberts
 album: The Hopeless
 date: 2018-02-26T17:13:07+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-chief-roberts-the-hopeless/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a0808883374_10.jpg

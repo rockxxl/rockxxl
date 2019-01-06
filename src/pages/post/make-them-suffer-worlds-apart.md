@@ -6,7 +6,6 @@ groups: Make Them Suffer
 album: Worlds Apart
 date: 2017-08-04T17:46:17+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-make-them-suffer-worlds-apart/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/makethemsufferworldsapart.jpg

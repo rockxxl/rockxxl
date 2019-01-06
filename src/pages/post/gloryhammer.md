@@ -5,7 +5,6 @@ category: Interviews
 band: Gloryhammer
 date: 2018-01-28T16:11:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-gloryhammer/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gloru.jpg

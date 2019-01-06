@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Counterparts videoclip: Bouquet"
 date: 2017-06-17T09:04:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-counterparts-videoclip-bouquet/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/counterparts-photo.jpg

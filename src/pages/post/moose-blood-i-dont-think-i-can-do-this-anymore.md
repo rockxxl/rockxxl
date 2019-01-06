@@ -6,7 +6,6 @@ groups: Moose Blood
 album: I Don’t Think I Can Do This Anymore
 date: 2018-04-08T15:05:56+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-moose-blood-i-dont-think-i-can-do-this-anymore/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/moose_blood_600_600.jpg

@@ -6,7 +6,6 @@ groups: Brutus
 album: Burst
 date: 2017-02-23T19:34:44+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-brutus-burst/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15134672_1230722386992451_155310526591816202_n.jpg

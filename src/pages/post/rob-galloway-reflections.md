@@ -6,7 +6,6 @@ groups: Rob Galloway
 album: Reflections
 date: 2016-06-01T22:23:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-rob-galloway-reflections/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12998488_267549760250513_1026620555914869457_n.jpg

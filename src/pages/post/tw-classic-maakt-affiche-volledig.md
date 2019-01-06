@@ -4,7 +4,6 @@ category: Nieuws
 title: TW Classic maakt affiche volledig
 date: 2017-03-13T15:21:04+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/tw-classic-maakt-affiche-volledig/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17309521_10154446582345687_1508834162821123107_n.jpg

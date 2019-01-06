@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Major videoclip: Go Long, Kid"
 date: 2017-04-14T12:10:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-major-videoclip-go-long-kid/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13690745_760136497423279_6340906957303420260_n.jpg

@@ -6,7 +6,6 @@ groups: The Yalla Yallas
 album: Decade of Defiance (DVD)
 date: 2016-12-09T13:32:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-yalla-yallas-decade-of-defiance/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/story-of-the-yallas-2.jpg

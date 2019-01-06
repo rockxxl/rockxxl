@@ -6,7 +6,6 @@ groups: Boxing Day
 album: Lost and Found
 date: 2017-06-01T11:36:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-boxing-day-lost-and-found/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18870770_10213731519868488_1092946268_n.jpg

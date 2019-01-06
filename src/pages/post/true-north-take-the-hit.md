@@ -6,7 +6,6 @@ groups: True North
 album: Take The Hit!
 date: 2017-01-31T18:59:18+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-true-north-take-the-hit/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg

@@ -6,7 +6,6 @@ groups: Collapsed
 album: Golden Wings
 date: 2017-01-31T18:34:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-collapsed-golden-wings/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3259222318_10.jpg

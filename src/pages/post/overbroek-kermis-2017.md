@@ -4,7 +4,6 @@ title: Overbroek Kermis 2017
 category: Live reviews
 date: 2017-09-16T17:47:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-overbroek-kermis-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20994300_894162664083848_5910702237602406938_n.jpg

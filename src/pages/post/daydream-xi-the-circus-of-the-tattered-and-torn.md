@@ -6,7 +6,6 @@ groups: Daydream XI
 album: The Circus Of The Tattered And Torn
 date: 2017-12-06T12:43:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-daydream-xi-the-circus-of-the-tattered-and-torn/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Daydream-XI-TCOTTAT-cover-web-1024x1024.jpg

@@ -6,7 +6,6 @@ groups: Wanheda
 album: The Cenozoic Implosion
 date: 2018-06-20T13:31:18+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-wanheda-the-cenozoic-implosion/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/punksnotdeadpop_1024x1024.jpg

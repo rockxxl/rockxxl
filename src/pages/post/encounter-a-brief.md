@@ -6,7 +6,6 @@ groups: Encounter
 album: A Brief&#8230;
 date: 2017-02-21T15:16:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-encounter-a-brief/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13332763_1179730362058652_3893697221095285211_n.jpg

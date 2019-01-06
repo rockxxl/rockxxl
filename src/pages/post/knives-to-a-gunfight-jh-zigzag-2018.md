@@ -4,7 +4,6 @@ title: Knives To A Gunfight (JH Zigzag, 2018)
 category: Live reviews
 date: 2018-03-11T12:17:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-knives-to-a-gunfight-jh-zigzag-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26992349_1525390227539386_5222656519561871334_n.jpg

@@ -6,7 +6,6 @@ groups: Dune Rats
 album: The Kids Will Know It's Bullshit
 date: 2017-05-29T08:35:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-dune-rats-the-kids-will-know-its-bullshit/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/THE-KIDS-WILL-KNOW-ITS-BULLSHIT_FINAL-ARTWORK-1.jpg

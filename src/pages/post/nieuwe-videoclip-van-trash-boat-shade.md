@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe videoclip van Trash Boat: Shade"
 date: 2018-05-15T08:45:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-videoclip-van-trash-boat-shade/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/89236f1bfb111772725700b440390dcb.jpg

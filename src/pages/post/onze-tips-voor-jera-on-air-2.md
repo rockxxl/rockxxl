@@ -4,7 +4,6 @@ category: Nieuws
 title: Onze tips voor Jera On Air!
 date: 2018-06-16T11:52:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/onze-tips-voor-jera-on-air-2/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30725296_2071988819510337_1365159697245536256_n.png

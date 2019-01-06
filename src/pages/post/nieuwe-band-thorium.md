@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe groups: Thorium"
 date: 2018-02-05T16:21:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-band-thorium/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/21248287_1396709417114768_2178950099790141761_o.jpg

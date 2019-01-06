@@ -6,7 +6,6 @@ groups: Captain Kaiser
 album: Dog Days On Deck
 date: 2018-02-22T20:29:18+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-captain-kaiser-dog-days-on-deck/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a0542126697_10.jpg

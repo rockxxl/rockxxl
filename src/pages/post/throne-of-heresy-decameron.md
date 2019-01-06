@@ -6,7 +6,6 @@ groups: Throne Of Heresy
 album: Decameron
 date: 2017-12-28T08:50:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-throne-of-heresy-decameron/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/661834.jpg

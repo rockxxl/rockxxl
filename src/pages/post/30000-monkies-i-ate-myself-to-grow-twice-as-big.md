@@ -6,7 +6,6 @@ groups: 30,000 Monkies
 album: I Ate Myself To Grow Twice As Big
 date: 2017-02-25T15:29:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-30000-monkies-i-ate-myself-to-grow-twice-as-big/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a1708940688_10.jpg

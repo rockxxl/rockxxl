@@ -5,7 +5,6 @@ category: Interviews
 band: Knocked Loose
 date: 2018-06-25T08:54:40+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-knocked-loose/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/kockedloose_4x3.jpg

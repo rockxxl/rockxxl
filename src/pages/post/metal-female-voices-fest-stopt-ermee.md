@@ -4,7 +4,6 @@ category: Nieuws
 title: Metal Female Voices Fest stopt ermee
 date: 2017-02-13T12:58:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/metal-female-voices-fest-stopt-ermee/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/10628159_970856599617593_6458211208495709008_n.jpg

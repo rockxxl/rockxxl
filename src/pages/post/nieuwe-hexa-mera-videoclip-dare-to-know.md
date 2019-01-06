@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe Hexa Mera videoclip: Dare To Know"
 date: 2018-05-04T11:30:18+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-hexa-mera-videoclip-dare-to-know/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16195136_1324672520889098_3477984979230228662_n.jpg

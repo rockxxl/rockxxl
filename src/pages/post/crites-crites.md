@@ -6,7 +6,6 @@ groups: Crites
 album: Crites
 date: 2018-04-12T09:26:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-crites-crites/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a2374869624_10.jpg

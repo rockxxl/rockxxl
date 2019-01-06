@@ -4,7 +4,6 @@ category: Nieuws
 title: 3 nieuwe namen voor de Lokerse Feesten
 date: 2017-01-27T09:32:10+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/3-nieuwe-namen-voor-de-lokerse-feesten/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16266058_10154826588283654_1042633499598671500_n.png

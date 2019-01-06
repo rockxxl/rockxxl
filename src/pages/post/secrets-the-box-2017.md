@@ -4,7 +4,6 @@ title: Secrets (The Box, 2017)
 category: Live reviews
 date: 2017-12-10T14:04:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-secrets-the-box-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22008096_1604314872933980_885386654564824470_n.jpg

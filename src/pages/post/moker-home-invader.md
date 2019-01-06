@@ -6,7 +6,6 @@ groups: Moker
 album: Home Invader
 date: 2018-01-27T14:17:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-moker-home-invader/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/mokerhomeinvader.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: Dead Kennedys op Sjock Festival
 date: 2018-01-25T15:34:20+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/dead-kennedys-op-sjock-festival/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26992350_2038828179728400_1766849360001168280_n-1-1.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Saille nummer: Genesis 11:1-9"
 date: 2017-01-19T11:10:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-saille-nummer-genesis-111-9/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16129843_10154302341161134_502160339_o.jpg

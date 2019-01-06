@@ -4,7 +4,6 @@ category: Nieuws
 title: "Goe Vur In Den Otto neemt nummer op met Fleddy Melculy: Den Bus Gemist"
 date: 2017-03-24T19:23:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/goe-vur-in-den-otto-neemt-nummer-op-met-fleddy-melculy-den-bus-gemist/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14350990_1592394017730936_749352007_n.jpg

@@ -6,7 +6,6 @@ groups: Elusion
 album: Desert of Enticement
 date: 2017-02-24T18:11:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-elusion-desert-of-enticement/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14352230_1180267538683215_765986476760382612_o.jpg

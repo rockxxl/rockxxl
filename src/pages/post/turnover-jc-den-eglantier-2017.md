@@ -4,7 +4,6 @@ title: Turnover (JC Den Eglantier, 2017)
 category: Live reviews
 date: 2017-09-17T19:35:54+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-turnover-jc-den-eglantier-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/DDXSy2nVwAE-yow-1.jpg

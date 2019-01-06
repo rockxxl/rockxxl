@@ -6,7 +6,6 @@ groups: False Archetypes
 album: Still Standing
 date: 2017-03-20T21:48:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-false-archetypes-still-standing/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3074942511_10.jpg

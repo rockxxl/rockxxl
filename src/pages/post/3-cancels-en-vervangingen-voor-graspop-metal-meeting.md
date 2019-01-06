@@ -4,7 +4,6 @@ category: Nieuws
 title: 3 cancels en vervangingen voor Graspop Metal Meeting
 date: 2017-05-29T16:40:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/3-cancels-en-vervangingen-voor-graspop-metal-meeting/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14079819_1277226938984128_7865485276749970898_n.png

@@ -5,7 +5,6 @@ category: Interviews
 band: Hexa Mera
 date: 2017-04-10T19:06:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-hexa-mera/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17887662_10155985273773032_187117082_o.jpg

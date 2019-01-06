@@ -4,7 +4,6 @@ category: Nieuws
 title: "WIN: cd Souls of Deaf – Fortune Favors The Bold"
 date: 2018-07-10T12:19:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/win-cd-souls-of-deaf-fortune-favors-the-bold/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/WIN-souls.jpg

@@ -6,7 +6,6 @@ groups: Battlefield
 album: Our Own Rules
 date: 2018-04-11T11:27:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-battlefield-our-own-rules/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/28379067_839681376241601_5335562010900094375_n.jpg

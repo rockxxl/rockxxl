@@ -6,7 +6,6 @@ groups: Soltitude Within
 album: Disappear
 date: 2017-11-04T09:18:56+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-soltitude-within-disappear/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/klaarra.jpg

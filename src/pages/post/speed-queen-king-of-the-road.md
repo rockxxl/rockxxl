@@ -6,7 +6,6 @@ groups: Speed Queen
 album: King Of The Road
 date: 2017-06-13T11:47:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-speed-queen-king-of-the-road/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17796693_1265151043597814_8526443703449854385_n.jpg

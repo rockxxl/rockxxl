@@ -6,7 +6,6 @@ groups: March
 album: Stay Put
 date: 2016-06-01T22:23:59+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-march-stay-put/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_o8467b05og1uncqs0_540.jpg

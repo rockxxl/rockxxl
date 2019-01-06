@@ -6,7 +6,6 @@ groups: Deathwish
 album: S/T
 date: 2017-10-22T19:08:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-deathwish-st/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22046853_1883100805287378_5459153679657489046_n.jpg

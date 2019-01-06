@@ -5,7 +5,6 @@ category: Interviews
 band: Lost From The Start
 date: 2017-04-11T09:26:54+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-lost-from-the-start/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15975102_1212006188913411_1390535723759777644_o.jpg

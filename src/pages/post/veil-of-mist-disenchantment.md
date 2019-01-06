@@ -6,7 +6,6 @@ groups: Veil of Mist
 album: Disenchantment
 date: 2016-11-02T11:42:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-veil-of-mist-disenchantment/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_og0j635csT1uncqs0_1280.jpg

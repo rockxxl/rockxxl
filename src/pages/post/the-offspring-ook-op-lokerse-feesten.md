@@ -4,7 +4,6 @@ category: Nieuws
 title: The Offspring ook op Lokerse Feesten
 date: 2017-02-03T11:27:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/the-offspring-ook-op-lokerse-feesten/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/offspring-official.jpg

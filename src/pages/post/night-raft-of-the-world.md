@@ -6,7 +6,6 @@ groups: Night
 album: Raft Of The World
 date: 2018-06-17T08:20:20+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-night-raft-of-the-world/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20257960_1355579187831034_4459850718464355496_n.jpg

@@ -6,7 +6,6 @@ groups: Beuk
 album: Strak Plan
 date: 2017-01-15T15:32:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-beuk-strak-plan/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15824083_1213616382058839_1219567730_o.jpg

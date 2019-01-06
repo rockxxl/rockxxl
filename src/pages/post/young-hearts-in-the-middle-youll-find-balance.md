@@ -6,7 +6,6 @@ groups: Young Hearts
 album: In The Middle You'll Find Balance
 date: 2017-04-20T19:28:18+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-young-hearts-in-the-middle-youll-find-balance/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/young-hearts.jpg

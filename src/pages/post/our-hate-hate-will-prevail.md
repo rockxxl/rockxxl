@@ -6,7 +6,6 @@ groups: Our Hate
 album: Hate Will Prevail
 date: 2017-11-07T18:44:56+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-our-hate-hate-will-prevail/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/our-hate.jpg

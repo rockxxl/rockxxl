@@ -4,7 +4,6 @@ title: Tornadofest 2018
 category: Live reviews
 date: 2018-03-25T13:38:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-tornadofest-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29187059_10156192407932766_5576946009436585984_n.jpg

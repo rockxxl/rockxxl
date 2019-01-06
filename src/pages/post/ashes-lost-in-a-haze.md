@@ -6,7 +6,6 @@ groups: Ashes
 album: Lost In A Haze
 date: 2017-02-22T14:44:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-ashes-lost-in-a-haze/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a1045893294_10.jpg

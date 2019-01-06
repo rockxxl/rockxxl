@@ -6,7 +6,6 @@ groups: Distant
 album: Tsukuyomi
 date: 2017-08-24T16:21:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-distant-tsukuyomi/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/21100428_10155254233529748_201845641_n.jpg

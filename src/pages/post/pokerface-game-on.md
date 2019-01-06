@@ -6,7 +6,6 @@ groups: Pokerface
 album: Game On
 date: 2017-09-30T09:25:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-pokerface-game-on/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/dc6b2218-aa8b-4b4d-96f7-b09bec4fb181.jpg

@@ -6,7 +6,6 @@ groups: The Dangerous Summer
 album: The Dangerous Summer
 date: 2018-02-18T11:01:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-dangerous-summer-the-dangerous-summer/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/9200000085458382.jpg

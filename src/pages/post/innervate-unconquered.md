@@ -6,7 +6,6 @@ groups: Innervate
 album: Unconquered
 date: 2017-02-01T12:29:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-innervate-unconquered/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg

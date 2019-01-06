@@ -4,7 +4,6 @@ category: Nieuws
 title: The Offspring op Rock Zottegem
 date: 2018-02-06T16:14:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/the-offspring-op-rock-zottegem/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/the-offspring-169237.jpg

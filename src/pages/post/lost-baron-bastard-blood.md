@@ -6,7 +6,6 @@ groups: Lost Baron
 album: Bastard Blood
 date: 2017-12-02T11:11:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-lost-baron-bastard-blood/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a4134940843_10.jpg

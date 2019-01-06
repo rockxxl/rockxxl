@@ -4,7 +4,6 @@ title: Homer Farewell Show 2018
 category: Live reviews
 date: 2018-02-25T15:18:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-homer-farewell-show-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/homerrr.jpg

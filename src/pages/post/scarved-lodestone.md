@@ -6,7 +6,6 @@ groups: Scarved
 album: Lodestone
 date: 2017-07-11T17:21:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-scarved-lodestone/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/pieter-scarved.jpg

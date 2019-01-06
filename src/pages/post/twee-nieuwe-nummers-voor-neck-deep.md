@@ -4,7 +4,6 @@ category: Nieuws
 title: Twee nieuwe nummers voor Neck Deep
 date: 2017-05-21T20:25:27+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/twee-nieuwe-nummers-voor-neck-deep/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/85140880_neckdeep.jpg

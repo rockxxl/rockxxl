@@ -6,7 +6,6 @@ groups: Bloodrocuted
 album: For The Dead Travel Fast
 date: 2017-03-14T20:06:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-bloodrocuted-for-the-dead-travel-fast/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/bllodrocuted-brent.jpg

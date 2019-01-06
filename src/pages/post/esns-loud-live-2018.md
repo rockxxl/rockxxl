@@ -4,7 +4,6 @@ title: ESNS Loud Live 2018
 category: Live reviews
 date: 2018-01-18T21:57:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-esns-loud-live-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26195895_10156171551819073_4814920498282553418_n.png

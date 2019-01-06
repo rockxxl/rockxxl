@@ -4,7 +4,6 @@ category: Nieuws
 title: Lokerse Feesten maakt line up punkrockdag bekend
 date: 2018-02-23T11:19:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/line-up-punkrockdag-lokerse-feesten-bekend/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/lokerse_feesten_seo.png

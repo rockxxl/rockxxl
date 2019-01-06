@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe single van Muddler: Tot Chaos"
 date: 2018-08-02T17:07:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-single-van-muddler-tot-chaos/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/1761d2fe-aeec-4795-b090-8c8036dd53ad.jpg

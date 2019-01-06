@@ -6,7 +6,6 @@ groups: Bloodfeast 138
 album: Rip Off
 date: 2016-12-04T14:20:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-bloodfeast-138-rip-off/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15073356_339076589787510_3634242357180875783_n.jpg

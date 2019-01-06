@@ -4,7 +4,6 @@ category: Nieuws
 title: Ieper Hardcore Fest komt met eerste namen
 date: 2017-02-21T18:57:31+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/ieper-hardcore-fest-komt-met-eerste-namen/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16864393_10154811384240255_5735679029478348189_n.jpg

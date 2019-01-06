@@ -4,7 +4,6 @@ title: Hardcore At Bouckenborgh 2018
 category: Live reviews
 date: 2018-05-27T18:59:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-hardcore-at-bouckenborgh-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29472625_2026538880950909_3321638267832747181_n.jpg

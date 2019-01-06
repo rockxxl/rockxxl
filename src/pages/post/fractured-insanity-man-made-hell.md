@@ -6,7 +6,6 @@ groups: Fractured Insanity
 album: Man Made Hell
 date: 2016-06-01T22:08:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-fractured-insanity-man-made-hell/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3309317142_10.jpg

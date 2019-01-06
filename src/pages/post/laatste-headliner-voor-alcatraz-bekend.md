@@ -4,7 +4,6 @@ category: Nieuws
 title: Laatste headliner voor Alcatraz bekend!
 date: 2018-06-22T14:52:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/laatste-headliner-voor-alcatraz-bekend/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29683369_10213937454643249_177580843101847552_n.jpg

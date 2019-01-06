@@ -6,7 +6,6 @@ groups: Amenra
 album: Mass VI
 date: 2017-11-22T16:01:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-amenra-mass-vi/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a2229860900_10.jpg

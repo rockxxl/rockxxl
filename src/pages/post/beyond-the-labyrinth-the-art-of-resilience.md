@@ -6,7 +6,6 @@ groups: Beyond The Labyrinth
 album: The Art of Resilience
 date: 2017-03-18T13:32:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-beyond-the-labyrinth-the-art-of-resilience/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/btl-just.jpg

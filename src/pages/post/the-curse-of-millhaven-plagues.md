@@ -6,7 +6,6 @@ groups: The Curse Of Millhaven
 album: Plagues
 date: 2017-08-04T17:41:28+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-curse-of-millhaven-plagues/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20369193_10212476602182430_6310768851375429851_o.jpg

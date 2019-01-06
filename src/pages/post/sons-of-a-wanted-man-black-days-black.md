@@ -6,7 +6,6 @@ groups: Sons Of A Wanted Man
 album: Black Days Black Dust
 date: 2016-10-22T12:08:06+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-sons-of-a-wanted-man-black-days-black/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_ofg6z7pqux1uncqs0_1280.jpg

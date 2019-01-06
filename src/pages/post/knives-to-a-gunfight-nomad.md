@@ -6,7 +6,6 @@ groups: Knives To A Gunfight
 album: Nomad
 date: 2016-06-01T22:05:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-knives-to-a-gunfight-nomad/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13236277_10156913874175183_239854023_n.jpg

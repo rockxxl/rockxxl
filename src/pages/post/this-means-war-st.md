@@ -6,7 +6,6 @@ groups: This Means War
 album: S/T
 date: 2017-08-20T15:46:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-this-means-war-st/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/PPR177.jpg

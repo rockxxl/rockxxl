@@ -5,7 +5,6 @@ category: Interviews
 band: Casey
 date: 2017-05-17T13:44:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-casey/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/C_d-oI3XoAEDfaH.jpg

@@ -4,7 +4,6 @@ title: Dying Fetus (JC De Klinker 2017)
 category: Live reviews
 date: 2017-11-11T11:10:52+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-dying-fetus-jc-de-klinker-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/sfsfs.jpg

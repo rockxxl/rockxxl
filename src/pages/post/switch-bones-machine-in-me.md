@@ -6,7 +6,6 @@ groups: Switch Bones
 album: Machine In Me
 date: 2017-11-30T21:46:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-switch-bones-machine-in-me/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/SwitchBones-cover-300x300.jpg

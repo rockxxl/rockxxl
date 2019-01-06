@@ -6,7 +6,6 @@ groups: Stranger Dimensions
 album: Heartless
 date: 2017-01-31T19:27:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-stranger-dimensions-heartless/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3422123569_10.jpg

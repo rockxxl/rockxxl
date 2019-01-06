@@ -6,7 +6,6 @@ groups: Korpse
 album: Unethical
 date: 2016-06-01T22:07:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-korpse-unethical/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12400855_703381023095700_2875249882576259342_n.jpg

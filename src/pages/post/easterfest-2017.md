@@ -4,7 +4,6 @@ title: Easterfest 2017
 category: Live reviews
 date: 2017-04-03T15:39:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-easterfest-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16998240_10208428140283339_53361523186303396_n.jpg

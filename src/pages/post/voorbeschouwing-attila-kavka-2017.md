@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Attila (Kavka, 2017)"
 date: 2017-04-12T14:33:40+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-attila-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17760117_1275385502542608_7407701804862642949_ndqf.jpg

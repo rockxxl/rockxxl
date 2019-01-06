@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Linkin Park nummer: Heavy"
 date: 2017-02-16T16:32:54+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-linkin-park-nummer-heavy/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/linkinparknew.jpg

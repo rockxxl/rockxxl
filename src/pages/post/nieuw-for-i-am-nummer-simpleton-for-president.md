@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw For I Am nummer: Simpleton For President"
 date: 2017-01-20T18:21:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-for-i-am-nummer-simpleton-for-president/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14589965_1340589885964788_6182123299784754536_o.jpg

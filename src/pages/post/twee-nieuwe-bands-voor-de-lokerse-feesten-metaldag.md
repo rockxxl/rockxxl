@@ -4,7 +4,6 @@ category: Nieuws
 title: Twee nieuwe namen voor de metaldag van de Lokerse Feesten
 date: 2017-06-19T16:22:58+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/twee-nieuwe-bands-voor-de-lokerse-feesten-metaldag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/lokerse-feesten-2016-pos.png

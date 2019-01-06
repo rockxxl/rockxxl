@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe groups: Waves of Decay"
 date: 2017-01-16T13:34:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-band-waves-of-decay/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/waves-1.jpg

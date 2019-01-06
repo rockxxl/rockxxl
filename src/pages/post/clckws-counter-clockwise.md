@@ -6,7 +6,6 @@ groups: CLCKWS
 album: Counter Clockwise
 date: 2018-01-27T13:09:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-clckws-counter-clockwise/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/count.jpg

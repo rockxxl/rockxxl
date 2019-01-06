@@ -6,7 +6,6 @@ groups: Steele Justice
 album: Neonlight Blues
 date: 2017-11-27T14:19:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-steele-justice-neonlight-blues/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a4187820607_10.jpg

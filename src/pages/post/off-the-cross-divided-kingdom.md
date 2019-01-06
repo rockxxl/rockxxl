@@ -6,7 +6,6 @@ groups: Off The Cross
 album: Divided Kingdom
 date: 2017-01-31T17:10:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-off-the-cross-divided-kingdom/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15068942_1474952005866176_1836685400660767773_o.jpg

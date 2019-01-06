@@ -5,7 +5,6 @@ category: Interviews
 band: Arson
 date: 2018-06-07T09:35:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-arson/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/fqfqq.jpg

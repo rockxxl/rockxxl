@@ -6,7 +6,6 @@ groups: Until Rain
 album: Inure
 date: 2017-06-24T14:11:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-until-rain-inure/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17265000_10154326497556016_4445151469234551094_n.jpg

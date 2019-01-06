@@ -4,7 +4,6 @@ title: Wolves Scream (JH Korridor, 2018)
 category: Live reviews
 date: 2018-01-14T18:31:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-wolves-scream-jh-korridor-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22728659_1538631472883033_2844132640635408500_n.jpg

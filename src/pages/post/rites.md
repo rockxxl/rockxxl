@@ -5,7 +5,6 @@ category: Interviews
 band: Rites
 date: 2018-01-08T18:54:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-rites/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26732566_10215439493568884_1558607338_o.jpg

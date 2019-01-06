@@ -6,7 +6,6 @@ groups: The Sad Flowers
 album: The Sad Flowers
 date: 2018-05-29T15:23:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-sad-flowers-the-sad-flowers/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/4da503537424541952bd3f1a3edb3fa4_500x500.jpg

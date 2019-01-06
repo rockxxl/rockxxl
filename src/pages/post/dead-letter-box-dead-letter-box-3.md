@@ -6,7 +6,6 @@ groups: Dead Letter Box
 album: Dead Letter Box #3
 date: 2017-11-27T13:34:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-dead-letter-box-dead-letter-box-3/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/verena.jpg

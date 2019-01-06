@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Ascendant videoclip: At Wit's End"
 date: 2017-08-24T16:10:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-ascendant-videoclip-at-wits-end/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/19055541_304477176658617_6957245165111637884_o.jpg

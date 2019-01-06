@@ -5,7 +5,6 @@ category: Interviews
 band: Thy Art Is Murder
 date: 2017-04-21T16:05:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-thy-art-is-murder/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Thy-Art-Is-Murder-2.jpg

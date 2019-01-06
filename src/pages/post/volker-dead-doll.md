@@ -6,7 +6,6 @@ groups: Volker
 album: Dead Doll
 date: 2017-06-24T16:44:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-volker-dead-doll/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17799924_1706673606299997_8739409381805279800_n.jpg

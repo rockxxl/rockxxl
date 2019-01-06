@@ -4,7 +4,6 @@ category: Nieuws
 title: "Eerste nummer van Arson: Empire"
 date: 2018-03-20T11:13:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-nummer-van-arson-empire/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/27072377_2099795936975840_7846912175021310985_n.jpg

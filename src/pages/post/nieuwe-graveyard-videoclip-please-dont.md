@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe Graveyard videoclip: Please Don't"
 date: 2018-04-06T09:27:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-graveyard-videoclip-please-dont/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/graveyard-band-2015.jpeg

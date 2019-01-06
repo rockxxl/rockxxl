@@ -4,7 +4,6 @@ title: Korricore 2017
 category: Live reviews
 date: 2017-03-19T19:31:31+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-korricore-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17410334_1292729317441120_1627377882_n.jpg

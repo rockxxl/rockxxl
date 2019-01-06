@@ -6,7 +6,6 @@ groups: Rotzak
 album: Rotzak
 date: 2017-07-17T08:27:40+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-rotzak-rotzak/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a0865818675_10.jpg

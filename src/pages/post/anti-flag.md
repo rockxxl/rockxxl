@@ -5,7 +5,6 @@ category: Interviews
 band: Anti-Flag
 date: 2018-06-23T20:36:35+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-anti-flag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Anti-Flag.jpg

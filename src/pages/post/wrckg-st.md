@@ -6,7 +6,6 @@ groups: WRCKG
 album: S/T
 date: 2017-05-29T11:05:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-wrckg-st/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18301607_639686846222693_6064482159996058700_n.jpg

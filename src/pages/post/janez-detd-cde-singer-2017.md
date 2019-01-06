@@ -4,7 +4,6 @@ title: Janez Detd. (De Singer, 2017)
 category: Live reviews
 date: 2017-04-07T07:47:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-janez-detd-cde-singer-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos-2.jpg

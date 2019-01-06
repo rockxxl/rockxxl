@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Oriens videoclip: King Of The World"
 date: 2017-02-16T16:20:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-oriens-videoclip-king-of-the-world/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16602115_1267456686670566_5742757765173875333_o.png

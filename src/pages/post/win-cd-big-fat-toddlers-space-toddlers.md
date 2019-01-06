@@ -4,7 +4,6 @@ category: Nieuws
 title: "WIN: cd Big Fat Toddlers – Space Toddlers"
 date: 2018-05-26T15:51:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/win-cd-big-fat-toddlers-space-toddlers/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/WIN-bf.jpg

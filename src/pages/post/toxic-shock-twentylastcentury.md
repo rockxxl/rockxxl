@@ -6,7 +6,6 @@ groups: Toxic Shock
 album: Twentylastcentury
 date: 2017-11-30T21:47:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-toxic-shock-twentylastcentury/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Toxic-Shock-Twentylastcentury.jpg

@@ -6,7 +6,6 @@ groups: Bruce
 album: My Latest Popstar Crush
 date: 2016-11-09T18:27:54+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-bruce-my-latest-popstar-crush/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15078795_10153865213682397_1951453074503664656_n.jpg

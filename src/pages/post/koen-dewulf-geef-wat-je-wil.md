@@ -6,7 +6,6 @@ groups: Koen Dewulf
 album: Geef Wat Je Wil
 date: 2017-02-23T20:05:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/review-koen-dewulf-geef-wat-je-wil/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/4437b933-59fb-459f-839f-cdd5cd8baca9.jpg

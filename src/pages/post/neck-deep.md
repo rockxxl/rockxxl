@@ -5,7 +5,6 @@ category: Interviews
 band: Neck Deep
 date: 2018-07-02T11:29:10+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-neck-deep/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Neck_Deep_Hysteria.jpg

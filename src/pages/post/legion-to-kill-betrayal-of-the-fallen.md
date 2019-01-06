@@ -6,7 +6,6 @@ groups: Legion To Kill
 album: Betrayal Of The Fallen
 date: 2016-06-01T22:19:30+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-legion-to-kill-betrayal-of-the-fallen/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/11870774_485005748331507_2625359037190448426_n.jpg

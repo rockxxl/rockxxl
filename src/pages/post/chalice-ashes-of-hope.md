@@ -6,7 +6,6 @@ groups: Chalice
 album: Ashes of Hope
 date: 2018-06-28T20:38:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-chalice-ashes-of-hope/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a1533798187_10.jpg

@@ -6,7 +6,6 @@ groups: Entering Polaris
 album: Godseed
 date: 2018-07-22T14:08:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-entering-polaris-godseed/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29572823_2048385602043358_6725836529945529418_n.jpg

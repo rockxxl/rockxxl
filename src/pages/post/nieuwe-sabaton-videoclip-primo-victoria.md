@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Sabaton videoclip: Primo Victoria"
 date: 2017-08-16T12:27:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-sabaton-videoclip-primo-victoria/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Sabaton-Band-1.jpg

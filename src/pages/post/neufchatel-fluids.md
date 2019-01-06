@@ -6,7 +6,6 @@ groups: Neufchâtel
 album: Fluids
 date: 2016-06-01T22:21:20+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-neufchatel-fluids/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a4289832607_10.jpg

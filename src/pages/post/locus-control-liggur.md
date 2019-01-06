@@ -6,7 +6,6 @@ groups: Locus Control
 album: Liggur
 date: 2017-08-04T17:56:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-locus-control-liggur/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18222008_1397621280277099_3141577933078844168_n.jpg

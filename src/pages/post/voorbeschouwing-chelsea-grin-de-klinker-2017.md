@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Chelsea Grin (De Klinker, 2017)"
 date: 2017-01-31T17:56:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-chelsea-grin-de-klinker-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15267521_1148613011886525_3477895762962650862_n.jpg

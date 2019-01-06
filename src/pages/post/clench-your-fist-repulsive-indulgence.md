@@ -6,7 +6,6 @@ groups: Clench Your Fist
 album: Repulsive Indulgence
 date: 2018-08-17T19:06:30+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-clench-your-fist-repulsive-indulgence/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/clench.png

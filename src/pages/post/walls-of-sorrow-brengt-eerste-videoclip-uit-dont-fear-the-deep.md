@@ -4,7 +4,6 @@ category: Nieuws
 title: "Walls Of Sorrow brengt eerste videoclip uit: Don't Fear The Deep"
 date: 2018-05-04T11:17:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/walls-of-sorrow-brengt-eerste-videoclip-uit-dont-fear-the-deep/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30174323_1827315170654132_194475210_o.jpg

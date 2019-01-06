@@ -4,7 +4,6 @@ category: Nieuws
 title: Apocalyptica, The Amity Affliction, Less Than Jake en meer op Lokerse Feesten
 date: 2017-03-17T11:21:32+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/apocalyptica-the-amity-affliction-less-than-jake-en-meer-op-lokerse-feesten/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/8c51872a-60ac-4051-a470-a54572f5b7f1.jpg

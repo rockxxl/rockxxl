@@ -6,7 +6,6 @@ groups: Cheap Drugs
 album: O.D.
 date: 2017-02-04T22:56:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-cheap-drugs-o-d/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/CD_-_OD.jpg

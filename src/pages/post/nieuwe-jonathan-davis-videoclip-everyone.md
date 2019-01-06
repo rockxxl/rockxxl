@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe Jonathan Davis videoclip: Everyone"
 date: 2018-04-01T09:57:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-jonathan-davis-videoclip-everyone/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/8594e7fd51cbfbea2305fd92421ff1f8-650x400.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe W.A.S.P videoclip: Chainsaw Charlie"
 date: 2018-01-27T16:28:17+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-w-a-s-p-videoclip-chainsaw-charlie/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/wasp.jpg

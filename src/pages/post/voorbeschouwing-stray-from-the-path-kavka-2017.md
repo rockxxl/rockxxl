@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Stray From The Path (Kavka, 2017)"
 date: 2017-10-12T11:22:04+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-stray-from-the-path-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/21768033_1430349413712882_6535907887110210513_n.jpg

@@ -4,7 +4,6 @@ title: Attila (Kavka, 2017)
 category: Live reviews
 date: 2017-04-15T14:16:59+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-attila-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17760117_1275385502542608_7407701804862642949_ndqf.jpg

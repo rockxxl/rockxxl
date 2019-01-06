@@ -4,7 +4,6 @@ category: Nieuws
 title: Line-up Vuurdoop bekend!
 date: 2018-05-09T12:16:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/line-up-vuurdoop-bekend/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29495952_1723563411038594_9077421918490984448_n.png

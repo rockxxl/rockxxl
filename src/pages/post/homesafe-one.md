@@ -6,7 +6,6 @@ groups: Homesafe
 album: One
 date: 2018-07-22T10:18:06+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-homesafe-one/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/homesafe.jpg

@@ -6,7 +6,6 @@ groups: Royal Jake
 album: Retaliate-the Answer
 date: 2016-11-29T11:52:39+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-royal-jake-retaliate-the-answer/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3279597083_10.jpg

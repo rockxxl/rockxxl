@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe Switch Bones video: Scream Some More"
 date: 2018-07-11T10:31:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-switch-bones-video-scream-some-more/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/19599022_651776691686398_4856679851817666513_n.jpg

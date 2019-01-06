@@ -4,7 +4,6 @@ category: Nieuws
 title: Onze tips voor Graspop Metal Meeting op zondag!
 date: 2018-06-06T15:55:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/onze-tips-voor-graspop-metal-meeting-op-zondag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gmm18lineup1200x16972-5.jpg

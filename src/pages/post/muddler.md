@@ -5,7 +5,6 @@ category: Interviews
 band: Muddler
 date: 2018-08-14T11:49:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-muddler/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/muddler1.jpg

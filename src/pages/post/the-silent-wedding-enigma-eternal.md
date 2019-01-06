@@ -6,7 +6,6 @@ groups: The Silent Wedding
 album: Enigma Eternal
 date: 2017-05-15T09:16:59+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-silent-wedding-enigma-eternal/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/klara-tsw.jpg

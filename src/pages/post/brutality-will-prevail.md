@@ -5,7 +5,6 @@ category: Interviews
 band: Brutality Will Prevail
 date: 2017-05-08T18:35:58+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-brutality-will-prevail/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/brutalitywillprevail.jpg

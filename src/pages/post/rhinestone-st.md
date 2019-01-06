@@ -6,7 +6,6 @@ groups: Rhinestone
 album: S/T
 date: 2017-05-17T12:14:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-rhinestone-st/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/verena-rhinohorn.png

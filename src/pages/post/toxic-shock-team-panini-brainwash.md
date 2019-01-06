@@ -6,7 +6,6 @@ groups: Toxic Shock/ Team Panini
 album: Brainwash
 date: 2017-03-04T14:22:59+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-toxic-shock-team-panini-brainwash/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/IMG_0806.jpg

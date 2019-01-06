@@ -5,7 +5,6 @@ category: Interviews
 band: Enemy of Reality
 date: 2016-11-07T14:09:58+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /interview/interview-enemy-of-reality/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/11083876_738267516291943_5256470957915761030_n.jpg

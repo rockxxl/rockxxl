@@ -4,7 +4,6 @@ title: Expire + Counterparts (Muziekodroom, 2016)
 category: Live reviews
 date: 2016-12-09T17:04:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-expire-counterparts-muziekodroom-2016/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13606915_1029646987116462_6480729479719295009_n.jpg

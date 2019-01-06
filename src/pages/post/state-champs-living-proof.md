@@ -6,7 +6,6 @@ groups: State Champs
 album: Living Proof
 date: 2018-06-11T22:13:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-state-champs-living-proof/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/https_2F2Fimages.genius.com2Fde793076207779be1dbd947ee345d587.960x960x1.jpg

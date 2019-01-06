@@ -4,7 +4,6 @@ title: Set Things Right Goodbye Show 2017
 category: Live reviews
 date: 2017-11-26T11:36:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-set-things-right-goodbye-show/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22729059_1712814048742573_4334967792492425130_n.jpg

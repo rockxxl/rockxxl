@@ -6,7 +6,6 @@ groups: Poseydon
 album: Masterpiece
 date: 2016-08-28T17:31:35+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-poseydon-masterpiece/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/11855648_123919994618880_6035402638735654181_n.jpg

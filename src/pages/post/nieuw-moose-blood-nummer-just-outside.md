@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuw Moose Blood nummer: Just Outside"
 date: 2018-03-02T16:49:49+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-moose-blood-nummer-just-outside/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/moose-blood.jpg

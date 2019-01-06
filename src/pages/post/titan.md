@@ -5,7 +5,6 @@ category: Interviews
 band: Titan
 date: 2018-01-04T15:56:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-titan/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/titan.jpg

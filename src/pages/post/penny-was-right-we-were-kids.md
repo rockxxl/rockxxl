@@ -6,7 +6,6 @@ groups: Penny Was Right
 album: We Were Kids
 date: 2016-06-07T11:24:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-penny-was-right-we-were-kids/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3957582815_10.jpg

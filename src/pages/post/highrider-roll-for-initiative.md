@@ -6,7 +6,6 @@ groups: Highrider
 album: Roll For Initiative
 date: 2018-01-30T19:14:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-highrider-roll-for-initiative/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/brentt.jpg

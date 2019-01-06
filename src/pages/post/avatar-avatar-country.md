@@ -6,7 +6,6 @@ groups: Avatar
 album: Avatar Country
 date: 2018-01-15T18:47:01+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-avatar-avatar-country/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Avatar_AvatarCountry_3000sm-1.jpg

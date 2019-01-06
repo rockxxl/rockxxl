@@ -4,7 +4,6 @@ category: Nieuws
 title: 15 nieuwe namen voor Graspop
 date: 2017-01-26T09:37:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/15-nieuwe-namen-voor-graspop/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16299629_1496801773693309_1726001884140908060_o.jpg

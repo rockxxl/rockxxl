@@ -6,7 +6,6 @@ groups: This Can Hurt
 album: When Nothing Matters
 date: 2017-09-02T12:20:02+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-this-can-hurt-when-nothing-matters/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/WhenNothingMatters.jpg

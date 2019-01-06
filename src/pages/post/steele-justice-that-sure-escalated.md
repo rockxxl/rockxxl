@@ -6,7 +6,6 @@ groups: Steele Justice
 album: &#8230; That Sure Escalated Quickly
 date: 2016-07-16T12:29:41+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-steele-justice-that-sure-escalated/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3851154321_10.jpg

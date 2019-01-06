@@ -6,7 +6,6 @@ groups: Crooked Steps
 album: Fingers Crossed
 date: 2017-02-05T13:00:35+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-crooked-steps-fingers-crossed/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Crooked_Steps_cover.jpg

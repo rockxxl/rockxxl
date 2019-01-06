@@ -4,7 +4,6 @@ title: Nasty + Lionheart (Zappa, 2017)
 category: Live reviews
 date: 2017-12-03T15:14:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-nasty-lionheart-zappa-2017-2/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20374373_1671910866174082_6278264063962117000_n-1-1.jpg

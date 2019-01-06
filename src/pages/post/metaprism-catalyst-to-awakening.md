@@ -6,7 +6,6 @@ groups: Metaprism
 album: Catalyst To Awakening
 date: 2018-03-15T16:46:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-metaprism-catalyst-to-awakening/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26001197_1184123678386003_354300161395131636_n.jpg

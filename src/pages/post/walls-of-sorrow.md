@@ -5,7 +5,6 @@ category: Interviews
 band: Walls Of Sorrow
 date: 2017-11-09T20:31:32+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-walls-of-sorrow/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/wos-eter.jpg

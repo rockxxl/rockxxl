@@ -4,7 +4,6 @@ category: Nieuws
 title: Metaldag Lokerse Feesten volledig!
 date: 2018-06-22T19:16:30+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/metaldag-lokerse-feesten-volledig/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg

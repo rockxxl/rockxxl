@@ -6,7 +6,6 @@ groups: Buzzkill Baby
 album: The Origin Of Buzz
 date: 2018-06-28T19:49:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-buzzkill-baby-the-origin-of-buzz/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/90b8749d03d3036972ec43e5ae8f06a9904a8e70.jpg

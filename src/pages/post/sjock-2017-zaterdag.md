@@ -4,7 +4,6 @@ title: Sjock 2017 (zaterdag)
 category: Live reviews
 date: 2017-07-10T18:46:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-sjock-2017-zaterdag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/sjokckk.jpg

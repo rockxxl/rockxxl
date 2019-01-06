@@ -6,7 +6,6 @@ groups: The Fifth Alliance
 album: Death Poems
 date: 2016-06-01T22:22:10+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-fifth-alliance-death-poems/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12065590_10153306227092989_5145611686279607348_n.png

@@ -6,7 +6,6 @@ groups: One Step At A Time
 album: Our Search
 date: 2017-12-11T18:22:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-one-step-at-a-time-our-search/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/yes.jpg

@@ -6,7 +6,6 @@ groups: Krang
 album: Singalong
 date: 2018-03-06T11:21:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-krang-singalong/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a0725073402_10.jpg

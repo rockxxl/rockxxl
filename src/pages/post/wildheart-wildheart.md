@@ -6,7 +6,6 @@ groups: WildHeart
 album: WildHeart
 date: 2016-07-16T14:05:37+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-wildheart-wildheart/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13124556_1740639059483751_6085696971558437864_n.jpg

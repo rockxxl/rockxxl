@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Impericon Never Say Die Tour 2017"
 date: 2017-11-04T09:47:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-impericon-never-say-die-tour-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/neversaydietour2017_full.jpg

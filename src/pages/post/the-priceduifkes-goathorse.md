@@ -6,7 +6,6 @@ groups: The Priceduifkes
 album: Goathorse
 date: 2017-03-13T17:55:04+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-the-priceduifkes-goathorse/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/pds-seppe.jpg

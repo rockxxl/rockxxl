@@ -6,7 +6,6 @@ groups: Senses Fail
 album: If There Is Light, It Will Find You
 date: 2018-02-08T18:05:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-senses-fail-if-there-is-light-it-will-find-you/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/141898.jpg

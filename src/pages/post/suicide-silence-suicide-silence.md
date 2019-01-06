@@ -6,7 +6,6 @@ groups: Suicide Silence
 album: Suicide Silence
 date: 2017-02-23T18:24:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-suicide-silence-suicide-silence/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16933495_1219061378141237_222607527_n.jpg

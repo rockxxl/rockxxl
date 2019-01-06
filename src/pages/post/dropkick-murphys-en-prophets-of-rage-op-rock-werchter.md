@@ -4,7 +4,6 @@ category: Nieuws
 title: Dropkick Murphys en Prophets of Rage op Rock Werchter
 date: 2017-02-03T21:28:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/dropkick-murphys-en-prophets-of-rage-op-rock-werchter/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Dropkick-Murphys-2011-dropkick-murphys-20110766-2560-1603-111.jpg

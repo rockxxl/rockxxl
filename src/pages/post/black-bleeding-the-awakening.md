@@ -6,7 +6,6 @@ groups: Black Bleeding
 album: The Awakening
 date: 2017-12-28T08:46:07+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-black-bleeding-the-awakening/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/black-bleeding.jpg

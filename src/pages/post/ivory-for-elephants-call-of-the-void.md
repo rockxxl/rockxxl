@@ -6,7 +6,6 @@ groups: Ivory For Elephants
 album: Call Of The Void
 date: 2017-09-11T15:12:13+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-ivory-for-elephants-call-of-the-void/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18983307_1332311846806060_562867688_n.png

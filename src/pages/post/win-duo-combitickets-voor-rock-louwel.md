@@ -4,7 +4,6 @@ category: Nieuws
 title: "WIN: Duo combitickets voor Rock Louwel"
 date: 2018-04-25T07:52:23+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/win-duo-combitickets-voor-rock-louwel/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/31118033_1640596646016187_7660625938274582528_n.jpg

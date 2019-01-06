@@ -4,7 +4,6 @@ category: Nieuws
 title: "de 10 beste platen: februari 2017"
 date: 2017-02-08T00:08:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/de-10-beste-platen-februari-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/logo.jpg

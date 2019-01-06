@@ -4,7 +4,6 @@ category: Nieuws
 title: nieuwe namen voor Graspop Metal Meeting
 date: 2018-01-25T15:51:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-namen-voor-graspop-metal-meeting/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/23130474_1853434211363395_1345651582860734929_n.jpg

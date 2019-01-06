@@ -6,7 +6,6 @@ groups: Jens Noir
 album: Six Years Of Fucking Around
 date: 2016-06-16T17:18:16+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-jens-noir-six-years-of-fucking-around/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3453277841_10.jpg

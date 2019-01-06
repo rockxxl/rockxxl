@@ -6,7 +6,6 @@ groups: Prophets Of Rage
 album: Prophets Of Rage
 date: 2017-11-22T16:26:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-prophets-of-rage-prophets-of-rage/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/prophets.png

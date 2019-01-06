@@ -4,7 +4,6 @@ category: Nieuws
 title: Onze tips voor Graspop Metal Meeting!
 date: 2017-05-31T17:46:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/onze-tips-voor-graspop-metal-meeting/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/poster-website.jpg

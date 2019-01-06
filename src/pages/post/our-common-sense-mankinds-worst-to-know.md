@@ -6,7 +6,6 @@ groups: Our Common Sense
 album: Mankind's Worst To Know
 date: 2018-04-06T10:57:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-our-common-sense-mankinds-worst-to-know/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/OCS-Album-art-Front-300x270.jpg

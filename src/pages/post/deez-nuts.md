@@ -5,7 +5,6 @@ category: Interviews
 band: Deez Nuts
 date: 2018-03-28T16:03:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-deez-nuts/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Deez-Nuts-Hardcore-Band-2017.jpg

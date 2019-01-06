@@ -6,7 +6,6 @@ groups: Jeff Rosenstock
 album: Post-
 date: 2018-01-10T20:03:33+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-jeff-rosenstock-post/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Jeff-Rosenstock-POST-1515513538-640x640.jpg

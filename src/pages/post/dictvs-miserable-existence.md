@@ -6,7 +6,6 @@ groups: Dictvs
 album: Miserable Existence
 date: 2017-12-07T19:39:38+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-dictvs-miserable-existence/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/23167577_1339235609535575_1243628879844791256_n.jpg

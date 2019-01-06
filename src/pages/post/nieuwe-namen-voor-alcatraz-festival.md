@@ -4,7 +4,6 @@ category: Nieuws
 title: Nieuwe namen voor Alcatraz Festival
 date: 2018-04-06T09:42:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-namen-voor-alcatraz-festival/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29683369_10213937454643249_177580843101847552_n.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuw Hell City nummer en videoclip: Your Darkest Hour"
 date: 2018-07-05T10:39:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-hell-city-nummer-en-videoclip-your-darkest-hour/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/helel-city.jpg

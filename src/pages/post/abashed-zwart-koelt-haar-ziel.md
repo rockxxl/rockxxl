@@ -6,7 +6,6 @@ groups: Abashed
 album: Zwart Koelt Haar Ziel
 date: 2018-02-15T14:31:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-abashed-zwart-koelt-haar-ziel/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17098476_1408635019170733_1857388631568286402_n.jpg

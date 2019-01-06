@@ -4,7 +4,6 @@ title: Antwerp Metal Fest 2017 (zondag)
 category: Live reviews
 date: 2017-08-11T13:24:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-antwerp-metal-fest-2017-zondag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/antwerpppp.jpg

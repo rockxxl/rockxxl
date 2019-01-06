@@ -4,7 +4,6 @@ title: Nails (Muziekodroom, 2017)
 category: Live reviews
 date: 2017-11-10T10:52:27+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-nails-muziekodroom-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22688018_1457058627708627_2778917726773393615_n.jpg

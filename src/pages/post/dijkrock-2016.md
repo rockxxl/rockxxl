@@ -4,7 +4,6 @@ title: Dijkrock 2016
 category: Live reviews
 date: 2016-09-05T13:51:55+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-dijkrock-2016/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14064029_1221751817837525_6736177105099653036_n.jpg

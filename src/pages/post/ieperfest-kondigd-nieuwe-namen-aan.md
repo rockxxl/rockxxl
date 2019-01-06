@@ -4,7 +4,6 @@ category: Nieuws
 title: Ieperfest kondigt nieuwe namen aan
 date: 2018-01-23T17:07:06+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/ieperfest-kondigd-nieuwe-namen-aan/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26993430_10155791431760255_2339515910165157077_n.jpg

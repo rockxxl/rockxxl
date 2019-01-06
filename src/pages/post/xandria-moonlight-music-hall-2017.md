@@ -4,7 +4,6 @@ title: Xandria (Moonlight Music Hall, 2017)
 category: Live reviews
 date: 2017-11-23T18:54:37+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-xandria-moonlight-music-hall-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/pieter.jpg

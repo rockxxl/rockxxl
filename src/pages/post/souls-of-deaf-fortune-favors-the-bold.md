@@ -6,7 +6,6 @@ groups: Souls Of Deaf
 album: Fortune Favors The Bold
 date: 2018-09-02T11:36:33+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-souls-of-deaf-fortune-favors-the-bold/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/front-cover.jpg

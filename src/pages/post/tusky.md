@@ -5,7 +5,6 @@ category: Interviews
 band: Tusky
 date: 2018-07-04T20:04:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-tusky/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Tusky_2018_1.jpeg

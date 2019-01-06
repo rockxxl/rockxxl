@@ -5,7 +5,6 @@ category: Interviews
 band: Moments
 date: 2017-05-03T13:14:52+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-moments/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15418591_1458392430845477_8597358955220313955_o.jpg

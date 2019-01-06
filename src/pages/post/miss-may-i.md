@@ -5,7 +5,6 @@ category: Interviews
 band: Miss May I
 date: 2017-05-04T14:09:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-miss-may-i/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/download.jpg

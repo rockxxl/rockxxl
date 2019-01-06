@@ -5,7 +5,6 @@ category: Interviews
 band: Bram Desimpelaere
 date: 2018-01-14T15:10:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-bram-desimpelaere/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26854311_10212963679878343_1484078644_o.jpg

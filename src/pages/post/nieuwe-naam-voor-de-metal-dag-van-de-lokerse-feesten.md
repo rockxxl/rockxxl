@@ -4,7 +4,6 @@ category: Nieuws
 title: Nieuwe naam voor de punkdag van de Lokerse Feesten
 date: 2018-05-21T15:54:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-naam-voor-de-metal-dag-van-de-lokerse-feesten/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/lokerse_feesten_seo.png

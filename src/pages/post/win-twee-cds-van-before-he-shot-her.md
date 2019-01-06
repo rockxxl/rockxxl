@@ -4,7 +4,6 @@ category: Nieuws
 title: "WIN: Twee cd's van Before He Shot Her"
 date: 2018-05-26T13:56:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/win-twee-cds-van-before-he-shot-her/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/WIN.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: Pushed Too Far houdt er tijdelijk mee op
 date: 2017-02-15T16:46:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/pushed-too-far-houd-er-tijdelijk-mee-op/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/412592_10150849079016372_143058702_o.jpg

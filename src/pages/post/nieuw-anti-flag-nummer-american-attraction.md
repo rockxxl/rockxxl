@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Anti-Flag nummer: American Attraction"
 date: 2017-08-18T09:58:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-anti-flag-nummer-american-attraction/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/antiflag-cr-atomsplitter-billboard-1548.jpg

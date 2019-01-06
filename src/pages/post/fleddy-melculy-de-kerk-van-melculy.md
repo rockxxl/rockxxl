@@ -6,7 +6,6 @@ groups: Fleddy Melculy
 album: De Kerk Van Melculy
 date: 2018-02-19T11:35:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-fleddy-melculy-de-kerk-van-melculy/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Fleddy-Melculy-De-kerk-van-Melculy-2CD.jpg

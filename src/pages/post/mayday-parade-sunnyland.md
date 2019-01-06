@@ -6,7 +6,6 @@ groups: Mayday Parade
 album: Sunnyland
 date: 2018-06-28T13:17:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-mayday-parade-sunnyland/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/0yCZvsY.jpg

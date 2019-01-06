@@ -6,7 +6,6 @@ groups: Damnations Day
 album: A World Awakens
 date: 2017-04-10T19:23:54+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-damnations-day-a-world-awakens/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/damnation-verena.jpg

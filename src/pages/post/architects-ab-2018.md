@@ -4,7 +4,6 @@ title: Architects (AB, 2018)
 category: Live reviews
 date: 2018-02-05T16:12:28+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-architects-ab-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/DJsOk5kX0AA1YHK.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: Onze tips voor Sjock Festival!
 date: 2018-06-07T09:04:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/onze-tips-voor-sjock-festival/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30124052_10212048948435908_3981074273237421404_n-1.jpg

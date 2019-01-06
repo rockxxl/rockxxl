@@ -4,7 +4,6 @@ category: Nieuws
 title: "Mountains To Move brengt nieuwe single uit: Left Or Right"
 date: 2018-04-20T12:24:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/mountains-to-move-released-nieuwe-single-left-or-right/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15625661_749010465252424_279997441546410488_o.jpg

@@ -6,7 +6,6 @@ groups: Hibakusha
 album: Prophet Of Numbers
 date: 2018-03-14T16:16:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-hibakusha-prophet-of-numbers/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/27545729_1153539228083079_7474565799049095457_n.jpg

@@ -5,7 +5,6 @@ category: Interviews
 band: Set Things Right
 date: 2017-11-13T13:56:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-set-things-right/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15039507_1338155776208404_2040673305254975013_o.jpg

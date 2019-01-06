@@ -6,7 +6,6 @@ groups: My Own Ghost
 album: Life on Standby
 date: 2017-08-18T08:54:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-my-own-ghost-life-on-standby/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18221535_687807031344204_1200084598873020483_n.jpg

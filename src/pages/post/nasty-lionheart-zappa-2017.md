@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Nasty + Lionheart (Zappa, 2017)"
 date: 2017-12-02T14:26:31+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/live-review-nasty-lionheart-zappa-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20374373_1671910866174082_6278264063962117000_n-1.jpg

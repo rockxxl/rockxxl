@@ -6,7 +6,6 @@ groups: Major
 album: To The Wall
 date: 2017-03-22T14:07:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-major-to-the-wall/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3136065565_10.jpg

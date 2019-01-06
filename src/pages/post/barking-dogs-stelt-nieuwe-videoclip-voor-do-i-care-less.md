@@ -4,7 +4,6 @@ category: Nieuws
 title: "Barking Dogs stelt nieuwe videoclip voor: Do I Care Less??"
 date: 2018-04-11T11:35:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/barking-dogs-stelt-nieuwe-videoclip-voor-do-i-care-less/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30223702_2006022306093048_1456637054_o.jpg

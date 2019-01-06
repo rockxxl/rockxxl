@@ -6,7 +6,6 @@ groups: Big Dumb Face
 album: Where is Duke Lion? He’s Dead…
 date: 2018-01-27T19:17:33+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-big-dumb-face-where-is-duke-lion-hes-dead/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Big-Dumb-Face-Where-is-Duke-Lion-He’s-Dead.jpg

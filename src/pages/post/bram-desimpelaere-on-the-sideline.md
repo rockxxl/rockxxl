@@ -6,7 +6,6 @@ groups: Bram Desimpelaere
 album: On The Sideline
 date: 2017-10-23T14:57:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-bram-desimpelaere-on-the-sideline/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/brammm.jpg

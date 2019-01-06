@@ -4,7 +4,6 @@ category: Nieuws
 title: "eerste Nesqueek nummer: Equals"
 date: 2017-07-24T15:42:26+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eerste-nesqueek-nummer-equals/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/nes.jpg

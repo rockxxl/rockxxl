@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Foo Fighters nummer en videoclip: Run"
 date: 2017-06-01T15:10:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-foo-fighters-nummer-en-videoclip-run/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Foo_Fighters.jpg

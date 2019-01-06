@@ -4,7 +4,6 @@ title: Fabulae Dramatis album release 2017
 category: Live reviews
 date: 2017-10-09T17:19:30+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-fabulae-dramatis-album-release-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20294365_1133047693461791_3024356310451581543_n.jpg

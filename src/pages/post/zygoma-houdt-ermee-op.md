@@ -4,7 +4,6 @@ category: Nieuws
 title: Zygoma houdt ermee op
 date: 2018-03-02T16:41:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/zygoma-houdt-ermee-op/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/28336333_10156020303253213_4487552217947032771_o.jpg

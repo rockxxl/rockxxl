@@ -6,7 +6,6 @@ groups: Basement Critters
 album: Hurt Me With The Truth
 date: 2016-09-11T16:50:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-basement-critters-hurt-me-with-the-truth/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14233078_1210500492303467_6641423123512748742_n.jpg

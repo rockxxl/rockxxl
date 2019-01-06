@@ -6,7 +6,6 @@ groups: Hexa Mera
 album: Enlightenment
 date: 2017-04-09T16:58:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-hexa-mera-enlightenment/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16251854_1322726327750384_7045817867883193562_o.jpg

@@ -6,7 +6,6 @@ groups: Barking Dogs
 album: On a Leash
 date: 2017-03-11T16:58:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-barking-dogs-on-a-leash/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17238864_733690500127158_260852272_n.jpg

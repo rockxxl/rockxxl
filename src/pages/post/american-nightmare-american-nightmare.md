@@ -6,7 +6,6 @@ groups: American Nightmare
 album: American Nightmare
 date: 2018-02-15T17:02:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-american-nightmare-american-nightmare/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/ANGEL-2.jpg

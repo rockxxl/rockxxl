@@ -5,7 +5,6 @@ category: Interviews
 band: Renessound
 date: 2017-02-15T16:54:59+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-renessound/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16722699_1804656183132605_1239817637314734987_o.jpg

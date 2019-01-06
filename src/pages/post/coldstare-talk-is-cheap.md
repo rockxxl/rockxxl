@@ -6,7 +6,6 @@ groups: Coldstare
 album: Talk is Cheap
 date: 2017-04-10T10:31:59+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-coldstare-talk-is-cheap/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15541966_1027847934027955_1786242859699436643_n.jpg

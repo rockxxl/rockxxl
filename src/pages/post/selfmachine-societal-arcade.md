@@ -6,7 +6,6 @@ groups: Selfmachine
 album: Societal Arcade
 date: 2017-04-15T14:04:19+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-selfmachine-societal-arcade/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/pimp-selfmachine-verena.jpg

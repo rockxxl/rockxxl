@@ -4,7 +4,6 @@ title: State Champs (Trix, 2017)
 category: Live reviews
 date: 2017-03-14T16:32:24+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-state-champs-trix-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15220009_1148615031886323_6227064647380899619_n.jpg

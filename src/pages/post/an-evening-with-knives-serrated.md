@@ -6,7 +6,6 @@ groups: An Evening With Knives
 album: Serrated
 date: 2018-01-15T15:05:37+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-an-evening-with-knives-serrated/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/An-Evening-With-Knives-Serrated-front-high-res_preview.jpeg

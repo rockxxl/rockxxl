@@ -6,7 +6,6 @@ groups: Miss May I
 album: Shadows Inside
 date: 2017-06-12T12:45:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-miss-may-i-shadows-inside/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/1bd836c104fc2c03306b5305bc4dc7f6.1000x1000x1.jpg

@@ -4,7 +4,6 @@ title: Sjock 2018 (zondag)
 category: Live reviews
 date: 2018-07-12T06:45:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-sjock-2018-zondag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30124052_10212048948435908_3981074273237421404_n-1.jpg

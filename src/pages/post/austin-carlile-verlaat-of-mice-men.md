@@ -4,7 +4,6 @@ category: Nieuws
 title: Austin Carlile verlaat Of Mice &#038; Men
 date: 2016-12-31T14:05:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/austin-carlile-verlaat-of-mice-men/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/OMAM.jpeg

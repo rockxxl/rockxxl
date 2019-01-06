@@ -4,7 +4,6 @@ category: Nieuws
 title: "WIN: LP Chief Roberts – The Hopeless"
 date: 2018-06-03T09:43:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/win-lp-chief-roberts-the-hopeless/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/WIN.jpg

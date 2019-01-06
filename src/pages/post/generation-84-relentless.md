@@ -6,7 +6,6 @@ groups: Generation 84
 album: Relentless
 date: 2018-01-11T20:12:20+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-generation-84-relentless/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/24058890_1960839960609695_2834522708231633272_n.jpg

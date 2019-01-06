@@ -4,7 +4,6 @@ title: The Amity Affliction (Trix, 2016)
 category: Live reviews
 date: 2016-12-04T14:29:47+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-the-amity-affliction-trix-2016/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15220202_10154844853909078_7129432128552474514_n.jpg

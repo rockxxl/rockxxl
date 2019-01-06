@@ -6,7 +6,6 @@ groups: Novaria
 album: Novaria
 date: 2018-03-05T19:31:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-novaria-novaria/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/24899685_1834605483217243_537183935878584966_n.jpg

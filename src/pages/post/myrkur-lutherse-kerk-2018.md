@@ -4,7 +4,6 @@ title: Myrkur (Lutherse Kerk, 2018)
 category: Live reviews
 date: 2018-01-20T16:11:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-myrkur-lutherse-kerk-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/24059081_798798733641166_5786162771086468471_n.jpg

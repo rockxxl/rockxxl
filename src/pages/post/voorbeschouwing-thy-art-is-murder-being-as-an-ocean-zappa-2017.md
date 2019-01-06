@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Thy Art Is Murder + Being As An Ocean (Zappa, 2017)"
 date: 2017-04-17T16:18:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-thy-art-is-murder-being-as-an-ocean-zappa-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17620217_1266094183471740_8375112362376236693_o.jpg

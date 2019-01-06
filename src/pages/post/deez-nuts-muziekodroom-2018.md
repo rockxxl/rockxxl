@@ -4,7 +4,6 @@ title: Deez Nuts (Muziekodroom, 2018)
 category: Live reviews
 date: 2018-03-24T15:23:06+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-deez-nuts-muziekodroom-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/29549975_1661957450555737_545171925_n.jpg

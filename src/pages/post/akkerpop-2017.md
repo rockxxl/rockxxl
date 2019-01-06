@@ -4,7 +4,6 @@ title: Akkerpop 2017
 category: Live reviews
 date: 2017-08-29T18:04:18+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-akkerpop-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20914197_1564803976873345_1815932283458824214_n.png

@@ -6,7 +6,6 @@ groups: Syndrome
 album: Forever And A Day
 date: 2017-03-18T12:53:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-syndrom-forever-and-a-day/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/syndrome-damien.jpg

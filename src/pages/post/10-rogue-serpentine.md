@@ -6,7 +6,6 @@ groups: 10 Rogue
 album: "Serpentine"
 date: 2017-06-05T11:25:03+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-10-rogue-serpentine/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17862471_1682105548473530_130309053145768066_n.jpg

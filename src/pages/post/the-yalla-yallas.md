@@ -5,7 +5,6 @@ category: Interviews
 band: The Yalla Yallas
 date: 2017-05-18T12:56:49+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-the-yalla-yallas/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18491424_1846964091984156_2060356962502361504_o.jpg

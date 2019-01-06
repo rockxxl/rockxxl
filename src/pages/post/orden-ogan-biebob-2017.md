@@ -4,7 +4,6 @@ title: Orden Ogan (Biebob, 2017)
 category: Live reviews
 date: 2017-11-02T20:35:56+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-orden-ogan-biebob-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/poster-oden.jpg

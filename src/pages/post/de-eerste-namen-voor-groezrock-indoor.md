@@ -4,7 +4,6 @@ category: Nieuws
 title: De eerste namen voor Groezrock indoor!
 date: 2018-06-06T15:37:12+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/de-eerste-namen-voor-groezrock-indoor/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/28379826_10157027873223765_2714884604427516998_n.jpg

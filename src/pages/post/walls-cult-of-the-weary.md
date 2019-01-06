@@ -6,7 +6,6 @@ groups: Walls
 album: Cult of The Weary
 date: 2017-04-06T21:05:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-walls-cult-of-the-weary/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17553879_776403229176013_3022306120509251093_n.jpg

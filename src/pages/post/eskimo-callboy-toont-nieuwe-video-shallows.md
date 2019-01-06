@@ -4,7 +4,6 @@ category: Nieuws
 title: "Eskimo Callboy toont nieuwe video: Shallows"
 date: 2018-07-31T13:56:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/eskimo-callboy-toont-nieuwe-video-shallows/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Eskimo-Callboy-2017.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Trivium videoclip: The Heart From Your Hate"
 date: 2017-08-25T18:11:29+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-trivium-videoclip-the-heart-from-your-hate/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/trivium.jpg

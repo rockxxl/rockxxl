@@ -5,7 +5,6 @@ category: Interviews
 band: In Clear Sight
 date: 2017-01-31T17:02:15+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-in-clear-sight/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/16443348_10154552717118401_169963829_n.jpg

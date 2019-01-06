@@ -6,7 +6,6 @@ groups: Speak Low If You Speak Love
 album: Nearsighted
 date: 2018-02-08T10:27:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-speak-low-if-you-speak-love-nearsighted/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/955908.jpg

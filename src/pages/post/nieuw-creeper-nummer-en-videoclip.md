@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Creeper nummer en videoclip: Black Rain"
 date: 2017-02-15T11:32:42+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-creeper-nummer-en-videoclip/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_o2ndal1Ys51ttp876o1_r1_1280.jpg

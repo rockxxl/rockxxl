@@ -5,7 +5,6 @@ category: Interviews
 band: The Rocket
 date: 2018-06-09T08:55:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-the-rocket/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/31936547_10156481851954940_4977021880859885568_n.jpg

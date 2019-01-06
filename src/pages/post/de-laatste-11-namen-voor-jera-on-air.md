@@ -4,7 +4,6 @@ category: Nieuws
 title: De laatste 11 namen voor Jera On Air
 date: 2018-04-18T10:34:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/de-laatste-11-namen-voor-jera-on-air/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30725296_2071988819510337_1365159697245536256_n.png

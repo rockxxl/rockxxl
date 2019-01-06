@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Sleeping With Sirens videoclip: Cheers"
 date: 2017-08-25T18:00:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-sleeping-with-sirens-videoclip-cheers/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/sleeping-with.jpg

@@ -6,7 +6,6 @@ groups: Melted Space
 album: Darkening Light
 date: 2018-03-31T08:40:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-melted-space-darkening-light/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/n-melted-space-darkening-light-6978-426.jpg

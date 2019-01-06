@@ -6,7 +6,6 @@ groups: Mozz
 album: Ongeneesbaar
 date: 2016-06-01T22:20:39+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/mozz-ongeneesbaar/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/1003609_1024249694328766_1400677830927640145_n.png

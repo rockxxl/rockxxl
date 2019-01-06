@@ -4,7 +4,6 @@ category: Nieuws
 title: nieuw The Bombpops nummer en videoclip
 date: 2017-02-11T21:25:10+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-the-bombpops-nummer-en-videoclip/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/the-bombpops.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "EXCLUSIEF: nieuw Rites nummer en videoclip: The Unloved"
 date: 2017-10-20T09:58:40+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/exclusief-nieuw-rites-nummer-en-videoclip-the-unloved/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18076991_1348176825271140_8164466242720883800_o.jpg

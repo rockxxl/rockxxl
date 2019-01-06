@@ -4,7 +4,6 @@ title: Alestorm (Trix, 2017)
 category: Live reviews
 date: 2017-10-29T13:17:41+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-alestorm-trix-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/alestorm-ngbts-european-tour-2017-web-poster-1.jpg

@@ -4,7 +4,6 @@ title: Alazka (Zappa, 2018)
 category: Live reviews
 date: 2018-05-10T09:27:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-alazka-zappa-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30725013_1629097693838052_3849223983294760002_n.jpg

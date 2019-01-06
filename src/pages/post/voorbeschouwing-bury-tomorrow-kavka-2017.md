@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Bury Tomorrow (Kavka, 2017)"
 date: 2017-04-04T09:28:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-bury-tomorrow-kavka-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/gq-1.jpg

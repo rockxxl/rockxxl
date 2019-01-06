@@ -4,7 +4,6 @@ category: Nieuws
 title: "EXCLUSIEF: Arson streamt eerste EP: Let's Start a Fire"
 date: 2018-04-09T09:57:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/exclusief-arson-streamt-eerste-ep-lets-start-a-fire/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/201711-bandpicture.png

@@ -6,7 +6,6 @@ groups: Red Baroness &#038; The Murder Kings
 album: S/T
 date: 2017-04-11T14:14:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-red-baroness-the-murder-kings-st/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/red-baroness-seppe.jpg

@@ -6,7 +6,6 @@ groups: Here Stands A Hero
 album: Atheist // Omnist
 date: 2018-05-16T18:15:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-here-stands-a-hero-atheist-omnist/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/31532899_1679548225500685_632536584054374400_n.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: Line up Sjock Festival volledig
 date: 2018-04-06T08:57:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/line-up-sjock-festival-volledig/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30124052_10212048948435908_3981074273237421404_n.jpg

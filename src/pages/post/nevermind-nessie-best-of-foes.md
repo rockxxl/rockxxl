@@ -6,7 +6,6 @@ groups: Nevermind Nessie
 album: Best of Foes
 date: 2017-03-11T18:14:11+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-nevermind-nessie-best-of-foes/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/nevermind-nessie-best-of-foes.png

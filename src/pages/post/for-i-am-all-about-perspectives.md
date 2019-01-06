@@ -6,7 +6,6 @@ groups: For I Am
 album: All About Perspectives
 date: 2017-03-14T20:51:37+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-for-i-am-all-about-perspectives/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/fia-seppe.jpg

@@ -6,7 +6,6 @@ groups: Saturday’s Heroes
 album: Pineroad
 date: 2017-10-23T19:03:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-saturdays-heroes-pineroad/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a3210624629_10.jpg

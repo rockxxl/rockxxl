@@ -6,7 +6,6 @@ groups: Enemy of Reality
 album: Arakhne
 date: 2016-10-17T12:48:14+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-enemy-of-reality-arakhne/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_of6zfhwett1uncqs0_1280.jpg

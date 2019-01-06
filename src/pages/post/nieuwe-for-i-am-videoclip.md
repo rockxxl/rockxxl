@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe For I Am videoclip: (Make It Out) Alive"
 date: 2017-03-07T19:37:45+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-for-i-am-videoclip/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/14589965_1340589885964788_6182123299784754536_o.jpg

@@ -6,7 +6,6 @@ groups: Caliban
 album: Elements
 date: 2018-04-12T08:42:33+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-caliban-elements/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/ob_837a55_caliban-elements.jpg

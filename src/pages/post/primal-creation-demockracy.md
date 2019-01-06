@@ -6,7 +6,6 @@ groups: Primal Creation
 album: Demockracy
 date: 2017-09-11T16:17:22+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-primal-creation-demockracy/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18893328_1693615144001876_4077818920571497459_n.jpg

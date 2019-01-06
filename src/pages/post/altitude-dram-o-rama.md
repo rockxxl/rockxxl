@@ -6,7 +6,6 @@ groups: Altitude
 album: Dram-O-Rama
 date: 2017-05-15T14:18:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-altitude-dram-o-rama/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/altitude-seppe.jpg

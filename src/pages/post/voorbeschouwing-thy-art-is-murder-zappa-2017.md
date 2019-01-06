@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Thy Art Is Murder (Zappa, 2017)"
 date: 2017-10-25T10:37:57+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-thy-art-is-murder-zappa-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/thy-art.jpg

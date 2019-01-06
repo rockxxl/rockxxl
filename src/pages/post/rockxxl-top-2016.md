@@ -4,7 +4,6 @@ category: Nieuws
 title: RockXXL top 2016
 date: 2016-12-26T13:04:08+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/rockxxl-top-2016/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/rockxxl-logo-1.jpg

@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Blink 182 nummer: Parking Lot"
 date: 2017-03-17T11:26:45+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-blink-182-nummer-parking-lot/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Blink-182.jpg

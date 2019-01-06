@@ -5,7 +5,6 @@ category: Interviews
 band: Kontrust
 date: 2016-10-28T14:25:00+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /interview/interview-kontrust/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/just-kontrust.jpg

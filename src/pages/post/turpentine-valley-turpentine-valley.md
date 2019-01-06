@@ -6,7 +6,6 @@ groups: Turpentine Valley
 album: Turpentine Valley
 date: 2018-02-24T13:59:43+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-turpentine-valley-turpentine-valley/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos.png

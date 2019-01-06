@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuwe Deez Nuts videoclip: Discord"
 date: 2017-03-02T19:34:21+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-deez-nuts-videoclip-discord/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/DeezNuts-Gallery1.jpg

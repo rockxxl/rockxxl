@@ -6,7 +6,6 @@ groups: Homer
 album: The Last Raid
 date: 2018-02-05T18:32:05+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-homer-the-last-raid/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/hommeerr.png

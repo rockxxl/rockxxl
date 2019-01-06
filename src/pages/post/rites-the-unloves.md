@@ -6,7 +6,6 @@ groups: Rites
 album: Misery Is Company
 date: 2017-11-20T14:43:46+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-rites-the-unloves/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22490214_1514543555301132_7598420161307331820_n.jpg

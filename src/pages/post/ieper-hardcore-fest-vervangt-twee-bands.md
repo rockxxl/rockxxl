@@ -4,7 +4,6 @@ category: Nieuws
 title: Ieper Hardcore Fest vervangt twee bands
 date: 2018-08-02T12:19:34+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/ieper-hardcore-fest-vervangt-twee-bands/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/aMEGAm2yI1RvtgQH1lvMfwSVocKFqSY8ztku8KhW.jpeg

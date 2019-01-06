@@ -6,7 +6,6 @@ groups: Royce
 album: Embrace Yourself
 date: 2016-06-06T19:14:28+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-royce-embrace-yourself/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/l1ITF0rUwbY.jpg

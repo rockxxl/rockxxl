@@ -6,7 +6,6 @@ groups: Düster Lust
 album: Düster Lust
 date: 2016-09-14T21:38:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-duster-lust-duster-lust/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_odik6bcaXZ1uncqs0_1280.jpg

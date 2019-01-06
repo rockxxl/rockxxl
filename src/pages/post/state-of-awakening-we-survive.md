@@ -6,7 +6,6 @@ groups: State of Awakening
 album: We Survive
 date: 2017-05-22T15:33:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-state-of-awakening-we-survive/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg

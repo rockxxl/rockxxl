@@ -6,7 +6,6 @@ groups: Wiegedood
 album: De Doden Hebben Het Goed II
 date: 2017-03-14T18:01:27+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-wiegedood-de-doden-hebben-het-goed-ii/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/wiegedood-brent.png

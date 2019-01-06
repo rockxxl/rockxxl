@@ -6,7 +6,6 @@ groups: Nihilism
 album: Beyond Redemption
 date: 2016-11-29T12:11:48+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-nihilism-beyond-redemption/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12510432_935452166508365_6117599033338345445_n.jpg

@@ -6,7 +6,6 @@ groups: Wild Mighty Freaks
 album: Guns N' Cookies
 date: 2018-01-27T18:43:25+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-wild-mighty-freaks-guns-n-cookies/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/wild-mighty-freaks.jpg

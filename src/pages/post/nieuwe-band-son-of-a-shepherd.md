@@ -4,7 +4,6 @@ category: Nieuws
 title: "Nieuwe groups: Son of a Shepherd, het Belgische antwoord op Mindless Self Indulgence"
 date: 2018-04-27T07:50:51+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuwe-band-son-of-a-shepherd/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30073663_169077130457314_1688947380210103881_o.jpg

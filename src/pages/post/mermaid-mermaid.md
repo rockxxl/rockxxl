@@ -6,7 +6,6 @@ groups: Mermaid
 album: Mermaid
 date: 2018-02-27T19:42:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-mermaid-mermaid/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/28166925_1437072813088149_4335831181605602990_n.jpg

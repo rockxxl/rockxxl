@@ -6,7 +6,6 @@ groups: More Than Meets The Eye
 album: Here’s To Never Growing Up
 date: 2016-10-05T13:11:17+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-more-than-meets-the-eye-heres-to-never/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13220964_10154118906292141_2947626709428696344_n.jpg

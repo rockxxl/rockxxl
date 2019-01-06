@@ -4,7 +4,6 @@ category: Nieuws
 title: "nieuw Bloodrocuted nummer: For The Dead Travel Fast"
 date: 2017-02-15T17:40:28+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/nieuw-bloodrocuted-nummer-for-the-dead-travel-fast/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15443138_1343474775685943_6077178828806340163_o.jpg

@@ -5,7 +5,6 @@ category: Interviews
 band: Valley
 date: 2017-04-09T15:07:31+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/interview-valley/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12783627_1002361196508450_4385062972805357520_o.jpg

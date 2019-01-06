@@ -6,7 +6,6 @@ groups: X Ray Cat Trio
 album: Out For Blood
 date: 2016-08-29T12:35:50+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-x-ray-cat-trio-out-for-blood/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13445263_10153813309698040_5377067635164119230_n.jpg

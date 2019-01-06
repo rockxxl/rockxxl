@@ -4,7 +4,6 @@ title: Lokerse Feesten 2017 (woensdag)
 category: Live reviews
 date: 2017-08-11T10:48:17+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /live-review/live-review-lokerse-feesten-2017-woensdag/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/lokerseeeeee.jpg

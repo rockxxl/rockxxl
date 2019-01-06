@@ -4,7 +4,6 @@ category: Nieuws
 title: "voorbeschouwing: Nails (Muziekodroom, 2017)"
 date: 2017-11-05T19:17:16+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /news/voorbeschouwing-nails-muziekodroom-2017/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/22688018_1457058627708627_2778917726773393615_n.jpg

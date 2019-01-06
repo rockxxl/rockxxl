@@ -6,7 +6,6 @@ groups: Freeloader
 album: Bonneville Bastards
 date: 2018-04-24T11:40:09+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-freeloader-bonneville-bastards/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Freeloader-300x300.jpg

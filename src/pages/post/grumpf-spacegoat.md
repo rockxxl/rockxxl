@@ -6,7 +6,6 @@ groups: Grumpf
 album: Scapegoat
 date: 2017-03-12T13:55:36+00:00
 author: Seppe Van Ael
-layout: post
 permalink: /album-review/review-grumpf-spacegoat/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/13668888_10154325746922225_7014676599425334213_o.jpg
