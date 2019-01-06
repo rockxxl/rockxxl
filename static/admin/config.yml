@@ -28,7 +28,7 @@ collections:
     delete: true
     fields:
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - { name: body, label: Body, widget: markdown, required: false }
 
   - name: author
     label: Authors
@@ -38,9 +38,9 @@ collections:
     delete: true
     fields:
       - { name: title, label: Title }
-      - { name: email, label: Email}
-      - { name: avatar, label: Avatar, widget: image, media_library: { output_filename_only: true }}
-      - { name: body, label: Body, widget: markdown }
+      - { name: email, label: Email, required: false }
+      - { name: avatar, label: Avatar, widget: image, media_library: { output_filename_only: true }, required: false}
+      - { name: body, label: Body, widget: markdown, required: false }
 
   - name: post
     label: Posts
@@ -79,8 +79,10 @@ collections:
         name: groups
         widget: "list"
         default: []
+        required: false
       - label: Album
         name: album
+        required: false
       - name: body
         label: Body
         widget: markdown
