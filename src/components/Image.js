@@ -27,7 +27,7 @@ const Wrapper = styled.div.attrs(
     },
 )`
     position: relative;
-    overflow: "hidden";
+    overflow: hidden;
     background-color: ${props => props.theme.color.extremelyLight};
 `;
 
