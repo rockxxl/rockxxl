@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-malevolence-self-supremacy/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/malevolence_selfsupremacy_800.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/malevolence_selfsupremacy_800.jpg
 ---
 Na vier lange jaren wachten, is Malevolence er terug met een splinternieuw, snoeihard album. Deze band bestaat al sinds 2010 en staat sindsdien alleen maar steviger in de schoenen, en dit bewijzen ze weeral eens met hun recenste plaat ‘Self Supremacy’.
 

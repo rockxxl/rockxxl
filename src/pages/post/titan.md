@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-titan/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/titan.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/titan.jpg
 ---
 **In 2014 zag het Mechelse Titan het levenslicht. Met (ex) leden van o.a. Heartfelt, Bourbon For Roses, Once Never Again, Reminders, Linchpin en Moker zijn deze jongens niet aan hun proefstuk toe. Na een split met Witness The Fall werd het tijd om deze heren eens uit te horen en spraken we met gitarist Dimitri.**
 

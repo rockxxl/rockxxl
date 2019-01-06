@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-mayday-parade-sunnyland/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/0yCZvsY.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/0yCZvsY.jpg
 ---
 ‘Sunnyland’ is alweer de zesde langspeler van de Amerikaanse indie/ emo band Mayday Parade. Het vorige album ‘Black Lines’ was een meer experimenteel album dat een ommekeer leek voor de band. Met ’Sunnyland’ zoeken ze echter terug het oude bekende op. Terug naar hun vertrouwde sound, al zoekt de band hier en daar toch een zijpad op.
 

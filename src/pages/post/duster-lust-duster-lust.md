@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-duster-lust-duster-lust/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_odik6bcaXZ1uncqs0_1280.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_odik6bcaXZ1uncqs0_1280.jpg
 ---
 In 2010 ligt de bakermat van het toenmalige Unveil the Beauty dat toen bestond uit Philip (drums, keyboards, grunts) en Heiko (bass, gitaar) Seibert. Het duo creëerde een aardig aantal nummers, maar de band werd pas compleet in 2014 toen Regina Beatrix Rumpel de twee bijstond als vocaliste. De band veranderde snel van naam, want een andere band het deze naam geclaimd. Er werd een twee bassist (Michél Greul) toegevoegd en Düster Lüst was geboren.
 

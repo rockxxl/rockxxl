@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-deez-nuts/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Deez-Nuts-Hardcore-Band-2017.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Deez-Nuts-Hardcore-Band-2017.jpg
 ---
 **Het Australische Deez Nuts weet sinds 2007 verschillende hardcore fans te plezieren met een aanstekelijk stukje muziek. Hoewel hun teksten over drank, drugs en feesten enige controversie wisten op te wekken, lijkt dit viertal tien jaar na hun ontstaan toch een andere insteek gevonden te hebben. Deez Nuts zakte af naar de Muziekodroom in Hasselt waar wij gingen praten met zanger en oprichter JJ Peters.**
 

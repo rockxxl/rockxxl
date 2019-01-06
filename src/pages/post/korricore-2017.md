@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-korricore-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17410334_1292729317441120_1627377882_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17410334_1292729317441120_1627377882_n.jpg
 ---
 **Korricore, een organisatie van jeugdhuis Korridor in Beerse, is een weerkerend event waar elke band die ergens 'core' in hun omschrijving heeft wel op het podium zou kunnen staan. In het verleden waren dit telkens al zeer geslaagde avonden. De laatste editie dateert ondertussen al van 10 maanden geleden. Hoog tijd voor een vervolg dus. Ook deze keer zouden ze ons weer heel wat lekkers voorschotelen. Deze avond stond dus al een tijdje met stip in onze agenda.**
 Openen voor een handvol mensen&#8230; elke band herkent dit wel. Vanavond was 'deze eer' weggelegd voor de gasten van **State Of Awakening**. De (toen nog) afwezigen hadden ongelijk. Deze band met roots in Oost- en West-Vlaanderen had er duidelijk zin in en maakte dit ook meteen duidelijk. Mooie melodieuze intermezzo's werden afgewisseld met knoerharde breakdowns en dito vocals. Metalcore as it should be. Een cover is altijd een goed idee als je op plaatsen speelt waar het grootste deel van het publiek niet echt vertrouwd is met je muziek. 'Bleeding' van 'Ignite' was daarvoor dan ook een schitterende keuze. Als je 'State Of Awakening' nog eens op een affiche ziet staan moet je zeker uit je kot komen. Ze zijn meer dan de moeite waard om te checken, al was het maar voor het groot enthousiasme van (vooral) frontman Tom Leroy.

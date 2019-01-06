@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-an-evening-with-knives-serrated/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/An-Evening-With-Knives-Serrated-front-high-res_preview.jpeg
+  https://res.cloudinary.com/rockxxl/image/upload/An-Evening-With-Knives-Serrated-front-high-res_preview.jpeg
 ---
 Eindhoven is de thuisbasis van veel rock/ metal fans en muzikanten. Ook An Evening With Knives is geen uitzondering op de regel. Na een eerste EP in 2015, kwam dit trio aanzetten met hun full length debuut ‘Serrated’. We krijgen zeven nummers voorgeschoteld die bijna allemaal de kaap van zes minuten overschrijden. De lengte van de nummers verklapt ook meteen in welk genre An Evening With Knives opereert: stoner metal, uiteraard.
 

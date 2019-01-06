@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/gogol-bordello-en-marky-ramone-op-genk-on-stage/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17155661_1467511603280221_144987833544613046_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17155661_1467511603280221_144987833544613046_n.jpg
 ---
 Het Genk On Stage festival in Genk liet weten dat niemand minder dan Gogol Bordello en Marky Ramone het festival zullen onveilig maken.
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-colors-dead-bleed-breath-of-a-ghost/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/colorsdeadbleedEP.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/colorsdeadbleedEP.jpg
 ---
 Colors Dead Bleed, de Belgisch-Nederlandse band die geen onbekende is bij RockXXL, komt aanzetten met hun nieuwe EP ‘Breath Of A Ghost. Colors Dead Bleed brengt op deze EP zes nummers met een aparte approach op hardcore. Colors Dead Bleed mixt hevige chugs met melodische meezingmomenten. Vooral opmerkelijk op deze plaat is het vocale werk, dat niet schreeuwerig en emotioneel klinkt zoals op veel melodische hardcoreplaten, maar eerder agressief en opgewekt.
 

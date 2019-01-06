@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/rabid-wolves-stopt-ermee/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/rabid.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/rabid.jpg
 ---
 Midden 2014 werd Rabid Wolves opgericht met leden van o.a. Violent City. Vandaag kondigde dit Limburge vijftal aan dat de band ermee ophoud. De reden is tijdgebrek met hun andere bands waaronder punkband Steele Justice.
 

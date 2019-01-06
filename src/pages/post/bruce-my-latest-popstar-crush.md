@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-bruce-my-latest-popstar-crush/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15078795_10153865213682397_1951453074503664656_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15078795_10153865213682397_1951453074503664656_n.jpg
 ---
 Bruce, een naam die voor de doordeweekse rockliefhebber niet echt een belletje doet rinkelen, maar voor de meer “underground” rockers misschien weer wel bekend in de oren klinkt. Begin november kwam dit trio aanzetten met hun gloednieuwe plaat ‘My Latest Popstar Crush’.
 

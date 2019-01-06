@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-charcoalcity-greyscale/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/CD-front.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/CD-front.jpg
 ---
 Het Oost-Vlaamse Charcoalcity zag het levenslicht in 2014 door jawel, enig lid Peter De Zutter. Het eerste album 'Greyscale' werd volledig ingespeeld door Peter en ook de artwork nam hij voor z'n rekening. Uiteraard wordt de industrial metal van Charcoalcity live bijgestaan door andere muzikanten. Een interessant project, maar net zoals het genre toch wel redelijk gewaagd.
 

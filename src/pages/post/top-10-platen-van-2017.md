@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/top-10-platen-van-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/logo.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/logo.jpg
 ---
 **Seppe Van Ael:**
 

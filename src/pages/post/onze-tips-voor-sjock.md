@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-sjock/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/sjokckk.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/sjokckk.jpg
 ---
 **7, 8 en 9 juli wordt de Poeyelhei in Gierle weer omgetoverd tot het jaarlijkse Sjock Festival. Ondertussen viert het festival z'n 42ste verjaardag met niemand minder dan Bad Religion als top of the bill. Ook het nodige aantal Belgische artiesten is dit jaar aanzienlijk hoog. Meer is er niet nodig voor een gezellig weekend vol punk, rock n roll. Wij kozen tien bands uit de affiche en zette deze even op een rijtje.**
 **The Living End**

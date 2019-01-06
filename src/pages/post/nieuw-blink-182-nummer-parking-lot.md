@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-blink-182-nummer-parking-lot/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Blink-182.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Blink-182.jpg
 ---
 Blink 182 kwam aanzetten met het nummer 'Parking Lot' en liet daarbij weten dat ze een deluxe editie zullen uitbrengen van hun plaat 'California' met 11 gloednieuwe nummers.

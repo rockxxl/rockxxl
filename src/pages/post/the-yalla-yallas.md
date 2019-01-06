@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-the-yalla-yallas/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18491424_1846964091984156_2060356962502361504_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18491424_1846964091984156_2060356962502361504_o.jpg
 ---
 **De Engelse punkband The Yalla Yallas komt binnenkort aanzetten met hun nieuwe album 'Medusa'. Na een aantal jaar stilte en een aantal tours door de lage landen gingen wij praten met frontman Rob Galloway.**
 **Het eerste The Yalla Yallas album kwam uit in 2009, het tweede in 2010. Hoe komt het dat er nu zeven jaar gewacht werd voor een nieuw album?**

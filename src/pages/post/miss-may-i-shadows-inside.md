@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-miss-may-i-shadows-inside/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/1bd836c104fc2c03306b5305bc4dc7f6.1000x1000x1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/1bd836c104fc2c03306b5305bc4dc7f6.1000x1000x1.jpg
 ---
 Al blijft de tijd dit jaar soms stilstaan door de recente gebeurtenissen met de aanslagen in de muziekindustrie, er zijn altijd die lichtpuntjes die de hemel weer doen opklaren. 2017 is een jaar waarvan we de muziekgoden mogen bedanken! Het regent nieuwe albums in de core scene. Bands als Northlane, While She Sleeps, Deez Nuts en Emmure kwamen al met een nieuw, steengoed album, en ook Miss May I kan aan dit lijstje toegevoegd worden. Het nieuwe uithangbord  van deze vijf koppige band uit Ohio (US) is een plaat om zeker niet te missen. De band bestaat dit jaar tien jaar en dat laten ze er niet onopgemerkt voorbij gaan. Het nieuwe, inmiddels  al zesde album 'Shadows Inside' is een bekroning voor het harde werk van de voorbije jaren waarbij ze hun beste kwaliteiten en muzikale glorie naar boven laten komen zoals nooit eerder.
   

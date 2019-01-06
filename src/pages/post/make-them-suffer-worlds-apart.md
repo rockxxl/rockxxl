@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-make-them-suffer-worlds-apart/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/makethemsufferworldsapart.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/makethemsufferworldsapart.jpg
 ---
 Make Them Suffer bracht op 28 juli hun derde langspeler ‘Worlds Apart’ uit. Deze Australische heavyweights hebben doorheen de jaren serieus aan hun sound gesleuteld, waardoor er van hun sound circa 2010 nog slechts weinig overblijft. In 2012 brak Make Them Suffer door met ‘Neverbloom’, tevens een van mijn favoriete albums uit 2012. Symfonische deathcore die interessant genoeg klinkt om het genre meer diepte te geven en melodie en brutaliteit perfect wist te mixen. Opvolger ‘Old Souls’ focuste zich op een toegankelijkere sound, en met succes. Hun sound sloeg aan en naast hun goede songwriting had de band er ook plots elementen bij die een publiek bijna verplichten om te participeren. Dit album neigde ook al veel meer naar metalcore dan naar deathcore. ‘Worlds Apart’ doet er nog een schepje bovenop en klinkt noch als ‘Old Souls’, noch als ‘Neverbloom’, maar heeft een heel eigen en moderne sound.
 

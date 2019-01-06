@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-rocket-another-reason-not-to-fear-the-sky/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/29597366_10155978629940700_3630984455449521524_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/29597366_10155978629940700_3630984455449521524_n.jpg
 ---
 Na drie jaar radiostilte is de pop punk band The Rocket weer helemaal terug. In november werd op hun facebookpagina ‘Don’t Call It A Comeback’ van Motion City Soundtrack gepost en vanaf dan ging het allemaal heel snel. Niet veel later begon The Rocket terug op te treden en werd ook hun nieuwe album ‘Another Reason Not To Fear The Sky’ aangekondigd. De sound van The Rocket is hetzelfde gebleven: pop punk met synths en originele zanger Tom De Ridder heeft de vocals terug voor z’n rekening genomen. Een succesformule voor een comeback lijkt mij.
 

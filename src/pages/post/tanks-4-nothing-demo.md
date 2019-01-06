@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-tanks-4-nothing-demo/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_ogbs6fJEgr1uncqs0_500.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_ogbs6fJEgr1uncqs0_500.jpg
 ---
 Het is ondertussen al weer een jaar geleden dat Tanks 4 Nothing het levenslicht zag. We zijn altijd benieuwd naar de eerste nummers die bands vastzetten op CD of dergelijke, en ook dit viertal uit Retie kwam aanzetten met hun eerste album in vorm van een zes nummer tellende demo.
 

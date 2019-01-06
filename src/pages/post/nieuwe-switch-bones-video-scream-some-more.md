@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-switch-bones-video-scream-some-more/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/19599022_651776691686398_4856679851817666513_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/19599022_651776691686398_4856679851817666513_n.jpg
 ---
 Het alternatieve rocktrio Switch Bones uit het Nederlandse Dongen komt op 28 september aanzetten met hun nieuwe album '_Scream Some More_'. Dit zal samenvallen met een reeks PopRonde shows die ook in dezelfde periode plaats zullen vinden. Als voorsmaakje bracht Switch Bones een videoclip uit van de titeltrack van het album.

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-switch-bones-machine-in-me/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/SwitchBones-cover-300x300.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/SwitchBones-cover-300x300.jpg
 ---
 Het Nederlandse trio Switch Bones, bestaande uit leden van o.a. Tarantino, Undeclinable Ambascade en Bluefish, gooide hun stijl over een andere boeg en ging op zoek naar een sound gelijkaardig aan Queens Of The Stone Age en Nirvana. In hun opzet geslaagd, speelde Switch Bones al op enkele zeer aantrekkelijke podia. Met hun eerste EP ‘Machine In Me’ geven ze alvast een voorsmaakje van het begin van iets moois.
 

@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/exclusief-arson-streamt-eerste-ep-lets-start-a-fire/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/201711-bandpicture.png
+  https://res.cloudinary.com/rockxxl/image/upload/201711-bandpicture.png
 ---
 &#8220;I'm on fire. First day of the new empire.&#8221; waren de eerste woorden van de Gentse band Arson toen ze zich in november vorig jaar voorstelden aan het grote publiek. We zijn vijf maanden verder en schuiven bij aan tafel terwijl ze ons hun eerste wapenfeit voorschotelen. De combinatie van leden uit verschillende Gentse bands (Soul Grip, Atlas en Anti Icon) smijt het over een andere boeg en brengt met hun EP 'Let's Start a Fire' een harde mix van rock 'n roll, punk, hardcore en southern rock&#8230; in maatpak.
 

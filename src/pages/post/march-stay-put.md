@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-march-stay-put/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_o8467b05og1uncqs0_540.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_o8467b05og1uncqs0_540.jpg
 ---
 Het is ondertussen al weer 2 jaar geleden dat ‘In The Air’ uitkwam. Met deze EP zette het Nederlandse March de eerste stappen in de wereld van de punkrock. Ondertussen heeft deze vierkoppige band er een gitarist bij en komen ze aanzetten met hun debuutplaat: Stay Put.
 

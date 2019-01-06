@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-curse-of-millhaven-plagues/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/20369193_10212476602182430_6310768851375429851_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/20369193_10212476602182430_6310768851375429851_o.jpg
 ---
 The Curse Of Millhaven, dat ontstond uit de restanten van Fatal Recoil en In Chains, bracht onlangs hun nieuwe EP ‘Plagues’ uit. Ze speelden dit jaar al samen met deathcoregrootmeesters Carnifex en spelen deze zomer op het machtige Ieperfest. Dit melodic death metalgezelschap, tevens zelf uit Ieper, bracht ook in 2014 al conceptalbum ‘Vestibule Of Hell’ uit, dat vol zat met snelle riffs, snelle drums en alles wat je voor de rest van een band in dit genre verwacht. Een grote stijlswitch zit er voor deze band niet in, ze blijven gewoon lekker verder doen met wat ze bezig zijn. En hoe.
   

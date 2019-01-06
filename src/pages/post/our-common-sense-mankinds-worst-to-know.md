@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-our-common-sense-mankinds-worst-to-know/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/OCS-Album-art-Front-300x270.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/OCS-Album-art-Front-300x270.jpg
 ---
 Om eerlijk te zijn, hadden we nog nooit gehoord van Our Common Sense. Een aantal maanden geleden zagen we ze echter verschillende keren op affiches verschijnen. Hun eerste EP ‘Mankind’s Worst To Know’ zal hier wel ergens voor tussen zitten. Na wat research en met de cd in ons bezit, wordt het eens tijd om te kijken wat dit Gentse vijftal te bieden heeft.
 

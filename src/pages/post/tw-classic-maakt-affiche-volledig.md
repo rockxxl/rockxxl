@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/tw-classic-maakt-affiche-volledig/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17309521_10154446582345687_1508834162821123107_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17309521_10154446582345687_1508834162821123107_n.jpg
 ---
 Guns N Roses werd onlangs aangekondigd voor TW Classic. Vandaag maakte de organisatie de volledige affiche volledig. **The Pretenders**, **Wolfmother**, **Channel Zero** en **Fleddy Melculy** werden aan de affiche toegevoegd.
 

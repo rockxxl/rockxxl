@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-antwerp-metal-fest-2017-zondag/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/antwerpppp.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/antwerpppp.jpg
 ---
 **Het Bouckenborghpark in Merksem werd dit jaar voor de ondertussen vijfde keer omgetoverd tot Antwerp Metal Fest. Het doet deugd om festivals als deze elk jaar meer en meer te zien groeien. Bovenaan de poster stonden dit jaar dan ook niemand minder dan Sepultura en Death Angel. Wij brachten op zondag een bezoek aan het festival en keerden 's avonds terug met pijn in het hart, maar vooral in onze nek van het headbangen op een hele hoop fantastische acts.**
 Eén van de winnaars van de Antwerp Metal Fest contest was The Curse of Millhaven. Tot overmaat van ramp moest dit gezelschap hun show last minute cancelen. De Antwerpse rockband **Rebel’s End** sprong in en zorgde meteen voor knal van formaat. De muziek van dit viertal weet zeker stevig te rocken, maar het deed ons anderzijds wel deugd om te starten met een iets minder hevige band. Het publiek moest nog wat wakker worden, en hoewel de marquee niet helemaal gevuld was, was er toch aardig wat volk komen opdagen voor Rebel’s End, en verdiend!

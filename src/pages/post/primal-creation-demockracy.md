@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-primal-creation-demockracy/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18893328_1693615144001876_4077818920571497459_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18893328_1693615144001876_4077818920571497459_n.jpg
 ---
 Belgische thrash metal band Primal Creation bracht reeds hun eerste full-length album 'Demockracy' uit. Hun mengeling van old en new thrash was al eerder te horen op hun EP genaamd 'The Struggle' uit 2013. De mannen uit het Meetjesland halen hun muzikale inspiratie bij bands zoals Megadeth, Testament, Kreator en Machine Head, dat beloofd.
 

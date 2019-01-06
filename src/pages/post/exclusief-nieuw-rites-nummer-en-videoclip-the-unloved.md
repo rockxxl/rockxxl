@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/exclusief-nieuw-rites-nummer-en-videoclip-the-unloved/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18076991_1348176825271140_8164466242720883800_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18076991_1348176825271140_8164466242720883800_o.jpg
 ---
 Het Nederlandse **Rites** brengt volgende maand hun nieuwe EP 'Misery Is Company' uit. Deze vijfkoppige band ragt lekker door en brengt high energy hardcore met een punkrock-twist. '**Misery Is Company**' is de derde release, na twee eerdere, succesvolle EP's en talloze optredens in binnen- en buitenland. ‘Misery Is Company’ zal begin November uitkomen op drie verschillende kleuren 7&#8243; vinyl via SmithsFoodGroup DIY (NL) en Cult Culture (UK). De eerste single ‘The Unloved’ is hier voor het eerst in België te beluisteren.
 

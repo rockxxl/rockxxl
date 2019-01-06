@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-janez-detd-cde-singer-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Naamloos-2.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Naamloos-2.jpg
 ---
 **De Singer, een zaal in Rijkevorsel die vooral jazz en pop programmeert vulde zes april voor het eerst, als we hun website mogen geloven toch, een avond vol punkrock. Niemand minder dan Janez Detd. deed een try-out van hun nieuwe 'Punk Rock Highschool' show. De show bevat 17 nummers om precies te zijn, stuk voor stuk pareltjes uit de jaren 90.**
 Support your local scene, dat werd wel heel letterlijk genomen. Openen deed de avond met een gloednieuwe band uit Rijkevorsel zelf. Het jonge geweld van **Pulled Aside** mocht de avond op gang trappen voor de heren van Janez Detd.. Het geluid in de zaal was in het begin niet optimaal maar dat hield dit vijftal niet tegen. Pulled Aside speelde voornamelijk poppunk al had deze band wel nummers die net wat steviger uit de hoek kwamen. De verrassing van de avond was ook meteen hun cover van 'We Are Never Ever Getting Back Together' van Taylor Swift, ook voor ons een absolute guilty pleasure. Pulled Aside speelde een goeie set die wel kan tellen als opener. Neem het van ons aan, deze band gaat het nog ver schoppen in ons kleine Belgenlandje.

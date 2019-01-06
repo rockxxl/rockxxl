@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-chelsea-grin-de-klinker-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15267521_1148613011886525_3477895762962650862_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15267521_1148613011886525_3477895762962650862_n.jpg
 ---
 De voorbeschouwing van deze show met meer informatie over de bands kan u hier vinden: http://www.rockxxl.com/news/voorbeschouwing-chelsea-grin-de-klinker-2017/
 

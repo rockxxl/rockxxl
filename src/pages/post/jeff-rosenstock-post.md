@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-jeff-rosenstock-post/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Jeff-Rosenstock-POST-1515513538-640x640.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Jeff-Rosenstock-POST-1515513538-640x640.jpg
 ---
 Post- is het alweer derde album van Jeff Rosenstock.  Deze werd out of the blue beschikbaar gesteld op nieuwjaarsdag op bandcamp en je kon zelf de prijs van je download bepalen. Als dat geen nieuwjaarcadeau is! Er zijn een hele hoop verschillen met zijn vorige albums, maar geen nood! Jeff is z’n eigen chaotische maar sympathieke zelf gebleven.
 

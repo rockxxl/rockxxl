@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-in-clear-sight-dance-of-the-horae/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14322523_1063192187083117_3717263511045170225_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14322523_1063192187083117_3717263511045170225_n.jpg
 ---
 In Augustus begon de facebookpagina van het Antwerpse In Clear Sight stilaan terug tot leven te komen. Na een pauze van twee jaar is de band dan ook weer helemaal terug van weggeweest. Niet alleen een gloednieuwe line up en shows maar ook een nieuwe EP: Dance of the Horae. Benieuwd of ze met deze het succes van hun voorganger ‘Fuck Fairytales, This Is Reality’ uit 2011 kunnen evenaren.
 

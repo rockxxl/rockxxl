@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-clckws-ep-release-show-2018/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/26805234_2079013462374402_7258324155669346647_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/26805234_2079013462374402_7258324155669346647_n.jpg
 ---
 **Zaterdag 17 februari was jeugdhuis Babylon in Westmalle het decor voor de release party van de debuut-EP van CLCKWS. Voor de gelegenheid was het podium wat extra ingekleed met zwarte doeken en extra belichting. Uiteraard is dit niet het belangrijkste, maar het geeft het geheel toch iets meer uitstraling. Met wat rustige jazz op de achtergrond is het wachten tot de eerste band op het podium stapt.**
 

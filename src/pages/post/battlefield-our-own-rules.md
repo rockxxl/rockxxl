@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-battlefield-our-own-rules/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/28379067_839681376241601_5335562010900094375_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/28379067_839681376241601_5335562010900094375_n.jpg
 ---
 Hoewel punk zich steeds blijft heruitvinden en bands zoals Funeral Dress al meer als dertig jaar internationaal verschillende zalen platspelen, blijft het hele Oi-genre in België toch redelijk zeldzaam. Een uitzondering op de regel is Battlefield. Dit Kempische vijftal nam na enkele jaren de gitaren weer op en brachten een eerste EP (2016) uit die al snel een opvolger kreeg: Our Own Rules.
 

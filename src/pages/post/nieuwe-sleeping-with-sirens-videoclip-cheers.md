@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-sleeping-with-sirens-videoclip-cheers/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/sleeping-with.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/sleeping-with.jpg
 ---
 22 september komt **Sleeping With Sirens** aanzetten met hun nieuwe album Gossip. In afwachtig hiervan bracht de band een videoclip uit van het nummer '**Cheers**'.

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-10-rogue-serpentine/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17862471_1682105548473530_130309053145768066_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17862471_1682105548473530_130309053145768066_n.jpg
 ---
 Wie kent er Idool winnaar Peter Evrard nog? Na zanger te zijn geweest van verschillende bands en een solo album te hebben uitgebracht besloot hij niet zo lang na Idool om muziek even aan de zijlijn te zetten. In 2014 ontstond het gloednieuwe '10 Rogue' met jawel, Peter aan de micro. Een aantal singles en videoclips verschenen al op internet maar hun debuutplaat 'Serpentine' is nu ook uit. Benieuwd wat dit vijftal 13 nummers lang voor ons in petto heeft.
 

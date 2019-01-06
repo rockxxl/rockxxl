@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-videoclip-van-steele-justice-send-in-the-clowns/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/27024131_1825400134424889_8794117068874618089_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/27024131_1825400134424889_8794117068874618089_o.jpg
 ---
 **Steele Justice** bracht zopas hun eerste plaat 'Neonlight Blues' uit. Vandaag kwam de band aanzetten met een videoclip voor hun tweede single '**Send In The Clowns**'.

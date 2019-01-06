@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-chalice/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/chalice.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/chalice.jpg
 ---
 ** ****Al twintig jaar timmert het Kortrijkse Chalice naar een weg door de Belgische metal scene. Dit ging echter niet altijd van een leien dakje. Leden kwamen en gingen, wat zich natuurlijk uit in heel wat vertraging. Ondertussen is de band weer helemaal terug van nooit weggeweest met een nieuwe plaat: ‘Ashes Of Hope’. Wij gingen aan tafel zitten met bassist Chris Lagrange en leerde de binnenkant van de band wat beter kennen.** 
 

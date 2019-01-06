@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-arson/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/fqfqq.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/fqfqq.jpg
 ---
 **De Gentse punk, rock 'n' roll, hardcore band Arson is een band met zicht op de toekomst. Dat bewijst hun eerste EP 'Let's Start A Fire'. Deze EP is een mooi uitgewerkt concept dat tot in de puntjes is verzorgd. Arson bestaat nog geen jaar, maar de band opent binnenkort de main stage van Jera On Air op zaterdag. Wij stelden wat vragen aan gitarist Rien en bassist Fabian en kregen daarmee een mooi zicht op de band.**
 

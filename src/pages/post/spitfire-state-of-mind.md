@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-spitfire-state-of-mind/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/cover-spitfire-state-of-mind-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/cover-spitfire-state-of-mind-1.jpg
 ---
 Het Antwerpse trio van Spitfire wist ons al eerder te verbazen met hun eerste self-titled EP. Deze groove rock/ nu metal band kwam ondertussen aanzetten met hun gloednieuwe debuutplaat 'State of Mind'. We keken al even uit naar State of Mind, maar worden onze verwachtingen ook ingevuld?
 

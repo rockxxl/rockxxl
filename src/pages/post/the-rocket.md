@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-the-rocket/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/31936547_10156481851954940_4977021880859885568_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/31936547_10156481851954940_4977021880859885568_n.jpg
 ---
 **Na drie jaar radiostilte begon de facebookpagina van The Rocket terug te leven. En jawel hoor, deze Belgische pop punk band plande een comeback. Niet veel later liet The Rocket hun gloednieuwe album ‘Another Reason Not To Fear The Sky’ op de wereld los. Wij bestempelden dit kleine kunstwerkje eerder al als de soundtrack van de zomer. Hoog tijd om eens een praatje te maken met oprichter en zanger Tom.**
 **We gaan even terug naar een aantal jaar geleden. Waar liep het destijds mis dat The Rocket ermee ophield?**

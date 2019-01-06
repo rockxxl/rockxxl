@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-descendents/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/65-og.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/65-og.jpg
 ---
 **De Amerikaanse punkrockband Descendents bestaat ondertussen al weer 40 jaar en wordt door velen gezien als de grondlegger van de pop punk. In 2016 kwam hun eerste album in 12 jaar ‘Hypercaffium Spazzinate’ uit. Op Sjock Festival ontmoette wij zanger Milo voor een gesprek en iets later nam ook drummer Bill deel.**
 

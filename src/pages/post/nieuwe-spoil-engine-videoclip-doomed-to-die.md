@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-spoil-engine-videoclip-doomed-to-die/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/n-spoil-engine-599-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/n-spoil-engine-599-1.jpg
 ---
 Op 20 mei komt het nieuwe Spoil Engine album 'Stormsleeper' uit. De band liet vandaag een videoclip van het nummer 'Doomed To Die' op de wereld los. Dit is eveneens het eerste full album met zangeres Iris aan de microfoon.

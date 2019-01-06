@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-casey/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/C_d-oI3XoAEDfaH.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/C_d-oI3XoAEDfaH.jpg
 ---
 **Op 18 april gingen we praten met Tom van Casey op de Heaven and Hell tour in Antwerpen. We spraken met hem over hun evolutie als band en het tourleven.**
 

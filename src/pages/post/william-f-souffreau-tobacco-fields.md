@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-william-f-souffreau-tobacco-fields/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/R-11095842-1509790117-7497.jpeg.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/R-11095842-1509790117-7497.jpeg.jpg
 ---
 William F. Souffreau, nog nooit van gehoord? Wat als ik Irish Coffee laat vallen, de hardrockband uit Aalst die al sinds 1970 meegaat. Dat zal bij velen al wel een belletje doen rinkelen. Met zijn eerste soloplaat ‘Tobacco Fields’ gooit hij zijn muziek over een andere boeg en focust hij meer op blues. Klaar voor een flashback naar de jaren 60,70 en 80?
 

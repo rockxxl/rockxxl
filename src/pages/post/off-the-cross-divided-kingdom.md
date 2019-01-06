@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-off-the-cross-divided-kingdom/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15068942_1474952005866176_1836685400660767773_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15068942_1474952005866176_1836685400660767773_o.jpg
 ---
 Na een kleine line-upwissel en het inslaan van een andere muzikale koers, veranderde het Antwerpse This Kid zijn naam naar Off The Cross. Tot onze grote verbazing verscheen Off The Cross ook op de affiche van Groezrock, waar ze hun allereerste show speelden. Vorige week verscheen ‘Divided Kingdom’. Dit album is de eerste langspeler, of beter gezegd, gewoonweg het eerste wapenfeit van dit viertal. We waren op zich al overtuigd door de machtige videoclip van het nummer ‘The Final Adjustment’, maar de vraag is of Off The Cross dit niveau gedurende de hele plaat kan blijven behouden.
 

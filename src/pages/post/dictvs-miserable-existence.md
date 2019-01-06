@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-dictvs-miserable-existence/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/23167577_1339235609535575_1243628879844791256_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/23167577_1339235609535575_1243628879844791256_n.jpg
 ---
 De Antwerpse underground is sinds kort weer een metal band rijker. Met hun gloednieuwe EP ‘Miserable Existence’ was het ook voor ons een eerste kennismaking met Dictvs. Het visuele van de albumcover liegt er niet om: verwacht een allegaartje van alles wat stevig is.
 

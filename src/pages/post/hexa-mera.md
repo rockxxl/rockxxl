@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-hexa-mera/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17887662_10155985273773032_187117082_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17887662_10155985273773032_187117082_o.jpg
 ---
 **Het Mechelse Hexa Mera kwam zopas aanzetten met hun nieuwe album 'Enlightenment'. Deze werd door de pers en ook door ons zeer goed onthaalt. De band is qua sound nog meer gegroeid als voorheen en ook met een nummer als 'Union' heeft de band het grotere publiek uitgebreid kunnen verrassen. Als kers op de taart speelt Hexa Mera dit jaar voor de tweede maal op Graspop. Meer is er niet nodig om deze band een aantal vragen te stellen.**
 **Hexa Mera is terug met een gloednieuw album ‘Enlightenment’. Vanwaar deze titel?**

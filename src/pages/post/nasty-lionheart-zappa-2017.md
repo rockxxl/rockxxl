@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/live-review-nasty-lionheart-zappa-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/20374373_1671910866174082_6278264063962117000_n-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/20374373_1671910866174082_6278264063962117000_n-1.jpg
 ---
 **They’re back, back from the west coast! Vanavond spelen Lionheart samen met Nasty in de Zappa in Antwerpen. Hierbij hebben ze support van Get The Shot en Absolve. Get ready for a night you won’t forget!**
 

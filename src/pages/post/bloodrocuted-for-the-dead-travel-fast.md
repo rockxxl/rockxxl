@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-bloodrocuted-for-the-dead-travel-fast/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/bllodrocuted-brent.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/bllodrocuted-brent.jpg
 ---
 Het vierkoppige Bloodrocuted uit het Brusselse lanceert hun nieuwe plaat ‘For The Dead Travel Fast’ in maart 2017 de wereld in, na eerder al twee langspelers ‘Doomed To Annihilation’ en ‘Disaster Strikes Back’ en EP ‘Profanity’ te hebben uitgebracht. Bloodrocuted brengt ons thrash metal met heel wat death metal invloeden die mooi tot een geheel blenden. De invloeden van death metal worden album per album prominenter, want op hun debuutplaat klonken ze nog als een echte thrashmetalband. We zijn benieuwd wat deze plaat onderscheidt van de rest, want deze jongens hebben in het verleden al bewezen dat ze weten waar ze mee bezig zijn. De line-up van de band mag dan wat gewijzigd zijn en er zijn een pak nieuwe invloeden, maar de band kan zo enkel maar hun stijl breder en breder maken.
 

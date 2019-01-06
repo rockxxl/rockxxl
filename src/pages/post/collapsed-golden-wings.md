@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-collapsed-golden-wings/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3259222318_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3259222318_10.jpg
 ---
 Collapsed, de Hoogstraatse band die ontstond uit de restanten van onder andere Trail Of Hope en Point Of View, is een band die ons rauwe crossover brengt op hun debuut-EP ‘Golden Wings’.
 

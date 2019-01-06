@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-steele-justice-that-sure-escalated/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3851154321_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3851154321_10.jpg
 ---
 De Limburgse hardcorescene kent een hoop bands zoals Rabid Wolves, Get Out en het ondertussen opgedoekte Not Allowed en Violent City. Een fusie van deze vier bands en een voorliefde voor punkrock zorgde voor het ontstaan van Steele Justice. Met hun debuut EP ‘… That Sure Escalated Quickly’ worden de eerste klappen uitgedeeld.
 

@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-rites/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/26732566_10215439493568884_1558607338_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/26732566_10215439493568884_1558607338_o.jpg
 ---
 **De Nederlandse hardcore punkband Rites bracht zopas hun alweer derde EP Misery Is Company uit. Net iets harder en net iets bozer als voorheen, al weet de band nog steeds veel aandacht te schenken aan melodie. Met steeds meer optredens in de buurlanden en geopend te hebben voor bands als o.a. H2o werd het tijd om eens wat vragen te stellen aan dit vijftal. Wij**** spraken met zangeres Louisa, drummer Rick en gitarist Nous.**
 **Misery Is Company is jullie derde EP. Is het een doordachte keuze om steeds EP’s uit te brengen of is er een langspeler op komst?** 

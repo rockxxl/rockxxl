@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/metaldag-lokerse-feesten-volledig/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg
 ---
 Op vijf augustus plant de Lokerse Feesten weer hun jaarlijkse metaldag. Naast Gojira, Steel Panther, Hatebreed en Brides Of Lucifer zijn nu ook de drie laatste namen bekend gemaakt: Judas Priest, At The Gates en Diablo Blvd zullen de line-up vervolledigen.
 

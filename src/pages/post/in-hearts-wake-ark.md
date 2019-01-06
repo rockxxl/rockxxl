@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-in-hearts-wake-ark/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/3c5fc4d5-fea3-494f-8707-cdec4d7be8d0.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/3c5fc4d5-fea3-494f-8707-cdec4d7be8d0.jpg
 ---
 Één van de meest originele bands in het metalcore genre moet wel In Hearts Wake zijn. Het is nog enkele dagen wachten voor het nieuwe album, maar wij namen alvast de tijd om de tot nog toe uitgebrachte nummers te beluisteren en het album al een voorzichtige score te geven.
   

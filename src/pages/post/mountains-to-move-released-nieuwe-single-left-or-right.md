@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/mountains-to-move-released-nieuwe-single-left-or-right/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15625661_749010465252424_279997441546410488_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15625661_749010465252424_279997441546410488_o.jpg
 ---
 De Kempische emo punkband Mountains To Move bracht ondertussen drie videoclips uit van nieuwe nummers. Met 'Left Or Right' doet de band er nog een vierde bij. Concrete info over een album is er nog niet, maar lang zal het ongetwijfeld niet meer duren. 'Left Or Right' wordt uitgebracht door niemand minder dan Red Bull Music.
 

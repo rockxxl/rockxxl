@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-nihilism-beyond-redemption/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/12510432_935452166508365_6117599033338345445_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/12510432_935452166508365_6117599033338345445_n.jpg
 ---
 De Franse deathmetalband Nihilism bracht op 28 oktober hun recentste album ‘Beyond Redemption’ uit. Frankrijk bracht ons al vaak al heel wat extreme bands, denk bijvoorbeeld aan Gojira, Benighted, Gorod en Symbiosis, maar deze Nihilism kunnen we, zeker na dit album, ook gerust in het lijstje van Franse grootmachten plaatsen. Minder bekend dan de voorgaande zijn ze wel, maar daarom niet minder stevig.
 

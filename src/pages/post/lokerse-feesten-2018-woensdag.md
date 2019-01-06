@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-lokerse-feesten-2018-woensdag/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/2470fest.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/2470fest.jpg
 ---
 **Voor het tweede jaar op rij organiseerde de Lokerse Feesten een dag vol met punkrock. Eén ding is zeker: 'punk's not dead'! Dat bewezen enkele punkrock grootheden op de Grote Kaai in Lokeren, maar ook een nieuwe generatie staat klaar om de vlag over te nemen. Een mooie mix die de woensdag van de Lokerse Feesten maakte tot een heus feest vol met gitaren en sing-alongs.**
 De avond werd op gang getrapt door het **The Living End**. Het festivalterrein was nog maar voor de helft gevuld, maar de afwezigen hadden dik ongelijk. Dit trio uit Melbourne, Australië brengt psychobilly, wat een fijne mix is van old-school punkrock en rockabilly. De band had er zin in en dat ze er een feest van wilde maken werd al snel duidelijk toen het publiek bij het begin werd aangemaand om dichterbij te komen. Ze kwamen niet voor niets van de andere kant van de wereld. Ondanks de pogingen om mee te klappen en mee te zingen bleef het publiek er eerder rustig onder. Deze band is bij het grote publiek niet echt bekend wat volgens ons toch een jammere zaak is. Naast de in het oog springende grote contrabas is deze band fijn om naar te kijken. Volgende maand brengen ze hun achtste studioalbum uit. Hopelijk zien we ze volgend jaar op één of ander Vlaams podium terug.

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-dune-rats-the-kids-will-know-its-bullshit/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/THE-KIDS-WILL-KNOW-ITS-BULLSHIT_FINAL-ARTWORK-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/THE-KIDS-WILL-KNOW-ITS-BULLSHIT_FINAL-ARTWORK-1.jpg
 ---
 Een jaar voor de release van hun nieuwste album 'The Kids Will Know It's Bullshit' kwamen we het nummer 'Bullshit' van het Australische Dune Rats tegen op youtube. 'Bullshit' ging verloren in de tijd maar de vreugde was groot toen we 'The Kids Will Know It's Bullshit' een jaar later in onze bus aantroffen. Dune Rats wordt ook wel het Australische Fidlar genoemd en daar kunnen we ons zeker in vinden. Dus, petje op, een frisse pint in je hand en je bent helemaal klaar voor een uitstekend stoner-pop plaatje afkomstig uit het verre, verre Australië.
 

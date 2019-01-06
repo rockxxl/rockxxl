@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-band-waves-of-decay/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/waves-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/waves-1.jpg
 ---
 België is weer een metalband rijker. De leden van Last Star Down, Hope Erodes en Inferior bundelde hun krachten en zo werd Waves of Decay geboren. Deze band speelt een mengeling van o.a. deathmetal, heavymetal en industrial. Als kers op de taart liet de band weten dat hun eerste album ‘Cyclopotic’ binnen enkele weken wordt uitgebracht.
 

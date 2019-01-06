@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-locus-control-liggur/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18222008_1397621280277099_3141577933078844168_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18222008_1397621280277099_3141577933078844168_n.jpg
 ---
 De Brugse band Locus Control bracht in 2016 hun nieuwe album “Liggur” uit. Eerder hadden ze al succes met hun full-length album “Attavita” (2013) en de mini-CD “287” (2010). Speciaal aan deze band is dat ze (momenteel) maar met drieën zijn en compleet instrumentele muziek maken, wat dus voor een extra uitdaging zorgt.
   

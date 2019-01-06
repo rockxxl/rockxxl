@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-avatar-avatar-country/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Avatar_AvatarCountry_3000sm-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Avatar_AvatarCountry_3000sm-1.jpg
 ---
 Als er een band is die de laatste jaren is blijven groeien en meer en meer zieltjes wist te veroveren is het Avatar wel. Dit Zweedse gezelschap kwam aanzetten met hun nieuwe album ‘Avatar Country’. Net zoals voorganger ‘Feathers & Flesh’ is dit album ook weer een conceptplaat geworden. Het album gaat over de koning van Avatar country. Het woord ‘king’ is zelfs in alle tien titels verwerkt. Klaar voor een epische reis door Avatar land?!
 

@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/cancel-en-nieuwe-naam-voor-groezrock/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/dde540d3f6382832943fb53d357bbec8.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/dde540d3f6382832943fb53d357bbec8.jpg
 ---
 Slecht nieuws voor de old school hardcore fans die aanwezig zullen zijn op Groezrock. Turning Point heeft hun show moeten cancellen wegens een slechte gezondheid van hun drummer. Maar er is ook goed nieuws. De organisatie liet weten dat Brutality Will Prevail zal inspringen voor Turning Point.
 

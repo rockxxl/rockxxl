@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-hibakusha-incarnation/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Final-Cover-Art.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Final-Cover-Art.jpg
 ---
 Onze Noorderburen in Hibakusha (Japans woord voor de overlevenden van de ramp in Hiroshima) zijn als band gevormd in 2012. Na de komst van vocalist Twan in 2013 is deze groovemetal band beginnen werken aan hun debuut-EP 'Incarnation', die onder eigen beheer uitkwam in 2015. Dankzij deze EP hebben ze al veel succes geboekt en speelden ze shows en festivals doorheen Nederland en Duitsland. Wij namen de tijd om deze EP aandachtig te beluisteren.
 

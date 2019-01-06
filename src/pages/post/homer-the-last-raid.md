@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-homer-the-last-raid/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/hommeerr.png
+  https://res.cloudinary.com/rockxxl/image/upload/hommeerr.png
 ---
 Aan alle mooie liedjes komt een eind. Homer, één van Belgisch meest toonaangevende hardcore, punk en rock bands is niet meer. Of het is te zeggen: 24 februari doet de band hun laatste optreden in de Klinker Club in Aarschot. Als afscheidscadeau bracht de band nog een EP uit die de naam ‘The Last Raid’ heeft gekregen. Ook bij hun allerlaatste drie nummers doet Homer wat ze altijd al hebben gedaan: afstappen van de standaard.
 

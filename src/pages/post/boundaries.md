@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-boundaries/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/26172407_1767226799963898_2551281455828945907_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/26172407_1767226799963898_2551281455828945907_o.jpg
 ---
 **Wij hadden nog niet gehoord van het Canadese Boundaries voor dat ze op de affiche van de ‘You’re Part Of This Tour’ verschenen. Een eerste tour doen met bands als Deez Nuts en Trash Talk is een kans die niet voor elke band is weggelegd. Met hun eerste plaat ‘Quarter Life Crisis’ hebben ze ons alvast kunnen overtuigen. Wij spraken in de Muziekodroom in Hasselt, tot onze grote vreugde, met de volledige band. Het lijkt erop dat een nieuwe band zich aanmeldt in de hardcore scene.**
 

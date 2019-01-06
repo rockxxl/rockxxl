@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-abandoned-by-bears-single-headstorm/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/abandonedbybears.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/abandonedbybears.jpg
 ---
 De Zweedse pop punk/ rock/ pop band Abandoned By Bears brengt op 24 augustus hun nieuwe album 'Headstorm' uit. De titeltrack liet de band alvast horen d.m.v. een videoclip.

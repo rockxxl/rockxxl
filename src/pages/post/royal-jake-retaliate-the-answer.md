@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-royal-jake-retaliate-the-answer/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3279597083_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3279597083_10.jpg
 ---
 Royal Jake is altijd een beetje de vreemde eend geweest in de Belgische metalwereld. Komende van de grunge/groove metal sound sinds hun reïncarnatie in 2010 (de band werd oorspronkelijk al opgericht in 1992!), zijn ze geëvolueerd naar een metalcore sound die per plaat meer en meer is beïnvloed door hardcore. Een mooie combinatie, want deze band past zowel op hardcore- als metalshows, zoals bijvoorbeeld Hope Erodes. Niet altijd makkelijk als band, maar het lukt Royal Jake met de jaren beter en beter.
 

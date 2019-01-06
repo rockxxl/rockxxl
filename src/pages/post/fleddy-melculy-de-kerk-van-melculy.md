@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-fleddy-melculy-de-kerk-van-melculy/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Fleddy-Melculy-De-kerk-van-Melculy-2CD.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Fleddy-Melculy-De-kerk-van-Melculy-2CD.jpg
 ---
 In twee jaar uitgroeien tot een sensatie, spelen op Graspop en met je eerste album vanboven aan de Ultratop stranden. Geen enkele Belgische metal band deed dit Fleddy Melculy ooit na. De band voorstellen, hoeven we ook niet meer doen. Het feit dat Fleddy Melculy in het Nederlands zingt en teksten maakt om mee te lachen, viel niet bij elke metal/ hardcore fan op de juiste plaats. Met het nieuwe dubbelalbum ‘De Kerk Van Melculy’ wordt het voor die mensen eens tijd om hun mening te herzien. Debuutplaat ‘Helgië’ was al een bom, maar met ‘De Kerk Van Melculy’ leg je een heel land plat.
 

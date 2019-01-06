@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-scarved-lodestone/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/pieter-scarved.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/pieter-scarved.jpg
 ---
 Na hun eerste album “Dynamite” (2014) brengt de female fronted rockband Scarved “Lodestone” (2017) uit. Ze zijn nog maar slechts enkelen jaren actief maar hebben al een mooi pakketje optredens achter de rug met onder andere Olenfest en Road to Rock Festival.
   

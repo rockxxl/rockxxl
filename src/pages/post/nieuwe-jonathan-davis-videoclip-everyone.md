@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-jonathan-davis-videoclip-everyone/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/8594e7fd51cbfbea2305fd92421ff1f8-650x400.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/8594e7fd51cbfbea2305fd92421ff1f8-650x400.jpg
 ---
 **Korn** frontman **Jonathan Davis** kondigde onlangs aan dat hij een solo album zou gaan maken. Deze komt op 25 mei uit onder de naam '**Black Labyrinth**'. Met '**Everyone**' als tweede videoclip krijgen we stilaan een idee wat dit gaat worden.

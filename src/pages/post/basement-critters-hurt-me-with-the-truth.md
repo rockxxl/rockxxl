@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-basement-critters-hurt-me-with-the-truth/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14233078_1210500492303467_6641423123512748742_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14233078_1210500492303467_6641423123512748742_n.jpg
 ---
 Een jaar na hun self-titled demo is het West Vlaamse Basement Critters terug met nieuw materiaal. Ze trokken naar Duitsland om een vijf nummer tellende EP op te nemen. Het kind moet een naam hebben en dat is dit keer ‘Hurt Me With The Truth’ geworden. Basement Critters speelt een stevige mengeling van thrashmetal en groovemetal met hier en daar een vleugje hardcore.
   

@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/review-deez-nuts-comeback-kid-muziekodroom-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/deez.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/deez.jpg
 ---
 **<span class="_5yl5">De ‘You Are Part Of This Tour’ kwam zondag 12 februari aanzetten in Hasselt. Op de affiche stonden o.a. Deez Nuts en Comeback Kid. Zeker niet de minste namen, al werd dit gezelschap bijgestaan door een heel aantal supportacts. Sommige bands waren voor ons een raadsel en van andere kende we het bestaan. Voor er al maar één band het podium betrad wisten we al dat Heartbreaktunes gezorgd had voor een stevig feestje.</span>**
 

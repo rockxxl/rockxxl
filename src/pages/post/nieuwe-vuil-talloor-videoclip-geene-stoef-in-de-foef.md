@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-vuil-talloor-videoclip-geene-stoef-in-de-foef/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/19264590_1417488358288926_1655350743280725050_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/19264590_1417488358288926_1655350743280725050_o.jpg
 ---
 Katastroof en CPeX zijn iedereen wel bekend, maar ken je **Vuil Talloor** al? Deze Kempische feest rockband bracht een eerste nummer en videoclip uit. En jawel, 'Geene Stoef in de Foef'.

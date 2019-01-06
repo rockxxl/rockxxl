@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/20-nieuwe-namen-voor-ieper-hardcore-fest/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/4x5-feb_0.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/4x5-feb_0.jpg
 ---
 **Ieper Hardcore Fest** kondigde onlangs hun eerste reeks namen aan waaronder Comeback Kid en Converge. Nu kwam het festival aanzetten met nog eens 20 nieuwe namen:
   

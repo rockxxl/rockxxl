@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-fractured-insanity-man-made-hell/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3309317142_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3309317142_10.jpg
 ---
 Fractured Insanity is een bekende naam in het Belgische metalwereldje, en bewijst met hun derde langspeler, ‘Man Made Hell’ waarom. Hun vorige albums ‘When Mankind Becomes Diseased…’ en ‘Mass Awakeless’ krijgen op Encyclopaedia Metallum geen enkele review onder de 95%. Deze LP leeft de hoge ratings na, en bevat acht stuk voor stuk technische meesterwerken.
 

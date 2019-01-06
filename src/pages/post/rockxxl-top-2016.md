@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/rockxxl-top-2016/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/rockxxl-logo-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/rockxxl-logo-1.jpg
 ---
 **Beste punk albums:**
 

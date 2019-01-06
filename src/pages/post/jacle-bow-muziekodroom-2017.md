@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-jacle-bow-muziekodroom-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/22046652_1574052542617210_6584396368686117153_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/22046652_1574052542617210_6584396368686117153_n.jpg
 ---
 **Belgische rockband Jacle Bow stelde 29 november hun nieuwe nummers voor tijdens een try out concert in de Muziekodroom in Hasselt. Een geslaagd optreden dat met een beetje meer variatie nóg beter was geweest.**
 

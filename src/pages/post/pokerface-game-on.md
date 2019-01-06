@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-pokerface-game-on/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/dc6b2218-aa8b-4b4d-96f7-b09bec4fb181.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/dc6b2218-aa8b-4b4d-96f7-b09bec4fb181.jpg
 ---
 Het Russische Pokerface zette in 2013 hun eerste stappen in de metalwereld. Deze band werd opgericht door Drummer Doctor en gitarist Dietrich. Met hun bandnaam Pokerface willen ze op een ironische manier Lemmy eren. De naam van de band is echter afgeleid van de song 'Ace Of Spades'. Ondertussen is de band zowel binnen Rusland als in Europa op weg naar het worden van een gevestigde waarde. Onder een andere line-up brachten ze in 2014 hun eerste EP 'Terror is Law' uit en in 2015 hun eerste full CD 'Divide And Rule'. Nu is het tijd voor 'Game On'!
 

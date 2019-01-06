@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-suicide-silence-suicide-silence/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16933495_1219061378141237_222607527_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16933495_1219061378141237_222607527_n.jpg
 ---
 Na de dood van voormalige Suicide Silence zanger Mitch Lucker, ging de band verder met All Shall Perish zanger Eddie Hermida. Samen maakten ze al één album, genaamd ‘You Can’t Stop Me,’ dat nauw aansluit bij het voormalige genre van de band. Met het door Ross Robinson geproduceerde ‘Suicide Silence’ gaat de band een heel andere richting uit. Zelf noemt de band het album een sprong vooruit in deathcore. Ik nam de tijd om uit te pluizen wat alle commotie rond het album net inhoudt.
 

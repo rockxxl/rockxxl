@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/sylar-covert-linkin-park-point-of-authority/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/sylar.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/sylar.jpg
 ---
 Na het overlijden van Linkin Park zanger Chester Bennington was het niet lang wachten tot er covers van de band op youtube te vinden waren. Ook de Amerikaanse hardcoreband Sylar waagde zich aan een cover van het nummer 'Point Of Authority'.

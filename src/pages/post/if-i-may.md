@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-if-i-may/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18260865_10213325976681794_1644302700_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18260865_10213325976681794_1644302700_o.jpg
 ---
 **De Oost-Vlaamse post-hardcoreband If I May bracht pas hun tweede EP 'No Man's Land' uit. If I May is vaak de vreemde eend in de bijt maar tegelijkertijd weten mensen de iets alternatievere factor toch zeer te smaken. Wij gingen praten met zanger Linz en bassist Joren en kwamen beter te weten hoe de muziek van dit vijftal nu eenmaal in elkaar zit.**
 **Licht eens even jullie albumtitel ‘No Man’s Land’ toe.**

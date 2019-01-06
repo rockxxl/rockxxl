@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-rob-galloway-reflections/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/12998488_267549760250513_1026620555914869457_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/12998488_267549760250513_1026620555914869457_n.jpg
 ---
 Rob Galloway, beter bekend als energieke frontman van de Britse punkband ‘The Yalla Yallas’ heeft ondertussen de tijd gevonden om zijn eerste soloplaat ‘Reflections’ uit te brengen. 11 nummers en 33 minuten lang sta je garant voor een akoestische punkplaat die lekker Engels in de oren klinkt.
 

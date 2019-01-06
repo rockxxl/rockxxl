@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/eerste-vuur-nummer-days-go-by-london/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18527404_455934181421709_556857174355308107_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18527404_455934181421709_556857174355308107_o.jpg
 ---
 The Gentle Storm werd eind vorig jaar stop gezet. Anneke Van Giersbergen kondigde haar nieuwe project 'Vuur' aan. De band liet vandaag hun eerste nummer 'Days Go By – London' op de wereld los.

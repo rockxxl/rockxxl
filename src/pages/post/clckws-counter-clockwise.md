@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-clckws-counter-clockwise/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/count.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/count.jpg
 ---
 CLCKWS, een female fronted hardcore punkband uit het Zoerselse, brengt op 17 februari hun debuut-EP ‘Counter Clockwise’ uit. CLCKWS begon met een moeilijke zoektocht naar leden, maar eens de vaste leden die de band nu vormen gevonden waren, is het zeer snel gegaan. Enkele maanden geleden konden we genieten van hun eerste show, en misschien nog meer verbazend, hun eerste EP lag ook al klaar.
 

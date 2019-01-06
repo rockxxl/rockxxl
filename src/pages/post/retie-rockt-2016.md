@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-retie-rockt-2016/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/retie-rockt.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/retie-rockt.jpg
 ---
 **Dit weekend vond de 12de editie van Retie Rockt plaats. Het is merkwaardig dat vele bands die op vorige edities van Retie Rockt speelden nu op de grotere festivals staan en grotere zalen platspelen. Het viel ook op dat de affiche dit jaar voor de helft Nederlands en/of vrouwelijk is. Het energieke John Coffey en Peter Pan Speedrock pronken prijken bovenaan de affiche alsook het iets minder bekende Death Alley. Headliner van dienst was The Hickey Underworld en met Bliksem, The Belle Rose Five en het Waalse Black Mirrors is de affiche volledig.**
 

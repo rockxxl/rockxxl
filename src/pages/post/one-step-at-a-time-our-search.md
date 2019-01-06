@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-one-step-at-a-time-our-search/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/yes.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/yes.jpg
 ---
 Twee jaar na hun 7&#8243; demo releasde het Antwerpse ONE STEP AT A TIME met 'our search' dit najaar hun eerste full length album. Op hun facebookpagina omschrijven ze hun muziek als krachtige en emotionele old-school hardcore vol sing-a-longs en oprechte teksten. Het artwork van dit schijfje doet in elk geval al hetzelfde vermoeden. Benieuwd wat dat gaat geven als we dit door onze speakers jagen.
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-bram-desimpelaere-on-the-sideline/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/brammm.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/brammm.jpg
 ---
 Hoewel het concept singer-songwriter nog niet heel erg is ingeburgerd in de Belgische punkscene zijn er een aantal enkelingen die het dus uiteraard wel allemaal op zichzelf doen. Bram Desimpelaere uit hartje Kempen kwam dan ook aanzetten met zijn eerste plaatje: On The Sideline.
 

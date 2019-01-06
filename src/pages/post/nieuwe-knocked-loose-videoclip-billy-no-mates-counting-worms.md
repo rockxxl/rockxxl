@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-knocked-loose-videoclip-billy-no-mates-counting-worms/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/knocked_loose_header2016.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/knocked_loose_header2016.jpg
 ---
 Vorig jaar kwam het nieuwe Knocked Loose album 'Laugh Tracks' uit. Gisteren kwam de band aanzetten met twee videoclips: No Mates // Counting Worms.

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-encounter-a-brief/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/13332763_1179730362058652_3893697221095285211_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/13332763_1179730362058652_3893697221095285211_n.jpg
 ---
 Hoewel symfonische metal en rock in België een zeldzaam gegeven is weten onze noorderburen er wel raad mee. Neem nu de heren van Encounter. In mei vorig jaar kwam deze band aanzetten met hun eerste EP 'A Brief&#8230;'. Een weetje is dat Encounter al 15 jaar op de planken staat. Enkel maar hoge verwachtingen dus!
 

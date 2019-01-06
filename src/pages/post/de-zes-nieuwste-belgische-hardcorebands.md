@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/de-zes-nieuwste-belgische-hardcorebands/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/logo.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/logo.jpg
 ---
 **Titans**
 

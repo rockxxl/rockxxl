@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-wanheda-the-cenozoic-implosion/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/punksnotdeadpop_1024x1024.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/punksnotdeadpop_1024x1024.jpg
 ---
 De Belgische post-rock wereld is weer een band rijker! In tegenstelling tot Brutus en The Guru Guru, die dit genre in België vertegenwoordigen als ‘bekendste’ bands, gooit het Leuvense Wanheda het over een heel andere boeg. Hun eerste plaatje ‘The Cenozoic Implosion’ klinkt eerder dromerig, zeer melodisch, vaak ook emotioneel en bovendien zijn al hun nummers volledig instrumentaal. Wanheda heeft ook veel weg van post-metal, maar dan een trapje zachter en zonder een overdreven portie distortion. Klinkt als muziek in de oren, niet?
 

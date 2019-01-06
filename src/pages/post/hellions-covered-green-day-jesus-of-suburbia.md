@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/hellions-covered-green-day-jesus-of-suburbia/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/hellions.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/hellions.jpg
 ---
 Het hardcore/punkrock gezelschap van **Hellions** bracht zopas twee nieuwe nummers uit. Het eerste is '**24**' feat. Josh Franceschi van You Me At Six. Als tweede nummer nam de band 'Jesus of Suburbia' van niemand minder dan **Green Day** onder handen.

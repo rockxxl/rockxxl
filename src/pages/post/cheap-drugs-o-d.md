@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-cheap-drugs-o-d/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/CD_-_OD.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/CD_-_OD.jpg
 ---
 Anderhalf jaar geleden kwam de eerste langspeler ‘Angst’ van Cheap Drugs uit op LP. Ook bracht de band eerder hun EP ‘W.D.C.’ uit op een 7inch en ook verscheen in 2012 hun eerste demo. Deze zijn ondertussen niet meer zo gemakkelijk vindbaar en ook degene die geen platenspeler hebben bleven met lege handen achter. Ondertussen kwam Cheap Drugs aanzetten met ‘O.D.’, en ja hoor, O.D. is een CD met Angst, W.D.C. en de demo op verzameld. Zover wij weten deed Toxic Shock dit hun al voor, en dat is dan ook meteen een band waar we Cheap Drugs qua geluid mee kunnen vergelijken.
 

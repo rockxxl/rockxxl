@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-tusky/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Tusky_2018_1.jpeg
+  https://res.cloudinary.com/rockxxl/image/upload/Tusky_2018_1.jpeg
 ---
 **Begin vorig jaar zag Tusky het levenslicht. Tusky is een Nederlandse punkrock band die door velen gekend is omdat Chris en Afred van John Coffey deel uit maken van de band. Wij gingen met dit viertal rond de tafel zitten op het gezellige Jera On Air, waar Tusky een knaller van een show neerzette. Zanger en gitarist Alfred voerde het woord.** 
 

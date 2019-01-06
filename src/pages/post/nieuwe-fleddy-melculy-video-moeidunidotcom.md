@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-fleddy-melculy-video-moeidunidotcom/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/melculy.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/melculy.jpg
 ---
 Met het nieuwe Fleddy Melculy album 'De Kerk Van Melculy' hypte de band gewoon rustig verder zoals voordien. Met een videoclip voor 'Moeidunidotcom' zijn deze pretmetallers al toe aan hun alweer vijfde video.

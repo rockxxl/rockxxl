@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-this-means-war-st/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/PPR177.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/PPR177.jpg
 ---
 Uit de assen van het Oostmalse Convict ontstond zopas This Means War. Hun eerste self-titled EP komt 25 augustus uit onder het Amerikaanse Pirate Press Records. 27 augustus doet de band een release in Eindhoven met niemand minder dan Street Dogs. Wij kregen de plaat al in handen en namen even de tijd om kennis te maken met This Means War.
 

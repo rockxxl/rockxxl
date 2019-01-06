@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-sad-flowers-the-sad-flowers/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/4da503537424541952bd3f1a3edb3fa4_500x500.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/4da503537424541952bd3f1a3edb3fa4_500x500.jpg
 ---
 De studioband The Sad Flowers is een project opgericht in 2013 door de Antwerpenaren Jan Ooms en Jany Claeskens. Beide staan ze in voor het componeren, musiceren, maar ook het producen van hun muziek. Ze brachten als reeds enkele singles uit: Schmetterling (2014), Never Mind (2015) en The Legend (2016) en nu ook hun selftitled debuutplaat ‘The Sad Flowers’.
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-mermaid-mermaid/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/28166925_1437072813088149_4335831181605602990_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/28166925_1437072813088149_4335831181605602990_n.jpg
 ---
 Zoals de naam van de band en de albumcover al doen vermoeden, reviewen we deze keer eens iets anders dan zware gitaren. Mermaid brengt melancholische pop met hier en daar een donker randje. Met hun eerste self-titled EP brengen ze zes nummers die ons doen denken aan een mengelmoes van PJ Harvey en Portishead. Met dit in het achterhoofd weet je al meteen wat je van deze band kan verwachten.
 

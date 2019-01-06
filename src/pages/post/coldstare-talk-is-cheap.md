@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-coldstare-talk-is-cheap/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15541966_1027847934027955_1786242859699436643_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15541966_1027847934027955_1786242859699436643_n.jpg
 ---
 Het Antwerpse Coldstare werd opgericht in 2001 waarna de band een hele hoop shows speelde en twee EP's uitbracht. Ondanks dit viel Coldstare in 2008 uit elkaar. De band zag terug het licht in 2015, en na een kleine twee jaar wachten kwamen ze dan ook aanzetten met een gloednieuwe EP 'Talk is Cheap'. We krijgen vier nieuwe nummers voorgeschoteld en vier nummers die al eerder te horen waren op de demo 'Memories Torn Apart' uit 2005.
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-neighbours-drifting-away/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/27999328_10211178580036560_431402502_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/27999328_10211178580036560_431402502_o.jpg
 ---
 <span style="color: #000000; font-family: Calibri;">Neighbours uit Brasschaat bestaat ondertussen al acht jaar, en ze vieren dit met hun nieuwe EP ‘Drifting Away’. Zes nummers krijgen we voorgeschoteld. Verwacht een portie pop punk die zich eveneens manifesteert in de indie wereld. Ga alvast even zitten en laat je wegdrijven met de muziek van Neighbours.</span>
 

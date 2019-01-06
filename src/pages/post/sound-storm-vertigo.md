@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-sound-storm-vertigo/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14606506_10154616733003734_6570919156900858661_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14606506_10154616733003734_6570919156900858661_n.jpg
 ---
 Vier jaar na het album “Immortalia” (2012) brengt de Italiaanse metal band Sound Storm hun nieuw album “Vertigo” uit. Sound Storm werd in opgericht en 2002 en heeft sindsdien al meerdere albums geschreven waaronder “Twilight Opera”, waarbij een negen koppig koor en strijkers in de productie zaten. Sinds 2012 is de groep bij de platenmaatschappij “Scarlet Records” en zijn ze op tour geweest met grote namen zoals Epica, Therion en Haggard. “Vertigo” is een concept album dat zich afspeelt in de 19de eeuw op het eiland Vertigo waar Gabriel met zijn vrouw Mariel en dochter Alice woont. Het verhaal volgt Gabriel die een reis door zijn persoonlijke hel maakt, geleid door een mystieke Libel, opzoek naar zijn geliefd gezin.
 

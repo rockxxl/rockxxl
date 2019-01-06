@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-state-champs-living-proof/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/https_2F2Fimages.genius.com2Fde793076207779be1dbd947ee345d587.960x960x1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/https_2F2Fimages.genius.com2Fde793076207779be1dbd947ee345d587.960x960x1.jpg
 ---
 Op 15 juni komt het nieuwe album van State Champs uit. Wij luisterden alvast naar 'Living Proof' en stelden vast dat de band uit New York veel vooruitgang heeft geboekt. Het album heeft in tegenstelling tot de vorige, een eigen State Champs sound. Voor hun derde studio album werkte de band echter samen met Alex Gaskarth (All Time Low) en Mark Hoppus (Blink 182).  De band beloofde in ons interview in juni dat de nummers niets zouden weg hebben van All Time Low, waarmee ze op voorrand veel werden vergeleken.
 

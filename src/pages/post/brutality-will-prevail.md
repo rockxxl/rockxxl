@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-brutality-will-prevail/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/brutalitywillprevail.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/brutalitywillprevail.jpg
 ---
 **Op Groezrock hadden we de eer om rond te tafel te zitten met de mannen van Brutality Will Prevail. Na hun geweldige set namen ze de tijd om op al onze vragen een antwoord te geven.**
 

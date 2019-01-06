@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-parkway-drive-nummer-wishing-wells/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Parkway-Drive-South-Africa-Crushed-2015-620x400.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Parkway-Drive-South-Africa-Crushed-2015-620x400.jpg
 ---
 Hier is hij dan! Het eerste nummer van **Parkway Drive** na hun (succes)album '**Ire**': **Wishing Wells**. Meer details over een nieuw album zijn er nog niet, al liet de band wel weten dat hun nieuwe plaat agressiever gaat zijn als 'Ire'. Wij zijn alvast benieuwd.

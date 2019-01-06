@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-rockxxl-show-fatal-move-sounds-like-deceit-royce-as-echoes-fade-behind-the-visual/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15774743_1187489277993595_843821289811287873_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15774743_1187489277993595_843821289811287873_o.jpg
 ---
 Vrijdag 14 april geeft RockXXL weer een hardcore show in JH Korridor in Beerse!
 

@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-stranger-dimensions-video/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/10995574_1769458246632006_6569721891721010336_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/10995574_1769458246632006_6569721891721010336_n.jpg
 ---
 Metalcore band Stranger Dimensions kwam aanzetten met een lyrics video voor het nummer 'Demolished'. Hun EP 'Heartless' is verkrijgbaar door Headshot Records.

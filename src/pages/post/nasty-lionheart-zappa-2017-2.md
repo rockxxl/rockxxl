@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-nasty-lionheart-zappa-2017-2/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/20374373_1671910866174082_6278264063962117000_n-1-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/20374373_1671910866174082_6278264063962117000_n-1-1.jpg
 ---
 **HeartBreakTunes had weer een show in petto die lang zal blijven na-sudderen. Niemand minder dan beatdown band Nasty en hardcore legende Lionheart zakten voor de tweede keer deze tour af naar België, dit keer naar de Zappa in Antwerpen. Samen met Get The Shot en Absolve beloofde het een vurige avond te worden en dat was op zijn minst gezegd!**
 

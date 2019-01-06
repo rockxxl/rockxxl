@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-blessthefall-hard-feelings/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/blessthefall_hardfeelings.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/blessthefall_hardfeelings.jpg
 ---
 Hoef ik nog veel info te geven over deze metalcore band uit Phoenix? Blessthefall is een band die sinds 2003 al meedraait in de scene. Ze staan bekend om hun zware breakdowns, harde screams en catchy refreinen met hoge cleanvocals. Ik zag Blessthefall onlangs live en ze weten hoe ze een publiek moeten entertainen, maar hoe zit het met hun nieuwe album Hard Feelings?
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-rotzak-rotzak/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a0865818675_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a0865818675_10.jpg
 ---
 De Diestse band Rotzak – what’s in a name? – bracht vorige maand hun eerste self titled EP uit. Dit viertal brengt een energieke mix van hardcore, punk en southern rock. Het laatstgenoemde genre is – vooral bij Belgische bands – vrij uniek om te spelen en al zeker om het te combineren met hardcore. Every Time I Die lijkt het schoolvoorbeeld te zijn van een band waar Rotzak inspiratie uit haalt. Een exacte kopie zou ik Rotzak nooit durven noemen, maar de invloeden liggen er wel vingerdik op.
   

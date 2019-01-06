@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/cathubodua-komt-aanzetten-met-nieuw-nummer-the-journey-of-lysilde/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/cathud.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/cathud.jpg
 ---
 De Belgische metalband Cathubodua liet een nieuw nummer op de wereld los: The Journey of Lysilde. Een nieuw album volgt zonder twijfel nog al zijn er nog geen plannen vrijgegeven.
 

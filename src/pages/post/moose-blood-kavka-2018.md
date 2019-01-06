@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-moose-blood-kavka-2018/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg
 ---
 **Belgische punkrock van The Waiti0ng Game, Engelse hardcore van Acres en emo van Moose Blood. Dat waren de vooruitzichten van een mooie en vooral warme avond in Kavka, Antwerpen op 30 juni.**
 

@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/eerste-fever-days-nummer-quick-to-run/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/27504029_191557208096484_3279346560822202037_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/27504029_191557208096484_3279346560822202037_o.jpg
 ---
 De Kempen is weer een band rijker. Pop punk band **Fever Days** uit Retie doet hun eerste optreden op 16 maart. In afwachting van dit eerste optreden liet de band alvast een videoclip op de wereld los: **Quick To Run**.

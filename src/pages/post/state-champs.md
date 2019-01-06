@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-state-champs/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/statechamps-1437156640.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/statechamps-1437156640.jpg
 ---
 **State Champs is een pop punk band uit New York. De voorbije drie jaren speelden ze maar liefst vijf shows in België en op drie november staan ze opnieuw in de Muziekodroom in Hasselt. Voor hun show in Zappa, Antwerpen, zaten we samen met de gitarist Tyler. De oprichter van State Champs had het met ons over hun nieuwe album 'Living Proof', de vergelijking met All Time Low en hun slechtste festivalervaring ooit, dat in België bleek te zijn.**
 

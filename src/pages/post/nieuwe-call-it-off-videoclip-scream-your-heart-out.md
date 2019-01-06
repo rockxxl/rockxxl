@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-call-it-off-videoclip-scream-your-heart-out/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/call.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/call.jpg
 ---
 Het Nederlandse gezelschap van Call It Off brengt op 20 januari hun nieuwe plaat 'Abandoned' uit. De titeltrack kregen we al eerder te horen maar hier is hun tweede single en videoclip: Scream Your Heart Out.

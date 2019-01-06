@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-knocked-loose/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/kockedloose_4x3.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/kockedloose_4x3.jpg
 ---
 **Eén van de meest opkomende hardcore bands van het moment is zonder twijfel het Amerikaanse Knocked Loose. Met hun eerste full-album ‘Laugh Tracks’ kreeg de band heel wat mooie kansen voorgeschoteld, zo ook Graspop Metal Meeting. Hier zaten wij dan ook samen Knocked Loose zanger Bryan Garris en stelden hem enkele vragen.**
 

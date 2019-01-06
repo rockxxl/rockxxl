@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/win-tickets-voor-oostmal-rockt/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/WIN.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/WIN.jpg
 ---
 Op zaterdag 29 september vindt in Oostmalle het jaarlijkse Oostmal Rockt (indoor) festival plaats. De line-up bestaat uit heel wat Belgisch talent en ook wij hebben weer onze eigen stage. Twijfel je nog om te gaan? Misschien kunnen twee gratis tickets je overtuigen?
 

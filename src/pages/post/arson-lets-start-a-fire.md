@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-arson-lets-start-a-fire/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/30442940_2143132975975469_942359680653459456_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/30442940_2143132975975469_942359680653459456_n.jpg
 ---
 Wat krijg je als je punk en hardcore mixt en overgiet met een sausje van rock ‘n roll? Het antwoord is simpel: Arson. Deze Gentse band met leden van o.a. Soul Grip, Atlas en Anti Icon bestaat nog maar sinds november en bracht nu al een eerste EP uit. De EP kreeg de naam ‘Let’s Start a Fire’ en is een leuk vervolg op de bandnaam die uiteraard brandstichting betekent. Vijf nummers krijgen we voorgeschoteld, die net zoals de eerder vernoemde bands een zekere kwaliteit met zich meedragen.
 

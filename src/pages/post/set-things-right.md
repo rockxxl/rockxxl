@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-set-things-right/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15039507_1338155776208404_2040673305254975013_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15039507_1338155776208404_2040673305254975013_o.jpg
 ---
 **Set Things Right, Belgisch bekendste metalcore band, houdt er na drie full albums en een podiumplaats op Groezrock en Graspop mee op. De band speelt hun laatste show op 25 november in Hangar 27 in Edegem.  Wij gingen rond tafel zitten met bassist en zanger Jonas De Roeck  en blikten terug op negen jaar Set Things Right in hun, jawel, laatste interview ooit!**
 

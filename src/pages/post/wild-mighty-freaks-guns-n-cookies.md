@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-wild-mighty-freaks-guns-n-cookies/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/wild-mighty-freaks.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/wild-mighty-freaks.jpg
 ---
 Prophets of Rage, Body Count, Hacktivist,… Allemaal bands die de crossover maken tussen metal en hiphop. Of we nu van een revival of hype moeten spreken weten we niet, maar we zien meer en meer bands verschijnen die dit soort muziek spelen. Niet anders is ook de Franse band Wild Mighty Freaks. Hun EP ‘Guns ‘N Cookies’ is ondertussen al een klein jaar uit, maar bleef nog onder de radar.
 

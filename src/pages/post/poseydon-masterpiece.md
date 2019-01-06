@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-poseydon-masterpiece/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/11855648_123919994618880_6035402638735654181_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/11855648_123919994618880_6035402638735654181_n.jpg
 ---
 Geloof het of niet maar de heren van Poseydon vieren volgend jaar hun 25<sup>ste</sup>  verjaardag als band. Dit ging gepaard met verschillende bandwissels waardoor de band op momenten traag op gang kwam en moest wachten tot 2011 om hun eerste full album uit te brengen. Ondertussen is er weer een hele hoop veranderd en tijd verstreken maar Poseydon is er met hun tweede langspeler: Masterpiece. Een gewaagde titel?
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-daydream-xi-the-circus-of-the-tattered-and-torn/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Daydream-XI-TCOTTAT-cover-web-1024x1024.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Daydream-XI-TCOTTAT-cover-web-1024x1024.jpg
 ---
 Het Braziliaanse Daydream XI bewees met hun eerste album ‘The Grand Disguise’ hun mannetje te staan in de wereld van de progressieve metal. Ook met hun nieuwe album ‘The Circus Of The Tattered And Torn’ weet de band wel raad. Zet je maar schrap want dit plaatje heeft maar liefst 11 nummers en klokt een uur en tien minuten.
 

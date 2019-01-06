@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/review-the-yalla-yallas-medusa/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18342110_1315765531794042_2245348493887582201_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18342110_1315765531794042_2245348493887582201_n.jpg
 ---
 (English version below)
 

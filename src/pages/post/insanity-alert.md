@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-insanity-alert/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg
 ---
 **Thrash metal band Insanity Alert stond onlangs nog op Hellfest en nam deel aan de Persistance Tour met bands als Hatebreed en Terror. Wij gingen rond tafel zitten met zanger Kevin Stout en stelde hem wat vragen over hun album 'Moshburger' en het derde album dat er binnenkort aankomt.**
 **Jullie recentste album heet ‘Moshburger’. Wat is een moshburger en waar komt deze vandaan?** 

@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-creeper-nummer-en-videoclip/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/tumblr_o2ndal1Ys51ttp876o1_r1_1280.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/tumblr_o2ndal1Ys51ttp876o1_r1_1280.jpg
 ---
 Het nieuwe Creeper album 'Eternity, In You Arms' komt volgende maand uit. De band kwam vandaag aanzetten met een gloednieuw nummer en videoclip van deze plaat. Wij bezien Creeper als de meest vernieuwde punkrock band van het moment.

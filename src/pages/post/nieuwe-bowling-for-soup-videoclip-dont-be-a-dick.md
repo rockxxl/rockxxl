@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-bowling-for-soup-videoclip-dont-be-a-dick/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/1280x720.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/1280x720.jpg
 ---
 De poppunkers van Bowling For Soup brachten zopas hun nieuwste album 'Drunk Dynasty' uit. De eerste videoclip van het album is voor het nummer 'Don't Be a Dick'.

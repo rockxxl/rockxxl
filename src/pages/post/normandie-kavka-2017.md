@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-normandie-kavka-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/23795870_1862513097119254_7905667569753512540_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/23795870_1862513097119254_7905667569753512540_n.jpg
 ---
 **Woensdagavond 29/11 was de dag onder het motto: voor alles een eerste keer. Zelf was ik nog nooit in Kavka geweest en ik had de bands nog niet live aan het werk gezien. Van zodra ik in de zaal kwam, had ik onmiddellijk een warm gevoel. Wat een gezellige venue. De juiste vibe met de juiste mensen op deze toch wel atypische HeartBreakTunes show.**
 

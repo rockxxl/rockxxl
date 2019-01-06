@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-neck-deep-nummer-in-bloom/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/85140880_neckdeep.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/85140880_neckdeep.jpg
 ---
 Het is nog vier dagen wachten tot het nieuwe **Neck Deep** album 'The Peace and The Panic' uitkomt. De band bracht al drie videoclips uit en met 'In Bloom' heeft de band er weer een vierde bij.

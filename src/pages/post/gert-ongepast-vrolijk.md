@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-gert-ongepast-vrolijk/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14718670_1339626649429467_5773290926041720592_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14718670_1339626649429467_5773290926041720592_n.jpg
 ---
 <figure class="tmblr-full"></figure> Al tien jaar en vijf albums lang trekt de Leuvense protestzanger Gert door het Vlaamse land. ‘Ongepast Vrolijk’ is de naam van het gloednieuwe Gert album dat je nogmaals keihard met je gezicht tegen de realiteit drukt. In tegenstelling tot vorige plaatjes wordt de akoestische gitaar bijgestaan door een bas en een cajon. Simpel, maar het werkt!
 

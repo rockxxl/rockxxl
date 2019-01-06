@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-moose-blood-nummer-just-outside/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/moose-blood.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/moose-blood.jpg
 ---
 Nog enkele dagen en het is zo ver. Op negen maart om precies te zijn komt het nieuwe **Moose Blood** album '**I Don't Think I Can Do This Anymore**' uit. De band liet in afwachting hiervan het nummer '**Just Outside**' op de wereld los.

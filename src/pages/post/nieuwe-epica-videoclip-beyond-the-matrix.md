@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-epica-videoclip-beyond-the-matrix/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/6716_photo.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/6716_photo.jpg
 ---
 Epica bracht in september hun jongste album 'The Holographic Principle' uit. Ondertussen verschenen er al een aantal videoclips en ook onze favoriet 'Beyond The Matrix' heeft nu zijn eigen video.

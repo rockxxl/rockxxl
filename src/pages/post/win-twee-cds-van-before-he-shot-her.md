@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/win-twee-cds-van-before-he-shot-her/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/WIN.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/WIN.jpg
 ---
 Kennen jullie de Belgische deathcore band Before **He Shot Her** nog? Wij vonden nog enkele exemplaren van hun albums 'We Are The Plague' (2009) en 'The Ascent' (2011). Deze geven we dan ook allebei drie keer weg!
 

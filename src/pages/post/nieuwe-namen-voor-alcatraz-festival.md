@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-namen-voor-alcatraz-festival/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/29683369_10213937454643249_177580843101847552_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/29683369_10213937454643249_177580843101847552_n.jpg
 ---
 Niemand minder dan **Dee Snider**, **Phil Campbell and the Bastard Sons**, **Cannibal Corpse**, **DevilDriver**, **Venom Inc**, **The Black Dahlia Murder** en** ****Act of Defiance** werden toegevoegd aan de affiche van het **Alcatraz Festival** in Kortrijk dat plaatsvindt op 10, 11 en 12 augustus. Het beloofd een mooie editie te worden!
 

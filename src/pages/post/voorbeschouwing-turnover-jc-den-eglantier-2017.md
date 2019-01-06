@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-turnover-jc-den-eglantier-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/DDXSy2nVwAE-yow.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/DDXSy2nVwAE-yow.jpg
 ---
 Op 10 september nodigt Mendville Shows het Amerikaanse Turnover uit in JC Den Eglantier in Berchem. De support wordt voorzien door de Amerikanen uit Emotional en Palladino, maar ook de opkomende Belgische sensatie Slow Crush mogen deze show vervolledigen. Het belooft een interessante show te worden, die volledig zal draaien om de atmosfeer en de dromerige vibes, terwijl niemand dit had durven denken van Turnover in pakweg 2013.
 

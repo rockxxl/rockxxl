@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-state-champs-trix-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15220009_1148615031886323_6227064647380899619_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15220009_1148615031886323_6227064647380899619_n.jpg
 ---
 **Heartbreaktunes organiseert op 7 maart weer een show voor alle fans van de pop-punk. Northbound, As It Is en State Champs zullen het Antwerpse Trix op z'n kop zetten.**
 

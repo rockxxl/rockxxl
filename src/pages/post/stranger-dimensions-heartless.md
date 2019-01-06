@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-stranger-dimensions-heartless/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3422123569_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3422123569_10.jpg
 ---
 Stranger Dimensions, een band die in augustus 2014 werd opgericht in Lochristi, brengt na hun demo in 2015 nu ook een eerste EP uit, getiteld ‘Heartless’. Stranger Dimensions brengt ons een metalcore-plaatje met de nodige experimentele toets dat zeker zal beaamd worden door liefhebbers van strakke riffs en hevige breakdowns.
 

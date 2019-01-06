@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-papa-roach-nummer-none-of-the-above/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/10397298_10152442205801731_8494572405598974541_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/10397298_10152442205801731_8494572405598974541_o.jpg
 ---
 Nog even en het nieuwe Papa Roach album 'Crooked Teeth' komt uit. De band liet al een videoclip voor het nummer 'Help' op de wereld los en nu ook een lyrics video voor het nummer 'None Of The Above'.

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-this-can-hurt-when-nothing-matters/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/WhenNothingMatters.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/WhenNothingMatters.jpg
 ---
 Het nieuwe project van JP De Brabander (ex-DeLaVega) en Jac Noise kreeg de naam This Can Hurt. Hun eerste album 'When Nothing Matters' kwam eigenlijk al vorig jaar uit, maar door een ongelukkige val van één van de bandleden werd alles even op hold gezet. Ondertussen is This Can Hurt helemaal terug en lieten wij hun nieuwe plaatje een aantal keer draaien.
 

@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-xandria-moonlight-music-hall-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/pieter.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/pieter.jpg
 ---
 **Het is nog vrij vroeg wanneer we arriveren in de vrij nieuwe concertzaal Moonlight Music Hall in Diest. Op deze vrij koude woensdagavond staan vanavond de symfonische metalbands Elusion en Xandria op het programma. RockXXL was erbij en velde zoals altijd hun ongezouten oordeel.**
 

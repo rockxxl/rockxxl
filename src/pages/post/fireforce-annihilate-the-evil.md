@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-fireforce-annihilate-the-evil/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18698106_10156182117011679_5141408182369644776_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18698106_10156182117011679_5141408182369644776_n.jpg
 ---
 Fireforce werd opgericht in 2008 nadat zanger Filip 'Flype' Lemmens en gitarist Erwin Suetens de band Double Diamond verlieten. Op vlak van heavy/ power metal kunnen we stellen dat Fireforce bij de Belgische top behoort. De band omschrijft zichzelf als een combat metal band. Het thema oorlog is dan ook de basis van hun muziek. Debuutplaat 'March On' kwam uit in 2011, 'Deathbringer' zag het levenslicht in 2014 en weer drie jaar later kwamen ze aanzetten met hun nieuwste wapenfeit: Annihilate The Evil.
 

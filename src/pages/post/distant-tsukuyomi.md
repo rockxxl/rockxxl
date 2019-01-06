@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-distant-tsukuyomi/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/21100428_10155254233529748_201845641_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/21100428_10155254233529748_201845641_n.jpg
 ---
 Deathcore heeft zijn weg al lang gevonden naar de lage landen, maar slechts weinigen spelen het zo traag en verpletterend als Distant, een Nederlandse band met een Slowaakse zanger die vroeger de vocals van Shrill Whispers op zich nam. Op deze EP horen we hem voor het eerst aan het werk bij Distant. Deze band bracht naast enkele singles met onder andere een cover van Linkin Park eerder een EP genaamd ‘Slither’ uit in 2015, waar het vocale werk nog veel meer klonk als iets ruwere hardcore, maar het instrumentale werk toen reeds laag gestemd en om ter traagst was. Wij waren alvast benieuwd wat deze nieuwe zanger en EP aan het nieuwe hoofdstuk van Distant kunnen bijbrengen.
 

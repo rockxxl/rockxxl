@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-souls-of-deaf-fortune-favors-the-bold/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/front-cover.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/front-cover.jpg
 ---
 Het Nederlandse Souls Of Deaf ontstond al in 2015, maar pas drie jaar later kwam de band naar buiten met hun eerste album 'Fortune Favors The Bold' en hun eerste live performance. Ervaring heeft dit viertal al heel wat jaren en dat toont zich ook in deze debuutplaat.
 

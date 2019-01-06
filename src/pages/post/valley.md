@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-valley/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/12783627_1002361196508450_4385062972805357520_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/12783627_1002361196508450_4385062972805357520_o.jpg
 ---
 **Valley uit Halle bracht zopas hun derde album 'Dark tears // Bright smiles' uit. De band weet een vernieuwde hardcore sound neer te door het gebruik van emotionele elementen en een vleugje post-rock. België kan deze band ondertussen wel smaken maar ook een land als Duitsland weet mee op de kar te springen van Valley. Stof genoeg dus om eens een aantal vragen te stellen aan zanger Davy en gitaristen Dennis en Kevin.**
 **Kunnen jullie de albumtitel ‘Dark Tears // Bright Smiles’ even toelichten?**

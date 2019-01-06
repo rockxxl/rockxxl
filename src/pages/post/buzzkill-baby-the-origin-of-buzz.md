@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-buzzkill-baby-the-origin-of-buzz/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/90b8749d03d3036972ec43e5ae8f06a9904a8e70.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/90b8749d03d3036972ec43e5ae8f06a9904a8e70.jpg
 ---
 Begin vorig jaar sloegen enkele (ex) leden van Gentse bands zoals The Bollock Brothers, Southern Voodoo en Speedball Jr. de handen in elkaar voor een nieuwe rock ’n roll machine die de naam Buzzkill Baby kreeg. Veel gras liet de band echter niet groeien. Hun eerste EP, met de toepasselijke naam: ‘The Origin Of Buzz’ verscheen nog geen jaar later. Het eindresultaat bevestigd alvast dat dit geen overhaaste beslissing was.
 

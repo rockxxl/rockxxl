@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-big-fat-toddlers-space-toddlers/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3533234055_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3533234055_10.jpg
 ---
 Het Limburgse Big Fat Toddlers bracht zopas hun eerste EP ‘Space Toddlers’ uit. Zeven nummers lang sta je garant voor punkrock en pop punk in z’n puurste vorm: snel, niet al te technisch, maar vooral ook zeer aanstekelijk.
 

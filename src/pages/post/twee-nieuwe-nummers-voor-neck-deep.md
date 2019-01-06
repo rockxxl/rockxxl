@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/twee-nieuwe-nummers-voor-neck-deep/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/85140880_neckdeep.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/85140880_neckdeep.jpg
 ---
 18 augustus komt het nieuwe Neck Deep album 'The Peace And The Panic' uit. De band liet twee video's videoclips op de wereld los:

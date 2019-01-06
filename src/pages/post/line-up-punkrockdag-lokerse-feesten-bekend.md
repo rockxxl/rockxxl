@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/line-up-punkrockdag-lokerse-feesten-bekend/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/lokerse_feesten_seo.png
+  https://res.cloudinary.com/rockxxl/image/upload/lokerse_feesten_seo.png
 ---
 De line up voor de punkrockdag van de **Lokerse Feesten** 2018 is bekend gemaakt. Niemand minder dan **Dropkick Murphys**, **Bad Religion**, **Suicidal Tendencies**, **Turonegro** en **The Living End** vormen de line up. Het belooft nu al een fantastische dag te worden met deze kleppers.
 

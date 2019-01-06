@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/bad-religion-op-sjock-festival/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16681801_1864195777191642_395589003916488977_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16681801_1864195777191642_395589003916488977_n.jpg
 ---
 De organisatie van Sjock Festival liet weten dat Bad Religion het festival zal headlinen op zaterdag 8 juli.
 

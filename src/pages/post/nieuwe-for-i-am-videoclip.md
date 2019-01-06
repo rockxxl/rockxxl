@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-for-i-am-videoclip/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14589965_1340589885964788_6182123299784754536_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14589965_1340589885964788_6182123299784754536_o.jpg
 ---
 Volgend weekend komt het nieuwe For I Am album 'All About Perspectives' uit. De band liet vandaag hun ondertussen derde nummer en 2de videoclip '(Make It Out) Alive' op de wereld los.

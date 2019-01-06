@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-arkan-kelem/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14192770_10154091089908043_8100762265543710586_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14192770_10154091089908043_8100762265543710586_n.jpg
 ---
 Het Franse gezelschap van Arkan kwam onlangs aanzetten met hun ondertussen al vierde langspeler ‘Kelem’. Dit vijftal speelt een mengeling van melodische death metal met een hoop oriental invloeden. Buiten deze is de progressieve factor ook een belangrijk onderdeel van Arkan. Een band die moeilijk in één hokje past dus. Kelem is de eerste plaat die we van Arken in handen krijgen en dat maakt ons er niet minder nieuwsgierig op, in tegendeel.
 

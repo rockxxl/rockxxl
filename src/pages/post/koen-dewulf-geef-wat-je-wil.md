@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/review-koen-dewulf-geef-wat-je-wil/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/4437b933-59fb-459f-839f-cdd5cd8baca9.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/4437b933-59fb-459f-839f-cdd5cd8baca9.jpg
 ---
 Aan de titel en artwork van deze plaat te zien treden we een keertje uit onze comfortzone, met plezier natuurlijk. Manusje van alles Koen Dewulf bracht zopas zijn tweede album 'Geef Wat Je Wil' uit. Geef Wat Je Wil is opgedeeld in twee delen: Kwijt en Gevonden. 'Kwijt' was voor het op plaat verscheen een theatervoorstelling over dementie. Het deel 'Gevonden' telt dan weer zes niet eerder verschenen nummers en is dan ook het luchtige deel van deze plaat.
 

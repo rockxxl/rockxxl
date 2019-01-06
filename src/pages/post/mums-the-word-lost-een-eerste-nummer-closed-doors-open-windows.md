@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/mums-the-word-lost-een-eerste-nummer-closed-doors-open-windows/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14324688_1332322613458281_1905673592925418142_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14324688_1332322613458281_1905673592925418142_o.jpg
 ---
 '**Closed Doors // Open Windows**', dat is de titel van de eerste single van hardcore band **Mum's The Word** uit Vlaams-Brabant. Meer info over een eerste plaatje is er nog niet.

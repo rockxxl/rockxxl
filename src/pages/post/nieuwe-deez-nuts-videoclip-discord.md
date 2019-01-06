@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-deez-nuts-videoclip-discord/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/DeezNuts-Gallery1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/DeezNuts-Gallery1.jpg
 ---
 Het nieuwe album 'Binge & Purgatory' van Deez Nuts komt uit op 7 april. Een videoclip voor de titelsong werd al gereleased en de band liet nu ook een video voor het nummer 'Discord' op de wereld los.

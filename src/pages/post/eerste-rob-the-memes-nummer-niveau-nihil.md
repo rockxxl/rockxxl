@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/eerste-rob-the-memes-nummer-niveau-nihil/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/23172628_1010882329054165_5908458747320304473_n.png
+  https://res.cloudinary.com/rockxxl/image/upload/23172628_1010882329054165_5908458747320304473_n.png
 ---
 Eén van de deelnemers voor Humo' Rock Rally 2018 is **Rob & The Memes**. Een rockband die hun nummers mixt met jawel: memes. Met **Niveau Nihil** bewijzen deze heren alvast hun kunnen. Meer van dat!

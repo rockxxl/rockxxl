@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-mountains-to-move-nummer-drown/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15625661_749010465252424_279997441546410488_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15625661_749010465252424_279997441546410488_o.jpg
 ---
 Na 'Adieu' en 'Ghost' komt **Mountains To Move** nu ook aanzetten met hun nieuwste single 'Drown'. Of de band binnenkort komt aanzetten met een nieuw album is nog niet bekend, maar de kans is volgens ons alvast groot.

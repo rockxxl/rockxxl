@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-access-unlocked-cosmos/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/30127407_1430649193708223_5749587902141038592_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/30127407_1430649193708223_5749587902141038592_o.jpg
 ---
 Of we het nu willen of niet, maar de Kempen kunnen we beschouwen als de bakermat van de Belgische metalcorescene. Zo ontstond in 2012 ook de band Access Unlocked. Een goeie zes jaar later stelt de band hun 2de EP ‘Cosmos’ voor.
 

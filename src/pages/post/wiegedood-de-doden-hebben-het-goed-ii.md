@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-wiegedood-de-doden-hebben-het-goed-ii/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/wiegedood-brent.png
+  https://res.cloudinary.com/rockxxl/image/upload/wiegedood-brent.png
 ---
 Wiegedood kwam recent aanzetten met hun nieuwe plaat, ‘De Doden Hebben Het Goed II’. Wiegedood is een black metaltrio bestaande uit 2/3 Oathbreaker en 1/3 Amenra, meer hoeven we eigenlijk niet als introductie te geven om het kaliber van deze muzikanten te schetsen. Hoewel gitarist en zanger Levy Seynaeve nog maar sinds 2012 bij het reeds in 1999 opgerichte Amenra speelt, heeft hij met deze band toch al intensief samengewerkt en is dat duidelijk aan deze band te merken. Verder bestaat de band uit Wim Seppoc en Gilles Demolder, die respectievelijk de drums en gitaren op zich nemen. De band bracht in 2015 reeds het eerste deel van de ‘De Doden Hebben Het Goed’-serie uit, dat door critici zeer goed onthaald werd. Om het even te schetsen, kreeg het op Encyclopaedia Metallum een review van wel 95%. Wij waren benieuwd of deze plaat ook zo spectaculair was als de vorige.
 

@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-lost-from-the-start-echo-avenue/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17103414_1259968707450492_7976351898830536261_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17103414_1259968707450492_7976351898830536261_n.jpg
 ---
 Het Limburgse Lost From The Start werd opgericht in januari waarna ze meteen een videoclip van het nummer 'Nostalgic for Disaster' op de wereld loslieten. Exact twee maanden later kregen we hun eerste EP 'Echo Avenue' in de bus. Met 'Echo Avenue' krijgen we drie poppunk nummers voorgeschoteld die Lost From The Start al meteen netjes op de kaart van de Belgische punkrock zet.
 

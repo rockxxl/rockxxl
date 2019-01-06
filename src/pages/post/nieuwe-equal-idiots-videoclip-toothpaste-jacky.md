@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-equal-idiots-videoclip-toothpaste-jacky/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/180517equal-idiots-balloon2-agathe-danon.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/180517equal-idiots-balloon2-agathe-danon.jpg
 ---
 Het Kempische duo van **Equal Idiots** liet hun ondertussen vierde single op de wereld los: **Toothpaste Jacky**.

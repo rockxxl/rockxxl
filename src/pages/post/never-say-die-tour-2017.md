@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-never-say-die-tour-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/neversaydietour2017_full.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/neversaydietour2017_full.jpg
 ---
 **Het pittoreske Brugge is gekend om kant, chocolade en bootritjes door nauwe riviertjes. Dit romantisch stadje huist ook het Entrepot, waar gisteren alles net iets minder pittoresk mocht zijn. Geen nauwe bruggetjes en kanaaltjes, maar brede moshpits op een bedje van druipend zweet. Dat het alweer de moeite was, kan best gezegd worden. Wederom was de Never Say Die Tour een succes.**
 

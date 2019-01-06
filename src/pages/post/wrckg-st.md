@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-wrckg-st/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18301607_639686846222693_6064482159996058700_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18301607_639686846222693_6064482159996058700_n.jpg
 ---
 Vandaag schrijven we een review over de gloednieuwe EP van de jonge, Utrechtse melodic hardcoreband WRCKG. Deze EP, die ook WRCKG heet, zal uitkomen op 3 juni 2017 onder Born Annoying Records en Smithsfoodgroup DIY. Op deze dag zullen ze ook een release show geven in Utrecht voor alle hardcore-liefhebbers.
 

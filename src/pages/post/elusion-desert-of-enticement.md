@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-elusion-desert-of-enticement/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14352230_1180267538683215_765986476760382612_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14352230_1180267538683215_765986476760382612_o.jpg
 ---
 Elusion is een vrij jonge Belgische band en zag pas het levenslicht in 2015. Ex-Ancient Rites gitarist Domingo Smets wilde andere wateren bevaren en koos dit keer voor een koers richting het eiland van symfonische metal. Onderweg pikte hij de sirene Evy Verbruggen mee op zijn metalschip waarna ze niet veel later op hun eiland Elusion aankwamen.
 

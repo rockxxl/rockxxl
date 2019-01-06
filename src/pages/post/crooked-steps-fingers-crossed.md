@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-crooked-steps-fingers-crossed/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Crooked_Steps_cover.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Crooked_Steps_cover.jpg
 ---
 Het Oost-Vlaamse Crooked Steps werd opgericht in 2012. Na een aantal naamsverandering en het verlaten van hun bassist besloot de band verder te gaan met twee leden en onder de naam Crooked Steps. Ondertussen bracht de band hun eerste plaatje 'Fingers Crossed' uit in vorm van een EP met vier nummers.
 

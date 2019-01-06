@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-blackest-sunset-kingdom-of-sorrow/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/brent-bs.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/brent-bs.jpg
 ---
 Blackest Sunet, een vijftal uit Mons (Bergen), België, bracht even geleden hun eerste langspeler ‘Kingdom Of Sorrow’ uit. Deze sloophamer van 40 minuten telt negen nummers en zet ons kleine Belgenlandje nog maar eens op de kaart in de hevigere genres binnen de metalwereld. Zelf beschrijven ze het als ‘Brutal cynicism with wide-eyed belief on the collapse of reality. Nihilistic contemplation of social despair. Crude and hopeless testimony of self-destructive human behavior.’ RockXXL was alvast benieuwd hoe dat muzikaal tot zijn recht komt.
 

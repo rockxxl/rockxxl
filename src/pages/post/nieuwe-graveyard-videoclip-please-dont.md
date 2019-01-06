@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-graveyard-videoclip-please-dont/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/graveyard-band-2015.jpeg
+  https://res.cloudinary.com/rockxxl/image/upload/graveyard-band-2015.jpeg
 ---
 Enkele jaren geleden was het bang afwachten voor de fans van het Zweedse **Graveyard**. De band zou ermee stoppen, maar werd daarna weer even snel hervormd. Graveyard komt 25 mei aanzetten met hun alweer tweede album met de nieuwe line up: '**Peace**'.

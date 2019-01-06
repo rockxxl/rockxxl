@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-ivory-for-elephants-call-of-the-void/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18983307_1332311846806060_562867688_n.png
+  https://res.cloudinary.com/rockxxl/image/upload/18983307_1332311846806060_562867688_n.png
 ---
 Twee jaar na hun eerste EP ‘Invaders’ is het viertal van Ivory For Elephants terug met hun laatste wapenfeit ‘Call Of The Void’. Muzikaal vist de band nog steeds in de vijver van de stonerrock en dat doen ze ook dit keer met vijf gloednieuwe nummers.
 

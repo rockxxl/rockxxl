@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-foo-fighters-nummer-en-videoclip-run/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Foo_Fighters.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Foo_Fighters.jpg
 ---
 Onverwachts brachten de Foo Fighters hun nieuwe single en videoclip 'Run' uit. 'SURPRISE! Run. Our new song.', dit verscheen op youtube. Wij zijn alvast fan van de hard/ zacht verhouding van dit nummer.

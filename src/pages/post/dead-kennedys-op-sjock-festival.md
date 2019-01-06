@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/dead-kennedys-op-sjock-festival/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/26992350_2038828179728400_1766849360001168280_n-1-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/26992350_2038828179728400_1766849360001168280_n-1-1.jpg
 ---
 Nog niet zo lang geleden kwam **Sjock Festival** uit Gierle aanzetten met namen als Pennywise, Descendents en Turnbonegro. Vandaag deed het festival er nog een schepje bovenop met punklegendes **Dead Kennedys** en **No Fun At All** aan te kondigen. Het beloofd een epische editie te worden.
 

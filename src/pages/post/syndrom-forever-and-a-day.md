@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-syndrom-forever-and-a-day/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/syndrome-damien.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/syndrome-damien.jpg
 ---
 Het is al enkele jaren geleden dat we nog nieuw werk hoorden van Syndrome, het soloproject van Mathieu Vandekerkhove (bekend van onder andere Amenra). Zijn specialiteit is drone/soundscape/ambient/ muziek met een donker randje. Met zijn nieuwe plaat 'Forever And A Day' pakt hij de draad weer op waar hij gebleven was met 'Now And Forever'. Ze toont veel gelijkenissen met dit album, vooral in opbouw. Dat is te verklaren aan de manier hoe hij zijn muziek maakt: met een gitaar, zijn stem, wat effecten en vooral een loopingpedaal. Net als bij 'Now And Forever' is deze plaat ook één geheel nummer, deze keer één van ongeveer 40 minuten.
 

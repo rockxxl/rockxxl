@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-the-amity-affliction-trix-2016/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15220202_10154844853909078_7129432128552474514_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15220202_10154844853909078_7129432128552474514_n.jpg
 ---
 **De laatste passage van The Amity Affliction was vorig jaar tijdens de ‘Never Say Die!’ tour van Impericon. Op vrijdag 2 december kwamen ze terug naar Trix in Antwerpen, dit keer samen met Northlane, Stray From The Path en Wage War. Veel van deze bands kwamen en zagen we al eens in de kleinere Trix Club. HeartBreakTunes zag dat deze bands een iets grotere venue verdienden en die kregen ze ook. Maar was de grote zaal van Trix wel groot genoeg?**
 

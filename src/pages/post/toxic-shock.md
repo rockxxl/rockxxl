@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-toxic-shock/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18836854_1406267046121826_3458718445501663696_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18836854_1406267046121826_3458718445501663696_o.jpg
 ---
 **Toxic Shock, de Antwerpse crossover band deed de laatste tijd enkele opvallende dingen. Zo brachten ze een split uit met Iron Reagan en Team Panini. Ook hun nieuwe album 'Twentylastcentury' gaat niet onopgemerkt voorbij. Toxic Shock ging in zee met producer Flemming Rasmussen die enkele Metallica albums op zijn naam heeft staan en bracht de band een videoclip uit die plaatsvind in New York. Wij spraken met gitarist Pieter om wat meer te weten te komen over het meer dan geslaagde 'Twentylastcentury'.**
 

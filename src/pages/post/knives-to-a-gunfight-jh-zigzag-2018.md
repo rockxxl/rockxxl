@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-knives-to-a-gunfight-jh-zigzag-2018/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/26992349_1525390227539386_5222656519561871334_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/26992349_1525390227539386_5222656519561871334_n.jpg
 ---
 **JH Zigzag in Merksplas was vrijdag 9 maart het schouwtoneel van een avond vol harde gitaren. Met de Antwerpse metalcoretrots Knives To A Gunfight vanboven aan de affiche wist het op voorrand al een geslaagde avond te worden.**
 

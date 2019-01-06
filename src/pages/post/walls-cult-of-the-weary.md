@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-walls-cult-of-the-weary/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17553879_776403229176013_3022306120509251093_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17553879_776403229176013_3022306120509251093_n.jpg
 ---
 Walls is een nieuwe hardcore/metalband die in februari 2016 voor het eerst van zich liet horen. Nu, een dik jaar later, komen ze aandraven met hun eerste EP 'Cult Of The Weary'.  Met dit schijfje (met sober, maar zeer fraai artwork) zet dit Antwerpse vijftal zicht meteen netjes tussen gevestigde waarden in de scene.
 

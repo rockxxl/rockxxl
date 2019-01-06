@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/win-duoticket-voor-gama-bomb-in-kavka/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/31356859_1641584059250779_28245440105283584_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/31356859_1641584059250779_28245440105283584_n.jpg
 ---
 Op donderdag 10 mei komen de Ierse thrash metal legendes van Gama Bomb naar de Kavka in Antwerpen. Het Nederlandse Distillator en het Belgische Speed Queen vervolledigden de affiche. Wil jij erbij zijn? Het kan! Heartbreaktunes en RockXXL geven een duoticket weg voor deze show!
 

@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-the-tossers-videoclip-erin-go-bragh/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/the-tossers-4df292e055d21.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/the-tossers-4df292e055d21.jpg
 ---
 The Tossers brachten onlangs hun nieuwe album 'Smash The Windows' uit. De band bracht zopas een videoclip uit voor het nummer 'Erin Go Bragh'.

@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuw-anti-flag-nummer-american-attraction/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/antiflag-cr-atomsplitter-billboard-1548.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/antiflag-cr-atomsplitter-billboard-1548.jpg
 ---
 **Anti-Flag** bracht zopas het nummer 'American Attraction' uit. Verdere info of wat er nog met het nummer gaat gebeuren is nog niet bekend.

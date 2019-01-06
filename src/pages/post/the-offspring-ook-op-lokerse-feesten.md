@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/the-offspring-ook-op-lokerse-feesten/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/offspring-official.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/offspring-official.jpg
 ---
 Pixies, Alice Cooper en Marilyn Manson hadden we al maar ook The Offspring komt naar de Lokerse Feesten liet de organisatie vandaag weten. De band zal op woensdag 9 augustus op het podium ik Lokeren staan.
 

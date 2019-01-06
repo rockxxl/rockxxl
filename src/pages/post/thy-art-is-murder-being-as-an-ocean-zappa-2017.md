@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-thy-art-is-murder-being-as-an-ocean-zappa-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17620217_1266094183471740_8375112362376236693_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17620217_1266094183471740_8375112362376236693_o.jpg
 ---
 Toen HeartBreakTunes de timetable online zette voor de Heaven and Hell tour, viel ons meteen op dat Thy Art Is Murder voor Being As An Ocean speelde, terwijl niemand dit verwachtte. CJ vertelde ons later op de avond dat de twee bands elke avond wisselen, dus bij deze is dit opgeklaard.
 

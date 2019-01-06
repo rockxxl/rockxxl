@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-forge-demo/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/cvoer-forge.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/cvoer-forge.jpg
 ---
 Geen facebookpagina of opnames, enkel een naam en een genre waren genoeg om Forge te laten openen voor het Australische Clowns. Ondertussen zijn we een dikke drie maand verder en is deze punkband aangekomen aan hun eerste halte: een demo. Haal die cassettespelers al maar vanonder het stof, want ook al zijn het maar drie nummers geworden, het is in elk geval wel de moeite.
 

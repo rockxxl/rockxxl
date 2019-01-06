@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/antwerpse-tribute-invasie-riot-boiler/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16423107_461374840653261_368752526114662871_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16423107_461374840653261_368752526114662871_o.jpg
 ---
 Veel nieuwe tribute bands en tribute show waren er niet de afgelopen jaren. Hans Rigouts en Stef Exelmans richtte beide Paramore tribute band 'Riot!' en Limp Bizkit tribute band 'Boiler' op.Nog niet zo heel lang geleden kregen we Bizkit Park en nu deze twee. Een duidelijk bewijs dat het concept tribute in het Antwerpse stilaan terugkeert!
   

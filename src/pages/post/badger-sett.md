@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-badger-sett/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Cover.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Cover.jpg
 ---
 Het Leuvense vasteland heeft er sinds kort weer een punkband bij: Badger. Met hun EP 'Sett' heeft Badger dan ook een eerste plaatje op hun naam staan. Slechts vier nummers van maximaal drie minuten. Kort, maar krachtig.
 

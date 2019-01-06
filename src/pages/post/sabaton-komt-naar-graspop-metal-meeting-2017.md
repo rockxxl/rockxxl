@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/sabaton-komt-naar-graspop-metal-meeting-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/Sabaton-Top-Interview-2014.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/Sabaton-Top-Interview-2014.jpg
 ---
 Het Zweedse gezelschap van Sabaton speelde gisteren in de Lotto Arena. De band bevestigde hun komst naar Graspop 2017 waar eveneens een gloednieuwe show zal gegeven worden. Sabaton is headliner mainstage 2 op zondag 18 juni.

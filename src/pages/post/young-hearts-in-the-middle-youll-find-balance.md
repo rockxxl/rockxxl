@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-young-hearts-in-the-middle-youll-find-balance/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/young-hearts.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/young-hearts.jpg
 ---
 Een band die de Belgische punkscene nog stevig op zijn kop gaat zetten is ongetwijfeld 'Young Hearts'. Dit vijftal speelt snelle, melodische en bij wijle ook chaotische punkrock. Hun eerste EP 'Now's My Time' heeft sinds maart een opvolger 'In The Middle You'll Find Balance', maar dit keer in de vorm van een langspeler. Maak je gordel alvast stevig vast want deze plaat gaat snel, heel snel!
 

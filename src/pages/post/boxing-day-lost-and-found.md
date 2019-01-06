@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-boxing-day-lost-and-found/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/18870770_10213731519868488_1092946268_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/18870770_10213731519868488_1092946268_n.jpg
 ---
 Hier is hij dan 'Lost and Found', de eerste EP van het Oost-Vlaamse Boxing Day. De EP bevat vier nummers waarvan we 'Either Way' en 'Loose Noose' al eerder te horen kregen op een beperkte oplage cassettes die slechts een maand verkrijgbaar waren. Boxing Day bestaat pas één jaar maar de band neemt flinke stappen en daar is 'Lost and Found' er zonder twijfel één van.
 

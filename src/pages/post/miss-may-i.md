@@ -8,7 +8,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/interview-miss-may-i/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/download.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/download.jpg
 ---
 **Op 18 april gingen we praten met Levi Benton en Ryan Neff van Miss May I op de Heaven and Hell tour in het Antwerpse Zappa. We hadden het over het tourleven, het publiek en over hun nieuwe werk.**
 

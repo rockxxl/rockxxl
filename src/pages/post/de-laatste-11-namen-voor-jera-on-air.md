@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/de-laatste-11-namen-voor-jera-on-air/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/30725296_2071988819510337_1365159697245536256_n.png
+  https://res.cloudinary.com/rockxxl/image/upload/30725296_2071988819510337_1365159697245536256_n.png
 ---
 Met Dog Eat Dog, Malevolence, Paceshifters, Red City Radio, Call It Off, Toxic Shock, I Against I, Beat The Red Light, Generation 84, Citizens Patrol en Year Of The Knife is de line-up van Jera On Air volledig. Het beloofd een stevige editie te worden en is een perfect initiatief voor de Belgen die elk jaar enkel naar Groezrock gaan.
 

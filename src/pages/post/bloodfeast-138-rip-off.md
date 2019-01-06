@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-bloodfeast-138-rip-off/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/15073356_339076589787510_3634242357180875783_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/15073356_339076589787510_3634242357180875783_n.jpg
 ---
 Misschien doet Bloodfeast 138 geen belletje rinkelen maar wat als ik zeg dat dit Oost Vlaamse vijftal een tribute brengt aan de Misfits… Ze kwamen aanzetten met hun eerste EP ‘Rip Off’. Rip Off telt vijf nummers waar van drie effectief. Geen ‘Dig Up Her Bones’ achtige toestanden maar enkel nummers die voorkomen op de ‘Earth A.D.’ plaat uit ‘83.
 

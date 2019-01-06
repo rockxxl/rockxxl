@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-cocaine-piss-the-dancer/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3892833783_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3892833783_10.jpg
 ---
 De laatste tijd is punk bezig aan een serieuze opmars. Ook het Luikse Cocaine Piss kunnen we na een dik jaar bijna een cultband gaan noemen. Cocaine Piss is geen katje om zonder handschoenen aan te pakken. Geen propere, doordachte poppunk, maar keiharde noisepunk die wordt bijgestaan door een ongelofelijk vettige sound. Met ‘The Dancer’ heeft Cocaine Piss 14 nieuwe nummers klaar die ze zelf omschrijven als een hoopje glimmende kots. Smakelijk!
 

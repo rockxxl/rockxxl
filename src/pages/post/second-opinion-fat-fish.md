@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-second-opinion-fat-fish/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/14915262_1798323483722305_608423489589546540_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/14915262_1798323483722305_608423489589546540_n.jpg
 ---
 Punkrock is aan een serieuze opmars bezig. Ook in ons kleine Belgenlandje schieten de gigs als paddenstoelen uit de grond. Het is dan natuurlijk niet te overzien dat er ook nieuwe bands opstaan, Second Opinion bijvoorbeeld. Deze jonge band uit Tienen bestaat ongeveer een dik jaar en dat wordt gevierd met een eerste EP: Fat Fish.
 

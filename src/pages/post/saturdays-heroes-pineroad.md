@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-saturdays-heroes-pineroad/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a3210624629_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a3210624629_10.jpg
 ---
 Zweden is zonder twijfel een grote speler in de wereld van metal. Hoewel dit land veel acts zoals pakweg Sabaton en Amon Amarth op de wereld afstuurt, blijft de Zweedse punkscene stevig onder de radar. Enkel bands als Millencolin en No Fun At All krijgen de aandacht die ze verdienen. Het eveneens Zweedse Saturday’s Heroes doet nu ook een sprong in het diepe met hun tweede langspeler ‘Pineroad’ en wat voor één is dat geworden!
 

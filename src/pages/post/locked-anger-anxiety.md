@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-locked-anger-anxiety/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_od6irgD1j41uncqs0_1280.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_od6irgD1j41uncqs0_1280.jpg
 ---
 Een album uitbrengen rond de tijd dat je aankondigt dat je band gaat stoppen. Dit is het geval bij de heren van Locked. Ze kondigde vorige week aan ermee op te houden en volgende maand komt hun EP ‘Anger & Anxiety’ uit. Natuurlijk is er geen betere manier om zo op te houden met een band, maar hoe klinken die laatste songs nu eigenlijk?
 

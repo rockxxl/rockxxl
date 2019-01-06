@@ -7,6 +7,6 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-videoclip-van-trash-boat-shade/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/89236f1bfb111772725700b440390dcb.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/89236f1bfb111772725700b440390dcb.jpg
 ---
 Het nieuwe Trash Boat album 'Crown Shyness' komt uit op 20 juli. In afwachting van dit album liet de band alvast een eerste single op de wereld los.

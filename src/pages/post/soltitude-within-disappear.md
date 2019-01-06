@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-soltitude-within-disappear/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/klaarra.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/klaarra.jpg
 ---
 <p style="background: white; margin: 7.5pt 0cm 7.5pt 0cm;">
   <span style="font-size: 10.5pt; font-family: 'Open Sans','serif'; color: #2e2e2e;">De Belgische female fronted metalband Solitude Within bracht onlangs hun debuutalbum ‘Dissapear’ uit. Ook al bestaat de band nog sinds 2014, toch hebben ze er al een paar mooie optredens opzitten in zowel het binnen- als buitenland. Zo speelde ze in de finale ‘Battles van Olenfest’ en vlogen ze al naar de VS en Malta.</span>

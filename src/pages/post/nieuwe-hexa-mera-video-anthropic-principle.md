@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-hexa-mera-video-anthropic-principle/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16252182_1324672520889098_3477984979230228662_o.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16252182_1324672520889098_3477984979230228662_o.jpg
 ---
 De Belgische melodic death metal band Hexa Mera stond onlangs voor de tweede maal op Graspop. Om dit te vieren bracht de band een video uit van het nummer 'Anthropic Principle' met live beelden van Graspop.
 

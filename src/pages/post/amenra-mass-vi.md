@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-amenra-mass-vi/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/a2229860900_10.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/a2229860900_10.jpg
 ---
 Hoewel het West-Vlaamse Amenra de laatste jaren verschillende splits, live albums en een akoestisch album uitbracht was het toch alweer zes jaar wachten op hun nieuwe langspeler 'Mass VI'. Overlijdens en het ernstig ziek worden van verschillende personen die dicht bij de band staan gaf Amenra genoeg stof voor het schrijven van een nieuwe, emotionele plaat. En wauw, het is er eentje geworden om je vingers bij af te likken. Maak je borst maar nat, want 'Mass VI' is misschien wel de donkerste plaat van het jaar.
 

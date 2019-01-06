@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-temptations-for-the-weak-banished-heroes/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/22491575_1684153774948182_364403623473517818_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/22491575_1684153774948182_364403623473517818_n.jpg
 ---
 Temptations For The Weak is al lang geen onbekende meer in de Belgische metalscene. Na hun debuut 'Spoken Silence' dat uit kwam in 2012, kreeg de band de kans om in 2014 Graspop af te trappen. Daar hebben ze dan ook het dak van de Metal Dome er af gespeeld. In 2015 kwam hun tweede langspeler 'Black Vision' uit en in 2017 stelde ze hun nieuwe EP 'Banished Heroes' voor.
 

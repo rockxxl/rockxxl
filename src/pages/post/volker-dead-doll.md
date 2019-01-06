@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-volker-dead-doll/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/17799924_1706673606299997_8739409381805279800_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/17799924_1706673606299997_8739409381805279800_n.jpg
 ---
 Het Franse Volker kwam zopas aanzetten met hun eerste langspeler 'Dead Doll'. We deden eerder al wat research over de band en waren benieuwd wat dit vijftal voor ons in petto heeft. De band beschrijft hun stijl als een mix van horrorpunk, grunge en rock. Dit alles met een zangeres Jen aan de micro, dat belooft!
 

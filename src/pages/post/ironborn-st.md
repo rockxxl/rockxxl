@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-ironborn-st/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/seppe-ironborn.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/seppe-ironborn.jpg
 ---
 De Waregemse metalband Ironborn (2014) bracht recent een EP uit met zes sterke tracks waaronder een ode aan de legendarische Lemmy Kilmister. Ze bestaan nog maar drie jaar, maar het is duidelijk dat deze mannen weten voor welke sound ze willen gaan. Met Metallica, Judas Priest, Iron Maiden en Slayer als hun grote voorbeelden, weet je wat je te wachten staat tijdens het beluisteren van deze selftitled EP.
 

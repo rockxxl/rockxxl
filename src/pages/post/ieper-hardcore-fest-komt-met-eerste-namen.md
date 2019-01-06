@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /news/ieper-hardcore-fest-komt-met-eerste-namen/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16864393_10154811384240255_5735679029478348189_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16864393_10154811384240255_5735679029478348189_n.jpg
 ---
 Het West-Vlaamse hardcore festival 'Ieper Fest' kwam vandaag aanzetten met de eerste namen voor het festival. Met o.a. Terror, Napalm Death en Defeater op de affiche is het al bijna zeker dat de 25ste verjaardag van het festival een absolute topper wordt!
 

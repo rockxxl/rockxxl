@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-legion-to-kill-betrayal-of-the-fallen/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/11870774_485005748331507_2625359037190448426_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/11870774_485005748331507_2625359037190448426_n.jpg
 ---
 Je moet het maar doen, als kleine band een EP uitbrengen in 2015, en op het einde van het volgende jaar al door Japan touren. Wel, het is Legion To Kill gelukt. Hoe is hen dit gelukt? Mede door deze EP.
 

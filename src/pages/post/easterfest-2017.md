@@ -7,7 +7,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-easterfest-2017/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16998240_10208428140283339_53361523186303396_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16998240_10208428140283339_53361523186303396_n.jpg
 ---
 **Het was de allereerste editie van Easterfest waar lokale hardcore/punk/metal bands een plaats kunnen vinden op het podium. Voor de eerste editie kon de organisatie al vele straffe namen binnen de Belgische muziekscene bemachtigen dus ik vond het zeker nodig om naar Easterfest te trekken.**
 

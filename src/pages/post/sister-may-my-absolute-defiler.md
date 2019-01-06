@@ -9,7 +9,7 @@ author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-sister-may-my-absolute-defiler/
 thumbnail: >-
-  http://res.cloudinary.com/rockxxl/image/upload/16265917_1642249372747492_3649620135149402787_n.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/16265917_1642249372747492_3649620135149402787_n.jpg
 ---
 Pas vorig jaar werd de West-Vlaamse rockband Sister May opgericht. Een klein jaar later komt de band aanzetten met hun eerste plaatje ‘My Absolute Defiler’. Deze in de vorm van een EP met vier nummers. De artwork ziet er alvast dik oke uit, maar is de muziek dat ook?
 
