@@ -6,7 +6,8 @@ date: 2017-05-31T14:18:42+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-jera-on-air/
-image: 17796176_1541197222589502_7617440270522174901_n.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/17796176_1541197222589502_7617440270522174901_n.png
 ---
 **Wat Groezrock is in België, is Jera On Air in Nederland: punkrock & hardcore. Het festival in Ysselsteyn is ondertussen al aan zijn 25e editie toe. Moeite met het maken van een geschikte watchlist? Hier alvast enkele bands die je volgens RockXXL zeker niet mag missen:**
 **1) While She Sleeps** 

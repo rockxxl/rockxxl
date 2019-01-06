@@ -6,7 +6,8 @@ date: 2018-03-25T13:38:46+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-tornadofest-2018/
-image: 29187059_10156192407932766_5576946009436585984_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/29187059_10156192407932766_5576946009436585984_n.jpg
 ---
 **51 jaar geleden werd het Kempische dorp Oostmalle getroffen door een Tornado. Gisteren zakte we af naar Oostmalle voor Tornadofest. Een beatdown, slam, hardcore, deathcore,… (als het kind maar een naam heeft) show georganiseerd ten voordele van de lokale KLJ. Misschien een grappig idee, maar het was zeer goed georganiseerd en een extra show is altijd welkom. Als kers op de taart wist Tornadofest het Duitse Spawn Of Disgust te boeken, dat beloofd!** 
 

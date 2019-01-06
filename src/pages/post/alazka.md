@@ -7,7 +7,8 @@ date: 2018-05-14T18:44:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-alazka/
-image: 30167387_1729463600472645_8376228245183222276_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/30167387_1729463600472645_8376228245183222276_o.jpg
 ---
 **Het Duitse Alazka is op tour met Polaris en The Plot In You. Ze hielden halt in het Antwerpse Zappa. Na een naamsverandering timmert de band met hun tweede album 'Phoenix' een weg naar boven. Wij spraken met zanger Tobias over zijn nieuwe rol binnen de band,  het zware tourleven en hun toekomstplannen.**
 

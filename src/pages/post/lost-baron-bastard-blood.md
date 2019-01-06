@@ -8,7 +8,8 @@ date: 2017-12-02T11:11:26+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-lost-baron-bastard-blood/
-image: a4134940843_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a4134940843_10.jpg
 ---
 Na een eerste demo is het West-Vlaamse Lost Baron terug met hun nieuwste wapenfeit: Basterd Blood. Vier songs lang sta je garant voor een portie sludge metal van jewelste, of zoals de band hun genre zelf omschrijft: death ‘n’ roll. Stap mee in hetzelfde bootje van bands als High On Fire en houd je goed vast want het kan wel eens een stevige rit gaan worden.
 

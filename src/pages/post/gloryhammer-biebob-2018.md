@@ -6,7 +6,8 @@ date: 2018-01-27T17:16:35+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-gloryhammer-biebob-2018/
-image: gloryyy.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/gloryyy.jpg
 ---
 **Draken vlogen over Vosselaar, eenhoorns marcheerde door de weides van dit Kempische dorp en ook hier en daar kwamen er goblins uit rioolputten gekropen. Het kon dan ook niet anders dan dat het Britse Gloryhammer hun kamp kwam opzetten in de Biebob. Met Civil War en Dendera op het programma beloofde het een avond te worden die onze verbeelding de ruimte gaf om onze geeky zelf te zijn.**
 

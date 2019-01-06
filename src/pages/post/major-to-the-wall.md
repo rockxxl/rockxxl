@@ -8,7 +8,8 @@ date: 2017-03-22T14:07:24+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-major-to-the-wall/
-image: a3136065565_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a3136065565_10.jpg
 ---
 Het is nog een maand wachten tot de nieuwe EP 'With So Much Open Space' van het Kortrijkse Major uitkomt. In afwachting van hun nieuwe werk namen wij hun eerste demo/ EP 'To The Wall' onder de loep. Als kers op de taart werden deze vier emo rock nummers enkel uitgebracht op old school cassettes.
 

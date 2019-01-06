@@ -8,7 +8,8 @@ date: 2016-06-01T22:21:20+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-neufchatel-fluids/
-image: a4289832607_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a4289832607_10.jpg
 ---
 Het is al weer bijna een jaar geleden dat ‘Fluids’ van het Brusselse Neufchâtel werd uitgebracht. We hebben op één of andere manier deze plaat, of liever EP, wat later zien verschijnen, maar liever laat dan nooit natuurlijk. ‘Fluids’ is over het algemeen gewoon een rockplaat, maar laat je niet ontmoedigen! Wacht maar tot je zijn mysterieuze kantjes leert kennen.
 

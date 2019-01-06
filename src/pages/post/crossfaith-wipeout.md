@@ -8,7 +8,8 @@ date: 2018-01-30T16:15:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-crossfaith-wipeout/
-image: u4jhLnLxY_g.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/u4jhLnLxY_g.jpg
 ---
 Als ik denk aan de band Crossfaith zie ik een zootje ongeregelde Japanners, springen, dansen en show verkopen voor me. Voor degene die hen live aan het werk zagen tijdens GMM ’14: jullie begrijpen wat ik bedoel. Voor wie de referentie (nog) niet snapt, laten we zeggen dat een hoop cavia’s op speed in de buurt komen van de hoeveelheid energie dat deze mannen afgeven tijdens een live optreden. Steek hardcore, metal en elektronische muziek in de blender en daarmee is de sound van Crossfaith beschreven. Het laatste wat ze uitbrachten was de single ‘Freedom’ in samenwerking met Roughton Reynolds (Enter Shikari). Met deze single in het achterhoofd duik ik hun nieuwste creatie binnen namelijk: Wipeout. Op deze EP staan slechts drie nummers: ‘Wipeout’, ‘Inside Out’ en ‘Vermillion Gold’.
 

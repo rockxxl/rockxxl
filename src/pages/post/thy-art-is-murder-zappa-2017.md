@@ -6,7 +6,8 @@ date: 2017-10-31T10:49:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/review-thy-art-is-murder-zappa-2017/
-image: thy-art.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/thy-art.jpg
 ---
 **Op Vrijdag 27 oktober kwamen de helden van Thy Art Is Murder weer een keer naar de Zappa in Antwerpen. De line-up was een echte banger. Deze gig werd mede mogelijk gemaakt door HeartBreakTunes en wij met RockXXL gingen kijken hoe het er aan toe ging.**
 

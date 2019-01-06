@@ -8,7 +8,8 @@ date: 2018-05-16T18:15:36+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-here-stands-a-hero-atheist-omnist/
-image: 31532899_1679548225500685_632536584054374400_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/31532899_1679548225500685_632536584054374400_n.jpg
 ---
 In 2016 werden we verliefd op de EP 'Hollow Hearts' van het Lierse Here Stands A Hero. Dit veel te korte schijfje heeft hen zeker geen windeieren gelegd. Ze trokken tot ver buiten onze landsgrenzen om podia plat te spelen en tekenden bij het Amerikaanse Imminence Records. Nu zijn ze terug met hun eerste full album dat de naam ‘Atheist // Omnist’ meekreeg. Het artwork ook sober, maar is met de twee gekleurde sleutels zeer geslaagd. Benieuwd hoe het klinkt.
 

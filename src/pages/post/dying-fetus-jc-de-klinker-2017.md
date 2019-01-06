@@ -6,7 +6,8 @@ date: 2017-11-11T11:10:52+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-dying-fetus-jc-de-klinker-2017/
-image: sfsfs.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/sfsfs.jpg
 ---
 **Op woensdag 8 november kwamen de death metal helden van Dying Fetus JC de Klinker in Aarschot onveilig maken. De line-up telde vier brutale bands voor alle death metal fans in België.**
 HeartBreakTunes

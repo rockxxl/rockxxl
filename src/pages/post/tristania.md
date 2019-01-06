@@ -7,7 +7,8 @@ date: 2016-10-31T16:58:48+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /interview/interview-tristania/
-image: tristania-8099.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/tristania-8099.jpg
 ---
 **Na een change-over van zangeres in 2009 wisselde het Noorse Tristania de klassieke operajurk in voor een modern leren frakske. Met Mariangela als zangeres is de band een nieuwe weg ingeslagen en bevaren ze andere wateren. RockXXL mocht hen even aan de tand voelen tijdens het Metal Female Voices Fest in Wieze en zodus…**
 **Voor diegenen die Tristania niet kennen, kunnen jullie ons een kleine toelichting geven over de band?**

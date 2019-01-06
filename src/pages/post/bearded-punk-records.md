@@ -7,7 +7,8 @@ date: 2018-03-26T18:35:33+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-bearded-punk-records/
-image: Image-1.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/Image-1.jpg
 ---
 **Bearded Punk Records, het meest actieve punkrock label van België had in 2017, om het zacht uit te drukken, een topjaar. Bjorn en co brachten een release uit van o.a. het Amerikaanse The Dopamines en de Belgische punkrocktrots The Priceduifkes. Wij gingen praten met Bjorn over de toekomst, het verleden en de liefde voor punkrock.**
 

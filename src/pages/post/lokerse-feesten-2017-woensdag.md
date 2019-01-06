@@ -6,7 +6,8 @@ date: 2017-08-11T10:48:17+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-lokerse-feesten-2017-woensdag/
-image: lokerseeeeee.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/lokerseeeeee.jpg
 ---
 **Voor de eerste keer in 43 jaar tijd kondigde de Lokerse Feesten dit jaar een punk dag aan. Met niemand minder dan The Offspring en Pennywise vanboven aan de affiche kon het op 9 augustus niet anders dan een groot feest worden op de Grote Kaai in Lokeren. Wij gingen een kijkje nemen op dit uiterst gezellige festival met enkele ups en downs als gevolg.**
 Openen deed de Lokerse Feesten deze keer met het Engelse **Slaves**. Dit duo heeft in België nog niet meteen voet aan grond en dat was te merken aan een zeer matig gevulde festivalweide. Iedereen die enkel kwam voor de grotere namen had echter ongelijk. Met enkel een floor tom, snare drum, twee cymbalen en een gitaar werd de volledige show van Slaves gegeven. Minimalistisch, maar met de overgave die deze twee heren in hun show stopte veranderde een leeg podium in een walhalla van sfeer, energie en garagerock. Slaves was de verrassing van de dag en het 40 seconde durende 'Fuck The Hi-Hat' zal nog lang in ons hoofd blijven rondspoken.

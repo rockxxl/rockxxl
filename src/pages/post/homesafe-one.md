@@ -8,7 +8,8 @@ date: 2018-07-22T10:18:06+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-homesafe-one/
-image: homesafe.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/homesafe.jpg
 ---
 Ja, we weten het. ’t Is warm weer en daar wordt een mens nogal moe van. In de hangmat met een boek en wat achtergrondmuziek lijkt een goed alternatief voor niets doen. Ideaal als zogeheten ‘behangmuziek’ bij dat hangmathangen is het nieuwe album 'One' van Homesafe. Nagelnieuw zelfs, als in debuutalbum nieuw! Homesafe kent z’n roots in Illinois en brengt ons naast een chille sound ook een bekend gezicht. Namelijk Ryan Rumchaks, inderdaad ‘dienen bassist van Knuckle Puck.
 

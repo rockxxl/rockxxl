@@ -8,7 +8,8 @@ date: 2018-03-06T11:21:26+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-krang-singalong/
-image: a0725073402_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a0725073402_10.jpg
 ---
 Voor de punkers van Krang uit Tsjechië begon het nieuwe jaar goed. Ze kwamen namelijk aanzetten met hun tweede full album ‘Singalong’. We krijgen elf gloednieuwe nummers voorgeschoteld en de hele plaat duurt slechts achttien minuten. Kwantiteit valt al uit te sluiten, maar hoe zit het met de kwaliteit?
 

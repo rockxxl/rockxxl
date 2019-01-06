@@ -7,7 +7,8 @@ date: 2018-06-23T20:36:35+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-anti-flag/
-image: Anti-Flag.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/Anti-Flag.jpg
 ---
 **Op Graspop Metal Meeting zat RockXXL rond tafel met Anti-Flag drummer Pat Thetic. Anti-Flag is de politieke punkband bij uitstek. Eind vorig jaar kwam hun nieuw album ‘American Fall’ uit, waarmee ze een uitgebreide mening gaven over het presidentschap van Donald Trump en de huidige situatie in Amerika. Hierover ging dan ook ons gesprek.**
 **In november kwam jullie nieuw album ‘American Fall uit’. Jullie vorige plaat kreeg de naam ‘American Spring’. Wat is de gelijkenis of het verschil tussen deze twee albums?**

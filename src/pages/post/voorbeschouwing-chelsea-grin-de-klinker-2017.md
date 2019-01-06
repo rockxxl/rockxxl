@@ -6,7 +6,8 @@ date: 2017-01-31T17:56:03+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-chelsea-grin-de-klinker-2017/
-image: 15267521_1148613011886525_3477895762962650862_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/15267521_1148613011886525_3477895762962650862_n.jpg
 ---
 **Vrijdag 3 februari organiseert HeartBreakTunes weer een avond vol gitaargeweld in De Klinker in Aarschot. De avond zal opgevuld worden met bands die voornamelijk Deathcore en Metalcore spelen, dus je bereidt jezelf best voor op heel wat stagedives, breakdowns en alles wat er bij zo’n shows komt kijken.**
 

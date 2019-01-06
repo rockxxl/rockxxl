@@ -6,7 +6,8 @@ date: 2017-04-03T15:21:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-hundredth-trix-2017/
-image: 17022475_1297461726966668_5286234047588962746_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/17022475_1297461726966668_5286234047588962746_n.jpg
 ---
 **De deuren openden om 19:30 uur en een uitverkochte Trix stond ons op te wachten. Met Hundredth, Landscapes en Silent Planet zet Mendville Shows een ietwat atypische hardcore line-up neer. De namen klonken alleszins veelbelovend en ik had er ongelofelijk veel zin in.**
 

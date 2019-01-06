@@ -6,7 +6,8 @@ date: 2017-10-25T10:37:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-thy-art-is-murder-zappa-2017/
-image: thy-art.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/thy-art.jpg
 ---
 HeartBreakTunes organiseert op vrijdag 27 oktober weer groot feest in Zappa te Antwerpen. De Australische deathcore troonzitters van Thy Art Is Murder komen weer ons land veroveren. Samen met After The Burial, Oceano (die er even uit zijn geweest) en Justice For The Damned hebben ze de Dear Desolation European Tour samengesteld. Hier lees je wat je kan verwachten van deze show.
 

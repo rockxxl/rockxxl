@@ -6,7 +6,8 @@ date: 2018-01-18T21:57:22+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-esns-loud-live-2018/
-image: 26195895_10156171551819073_4814920498282553418_n.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/26195895_10156171551819073_4814920498282553418_n.png
 ---
 **Ook dit jaar stonden er op het showcase festival Eurosonic Noorderslag in Groningen weer een hele hoop metal bands dankzij ESNS Loud. Een zij-evenement was ESNS Loud Live, waarop de Belgen van Diablo Blvd en het Nederlandse Sisters Of Suffocation het beste van zichzelf gaven, terwijl onze sympathieke oosterburen van Wacken Open Air de zaal verwende met enkele gratis drankjes.**
 

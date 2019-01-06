@@ -6,7 +6,8 @@ date: 2017-11-05T19:17:16+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-nails-muziekodroom-2017/
-image: 22688018_1457058627708627_2778917726773393615_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/22688018_1457058627708627_2778917726773393615_n.jpg
 ---
 Morgen vindt er in Hasselt één van de ruigste, snelste en hardste shows van het jaar plaats. Powerhouse Nails komt, nadat ze vorig jaar hun tour met Full Of Hell plots cancelden met weinig redenen, werd het even stil rond Nails. Ze bleken echter nooit een pauze te hebben genomen. Daarna brachten ze een split uit met Full Of Hell, met wie ze normaal door Europa gingen touren en leken ze weer helemaal terug te zijn. De support wordt voorzien door het beste wat België te bieden heeft op dit vlak.
 

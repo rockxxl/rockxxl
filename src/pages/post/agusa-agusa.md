@@ -8,7 +8,8 @@ date: 2017-11-30T21:44:41+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-agusa-agusa/
-image: a2581895878_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a2581895878_10.jpg
 ---
 De Zweedse progressieve folkrock band Agusa bracht zopas hun gelijknamig derde album uit. We krijgen slechts vijf nummers voorgeschoteld en toch duurt dit plaatje maar liefst 45 minuten. De zang die op vorige albums lichtelijk aanwezig was, is bij deze helemaal verdwenen. Dit maakt alles net dat tikkeltje interessanter, maar het moet natuurlijk wel blijven boeien.
 

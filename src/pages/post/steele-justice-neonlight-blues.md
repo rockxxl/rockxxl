@@ -8,7 +8,8 @@ date: 2017-11-27T14:19:02+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-steele-justice-neonlight-blues/
-image: a4187820607_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a4187820607_10.jpg
 ---
 Na gespeeld te hebben in hardcore bands als Violent City, Rabid Wolves en Get Out besloot dit Genkse vijftal het over een andere boeg te gooien. Zo werd Steele Justice geboren en met een eerste EP ‘… That Sure Escalated Quickly’ wees de band al meteen naar hun snelle start. Een dik jaar en een hele hoop optredens later is Steele Justice terug met hun nieuwste wapenfeit ‘Neonlight Blues’. Fasten your seatbelts and get ready for a trip back to the 90’s.
 

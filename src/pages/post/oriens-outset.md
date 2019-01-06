@@ -8,7 +8,8 @@ date: 2017-04-20T16:44:39+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-oriens-outset/
-image: oreins.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/oreins.jpg
 ---
 De Antwerpse rockband Oriens mag dit jaar vijf kaarsjes uitblazen. Dit vieren ze met hun eerste album: Outset. 'Outset' telt tien nummers die stuk voor stuk stevig rocken. De muziek van Oriens doet ons denken aan pakweg Triggerfinger en Royal Blood. Op de dag van vandaag zijn er niet super veel &#8220;gewone&#8221; rockbands meer in België. Oriens is dit genre zeker nog niet uitgespeeld. Dat wordt dubbel en dik bewezen met dit debuut.
 

@@ -8,7 +8,8 @@ date: 2017-08-25T13:11:42+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-mark-my-way-the-big-game/
-image: 20106540_1675731549104822_410703919206271363_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/20106540_1675731549104822_410703919206271363_n.jpg
 ---
 Je nieuwe EP kunnen releasen in het gezelschap van Slapshot, No Turning Back en Hatebreed? Voor menig Belgische hardcoreband is dit een utopie, maar voor Mark My Way uit Ieper werd dit realiteit. Dit vijftal opende enkele weken geleden de main stage van Ieper Hardcore Fest waar ze van de gelegenheid gebruik maakte om hun nieuwe schijfje te promoten. The Big Game is (als we de single ‘Eyes See You Through’ buiten beschouwing laten) al het derde wapenfeit van Mark My Way. Hun eerste EP dateert al van 2012. We kunnen het dus bezwaarlijk nieuwskomers in de hardcorescene noemen, al zijn het in onze contreien nog nobele onbekenden. Hoog tijd om daar verandering in te brengen.
 

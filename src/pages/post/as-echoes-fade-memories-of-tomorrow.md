@@ -8,7 +8,8 @@ date: 2017-03-14T16:16:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-as-echoes-fade-memories-of-tomorrow/
-image: as-echoes-fade-...-verena.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/as-echoes-fade-...-verena.jpg
 ---
 De vijfkoppige metalcore/melodic hardcore band As Echoes Fade (uit mijn knusse hometown Lier) werd gevormd in 2012. Nadat ze het podium al deelden met bands als o.a. Set Things Right, Moments en Knives to a Gunfight, brachten ze zopas hun eerste plaat uit genaamd 'Memories of Tomorrow'.
 

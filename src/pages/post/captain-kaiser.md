@@ -7,7 +7,8 @@ date: 2018-08-09T06:38:33+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-captain-kaiser/
-image: 36883430_1292966824139871_7842316279099686912_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/36883430_1292966824139871_7842316279099686912_n.jpg
 ---
 **Een band die stilaan meer en meer op het podium te zien is, is de Kempische punkband Captain Kaiser. Met hun eerste album ‘Dog Days On Deck’ onder de arm kreeg Captain Kaiser de kans om op te treden op Sjock Festival. Als dat nog niet genoeg is stampte dit vijftal een nieuw festival uit de grond: Kaiser Fest. Aan het roer staat zanger Sascha. Waarmee wij even gingen praten.**
 

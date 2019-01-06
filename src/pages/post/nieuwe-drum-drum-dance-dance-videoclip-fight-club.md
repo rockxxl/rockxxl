@@ -6,6 +6,7 @@ date: 2017-04-12T14:54:22+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-drum-drum-dance-dance-videoclip-fight-club/
-image: 9141_973485909384681_915528867638535735_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/9141_973485909384681_915528867638535735_n.jpg
 ---
 Het nieuwe Drum Drum Dance Dance album 'Panda' komt binnenkort uit. De band liet in afwachting van het album een videoclip op de wereld los 'Fight Club'.

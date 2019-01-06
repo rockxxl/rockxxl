@@ -6,7 +6,8 @@ date: 2017-08-29T18:04:18+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-akkerpop-2017/
-image: 20914197_1564803976873345_1815932283458824214_n.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/20914197_1564803976873345_1815932283458824214_n.png
 ---
 **Akkerpop in Meer bestaat dit jaar 30 jaar en dat moest gevierd worden. De line up bestond uit de top van de Belgische underground muziekscene. Headliner van dienst was Brutus, maar ook Double Veterans, Toxic Shock, The Priceduifkes en vele meer blonken op de affiche. Spijtig genoeg was dit het laatste jaar dat Akkerpop doorging aan het klooster in Meer. Wij namen een kijkje en zagen dat het goed was.**
 

@@ -6,7 +6,8 @@ date: 2018-06-07T09:04:14+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-sjock-festival/
-image: 30124052_10212048948435908_3981074273237421404_n-1.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/30124052_10212048948435908_3981074273237421404_n-1.jpg
 ---
 **6, 7 en 8 juli wordt de Poeyelhei in Gierle weer omgetoverd tot het jaarlijkse Sjock Festival. Met enkele grootheden uit de punkrock en een mooi aantal Belgische bands weet Sjock ook dit jaar mooie line up neer te zetten. Meer is er niet nodig voor een gezellig weekend vol punk en rock 'n' roll. Wij kozen acht bands uit die wij de moeite vinden om te checken op Sjock!**
 

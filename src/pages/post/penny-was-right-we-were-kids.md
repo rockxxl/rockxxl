@@ -8,7 +8,8 @@ date: 2016-06-07T11:24:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-penny-was-right-we-were-kids/
-image: a3957582815_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a3957582815_10.jpg
 ---
 Het Franse Penny Was Right kwam onlangs aanzetten met hun tweede EP ‘We Were Kids’. Zes nummers lang sta je garant voor poppunk met nummer over skateboarden en ex’liefje. Penny Was Right is in vergelijking met vele andere bands female fronted en ook de melodische kant van de muziek is bij dit Franse gezelschap een zeer belangrijke factor.
 

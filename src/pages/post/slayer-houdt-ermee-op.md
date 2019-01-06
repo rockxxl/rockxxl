@@ -6,7 +6,8 @@ date: 2018-01-22T18:54:15+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/slayer-houdt-ermee-op/
-image: 8c81130db7b5f933412c4906c30327817f1e1b43.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/8c81130db7b5f933412c4906c30327817f1e1b43.jpg
 ---
 Na bijna 40 jaar dienst gedaan te hebben als grondlegger van thrash metal stopt het Amerikaanse **Slayer** ermee. De band liet dit via facebook weten in een video die eveneens liet weten dat er wel nog een laatste tour aankomt. De datums zijn nog niet bekend.
 

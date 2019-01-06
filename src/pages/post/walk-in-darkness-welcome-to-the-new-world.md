@@ -8,7 +8,8 @@ date: 2018-03-27T15:25:48+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-walk-in-darkness-welcome-to-the-new-world/
-image: a0082174919_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a0082174919_10.jpg
 ---
 The band Walk in Darkness (2015) bracht in februari hun tweede album ‘Welcome To The New World’ uit, exact een jaar na hun eerste album ‘In The Shadow oOf Things’. De band is vermoedelijk van Italiaanse herkomst, maar dit kan niet bevestigd worden want vier van de vijf bandleden wensen anoniem te blijven. Hun zangeres Nicoletta Rosellini, afkomstig van Toscane, zingt ook bij de band Kaldia.
 

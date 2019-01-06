@@ -8,7 +8,8 @@ date: 2016-06-01T22:20:39+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/mozz-ongeneesbaar/
-image: 1003609_1024249694328766_1400677830927640145_n.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/1003609_1024249694328766_1400677830927640145_n.png
 ---
 Onze noorderburen zijn altijd al een voortrekker geweest op het vlak van punkbands in eigen taal. We denken hierbij aan De Heideroosjes en Neuk!. Hoewel deze bands al verscheidene jaren meegaan en De Heideroosjes ondertussen ook gestopt zijn, zijn er een aantal band die de eer van het Nederlandse punkwereldje verderzetten. Neem nu het Rotterdamse Mozz. Dit vier-tal kwam aanzetten met hun debuutplaat of laat ons zeggen debuut EP ‘Ongeneesbaar’.
 

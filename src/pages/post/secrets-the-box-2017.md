@@ -6,7 +6,8 @@ date: 2017-12-10T14:04:11+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-secrets-the-box-2017/
-image: 22008096_1604314872933980_885386654564824470_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/22008096_1604314872933980_885386654564824470_n.jpg
 ---
 **Op een koude vrijdagavond bereikten we na een uurtje rijden de Limburgse gemeente Tessenderlo waar vanavond de tourcaravaan van Secrets en Our Hollow Our Home halt zal houden. Als je niet van de streek bent is de zaal vinden geen sinecure. Wegwijzers staan er niet en de naam van de zaal staat niet op het gebouw, maar na een beetje zoekwerk en dankzij een geparkeerde tourvan met Britse nummerplaat  konden we toch nog keurig op tijd ons ticket inwisselen tegen een stempel. De zaal was kleiner dan verwacht, maar de verwarming stond aan en de instrumenten van de eerste band stonden te wachten om de avond op gang te trappen.**
 

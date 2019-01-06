@@ -7,7 +7,8 @@ date: 2018-01-12T20:05:54+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-the-penske-file/
-image: 20994232_1533421133386982_5448356111535561427_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/20994232_1533421133386982_5448356111535561427_n.jpg
 ---
 **De Canadese punkband The Penske File trekt voor de tweede keer op Europese tour. Met de Europese release van hun album ‘Burn Into This’ achter de rug en een nieuwe plaat in het vooruitzicht, vonden wij het tijd om eens een praatje te slaan met dit uiterst sympathieke trio. ** 
 

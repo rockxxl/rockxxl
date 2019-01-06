@@ -7,7 +7,8 @@ date: 2017-10-29T12:45:00+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-this-means-war/
-image: this-meansss.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/this-meansss.jpg
 ---
 **De Oostmalse hardcore punk band Convict** **rond de broers Bert en Dries Van Dijck stopte** **er** **onlangs voor een tweede keer mee****. Ditmaal na hun tour met niemand minder dan Agnostic Front. Niet veel later kondigde dit duo hun nieuwe band aan: This Means War. Ondertussen b****racht This Means War een plaat uit op Pirate Press Records in Amerika en staan er een hele hoop interessante shows op deze heren te wachten. Tijd om eens aan tafel te zitten met zanger Bert Van Dijck.**
 

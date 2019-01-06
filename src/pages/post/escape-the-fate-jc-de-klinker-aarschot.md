@@ -6,7 +6,8 @@ date: 2018-01-28T13:16:04+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-escape-the-fate-jc-de-klinker-aarschot/
-image: escape.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/escape.jpg
 ---
 **Op dinsdag 23 februari zakte Escape The Fate af naar JC De Klinker in Aarschot op vraag van HeartBreakTunes. De band is op tour door Europa om hun recentste werk 'Hate Me' voor te stellen, al is deze ondertussen bijna drie jaar oud. Hun nieuw album 'I Am Human' komt dit jaar op 16 februari uit en hiervan werden ook enkele nummers gespeeld. De support werd verzorgd door Set To Stun en Shields.**
 De Engelse band **Shields** kreeg de eer om de avond af te trappen. Deze heren komen uit Londen en spelen een mix van hardcore en metal. De ruwe vocals van zanger Joe Edwards worden goed ondersteund door gitarist Sam Kubrick zijn clean vocals. Lekker agressief, maar met een melodisch randje. Hoewel de band met veel energie en een goede spirit het podium opging, hadden ze toch moeite om het publiek te overtuigen, maar de zaal was dan ook nog niet volledig gevuld. De band zal dit jaar nog een album uitbrengen. Tot deze tijd moeten we het doen met single 'It’s Killing Me' dat zopas gereleased werd. Het publiek wist die alvast wel te smaken. Dat konden we zien aan de verschillende knikkende koppen.

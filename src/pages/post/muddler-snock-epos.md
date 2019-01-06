@@ -8,7 +8,8 @@ date: 2016-12-09T11:51:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-muddler-snock-epos/
-image: 15109501_1071787456253677_2134640988006888422_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/15109501_1071787456253677_2134640988006888422_n.jpg
 ---
 Bands als Belgian Asociality en Fleddy Melculy, om er nu twee te noemen, combineren hardere muziek met Nederlandse teksten. De rode draad in dit verhaal is wel dat het bewust gaat lijken op een parodie. Maar wat als men dit serieus gaat aanpakken? Het antwoord ligt hem bij het Lierse viertal van Muddler. Deze band kwam net aanzetten met hun eerste EP ‘Snøck Epos’ die volledig in het teken staat van Nederlandstalige rock met een donker kantje, of zoals zij hun genre noemen: Snøck.
 

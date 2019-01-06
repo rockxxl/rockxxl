@@ -6,7 +6,8 @@ date: 2017-09-16T17:47:26+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-overbroek-kermis-2017/
-image: 20994300_894162664083848_5910702237602406938_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/20994300_894162664083848_5910702237602406938_n.jpg
 ---
 **Overbroek Kermis vierde dit jaar hun 25ste verjaardag. Koste nog moeite werden gespaard om hun vrijdag, waar er zoals gewoonlijk bands spelen, om te toveren tot een heus feest met de top van de Belgische metal en punk. De affiche bestond uit niemand minder dan Fleddy Melculy, Belgian Asociality en het lokale Black Leather Jacket. Wij gingen een kijkje nemen op deze niet alledaagse setting en zagen dat het goed was.**
 Na hun finaleplaats in De Nieuwe Lichting van Studio Brussel zijn de garage rockers van **Black Leather jacket** deze zomer niet weg te slaan van de Belgische festivalpodia. Overbroek Kermis was dus geen uitzondering, voor zover het zomer was op 15 september natuurlijk. Dit trio begon stipt om 21u30, wat over het algemeen redelijk laat is voor optredens en de tent was vrijwel leeg. Schandalig! Een band als Black Leather Jacket verdient het om gehoord te worden. Het plezier spatte in elk geval wel van het podium af. Ook hun cover van ‘Uptown Funk’ van Bruno Mars werd gesmaakt. Overbroek Kermis maakte een twijfelachtige start. Dat lag echter niet aan de heren van Black Leather Jacket, maar spijtig genoeg aan het publiek dat thuis nog in hun luie zetel zat.

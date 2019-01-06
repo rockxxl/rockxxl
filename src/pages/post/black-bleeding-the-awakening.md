@@ -8,7 +8,8 @@ date: 2017-12-28T08:46:07+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-black-bleeding-the-awakening/
-image: black-bleeding.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/black-bleeding.jpg
 ---
 Burning death black revenge. Dat is ergens op het CD’tje dat Black Bleeding, een band uit Habay-la-Neuve, ons recent stuurde. Wel, gelogen hebben ze in elk geval niet, want dat is exact hoe deze EP klinkt. De band bracht deze EP in eigen beheer reeds in 2005 uit, maar werd nu door Nihilistic Holocaust opnieuw verdeeld. De band omschrijft zichzelf als extreme metal played by grumpy old punks. Duidelijker gezegd: deze band speelt een blend van black en death metal. Ze gaan ook al van 1998 mee, dus dat kan qua ervaring zeker tellen. In 2009 en 2015 brachten ze ook respectievelijk ‘The Great Satan’ en ‘A Bright Future’ uit. Het laatstgenoemde album bevatte veel meer een punk-sound, maar behield de black & death vibes van hun originele sound nog wel. Persoonlijk ben ik meer fan van de sound van hun oudere albums, dus met deze ‘The Awakening’ uit 2005 zit het zeker goed.
 

@@ -6,7 +6,8 @@ date: 2018-05-10T13:46:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-rock-louwel-woensdag/
-image: 29790042_906818529498302_5958637918565840139_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/29790042_906818529498302_5958637918565840139_n.jpg
 ---
 **Op 9 mei, een doordeweekse woensdagavond, zette wij voet aan wal op de weide van het jaarlijkse Rock Louwel festival in het Limburgse Opglabbeek. Het festival telt drie podia waarvan er twee de Belgische underground mooi samenvatten. Club West telt zes rock bands en Club East neemt met evenveel bands het hardere genre voor z'n rekening. Met kleppers als Brutus, The Guru Guru en Insanity Alert brengt Rock Louwel dit jaar een line up om je vingers bij af te likken.**
 

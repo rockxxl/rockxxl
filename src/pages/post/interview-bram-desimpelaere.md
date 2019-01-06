@@ -7,7 +7,8 @@ date: 2018-01-14T15:10:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-bram-desimpelaere/
-image: 26854311_10212963679878343_1484078644_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/26854311_10212963679878343_1484078644_o.jpg
 ---
 **Het is algemeen geweten dat punk en singer-songwriter perfect samen gaan. Het beste voorbeeld hiervan is Chuck Ragan. Ook ons kleine landje heeft een aantal zangers en muzikanten die wel kunnen tellen. Nieuw maar zeker niet onbezonnen is Bram Desimpelaere uit het Antwerpse Vorselaar. Met een eerste EP 'On The Sideline' op zak is Bram helemaal klaar voor het veroveren van elk klein en groot podium. Wij gingen rond tafel zitten met Bram en spraken over zijn eerste jaar als solomuzikant en de nabije toekomst.**
 **Nog niet zo lang geleden ben je begonnen met solo nummers te schrijven en op te treden. Vanwaar de zin om terug je gitaar op te pakken en ook de micro voor jou rekening te nemen?**

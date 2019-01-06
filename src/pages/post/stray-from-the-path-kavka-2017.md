@@ -6,7 +6,8 @@ date: 2017-10-15T14:19:16+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-stray-from-the-path-kavka-2017/
-image: 21768033_1430349413712882_6535907887110210513_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/21768033_1430349413712882_6535907887110210513_n.jpg
 ---
 **Op donderdag 12 oktober toverde HeartBreakTunes de Kavka in Antwerpen om tot een toneel van een hardcoreshow van jewelste. Ook al was de line up een mengelmoes van alles dat de naam hardcore draagt, met bands als o.a. Stray From The Path en Obey The Brave op de affiche kon de avond alvast niet stuk.**
 http://www.heartbreaktunes.com/

@@ -39,7 +39,7 @@ export default () => (
                                 permalink
                                 band
                                 date
-                                image
+                                thumbnail
                                 groups
                                 album
                             }

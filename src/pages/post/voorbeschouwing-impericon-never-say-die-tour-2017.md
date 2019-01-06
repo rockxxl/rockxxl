@@ -6,7 +6,8 @@ date: 2017-11-04T09:47:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-impericon-never-say-die-tour-2017/
-image: neversaydietour2017_full.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/neversaydietour2017_full.jpg
 ---
 **Op 4 november 2017 passeert Impericons grootste tour van het jaar weer langs België. Hoewel we de voorbije jaren verwelkomd werden in Antwerpen, moeten we dit jaar richting Brugge om deze tour te aanschouwen. Impericon zet dit jaar Lorna Shore, Polaris, Sworn In, Kublai Khan, Chelsea Grin, Deez Nuts en Emmure op de affiche, dus we kunnen zonder aarzelen zeggen dat het weer een knaller van formaat zal worden.**
 

@@ -8,7 +8,8 @@ date: 2016-06-02T12:05:53+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-chiefland-to-part-means-to-die-a-little/
-image: a0617102521_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a0617102521_10.jpg
 ---
 In de zomer van vorig jaar werd het Duitse Chiefland opgericht. Meteen in september, zonder enige aankondiging of optreden brachten ze hun eerste EP ‘To Part Means To Die A Little’ uit. ‘To Part Means To Die A Little’ telt vier nummers geïnspireerd door bands als La Dispute en Touché Amore.
 

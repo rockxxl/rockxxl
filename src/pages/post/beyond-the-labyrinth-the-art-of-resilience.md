@@ -8,7 +8,8 @@ date: 2017-03-18T13:32:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-beyond-the-labyrinth-the-art-of-resilience/
-image: btl-just.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/btl-just.jpg
 ---
 Het Oost-Vlaamse Beyond The Labyrinth bestaat al sinds 1995 en boekte al wat succes in binnen -en buitenland zonder een al te grote doorbraak. Zes jaar na hun laatste plaat en verschillende line up wissels komt dit viertal aanzetten met hun nieuwste wapenfeit 'The Art of Resilience'. Ondertussen is het al de vierde plaat van Beyond The Labyrinth. Zichzelf heruitvinden heeft deze band niet gedaan maar hun melodische hardrock heeft wel een stap voorwaarts gezet. Misschien komt dit wel door de vele gastmuzikanten die op 'The Art of Resilience' te vinden zijn.
 

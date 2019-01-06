@@ -8,7 +8,8 @@ date: 2017-01-15T15:32:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-beuk-strak-plan/
-image: 15824083_1213616382058839_1219567730_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/15824083_1213616382058839_1219567730_o.jpg
 ---
 België is niet meer vies van rockmuziek met Nederlandse teksten. Dit heeft de doorbraak van Bazart en Fleddy Melculy het afgelopen jaar wel bewezen. Verschillende andere bands zagen het levenslicht, en het West Vlaamse Beuk knalde maar liefst 50 shows. Dit trio eindigde het jaar met de release van hun eerste plaat ‘Strak Plan’. Benieuwd of ze het even goed doen als de bands hierboven.
 

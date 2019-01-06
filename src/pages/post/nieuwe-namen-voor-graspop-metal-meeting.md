@@ -6,7 +6,8 @@ date: 2018-01-25T15:51:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/nieuwe-namen-voor-graspop-metal-meeting/
-image: 23130474_1853434211363395_1345651582860734929_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/23130474_1853434211363395_1345651582860734929_n.jpg
 ---
 <div data-block="true" data-editor="1m6hp" data-offset-key="e8uoe-0-0">
   <strong>Graspop Metal Meeting</strong> voegde weer 26 nieuwe namen toe aan hun affiche:

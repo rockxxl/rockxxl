@@ -8,7 +8,8 @@ date: 2018-07-22T14:08:36+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-entering-polaris-godseed/
-image: 29572823_2048385602043358_6725836529945529418_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/29572823_2048385602043358_6725836529945529418_n.jpg
 ---
 België is weer een metal project rijker: Entering Polaris. Entering Polaris werd tot leven geroepen door Tom Tas die je misschien zal kennen van Ostrogoth en een hele reeks andere Belgische bands. Dit keer laat hij een vaste bezetting staan en nodigt hij heel wat gastmuzikanten uit op zijn debuut ‘Godseed’. Of hij met dit album echt een zaadje van god heeft gepland valt nog af te wachten, maar met namen als Therion zanger Thomas Vikström lijkt Entering Polaris het groots aan te pakken.
 

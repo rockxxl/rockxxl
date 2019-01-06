@@ -6,7 +6,8 @@ date: 2017-02-08T00:08:47+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/de-10-beste-platen-februari-2017/
-image: logo.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/logo.jpg
 ---
 **10. Nothington – In The End**
 

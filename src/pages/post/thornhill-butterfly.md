@@ -8,7 +8,8 @@ date: 2018-04-06T11:15:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-thornhill-butterfly/
-image: 439002.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/439002.jpg
 ---
 Een tijdje geleden stuurde het Australische platenlabel UNFD ons de nieuwste EP van Thornhill. Deze vijfkoppige band was ons tot op heden onbekend, maar Butterfly blijkt wel al hun tweede release in hun korte periode samen. Het eerste album kwam er al toen de band nog maar enkele maanden bestond. Deze jongens weten dus duidelijk van aanpakken en hopen met deze nieuwe EP de wereld te veroveren. Opgepikt worden door een label als UNFD was dus een logische stap voor deze band.
 

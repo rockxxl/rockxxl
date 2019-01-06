@@ -8,7 +8,8 @@ date: 2018-02-08T18:05:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-senses-fail-if-there-is-light-it-will-find-you/
-image: 141898.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/141898.jpg
 ---
 Hoewel Amerika al lang gevallen is voor de charmes van emo punk band Senses Fail, scoort de band in Europa geen hoge toppen. Senses Fail bestaat echter al sinds 2002 en bracht gemiddeld elke twee jaar wel een langspeler uit. Hoewel de fans nu wat langer moesten wachten, werd hun honger vorig jaar gestild met de akoestische EP ‘In Your Absence’. 16 Februari komt de band aanzetten met hun nieuwe plaat ‘If There Is Light, It Will Find You’ die zal worden uitgebracht door Pure Noise Records, je weet wel, het label waar ook State Champs, The Story So Far en Stick To Your Guns op getekend zijn.
 

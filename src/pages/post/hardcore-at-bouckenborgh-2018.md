@@ -6,7 +6,8 @@ date: 2018-05-27T18:59:51+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-hardcore-at-bouckenborgh-2018/
-image: 29472625_2026538880950909_3321638267832747181_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/29472625_2026538880950909_3321638267832747181_n.jpg
 ---
 **Bouckenborgpark is al enkele jaren de vaste stek van Antwerp Metal Fest. Het was dan ook een ietwat vreemde aanblik om een lege 'wei' te betreden toen we naar JC Bouckenborg stapten. Diamandwerk organiseerde daar een hardcoreshow met vier topbands: Fatal Move, Stab, Sounds Like Deceit en A Point Of Protest.**
 

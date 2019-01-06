@@ -6,7 +6,8 @@ date: 2017-03-29T13:45:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/enter-shikari-pvris-cocaine-piss-en-meer-op-pukkelpop/
-image: 15823567_10154131468549249_2497820417011362313_n.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/15823567_10154131468549249_2497820417011362313_n.png
 ---
 Pukkelpop liet weer 50 namen op de wereld los. Bij ons vielen vooral Enter Shikari, Pvris en Cocaine Piss op maar check vooral ook zeker de rest:
   

@@ -8,7 +8,8 @@ date: 2016-10-05T13:11:17+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-more-than-meets-the-eye-heres-to-never/
-image: 13220964_10154118906292141_2947626709428696344_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/13220964_10154118906292141_2947626709428696344_n.jpg
 ---
 Al sinds 2008 draait More Than Meets The Eye mee in de Belgische hardcorewereld. Vorig jaar wisselde de band van frontman en daarop volgde hun nieuwe EP: Here’s To Never Growing Up. Het onderscheid met andere bands legt More Than Meets The Eye in hun melodische invloed en het gebruik aan een hele hoop breakdowns. Als dat maar goed komt!
 

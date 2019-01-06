@@ -8,7 +8,8 @@ date: 2017-11-07T18:44:56+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-our-hate-hate-will-prevail/
-image: our-hate.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/our-hate.jpg
 ---
 De Kempense band Our Hate zag het levenslicht in 2014. Hoewel dit een nieuwe band is deden enkele leden al ervaring op in bands als Hard Resistance, Crawlspace, Cooperate en Scarred Mind. In 2015 brachten ze hun eerste demo CD uit en een tijdje later mogen we hun debuut 'Hate Will Prevail' voorstellen.
 

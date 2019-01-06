@@ -8,7 +8,8 @@ date: 2018-02-08T10:27:22+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-speak-low-if-you-speak-love-nearsighted/
-image: 955908.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/955908.jpg
 ---
 Speak Low If You Speak Love is afkomstig uit de VS en is het solo project van Ryan Scott Graham, bassist van pop punk band State Champs. Hij bracht in Januari zijn tweede full length album ‘Nearsighted’ uit via Pure Noise Records. Zijn vorige langspeler dateert alweer van 2013. Speak Low If You Speak Love is momenteel op tour met Neck Deep. Vergis je niet! Hoewel we bands zoals Neck Deep en State Champs vermelden, gooit Speak Low If You Speak Love het over een hele andere boeg. Denk maar aan een combinatie van elektronica en indie. Dromerig, maar oh zo aangenaam.
 

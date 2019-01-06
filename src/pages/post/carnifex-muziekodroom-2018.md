@@ -6,7 +6,8 @@ date: 2018-02-28T19:23:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-carnifex-muziekodroom-2018/
-image: 1000x1000.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/1000x1000.jpg
 ---
 **Zondag 25 februari 2018 werd de Muziekodroom nog maar eens platgewalst door intens gitaargeweld van vier grootmachten in de underground metalwereld. Liefhebbers van het zwaardere werk konden afzakken naar Hasselt om vier sets te bewonderen die een strijd leken uit te voeren: de strijd om brutaliteit.**
 

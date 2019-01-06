@@ -8,7 +8,8 @@ date: 2017-03-13T17:55:04+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-priceduifkes-goathorse/
-image: pds-seppe.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/pds-seppe.jpg
 ---
 Hartje Kempen wordt al bijna 14 jaar geteisterd door het geweld van punkband The Priceduifkes. Na een reeks EP's en hitplaat 'Can't Loose' is dit vier-tal terug met hun nieuwste wapenfeit 'Goathorse'. We krijgen 12 nummers voorgeschoteld die er op 26 minuten worden door gesleurd. Rammen, bier drinken, dansen en keihard mee roepen. Met dit in ons achterhoofd kan 'Goathorse' nu al niet meer stuk.
 

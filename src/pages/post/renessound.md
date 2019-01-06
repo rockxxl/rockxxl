@@ -7,7 +7,8 @@ date: 2017-02-15T16:54:59+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-renessound/
-image: 16722699_1804656183132605_1239817637314734987_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/16722699_1804656183132605_1239817637314734987_o.jpg
 ---
 **Het welbegeerde kasteel van Oostmalle in Domein De Renesse werd op 11 februari een dag omgebouwd tot de volwaardige muziekclub 'Renessound'. Op het programma stond het lokale 'This Means War' en punklegende 'The Kids'. Wij gingen langs op deze geweldige plaats en hadden wat vragen klaar voor deze uiterst sympathieke organisatie.**
 

@@ -8,7 +8,8 @@ date: 2017-11-20T14:43:46+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-rites-the-unloves/
-image: 22490214_1514543555301132_7598420161307331820_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/22490214_1514543555301132_7598420161307331820_n.jpg
 ---
 Na twee eerdere EP’s is de Nederlandse hardcore punkband Rites terug met een gloednieuw plaatje dat de naam ‘Misery Is Company’ kreeg. Ook dit keer krijgen we niet meer dan vijf nummers voorgeschoteld en voor de vinyl fans onder ons werd ‘Misery Is Company’ enkel uitbracht op 7” vinyl. Ondertussen deelde de bands al podiums met bands als o.a. H2o en Slapshot. Ik ben eens benieuwd of deze gebeurtenissen deze heren en dame naar een hoger niveau hebben getild.
 

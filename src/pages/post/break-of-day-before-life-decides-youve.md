@@ -8,7 +8,8 @@ date: 2016-07-24T13:32:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-break-of-day-before-life-decides-youve/
-image: 13055457_10154104242164450_1551895992434792527_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/13055457_10154104242164450_1551895992434792527_n.jpg
 ---
 Belgische bands komen en gaan maar er zijn er natuurlijk ook die van geen ophouden weten. Het Herseltse Break of Day heeft ondertussen al meer dan tien jaar op hun teller staan als band. Hun vierde wapenfeit ‘Before Life Decides You’ve Had Enough’ kwam zopas ook uit. Het was even stil rond Break of Day maar de band is terug, en hoe!
 

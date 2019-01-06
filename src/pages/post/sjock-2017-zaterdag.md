@@ -6,7 +6,8 @@ date: 2017-07-10T18:46:51+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-sjock-2017-zaterdag/
-image: sjokckk.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/sjokckk.jpg
 ---
 **Afgelopen weekend vond de alweer 42ste editie van Sjock plaats in Gierle. Met een hele hoop nationale en internationale bands op de affiche was het weer een heus feest op de Poeyelhei. Een kwaliteits line-up, goed weer en een gezellige drukte zorgde voor een topeditie. Wij waren zaterdag de gast en zagen dat het goed was!**
 

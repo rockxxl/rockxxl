@@ -6,7 +6,8 @@ date: 2018-02-25T15:18:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-homer-farewell-show-2018/
-image: homerrr.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/homerrr.jpg
 ---
 **Aan alle mooie liedjes komt een eind, dus ook aan punkrock/ hardcore band Homer. Na twintig jaar trouwe dienst hield dit viertal er gisterenavond mee op. Voor een laatste maal zette de band een show op poten in de Klinker Club in Aarschot. Op de affiche stonden ook Team Peligro en Break Of Day.  Als dit alles nog niet genoeg was, kreeg iedereen bij binnenkomst nog een exemplaar van hun laatste EP ‘The Last Raid’ mee naar huis. Bij het zien van de goed gevulde zaal werd het ons al duidelijk: dit beloofde een avond te worden die we niet snel zullen vergeten.** 
 

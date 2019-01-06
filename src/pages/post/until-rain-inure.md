@@ -8,7 +8,8 @@ date: 2017-06-24T14:11:38+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-until-rain-inure/
-image: 17265000_10154326497556016_4445151469234551094_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/17265000_10154326497556016_4445151469234551094_n.jpg
 ---
 De Griekse progressieve metal band Until Rain is reeds bezig sinds 2008. Het eerste album dat ze onder hun definitieve naam Until Rain uitbrachten heet “The Reign Of Dreams.” De band zweert trouw aan hun schema om elke vier jaar een full-length album uit te brengen met enkele EP's tussendoor. In 2013 kwamen ze met “Anthem To Creation” en dit jaar brachten ze hun nieuwste plaat “Inure” uit. Met dit album hebben ze echt hun stijl gevonden, samen met hun nieuwe zanger Cons Marg.
 

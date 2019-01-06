@@ -8,7 +8,8 @@ date: 2017-04-06T11:52:16+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-white-willow-future-hopes/
-image: 16649249_10155070798278118_8293659672786383566_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/16649249_10155070798278118_8293659672786383566_n.jpg
 ---
 Het Noorse White Willow bestaat al sinds 1995 en de band heeft maar liefst zeven langspelers op hun naam staan. De band ging door een hele hoop line up wissels waardoor het nieuwe album 'Future Hopes' zes jaar op zich heeft laten wachten. 'Future Hopes' telt vijf nummers en twee bonustracks, maar vergis je niet. Een nummer als 'A Scarred View' durft zich uit te spreiden tot maar liefst 18 minuten. Met een nieuwe zangeres aan de micro is White Willow toe aan een gloednieuw hoofdstuk dat de naam 'Future Hopes' heeft gekregen.
 

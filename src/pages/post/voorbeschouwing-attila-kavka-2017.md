@@ -6,7 +6,8 @@ date: 2017-04-12T14:33:40+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-attila-kavka-2017/
-image: 17760117_1275385502542608_7407701804862642949_ndqf.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/17760117_1275385502542608_7407701804862642949_ndqf.jpg
 ---
 **Op woensdag 12 april 2017 organiseert HeartBreakTunes weer een avond vol muzikaal geweld in Kavka in Antwerpen. Een show in het midden van de week om je weekend extra vroeg in te zetten of gewoonweg een pauze inlassen in de drukke (werk)week, beter kan haast niet! De drie bands die op het programma staan, zijn niet van de minste, dus het is zeker en vast de moeite om af te zakken naar Antwerpen vanavond.**
 

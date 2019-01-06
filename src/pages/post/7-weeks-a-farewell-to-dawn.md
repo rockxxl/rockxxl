@@ -8,7 +8,8 @@ date: 2016-11-14T08:17:01+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-7-weeks-a-farewell-to-dawn/
-image: 14068312_10154180694728859_3129661618941147680_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/14068312_10154180694728859_3129661618941147680_n.jpg
 ---
 Het Franse 7 Weeks mocht dit jaar hun tiende kaarsje uitblazen. Het kan ook bijna niet anders dan dit te vieren met een nieuwe plaat. A Farewell To Dawn is ondertussen al de vierde plaat van dit vier-tal en staat zoals voorbije schijfjes weer in het thema van stonerrock met een extra tikkeltje alternativiteit.
 

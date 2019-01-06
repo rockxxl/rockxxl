@@ -6,7 +6,8 @@ date: 2017-11-26T11:36:36+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-set-things-right-goodbye-show/
-image: 22729059_1712814048742573_4334967792492425130_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/22729059_1712814048742573_4334967792492425130_n.jpg
 ---
 **Op een druilerige zaterdagavond trokken we naar Edegem voor de afscheidsshow van Set Things Right. Aanvankelijk zou de show in jeugdhuis Nootuitgang doorgaan, maar al snel mochten ze het bordje 'sold out' bovenhalen. Daarom werd beslist om de show te verhuizen naar Hangar 27.  Voor de band de boeken definitief sluit willen ze nog één keer alles uit de kast halen.**
 

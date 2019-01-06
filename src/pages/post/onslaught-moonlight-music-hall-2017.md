@@ -6,7 +6,8 @@ date: 2017-10-04T18:44:48+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-onslaught-moonlight-music-hall-2017/
-image: 22091672_10207740267543566_376010635_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/22091672_10207740267543566_376010635_n.jpg
 ---
 **België is weer een mooie concertzaal rijker. Eigenaars Jim en Astrid hadden achter hun café in Diest een zaal dat eerst dienst deed als veilingshuis. Na enkele maanden hard werken werd deze omgetoverd tot een prachtige concertzaal met een mooi, maar vooral ruim podium. Donderdag 28 september kwamen de thrashers van Onslaught, Artillery, Exarsis en Chronesphere langs om de pannen van het dak te spelen.**
 

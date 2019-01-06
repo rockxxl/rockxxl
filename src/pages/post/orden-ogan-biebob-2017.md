@@ -6,7 +6,8 @@ date: 2017-11-02T20:35:56+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-orden-ogan-biebob-2017/
-image: poster-oden.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/poster-oden.jpg
 ---
 **Orden Ogan speelde op 31 oktober in ons land voor hun Gunman tour.** **Ze brachten Rhapsody Of Fire en Unleash The Archers mee.** **Fans zakten maar al te graag af naar de Biebob in Vosselaar.**
 

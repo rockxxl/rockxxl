@@ -8,7 +8,8 @@ date: 2016-06-01T22:12:57+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-zygoma-the-highest-court/
-image: 12920473_10153967746193213_4100350747650008015_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/12920473_10153967746193213_4100350747650008015_n.jpg
 ---
 De flitsende artwork van dit album zegt al genoeg. Dit album van Zygoma, vroeger nog The Zygoma Disposal, komt aanzetten met hun derde release tot hiertoe, ‘The Highest Court’. En of het flitsen is.
 

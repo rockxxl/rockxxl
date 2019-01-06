@@ -6,7 +6,8 @@ date: 2018-04-25T07:52:23+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/win-duo-combitickets-voor-rock-louwel/
-image: 31118033_1640596646016187_7660625938274582528_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/31118033_1640596646016187_7660625938274582528_n.jpg
 ---
 9 en 11 mei vindt in het Limburgse Opglabbeek weer het jaarlijkse Rock Louwel festival plaats. Op de affiche pronken bands zoals Brutus, Goe Vur In Den Otto, Insanity Alert, The Guru Guru, Speed Queen, Delvis, Gestapo Knallmuzik en meer.
 

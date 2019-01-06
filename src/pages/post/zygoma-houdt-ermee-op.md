@@ -6,7 +6,8 @@ date: 2018-03-02T16:41:42+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/zygoma-houdt-ermee-op/
-image: 28336333_10156020303253213_4487552217947032771_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/28336333_10156020303253213_4487552217947032771_o.jpg
 ---
 <div id="js_vj" class="_5pbx userContent _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <div id="id_5a997d8c670641318750054" class="text_exposed_root text_exposed">

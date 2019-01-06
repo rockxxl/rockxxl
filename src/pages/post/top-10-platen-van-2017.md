@@ -6,7 +6,8 @@ date: 2017-12-23T13:17:11+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/top-10-platen-van-2017/
-image: logo.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/logo.jpg
 ---
 **Seppe Van Ael:**
 

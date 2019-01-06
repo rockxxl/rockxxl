@@ -8,7 +8,8 @@ date: 2016-07-16T14:05:37+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-wildheart-wildheart/
-image: 13124556_1740639059483751_6085696971558437864_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/13124556_1740639059483751_6085696971558437864_n.jpg
 ---
 Wie de tijd van haarbanden, cowboylaarzen, leren jassen en vooral rock ‘n roll is vergeten wordt met deze WildHeart terug de tijd in gezwierd. De band ontstond in 2014 en in mei dit jaar kwam hun eerste langspeler uit. 12 nummers lang sta je garant voor een tijdreis die je met je beide voeten terug op de Sunset Strip zet.
 

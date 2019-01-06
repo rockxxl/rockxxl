@@ -6,7 +6,8 @@ date: 2017-09-17T19:35:54+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-turnover-jc-den-eglantier-2017/
-image: DDXSy2nVwAE-yow-1.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/DDXSy2nVwAE-yow-1.jpg
 ---
 Op 10 september 2017 werd JC Den Eglantier in Berchem even omgetoverd tot een rustig zwevende wolk, of zo voelde het alleszins toch. Een hele avond vol atmosferische riffs, zachte begeleidende drums en breekbare zang stond ons op te wachten.
 

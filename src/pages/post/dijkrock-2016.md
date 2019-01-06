@@ -6,7 +6,8 @@ date: 2016-09-05T13:51:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-dijkrock-2016/
-image: 14064029_1221751817837525_6736177105099653036_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/14064029_1221751817837525_6736177105099653036_n.jpg
 ---
 **Dijkrock is zo’n festival dat elk jaar afkomt met een super gevarieerde line up, zolang het maar stevig rockt. Midden in het dorp van Sint Lenaarts met twee podia waarvan er één het gezellige bluescafé Willem Tell is. Dit jaar was het vooral Your Highness en Katastroof die de aandacht trokken op de affiche.**
 Volk op de been brengen om half vier ’s middags is niet gemakkelijk, maar daar had Dijkrock al bij al geen probleem mee. Beginnen deed Dijkrock met het lokale geweld van **Kevlar**. Deze band maakt al een dikke drie jaar stevige rock die neigt naar de stoner kant en hier en daar ook lekker donker aanvoelt. Het publiek was aandachtig en de band gaf zich ook voor de volle 100 procent. Neem dan nog een frisse pint in de hand en meer is er niet nodig om een festivalletje op perfecte wijze te openen.

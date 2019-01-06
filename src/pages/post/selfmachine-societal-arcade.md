@@ -8,7 +8,8 @@ date: 2017-04-15T14:04:19+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-selfmachine-societal-arcade/
-image: pimp-selfmachine-verena.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/pimp-selfmachine-verena.jpg
 ---
 Onze Noorderburen van Selfmachine kwamen nog geen maand geleden uit met hun nieuw album genaamd ‘Societal Arcade.’ Deze titel werd ook gebruikt in het maken van hun album cover. Je ziet de mannen van Selfmachine in een arcade staan spelen. Deze modern metalband beschrijft hun sound als Michael Jackson met een baard die met een monstertruck door Teletubbieland rijdt. Dit klinkt veelbelovend en ik ben alvast benieuwd naar ‘Societal Arcade’!
 

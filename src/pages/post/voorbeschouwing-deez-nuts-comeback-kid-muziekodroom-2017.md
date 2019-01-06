@@ -6,7 +6,8 @@ date: 2017-02-11T22:32:40+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-deez-nuts-comeback-kid-muziekodroom-2017/
-image: deez.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/deez.jpg
 ---
 <div class="_4tdt _ua0">
 </div>

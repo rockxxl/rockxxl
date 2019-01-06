@@ -6,7 +6,8 @@ date: 2018-06-16T11:52:03+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-jera-on-air-2/
-image: 30725296_2071988819510337_1365159697245536256_n.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/30725296_2071988819510337_1365159697245536256_n.png
 ---
 **Groezrock vindt dit jaar niet plaats. Zijn Nederlandse tegenhanger Jera On Air verlicht echter de pijn. Heb je moeite met het maken van een geschikte watchlist of heb je zin om nieuwe muziek te ontdekken? Hier alvast enkele bands die je volgens RockXXL zeker niet mag missen!**
 

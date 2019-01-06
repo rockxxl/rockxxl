@@ -6,7 +6,8 @@ date: 2017-09-04T19:33:18+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-dijkrock-2017/
-image: 20953865_1584871691525534_737223285304053188_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/20953865_1584871691525534_737223285304053188_n.jpg
 ---
 **De eerste zaterdag van september steken we de laatste jaren steevast de vaart over richting  St. Lenaarts. In de schaduw van de kerktoren organiseert jeugdhuis Den Dijk daar naar jaarlijkse traditie het gezellige festival Dijkrock.**
 

@@ -8,7 +8,8 @@ date: 2017-11-30T21:47:29+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-toxic-shock-twentylastcentury/
-image: Toxic-Shock-Twentylastcentury.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/Toxic-Shock-Twentylastcentury.jpg
 ---
 Vier jaar na hun debuutplaat ‘Daily Demons’ is het Antwerpse Toxic Shock terug met 'Twentylastcentury'. De fans konden de honger ondertussen stillen met enkele splits en een hele hoop live shows, maar ook voor ons werd het tijd voor een nieuwe plaat. Toxic Shock ging op bezoek bij producer Flemming Rasmussen die indertijd Metallica groot maakte en dat heeft z’n vruchten afgeworpen. Eén ding is zeker: ‘Twentylastcentury’ was het wachten meer dan waard!
 

@@ -58,7 +58,7 @@ export const pageQuery = graphql`
         frontmatter {
             title
             category
-            image
+            thumbnail
             author
             date
         }
@@ -88,7 +88,7 @@ export const pageQuery = graphql`
                         permalink
                         band
                         date
-                        image
+                        thumbnail
                         groups
                         album
                     }

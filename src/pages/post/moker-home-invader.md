@@ -8,7 +8,8 @@ date: 2018-01-27T14:17:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-moker-home-invader/
-image: mokerhomeinvader.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/mokerhomeinvader.jpg
 ---
 Moker is geen onbekende naam in de Belgische metalwereld. De band wist in lang vervlogen tijden zelfs op JIM TV te verschijnen, en wees nu eerlijk, welke underground band kan dat zeggen? We zijn ondertussen wel een kleine 10 jaar verder en Moker is ondertussen als band heel wat gegroeid. Al sinds 2003 brengen ze een combinatie die ergens in het midden ligt tussen Deathcore en Brutal Death Metal, maar de laatste twee albums domineert het laatstgenoemde genre hun sound wel. Minder breakdowns, maar volwassen songwriting met misschien wel de bruutste vocals op Belgische grond.
 

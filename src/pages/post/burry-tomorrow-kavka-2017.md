@@ -6,7 +6,8 @@ date: 2017-04-06T12:02:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-burry-tomorrow-kavka-2017/
-image: gq-1.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/gq-1.jpg
 ---
 Omstreeks 19:45u begon het Amsterdamse **The Charm The Fury** als eerste om de avond te beginnen. Omdat Kavka niet zo groot is, kwam de band op langs het publiek, dat al in grote hoeveelheden aanwezig was. Ze begonnen met een lange intro om zichzelf klaar te maken voor hun eerste nummer. Zoals we al wisten is de vocalist van deze band een vrouw, en dit geeft natuurlijk hoge verwachtingen mee. Het is zeker en vast al sterk dat een vrouw het lef heeft om ‘frontman’ te zijn van een metalband, maar we moeten kritisch blijven. Slecht zijn de vocals van zangeres Caroline niet, integendeel. Haar clean vocals zijn wel beter dan haar uncleans, dat moet ik toegeven. Haar stemgeluid is kenmerkend voor de hele band en je bent er voor of je bent er tegen. Hoe ze een publiek aan de praat moet krijgen weet ze duidelijk goed. Het publiek deed alles wat er gevraagd werd: pits, springen, singalongs en zelfs twee(!) kleine wall of deaths, zo vroeg op de avond. Misschien was dit door de vocaliste, misschien omdat iedereen het naar zijn zin had of misschien omdat we werden aangesproken in het Nederlands, nonetheless, de sfeer zat er dubbel en dik in doorheen hun hele set.
 

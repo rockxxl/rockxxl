@@ -8,7 +8,8 @@ date: 2016-10-17T12:48:14+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-enemy-of-reality-arakhne/
-image: tumblr_inline_of6zfhwett1uncqs0_1280.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_of6zfhwett1uncqs0_1280.jpg
 ---
 In 2013 zag Enemy of Reality het levenslicht. Nadat Iliana Tsakiraki besloot te stoppen met haar vorige band Meden Agan, schudde ze snel deze kaskraker uit haar mouw. Het vorige album ‘Rejected Gods’ behaalde veel positieve commentaren alsook hun debuutoptreden tijdens het Metal Female Voices Festival in Wieze in 2014. Hun nieuwe album Arakhne vertelt het verhaal over de Hellenistische mythe over het ontstaan van de spin. RockXXL is meer dan benieuwd wat de Grieken dit keer ervan terechtbrengen.
 

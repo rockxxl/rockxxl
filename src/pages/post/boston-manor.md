@@ -7,7 +7,8 @@ date: 2017-05-09T10:38:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-boston-manor/
-image: image.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/image.jpg
 ---
 **Het laatste interview dat we deden op Groezrock was met het Britse Boston Manor. We spraken met hen over het tourleven, hun debuutalbum en hun toekomstplannen.**
 

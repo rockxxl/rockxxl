@@ -8,7 +8,8 @@ date: 2017-03-17T19:31:02+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-insanity-alert-moshburger/
-image: a3934439289_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a3934439289_10.jpg
 ---
 In een wereld van terroristen en oorlog is er Insanity Alert om het lichtpuntje in het donker te brengen. Waar bands als pakweg Municipal Waste hun gal Spauwen over politiek steekt Insanity Alert de draak met longboards, disco's en David Guetta, om er enkele te noemen. Na hun eerste self-titled album zijn deze Oostenrijkers aangekomen aan hun tweede langspeler 'Moshburger'. Nog sneller, nog harder maar vooral nog minder serieus.
 

@@ -8,7 +8,8 @@ date: 2016-10-22T12:08:06+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-sons-of-a-wanted-man-black-days-black/
-image: tumblr_inline_ofg6z7pqux1uncqs0_1280.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_ofg6z7pqux1uncqs0_1280.jpg
 ---
 Het Beringse gezelschap Sons Of A Wanted Man bracht op 5 oktober 2016 hun nieuwe EP ‘Black Days Black Dust’ uit. De heren brengen een gewaagde mix van Black Metal, Shoegaze, Post-Rock, Sludge, Hardcore en nog veel meer invloeden, maar om het even lekker gezellig te houden, zullen we het gewoon als ‘Post-Metal’ bestempelen. Post-Metal is in België goed vertegenwoordigd, met kleppers als Amenra en Oathbreaker, en deze Sons Of A Wanted Man zouden perfect in de platencollectie passen van een fan van de voorgaande bands. Deze band bracht eerder al een 7” uit met twee zeer geslaagde nummers. De opnamekwaliteit van deze plaat was wel minder goed als op hun nieuwe EP, maar het was zeker nog goed te smaken. Het nummer ‘3rd Sun’ is een nummer dat bij vele fans van het genre waarschijnlijk nog wel zal zijn bijgebleven met zijn emotionele, rustige, doch harde insteek. Maar hoe klinkt ‘Black Days Black Dust’ ten opzichte van deze 7”?
 

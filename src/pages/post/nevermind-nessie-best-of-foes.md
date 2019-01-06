@@ -8,7 +8,8 @@ date: 2017-03-11T18:14:11+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-nevermind-nessie-best-of-foes/
-image: nevermind-nessie-best-of-foes.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/nevermind-nessie-best-of-foes.png
 ---
 Het Lokerse Nevermind Nessie kwam aanzetten met hun tweede album 'Best of Foes', en dat kan maar één ding betekenen: feest! Met hun eerste plaat 'Story of a Lost Generation' ging het bier alvast sneller stromen. Startende met een prachtig artwork en een fris pintje in ons hand zijn we helemaal klaar voor de tweede plaat van Belgisch beste folkpunkband.
 

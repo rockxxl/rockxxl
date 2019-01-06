@@ -8,7 +8,8 @@ date: 2018-04-27T07:21:43+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-6-days-of-justice-eternal-devastation/
-image: 23244041_1533371676699731_3030399992974656171_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/23244041_1533371676699731_3030399992974656171_n.jpg
 ---
 6 Days Of Justice, een band uit de bekende H8000-scene, brengt binnenkort hun nieuwe langspeler ‘Eternal Devastation’ uit. Het is het vierde wapenfeit van de band na demo ‘Dying In Flames’, mini cd ‘The Liar And The Traitor’ en daarna ook nog ‘Where Oceans Begin’. De band is al tien jaar bezig, maar is destijds vaak van stijl gewisseld, gaande van hardcore naar metalcore naar tegenwoordig (blackened) deathcore. De band bevat leden of ex-leden van o.a. Crimson Falls, My Aim, het nieuwe Ascendant, Stab en Pride Zero, toch geen kleine namen in de underground scene. Hopelijk weet 6 Days Of Justice met deze release zichzelf op de kaart te zetten.
 

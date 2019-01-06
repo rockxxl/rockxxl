@@ -6,7 +6,8 @@ date: 2017-04-17T16:18:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-thy-art-is-murder-being-as-an-ocean-zappa-2017/
-image: 17620217_1266094183471740_8375112362376236693_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/17620217_1266094183471740_8375112362376236693_o.jpg
 ---
 Morgen komen we allemaal samen dankzij Heartbreaktunes en Avocado Booking. Allemaal mensen die luisteren naar verschillende genres verenigen zich bij de Heaven and Hell tour in Zappa, Antwerpen. Vier verschillende bands van heel uiteenlopende genres komen ons gezelschap houden morgenavond en dus zal het publiek ook erg breed zijn.
 

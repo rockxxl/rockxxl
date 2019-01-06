@@ -8,7 +8,8 @@ date: 2018-02-15T17:02:14+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-american-nightmare-american-nightmare/
-image: ANGEL-2.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/ANGEL-2.jpg
 ---
 Morgen komt de Amerikaanse hardcore punk band American Nightmare aanzetten met hun gloednieuw self-titled album. Ze bestonden amper zes jaar toen ze uit elkaar gingen in 2004. Ze kondigden hun terugkeer aan in 2011, maar een album leek er maar niet van te komen, tot nu. ‘American Nightmare’  telt negen nummers en het is de eerste nieuwe muziek die we in 15 jaar tijd van hen te horen krijgen.
 

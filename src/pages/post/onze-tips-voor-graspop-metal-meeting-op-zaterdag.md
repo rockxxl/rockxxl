@@ -6,7 +6,8 @@ date: 2018-06-04T20:07:40+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/onze-tips-voor-graspop-metal-meeting-op-zaterdag/
-image: gmm18lineup1200x16972-5.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/gmm18lineup1200x16972-5.jpg
 ---
 **Het is weer bijna zover: Graspop Metal Meeting! De heilige grond in Dessel wordt van 21 tot 24 juni weer omgetoverd tot het walhalla van de Belgische metal fan, en ver daarbuiten. RockXXL deelt met jullie vijf bands, per dag, die wij de moeite vinden om te gaan bekijken op het festival! Dit keer zaterdag 23 juni.**
 

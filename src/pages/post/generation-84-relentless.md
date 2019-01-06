@@ -8,7 +8,8 @@ date: 2018-01-11T20:12:20+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-generation-84-relentless/
-image: 24058890_1960839960609695_2834522708231633272_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/24058890_1960839960609695_2834522708231633272_n.jpg
 ---
 Hoewel we een kleine twee jaar geleden EP ‘Let’s Do This!’ voorgeschoteld kregen, was het toch weer vijf jaar wachten op een nieuwe langspeler van punkband Generation 84. De volledige EP is echter opnieuw opgenomen en verzorgt de laatste vijf nummers van deze ‘Relentless’. Met een aantal line-upwissels achter de rug, is Generation 84 weer helemaal terug. Zoveel is zeker!
 

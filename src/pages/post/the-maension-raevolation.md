@@ -8,7 +8,8 @@ date: 2018-05-22T16:56:14+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-maension-raevolation/
-image: rævolution-cover-album-with-halo2kopie.png
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/rævolution-cover-album-with-halo2kopie.png
 ---
 The Maension is een band die opgericht werd door muzikanten afkomstig uit verschillende landen. Dit trio heeft daardoor wereldwijd al een mooie fanbase weten te verzamelen. Ook het intensief touren zal hier wel ergens voor iets tussen zitten. Goed voor zo'n gemiddelde van 130 shows per jaar. Dit jaar brengen ze hun tweede full cd 'Raevolution' uit. Door de jaren heen hebben ze een unieke sound gecreëerd die zich ergens tussen alternatieve rock, nu-metal en industrial metal bevind.
 

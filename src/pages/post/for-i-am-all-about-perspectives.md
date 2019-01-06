@@ -8,7 +8,8 @@ date: 2017-03-14T20:51:37+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-for-i-am-all-about-perspectives/
-image: fia-seppe.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/fia-seppe.jpg
 ---
 Pop punk band For I Am is in blijde verwachting. Na hun eerste EP '15 Minutes Late' komt dit weekend hun eerste langspeler 'All About Perspectives' uit. Voor wie deze band nog niet kent, For I Am speelt pop punk en is ergens te vinden tussen het vroegere werk van Bink-182 en Bad Religion, al is dit vijftal door z'n vele invloeden moeilijk te vergelijken met een bepaalde band. Waarin For I Am zich vooral onderscheidt zijn de vrouwelijke vocalen van zangeres Hanne. Met 'All About Perspectives' krijgen we 12 nummers voorgeschoteld die net zoals voorganger '15 Minutes Late' de beste punktunes uit de kast halen.
 

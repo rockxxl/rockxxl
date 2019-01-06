@@ -6,7 +6,8 @@ date: 2017-10-09T17:19:30+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-fabulae-dramatis-album-release-2017/
-image: 20294365_1133047693461791_3024356310451581543_n.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/20294365_1133047693461791_3024356310451581543_n.jpg
 ---
 **Op zaterdag 30 september vond de releaseshow van Fabulae Dramatis nieuwste album 'Solar Time's Fabels' plaats in Olen. Samen met Elusion en Solitude Within mochten we ons verwachten aan een prachtige live show.**
 **Solitude Within** uit Ninove kreeg de eer om te openen. Deze symfonische rock/metal band bestaat nog niet zo erg lang, maar ze brachten zolang hun debuut 'Disappear' uit. Muzikaal zit alles mooi in elkaar en ze brachten ook een prachtige live show. Een klein minpuntje was het geluid in de zaal dat niet helemaal op en top was. Al bij al hebben we erg genoten en we zullen vast niet de enige geweest zijn.

@@ -7,7 +7,8 @@ date: 2017-04-11T09:26:54+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/interview-lost-from-the-start/
-image: 15975102_1212006188913411_1390535723759777644_o.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/15975102_1212006188913411_1390535723759777644_o.jpg
 ---
 **De Limburgse pop punk band Lost From The Start werd pas eind 2016 opgericht al brachten ze in februari een videoclip uit en ook hun EP-release is in aantocht. Wij namen even de tijd om dit viertal wat beter te leren kennen en ook al eens vooruit te blikken op wat de band nog in petto heeft, want Lost From The Start gaat als een sneltrein!**
 

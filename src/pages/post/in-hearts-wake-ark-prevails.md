@@ -8,7 +8,8 @@ date: 2018-02-07T16:04:55+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-in-hearts-wake-ark-prevails/
-image: 679990.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/679990.jpg
 ---
 In Hearts Wake heeft een nieuwe EP ‘Ark Prevails’ van vier akoestische nummers, met de nadruk op akoestisch. Want zo hebben we ze nog niet gehoord. Tussen de vier nummers zitten herwerkte versies van ‘Arrow’, ‘Frequency’ en ‘Waterborne’ en één compleet nieuw nummer. Dit is dus het kleine broertje van hun album ‘Ark’ dat in 2017 uitkwam. Met veel nieuwsgierigheid en curiositeit laten we het geluid over ons heen glijden.
 

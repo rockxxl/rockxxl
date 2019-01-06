@@ -8,7 +8,8 @@ date: 2017-05-15T09:16:59+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-the-silent-wedding-enigma-eternal/
-image: klara-tsw.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/klara-tsw.jpg
 ---
 De Atheners van The Silent Wedding hebben zichzelf weer overtroffen met hun nieuw album ‘Enigma Eternal’. Vier jaar na hun laatste album ‘Livin’ experiments’ (2013) kunnen fans zich weer verachten aan een progressieve powermetal sound. The Silent Wedding bestaat reeds 11 jaar en heeft al een mooie carrière als support act voor onder andere Saxon, Fates Warning, Maiden uniteD en vele anderen.
 

@@ -8,7 +8,8 @@ date: 2017-05-22T15:33:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-state-of-awakening-we-survive/
-image: Naamloos-1.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/Naamloos-1.jpg
 ---
 Twee jaar na het geweldige ‘Ruin to Rebuild’ laat State Of Awakening opnieuw van zich horen met een nieuwe EP die dit keer de titel ‘We Survive’ meekreeg. Met de meesterlijke songs 'Kings' en 'Drowning The Brave' in het achterhoofd zijn de verwachtingen in elk geval hooggespannen.
 

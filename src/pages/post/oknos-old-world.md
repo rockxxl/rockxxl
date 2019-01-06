@@ -8,7 +8,8 @@ date: 2017-05-28T17:39:13+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-oknos-old-world/
-image: pieter-oknos.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/pieter-oknos.jpg
 ---
 Oknos. Symfonische metal uit Hannover. Het klinkt eigenlijk weer het zoveelste bandje met invloeden van (hoe kan het ook anders) Nightwish en Epica. We geven het een kans en zijn benieuwd naar hun debuutalbum ‘Old World’.
 

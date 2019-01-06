@@ -6,7 +6,8 @@ date: 2017-11-07T18:56:50+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /news/voorbeschouwing-dying-fetus-jc-de-klinker-2017/
-image: sfsfs.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/sfsfs.jpg
 ---
 **Morgen is het een van de meest brutale concerten van het jaar in De Klinker in Aarschot. Vier verschillende death metal bands van overal komen samen om ons van onze voeten te blazen, namelijk: Disentomb, Beyond Creation, Psycroptic en Dying Fetus.**
 

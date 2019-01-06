@@ -6,7 +6,8 @@ date: 2018-07-12T06:45:46+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /live-review/live-review-sjock-2018-zondag/
-image: 30124052_10212048948435908_3981074273237421404_n-1.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/30124052_10212048948435908_3981074273237421404_n-1.jpg
 ---
 **De Poeyelhei in Gierle werd ook dit jaar weer omgetoverd tot het jaarlijkse Sjock Festival, voor de 43<sup>ste</sup> keer ondertussen. Hoewel het festival dit jaar namen als MC50 en Dead Kennedys op de affiche had staan, was het toch de zondag die ging lopen met heel wat mooie punkrock bands zoals Descendents en Pennywise. RockXXL nam een kijkje op dit uiterst gezellige festival in hartje Kempen.**
 

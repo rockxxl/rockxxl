@@ -8,7 +8,8 @@ date: 2017-02-22T14:44:21+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-ashes-lost-in-a-haze/
-image: a1045893294_10.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/a1045893294_10.jpg
 ---
 Na hun start in 2012 en de release van ‘Winter Edition’, ‘Cursed’ en ‘No Compromise’ kwam het Leuvense hardcore-kwartet _Ashes_ met een gloednieuwe plaat genaamd ‘Lost in a Haze’, uitgebracht op 31 augustus onder Farewell / Genet Records. De band kent een groot succes zowel in het binnen- als buitenland. Ze spelen shows zowel in België en omstreken als een tour in Zuid-Afrika. Wij namen de tijd om hun album ‘Lost in a Haze’ te reviewen.
 

@@ -8,7 +8,8 @@ date: 2016-11-02T11:42:05+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-veil-of-mist-disenchantment/
-image: tumblr_inline_og0j635csT1uncqs0_1280.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_og0j635csT1uncqs0_1280.jpg
 ---
 Veil of Mist vindt z’n ware roots in Reims in het noordoosten van Frankrijk. Het was zoals voor vele kleinere bands geen makkelijke zaak, want door persoonlijke redenen doorstond de band al een aantal veranderingen binnen hun bezetting. Niettegenstaande bracht de band, na twee eerdere demo’s, hun recente debuutalbum Disenchantment uit.
 

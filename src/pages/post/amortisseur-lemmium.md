@@ -8,7 +8,8 @@ date: 2016-07-04T09:26:13+00:00
 author: Seppe Van Ael
 layout: post
 permalink: /album-review/review-amortisseur-lemmium/
-image: tumblr_inline_o9s8xtNKps1uncqs0_540.jpg
+thumbnail: >-
+  http://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_o9s8xtNKps1uncqs0_540.jpg
 ---
 December 2015 zal velen bijblijven als de maand waarin we afscheid moesten nemen van legende Lemmy Kilmister. Natuurlijk gaat een dood als die van Lemmy niet onopgemerkt voorbij. Tributebands schoten als paddenstoelen uit de grond en ook bands als het Antwerpse Amörtisseur kregen een aandachtsshot.
 

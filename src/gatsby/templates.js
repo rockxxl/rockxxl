@@ -25,7 +25,7 @@ module.exports = ({ actions, graphql }) => {
                         permalink
                         band
                         date
-                        image
+                        thumbnail
                         groups
                         album
                     }
