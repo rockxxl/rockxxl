@@ -29,6 +29,19 @@ collections:
     fields:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+
+  - name: author
+    label: Authors
+    label_singular: Author
+    folder: src/pages/author
+    create: true
+    delete: true
+    fields:
+      - { name: title, label: Title }
+      - { name: email, label: Email}
+      - { name: avatar, label: Avatar, widget: image, media_library: { output_filename_only: true }}
+      - { name: body, label: Body, widget: markdown }
+
   - name: post
     label: Posts
     label_singular: Post
@@ -55,7 +68,22 @@ collections:
         collection: category
         searchFields: ["title"]
         valueField: title
+      - name: author
+        label: Author
+        widget: relation
+        collection: author
+        searchFields: ["title"]
+        valueField: title
         displayFields: title
+      - label: Bands
+        name: groups
+        widget: "list"
+        default: []
+      - label: Album
+        name: album
       - name: body
         label: Body
         widget: markdown
+      - name: permalink
+        label: Legacy URL
+        widget: hidden
