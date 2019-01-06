@@ -66,7 +66,16 @@ module.exports = {
         "gatsby-plugin-styled-components",
         "gatsby-plugin-react-helmet",
         "gatsby-plugin-netlify",
-        "gatsby-plugin-netlify-cms",
+        {
+            resolve: "gatsby-plugin-netlify-cms",
+            options: {
+                /**
+               * One convention is to place your Netlify CMS customization code in a
+               * `src/cms` directory.
+               */
+                modulePath: `${__dirname}/src/cms/cms.js`,
+            },
+        },
         {
             resolve: "gatsby-plugin-stylelint",
             options: { files: ["./src/**/*.js"] },

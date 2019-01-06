@@ -62,7 +62,7 @@ export default ({
         fields: { slug },
         frontmatter: {
             title,
-            image,
+            thumbnail,
         },
     },
     aspectRatio,
@@ -71,9 +71,9 @@ export default ({
 }) => (
     <article className={className}>
         <Link to={slug}>
-            { image && (
+            { thumbnail && (
                 <Image
-                    publicId={image}
+                    src={thumbnail}
                     aspectRatio={aspectRatio}
                     alt={title}
                 />

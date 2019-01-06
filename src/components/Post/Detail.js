@@ -6,10 +6,9 @@ import { p, mb, mr } from "styled-components-spacing";
 import breakpoint from "styled-components-breakpoint";
 import cloudinary from "cloudinary-core";
 import nlDateFnsLocale from "date-fns/locale/nl";
-import React from "react";
+import React, { Fragment } from "react";
 import striptags from "striptags";
 import styled from "styled-components";
-import Layout from "../Layout";
 import Image from "../Image";
 
 const Grid = styled.div`
@@ -120,31 +119,35 @@ export default ({
         },
         frontmatter: {
             title,
-            image,
+            thumbnail,
             category,
             date,
             author,
-        }, html,
+        },
+        html,
     },
     sidebar,
+    preview = false,
 }) => {
     const strippedDescription = striptags(html);
     return (
-        <Layout>
-            <Helmet
-                title={title}
-                link={[
-                    { rel: "canonical", href: `${process.env.GATSBY_APP_URL}${slug}` },
-                ]}
-                meta={[
-                    { name: "description", content: strippedDescription },
-                    { property: "og:title", content: title },
-                    { property: "og:description", content: strippedDescription },
-                    { property: "og:url", content: `${process.env.GATSBY_APP_URL}${slug}` },
-                    { property: "og:image", content: OgImage(image) },
-                    { property: "og:article:published_time", content: date },
-                ]}
-            />
+        <Fragment>
+            {!preview && (
+                <Helmet
+                    title={title}
+                    link={[
+                        { rel: "canonical", href: `${process.env.GATSBY_APP_URL}${slug}` },
+                    ]}
+                    meta={[
+                        { name: "description", content: strippedDescription },
+                        { property: "og:title", content: title },
+                        { property: "og:description", content: strippedDescription },
+                        { property: "og:url", content: `${process.env.GATSBY_APP_URL}${slug}` },
+                        { property: "og:image", content: OgImage(thumbnail) },
+                        { property: "og:article:published_time", content: date },
+                    ]}
+                />
+            )}
             <Grid>
                 <Content>
                     <Header>
@@ -154,26 +157,28 @@ export default ({
                         </Subtitle>
                     </Header>
                     <Section>
-                        { image && (
+                        { thumbnail && (
                             <Media>
                                 <Image
-                                    publicId={image}
+                                    src={thumbnail}
                                     aspectRatio={aspectRatio(category)}
                                     alt={title}
                                 />
                             </Media>
                         )}
-                        <div dangerouslySetInnerHTML={{ __html: html }} />
+                        {preview ? <Fragment>{ html }</Fragment> : <div dangerouslySetInnerHTML={{ __html: html }} />}
                     </Section>
                 </Content>
-                <Sidebar>
-                    <Sticky>
-                        <Scroll>
-                            {sidebar}
-                        </Scroll>
-                    </Sticky>
-                </Sidebar>
+                {sidebar && (
+                    <Sidebar>
+                        <Sticky>
+                            <Scroll>
+                                {sidebar}
+                            </Scroll>
+                        </Sticky>
+                    </Sidebar>
+                )}
             </Grid>
-        </Layout>
+        </Fragment>
     );
 };

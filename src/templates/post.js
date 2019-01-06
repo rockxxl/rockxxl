@@ -4,8 +4,9 @@ import React, { Fragment } from "react";
 import styled from "styled-components";
 import { px, py } from "styled-components-spacing";
 import { graphql, Link as GatsbyLink } from "gatsby";
-import Post from "../components/Post/Detail";
+import Detail from "../components/Post/Detail";
 import List from "../components/Post/List";
+import Layout from "../components/Layout";
 
 const ToFullList = styled(GatsbyLink)`
     display: block;
@@ -29,22 +30,24 @@ export default function Template({
         .find(({ node }) => node.frontmatter.title === post.frontmatter.category);
 
     return (
-        <Post
-            post={post}
-            sidebar={(
-                <Fragment>
-                    <List
-                        posts={related}
-                        category={category}
-                    />
-                    <ToFullList to={category.node.fields.slug}>
-                        Terug naar
-                        {" "}
-                        {category.node.frontmatter.title}
-                    </ToFullList>
-                </Fragment>
-            )}
-        />
+        <Layout>
+            <Detail
+                post={post}
+                sidebar={(
+                    <Fragment>
+                        <List
+                            posts={related}
+                            category={category}
+                        />
+                        <ToFullList to={category.node.fields.slug}>
+                            Terug naar
+                            {" "}
+                            {category.node.frontmatter.title}
+                        </ToFullList>
+                    </Fragment>
+                )}
+            />
+        </Layout>
     );
 }
 

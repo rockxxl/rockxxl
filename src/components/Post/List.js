@@ -49,16 +49,16 @@ export default ({ posts, className }) => (
                 },
                 frontmatter: {
                     title,
-                    image,
+                    thumbnail,
                 },
             },
         }) => (
             <li key={slug}>
                 <Link to={slug}>
-                    { image && (
+                    { thumbnail && (
                         <Media>
                             <Image
-                                publicId={image}
+                                src={thumbnail}
                                 aspectRatio="1:1"
                                 alt={title}
                             />

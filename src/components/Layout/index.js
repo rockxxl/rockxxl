@@ -1,6 +1,6 @@
 import React from "react";
 import { StaticQuery, graphql } from "gatsby";
-import styled, { ThemeProvider } from "styled-components";
+import { ThemeProvider } from "styled-components";
 import { Normalize } from "styled-normalize";
 import { Helmet } from "react-helmet";
 import GlobalStyle from "./GlobalStyle";
@@ -8,24 +8,8 @@ import theme from "../../theme";
 import Header from "../App/Header";
 import Footer from "../App/Footer";
 import defaultOgImage from "../Brand/og-image.png";
-
-
-const App = styled.div`
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-`;
-
-const Main = styled.main`
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    align-items: center;
-
-    & > * {
-        width: 100%;
-    }
-`;
+import App from "./App";
+import Main from "./Main";
 
 export default ({ children }) => (
     <StaticQuery
