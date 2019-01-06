@@ -19,6 +19,7 @@ export default () => (
         query={graphql`
         query CategoriesQuery {
             allMarkdownRemark(
+                filter: { fields: { slug: { ne: null } } }
                 sort: {order: DESC, fields: [frontmatter___date]}
             ) {
                 listOfCategories: distinct(field: frontmatter___category)

@@ -31,7 +31,10 @@ export default ({ className }) => (
         query={graphql`
         query NavgiationQuery {
             allMarkdownRemark(
-                filter: { fileAbsolutePath: { regex: "src/pages/category/" } }
+                filter: {
+                    fields: { slug: { ne: null } }
+                    fileAbsolutePath: { regex: "src/pages/category/" }
+                }
                 sort: { order: ASC, fields: [frontmatter___title] }
             ) {
                 edges {

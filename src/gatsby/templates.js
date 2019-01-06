@@ -8,6 +8,7 @@ module.exports = ({ actions, graphql }) => {
     return graphql(`
     {
         allMarkdownRemark(
+            filter: { fields: { slug: { ne: null } } }
             sort: { order: DESC, fields: [frontmatter___date] }
             limit: 1000
         ) {
@@ -41,18 +42,20 @@ module.exports = ({ actions, graphql }) => {
                 ? postTemplate
                 : categoryTemplate;
 
-            createPage({
-                path: node.fields.slug,
-                component: template,
-                context: {},
-            });
-
-            if (node.frontmatter.permalink) {
-                createRedirect({
-                    fromPath: node.frontmatter.permalink,
-                    toPath: node.fields.slug,
-                    isPermanent: true,
+            if (node.fields.slug) {
+                createPage({
+                    path: node.fields.slug,
+                    component: template,
+                    context: {},
                 });
+
+                if (node.frontmatter.permalink) {
+                    createRedirect({
+                        fromPath: node.frontmatter.permalink,
+                        toPath: node.fields.slug,
+                        isPermanent: true,
+                    });
+                }
             }
         });
     });

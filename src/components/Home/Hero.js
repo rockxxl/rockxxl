@@ -48,7 +48,10 @@ export default () => (
         query={graphql`
         query HeroQuery {
             allMarkdownRemark(
-                filter: {frontmatter: {category: { ne: null }}}
+                filter: {
+                    fields: { slug: { ne: null } }
+                    frontmatter: {category: { ne: null }}
+                }
                 sort: {order: DESC, fields: [frontmatter___date]}
                 limit: 3
             ) {
