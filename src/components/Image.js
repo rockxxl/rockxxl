@@ -16,19 +16,18 @@ const Image = styled.img`
         left: 0;
         height: 100%;
         object-fit: cover;
-
     `}
 `;
 
-const Figure = styled.figure.attrs(
+const Wrapper = styled.div.attrs(
     ({ aspectRatio }) => aspectRatio && {
         style: {
-            overflow: "hidden",
             paddingBottom: `${aspectRatio.split(":")[1] / aspectRatio.split(":")[0] * 100}%`,
         },
     },
 )`
     position: relative;
+    overflow: "hidden";
     background-color: ${props => props.theme.color.extremelyLight};
 `;
 
@@ -157,7 +156,7 @@ class ImageLazyLoader extends Component {
         } = this.state;
 
         return (
-            <Figure aspectRatio={aspectRatio}>
+            <Wrapper aspectRatio={aspectRatio}>
                 {isVisible && (
                     <Image
                         ref={this.image}
@@ -179,7 +178,7 @@ class ImageLazyLoader extends Component {
                         loaded: isLoaded,
                     }}
                 />
-            </Figure>
+            </Wrapper>
         );
     }
 }
