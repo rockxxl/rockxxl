@@ -75,11 +75,11 @@ collections:
         searchFields: ["title"]
         valueField: title
         displayFields: title
-      - label: Bands
-        name: groups
-        widget: "list"
-        default: []
-        required: false
+      # - label: Bands
+      #   name: groups
+      #   widget: "list"
+      #   default: [""]
+      #   required: false
       - label: Album
         name: album
         required: false
@@ -89,3 +89,4 @@ collections:
       - name: permalink
         label: Legacy URL
         widget: hidden
+        required: false
