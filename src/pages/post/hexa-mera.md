@@ -48,9 +48,7 @@ Enorm belangrijk! Minstens even belangrijk als het muzikale gegeven. Als band mo
 
 **Doorheen het hele artwork en ook in jullie videoclip van ‘Enlighenment’ komt dezelfde ster terug.** 
 
-Dat is een dodecahedron. Het concept ontstond tijdens een lange treinrit. We zochten naar een nieuwe visuele richting om Hexa Mera weer te geven. Eerst waren we van plan om iets met dieren te doen: elk bandlid zou een eigen _spirit animal_ krijgen. Maar dat werd al snel héél _Power Rangers_. Dan kwam het idee om met een kubus te werken, maar dan ééntje met 5 hoeken in plaats van 4. Na een beetje _Google Fu_ bleek dat dit (uiteraard) al bestond. Meer nog: deze figuur (een dodecahedron) is een Platonisch lichaam, toegekend aan ether: het element dat alle andere elementen verbind en bovendien de stof waaruit de hemel zou gemaakt zijn. Een betere _fit_ voor ‘Enlightenment’ konden we dus niet vinden.We hebben dan op elk vlak een vijfpuntige piramide toegevoegd, waardoor we een soort van driedimensionale twaalfpuntige ster kregen, en het is die ster die je overal ziet terugkomen!**
-  
-** 
+Dat is een dodecahedron. Het concept ontstond tijdens een lange treinrit. We zochten naar een nieuwe visuele richting om Hexa Mera weer te geven. Eerst waren we van plan om iets met dieren te doen: elk bandlid zou een eigen _spirit animal_ krijgen. Maar dat werd al snel héél _Power Rangers_. Dan kwam het idee om met een kubus te werken, maar dan ééntje met 5 hoeken in plaats van 4. Na een beetje _Google Fu_ bleek dat dit (uiteraard) al bestond. Meer nog: deze figuur (een dodecahedron) is een Platonisch lichaam, toegekend aan ether: het element dat alle andere elementen verbind en bovendien de stof waaruit de hemel zou gemaakt zijn. Een betere _fit_ voor ‘Enlightenment’ konden we dus niet vinden.We hebben dan op elk vlak een vijfpuntige piramide toegevoegd, waardoor we een soort van driedimensionale twaalfpuntige ster kregen, en het is die ster die je overal ziet terugkomen!
 
 **Jullie hebben doorheen de jaren al een serieuze bucketlist kunnen afstrepen.** **Wat is de volgende stap die Hexa Mera wilt maken?**
 
