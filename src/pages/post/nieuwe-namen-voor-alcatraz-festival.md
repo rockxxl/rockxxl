@@ -14,4 +14,4 @@ info en tickets:
 
 https://www.alcatraz.be/
 
-[<img class="alignnone size-full wp-image-4625" src="29683369_10213937454643249_177580843101847552_n.jpg)
+![29683369_10213937454643249_177580843101847552_n.jpg](https://res.cloudinary.com/rockxxl/image/upload/29683369_10213937454643249_177580843101847552_n.jpg)

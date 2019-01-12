@@ -10,4 +10,4 @@ thumbnail: >-
 ---
 De volledige line up van **Antwerp Metal Fest** is bekend! De laatste toevoegingen zijn: **Nile**, **I Am Morbid**, **Venom Inc.**, **Bark**, **Haester**, **Téras**, **Deconsecrate**, **The Curse Of Millhaven** en **Goe Vur In Den Otto**.
 
-[<img class="alignnone size-full wp-image-4648" src="29695368_1775665415806504_6383541142503292928_n.jpg)
+![29695368_1775665415806504_6383541142503292928_n.jpg](https://res.cloudinary.com/rockxxl/image/upload/29695368_1775665415806504_6383541142503292928_n.jpg)

@@ -10,4 +10,4 @@ thumbnail: >-
 ---
 De kogel is door de kerk. De eerste zes namen voor **Rock Zottegem** werden zonet aangekondigd. De meest opvallende voor RockXXL was uiteraard **The Offspring**.
 
-[<img class="alignnone size-full wp-image-4157" src="27500809_10155036968256143_1282713022515616077_o-e1517933473499.jpg)
+![27500809_10155036968256143_1282713022515616077_o-e1517933473499.jpg](https://res.cloudinary.com/rockxxl/image/upload/27500809_10155036968256143_1282713022515616077_o-e1517933473499.jpg)

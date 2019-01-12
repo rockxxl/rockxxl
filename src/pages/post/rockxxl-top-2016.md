@@ -30,7 +30,7 @@ thumbnail: >-
 
 1. You Nervous? – Furry Tales
 
-[<img class="alignnone wp-image-864" src="cover1.jpg)
+![cover1.jpg](https://res.cloudinary.com/rockxxl/image/upload/cover1.jpg)
 
 **Beste hardcore albums:**
 
@@ -54,7 +54,7 @@ thumbnail: >-
 
 1. Fleddy Melculy – Helgië
 
-[<img class="alignnone wp-image-860" src="tumblr_inline_oekshgjO6l1uncqs0_500.jpg)
+![tumblr_inline_oekshgjO6l1uncqs0_500.jpg](https://res.cloudinary.com/rockxxl/image/upload/tumblr_inline_oekshgjO6l1uncqs0_500.jpg)
 
 **Beste metal albums:**
 
@@ -78,7 +78,7 @@ thumbnail: >-
 
 1. Oathbreaker – Rheia
 
-[<img class="alignnone wp-image-857" src="14918849_898409756929119_5429765720378737243_o.jpg)
+![14918849_898409756929119_5429765720378737243_o.jpg](https://res.cloudinary.com/rockxxl/image/upload/14918849_898409756929119_5429765720378737243_o.jpg)
 
 **Beste rock albums:**
 
@@ -92,6 +92,6 @@ thumbnail: >-
 
 1. Camp Rebecca – Visitors At Night
 
-[<img class="alignnone wp-image-866" src="15271822_1178768528878107_5835770826923914242_o.jpg)
+![15271822_1178768528878107_5835770826923914242_o.jpg](https://res.cloudinary.com/rockxxl/image/upload/15271822_1178768528878107_5835770826923914242_o.jpg)
 
 (De lijst is enkel opgebouwd uit bands waarmee RockXXL het afgelopen jaar in contact is gekomen)

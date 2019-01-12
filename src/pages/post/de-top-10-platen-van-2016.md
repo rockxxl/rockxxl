@@ -32,7 +32,7 @@ thumbnail: >-
 
 1. The Interrupters – Say It Out Loud
 
-[<img class="alignnone wp-image-1006" src="12779078_492509794285570_9128219140434334099_o.jpg)
+![12779078_492509794285570_9128219140434334099_o.jpg](https://res.cloudinary.com/rockxxl/image/upload/12779078_492509794285570_9128219140434334099_o.jpg)
 
 **Damien Gillain:**
 
@@ -56,7 +56,7 @@ thumbnail: >-
 
 1. Radiohead – A Moon Shaped Pool
 
-[<img class="alignnone wp-image-993" src="The_Glowing_Man_Front_Cover.jpg)
+![The_Glowing_Man_Front_Cover.jpg](https://res.cloudinary.com/rockxxl/image/upload/The_Glowing_Man_Front_Cover.jpg)
 
 **Joren De Mesmaeker:**
 
@@ -80,7 +80,7 @@ thumbnail: >-
 
 1. Architects – All Our Gods Have Abandoned Us
 
-[<img class="alignnone wp-image-997" src="hidden.jpg)
+![hidden.jpg](https://res.cloudinary.com/rockxxl/image/upload/hidden.jpg)
 
 **Pieter Sterckx:**
 
@@ -104,7 +104,7 @@ thumbnail: >-
 
 1. Epica – The Holographic Principle
 
-[<img class="alignnone wp-image-1001" src="maxresdefault.jpg)
+![maxresdefault.jpg](https://res.cloudinary.com/rockxxl/image/upload/maxresdefault.jpg)
 
 **Brent Bertels:**
 
@@ -128,4 +128,4 @@ thumbnail: >-
 
 1. Vanna – All Hell
 
-[<img class="alignnone wp-image-996" src="ffd3c174229d0e0cb8ad14bdbbc8e0bb.960x960x1.jpg)
+![ffd3c174229d0e0cb8ad14bdbbc8e0bb.960x960x1.jpg](https://res.cloudinary.com/rockxxl/image/upload/ffd3c174229d0e0cb8ad14bdbbc8e0bb.960x960x1.jpg)

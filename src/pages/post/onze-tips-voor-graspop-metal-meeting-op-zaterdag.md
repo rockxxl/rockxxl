@@ -12,7 +12,7 @@ thumbnail: >-
 
 **5. Amaranthe **_/ 16u15 – 17u05 / Marquee_
 
-[<img class="alignnone size-medium wp-image-5087" src="25289558_1916080998432049_5140709881769549490_n.jpg)
+![25289558_1916080998432049_5140709881769549490_n.jpg](https://res.cloudinary.com/rockxxl/image/upload/25289558_1916080998432049_5140709881769549490_n.jpg)
 
 Of je nu fan bent van grunts, clean vocals of een vrouwelijke stem: Amaranthe heeft ze alle drie! Vergezeld door elektronica en aanstekelijke riffs, weet de band een groot publiek aan te spreken. Het pop-gehalte is vaak erg hoog, maar dat maakt alles alleen maar gemakkelijker mee te zingen. Dat is exact wat wij gaan doen!
 
@@ -20,7 +20,7 @@ Of je nu fan bent van grunts, clean vocals of een vrouwelijke stem: Amaranthe he
 
 **4. Arch Enemy **_/ 17u50 – 18u40 / Marquee_
 
-[<img class="alignnone size-medium wp-image-5089" src="26907100_1972770039429811_3865719190408156397_n.jpg)
+![26907100_1972770039429811_3865719190408156397_n.jpg](https://res.cloudinary.com/rockxxl/image/upload/26907100_1972770039429811_3865719190408156397_n.jpg)
 
 Arch Enemy verdiende met hun melodische death metal al langer hun pluimen in de metal scene. Hoewel hun nieuwe album 'Will To Power' niet veel verschilt met hun vorige 'War Eternal', staan er op deze gewoon weer een hele hoop steengoeie songs. Meebrullen is de boodschap!
 
@@ -36,7 +36,7 @@ De meest opkomende black metalband van het moment is zonder twijfel Batushka. Di
 
 **2. Boston Manor **_/ 15u05 – 15u45 / Jupiler Stage_
 
-[<img class="alignnone wp-image-5088" src="25299281_1916081928431956_753269176902607812_n.jpg)
+![25299281_1916081928431956_753269176902607812_n.jpg](https://res.cloudinary.com/rockxxl/image/upload/25299281_1916081928431956_753269176902607812_n.jpg)
 
 Hoewel de doorsnee doorwinterde metalhead heel het Graspop weekend geen voet zet op het stukje gras voor de Jupiler Stage, zijn wij blij dat we, tussen al de metal door, kunnen afwisselen met wat punk en hardcore. Zeker nu dat Groezrock dit jaar niet doorgaat. De Engelse emo/ punkrock band Boston Manor bestaat nog maar vijf jaar en ze brachten slechts één langspeler uit. De band is goed op weg om zieltjes te veroveren. Onze zegen hebben ze alvast!
 

@@ -10,4 +10,4 @@ thumbnail: >-
 ---
 De **Lokerse Feesten** bevestigde al eerder bands als Bad Religion en Dropkick Murphys voor de punkdag op 8 augustus. Hoewel de organisatie het nog niet officieel liet weten, lekte metalcore band **Northlane** wel al hun komst op het festival. Of er een tweede stage zal zijn is nog onduidelijk.
 
-[<img class="alignnone size-full wp-image-4916" src="Naamloos.png)
+![Naamloos.png](https://res.cloudinary.com/rockxxl/image/upload/Naamloos.png)

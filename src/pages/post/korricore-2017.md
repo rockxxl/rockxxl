@@ -17,4 +17,4 @@ Vervolgens was het de beurt aan **Off The Cross**. Zeggen dat deze band goed op 
 
 Headliner van de avond was **Set Things Right**, die exact één maand na hun release voor de eerste keer met hun album 'Deathwish' onder de arm op het podium stond. Wie aanwezig was op de releaseshow en dezelfde set verwachtte was eraan voor de moeite. We kregen een totaal andere show, maar wel één zoals we die van Set Things Right konden verwachten: bakken energie, veel interactie en strakke nummers van zowel 'This Is Home' als van hun meest recente wapenfeit. Uiteraard mochten hun meesterlijke covers van 'Sunrise Avenue' en 'Linkin Park' niet ontbreken. Het publiek kon dit duidelijk smaken. Blijven stilstaan was geen optie. Met 'Dear Erica' zette Set Things Right de kers op de taart voor we door de regen weer huiswaarts keerden, nagenietend van een meer dan geslaagde avond in jeugdhuis Korridor.
 
-[<img class="alignnone size-medium wp-image-1949" src="15577985_1223114114434772_424159667416389633_o.jpg)
+![15577985_1223114114434772_424159667416389633_o.jpg](https://res.cloudinary.com/rockxxl/image/upload/15577985_1223114114434772_424159667416389633_o.jpg)

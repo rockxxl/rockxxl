@@ -10,4 +10,4 @@ thumbnail: >-
 ---
 Ieperfest vult hun line up aan. Met bands als **Comeback Kid** en **Converge** weet het festival nu al een groot feest te worden.
 
-[<img class="alignnone size-full wp-image-4014" src="26993430_10155791431760255_2339515910165157077_n.jpg)
+![26993430_10155791431760255_2339515910165157077_n.jpg](https://res.cloudinary.com/rockxxl/image/upload/26993430_10155791431760255_2339515910165157077_n.jpg)

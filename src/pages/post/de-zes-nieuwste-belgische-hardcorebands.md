@@ -16,7 +16,7 @@ Eerste optreden: RockXXL Fest, 15 juli, Beerse
 
 Facebook: https://www.facebook.com/titanshardcore/
 
-[<img class="alignnone size-medium wp-image-2688" src="17990221_1884571505163852_8772461429517984238_o-e1498066832368.jpg)
+![17990221_1884571505163852_8772461429517984238_o-e1498066832368.jpg](https://res.cloudinary.com/rockxxl/image/upload/17990221_1884571505163852_8772461429517984238_o-e1498066832368.jpg)
 
 **Defined By Nature**
 
@@ -26,7 +26,7 @@ Eerste optreden: Tougher Than Nails Fest, 14 oktober, Westmalle
 
 Facebook: https://www.facebook.com/DefinedByNature/
 
-[<img class="alignnone size-medium wp-image-2682" src="defined-e1498065640328.jpg)
+![defined-e1498065640328.jpg](https://res.cloudinary.com/rockxxl/image/upload/defined-e1498065640328.jpg)
 
 **Revealed**
 
@@ -36,7 +36,7 @@ Eerste optreden: /
 
 Facebook: https://www.facebook.com/RevealedHC/
 
-[<img class="alignnone size-medium wp-image-2683" src="revealed-e1498065663690.jpg)
+![revealed-e1498065663690.jpg](https://res.cloudinary.com/rockxxl/image/upload/revealed-e1498065663690.jpg)
 
 **Ascendant**
 
@@ -46,7 +46,7 @@ Eerste optreden: Frietrock, 2 september, Oud-Turnhout
 
 Facebook: https://www.facebook.com/ascendantbelgium/
 
-[<img class="alignnone size-medium wp-image-2686" src="19055541_304477176658617_6957245165111637884_o-2.jpg)
+![19055541_304477176658617_6957245165111637884_o-2.jpg](https://res.cloudinary.com/rockxxl/image/upload/19055541_304477176658617_6957245165111637884_o-2.jpg)
 
 **CLCKWS**
 
@@ -56,7 +56,7 @@ Eerste optreden: 2470 Fest, 23 september, Retie
 
 Facebook: https://www.facebook.com/clckws/
 
-[<img class="alignnone size-medium wp-image-2684" src="clckws-e1498065783722.jpg)
+![clckws-e1498065783722.jpg](https://res.cloudinary.com/rockxxl/image/upload/clckws-e1498065783722.jpg)
 
 **Nesqueek**
 
@@ -66,4 +66,4 @@ Eerste optreden: Partyfest, 28 oktober, Vorselaar
 
 Facebook: https://www.facebook.com/Nesqueek/
 
-[<img class="alignnone size-medium wp-image-2687" src="nes-e1498066622156.jpg)
+![nes-e1498066622156.jpg](https://res.cloudinary.com/rockxxl/image/upload/nes-e1498066622156.jpg)

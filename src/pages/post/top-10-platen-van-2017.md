@@ -30,7 +30,7 @@ thumbnail: >-
 
 1. Creeper – Eternity, In Your Arms
 
-[<img class="alignnone size-full wp-image-3560" src="anti-flag-american-fall-e1513603065219.png)
+![anti-flag-american-fall-e1513603065219.png](https://res.cloudinary.com/rockxxl/image/upload/anti-flag-american-fall-e1513603065219.png)
 
 
 
@@ -56,7 +56,7 @@ thumbnail: >-
 
 1. Stick To Your Guns – True View
 
-[<img class="alignnone size-thumbnail wp-image-3566" src="1200x1200bb.jpg)
+![1200x1200bb.jpg](https://res.cloudinary.com/rockxxl/image/upload/1200x1200bb.jpg)
 
 
 
@@ -82,7 +82,7 @@ thumbnail: >-
 
 1. Spite – Nothing Is Beautiful
 
-[<img class="alignnone size-thumbnail wp-image-3589" src="veil-of-maya-false-idol.jpeg)
+![veil-of-maya-false-idol.jpeg](https://res.cloudinary.com/rockxxl/image/upload/veil-of-maya-false-idol.jpeg)
 
 
 
@@ -108,7 +108,7 @@ thumbnail: >-
 
 1. Millionaire – Sciencing
 
-[<img class="alignnone size-thumbnail wp-image-3571" src="a0944814212_10.jpg)
+![a0944814212_10.jpg](https://res.cloudinary.com/rockxxl/image/upload/a0944814212_10.jpg)
 
 
 
@@ -134,7 +134,7 @@ thumbnail: >-
 
 1. While She Sleeps – You Are We
 
-[<img class="alignnone size-thumbnail wp-image-3621" src="wecameasromanscoldlikewarcd.jpg)
+![wecameasromanscoldlikewarcd.jpg](https://res.cloudinary.com/rockxxl/image/upload/wecameasromanscoldlikewarcd.jpg)
 
 
 
@@ -160,7 +160,7 @@ thumbnail: >-
 
 1. Alestorm – No Grave But the Sea
 
-[<img class="alignnone size-thumbnail wp-image-3593" src="Enigma-Eternal.jpg)
+![Enigma-Eternal.jpg](https://res.cloudinary.com/rockxxl/image/upload/Enigma-Eternal.jpg)
 
 
 
@@ -186,7 +186,7 @@ thumbnail: >-
 
 1. Polaris – The Mortal Coil
 
-[<img class="alignnone size-thumbnail wp-image-3616" src="wecameasromanscoldlikewarcd.jpg)
+![wecameasromanscoldlikewarcd.jpg](https://res.cloudinary.com/rockxxl/image/upload/wecameasromanscoldlikewarcd.jpg)
 
 
 
@@ -212,7 +212,7 @@ thumbnail: >-
 
 1.Vuur – In This Moment We Are Free – Cities
 
-[<img class="alignnone size-thumbnail wp-image-3563" src="Rhapsodies_In_Black_album_of_Exit_Eden.jpg)
+![Rhapsodies_In_Black_album_of_Exit_Eden.jpg](https://res.cloudinary.com/rockxxl/image/upload/Rhapsodies_In_Black_album_of_Exit_Eden.jpg)
 
 
 
@@ -238,7 +238,7 @@ thumbnail: >-
 
 1. Stray From The Path – Only Death Is Real
 
-[<img class="alignnone size-thumbnail wp-image-3598" src="J18984j2RJ0.jpg)
+![J18984j2RJ0.jpg](https://res.cloudinary.com/rockxxl/image/upload/J18984j2RJ0.jpg)
 
 
 
@@ -264,4 +264,4 @@ thumbnail: >-
 
 1. Warbringer – Woe To The Vanquished
 
-[<img class="alignnone size-thumbnail wp-image-3599" src="DragonForce-ReachingIntoInfinity.jpg)
+![DragonForce-ReachingIntoInfinity.jpg](https://res.cloudinary.com/rockxxl/image/upload/DragonForce-ReachingIntoInfinity.jpg)

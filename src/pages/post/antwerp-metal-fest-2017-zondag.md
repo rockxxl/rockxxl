@@ -13,7 +13,7 @@ Eén van de winnaars van de Antwerp Metal Fest contest was The Curse of Millhave
 
 De mainstage werd zondag geopend door **Furia**, en ook voor deze band was Antwerp Metal Fest een thuismatch. Deze nieuwe Antwerpse supergroep bestaande uit leden van o.a. Diablo Blvd, Leng Tch’e, Marginal,… sloeg meteen de nagel op de kop. De band speelde een mengeling van death en thrash metal zonder al te veel streken. Hun show klonk stevig, brutaal, maar ook lekker aanstekelijk. De band is zoals ze zich voorstellen: no postures, no bullshit, pure power. Niets meer, maar zeker ook niets minder.
 
-[<img class="alignnone size-full wp-image-2792" src="Furia2-David-e1500835197814.jpg)
+![Furia2-David-e1500835197814.jpg](https://res.cloudinary.com/rockxxl/image/upload/Furia2-David-e1500835197814.jpg)
 
 Vorig jaar kregen we **Dead End Path** al eens te zien op de Antwerp Metal Fest contest. Dit jaar kreeg de band dan toch de kans om de marquee op zijn kop te zetten. Dead End Path bestaat ondertussen al heel wat jaren en dat was ook te merken aan hun liveshow. Het was vooral zanger Jadram die met de pluimen ging lopen als het om energie ging, maar zijn kompanen zorgde wel voor een technisch hoogstaand stukje muziek. Deze heren zien we vast nog een keer terug in Merksem.
 
@@ -23,7 +23,7 @@ De affiche van Antwerp Metal Fest stond (uiteraard) vol met bands uit het Antwer
 
 Een band die stap voor stap de thrashwereld aan het overnemen is, is het Braziliaanse vrouwentrio van **Nervosa**. Na hun laatste wapenfeit 'Agony' speelde de band al samen met de grootste groepen in het genre en ook een hele hoop headlinershows ontbraken niet. Met Antwerp Metal Fest ontsnapte ook ons klein Belgenlandje niet aan deze brok energie. Nervosa gaf een regelrechte klap in je gezicht!
 
-[<img class="alignnone size-full wp-image-2796" src="Moments-Steven-e1500837329118.jpg)
+![Moments-Steven-e1500837329118.jpg](https://res.cloudinary.com/rockxxl/image/upload/Moments-Steven-e1500837329118.jpg)
 
 Tegenover vorige jaren liet de hardcore het dit jaar wat afweten, maar met **Moments** op de affiche hadden de fans van dit genre toch een band om naar uit te kijken. Moments stond al twee maal op Groezrock en dat heeft de reputatie van deze band alleen maar goed gedaan. Na een afwachtende intro leek het wel of de marquee vacuum gezogen werd door het stevige, snelle maar vooral ook aanstekelijke gitaarspel van dit vijftal. De enorm goed ontvangen single 'Heartless' bleef spijtig genoeg achterwege, maar we hebben wel kunnen genieten van nieuwe nummer als 'What If' en 'House Of Habits'. Ook het publiek was mee met deze welgekomen afwisseling na al het “echte” metalwerk.
 
@@ -31,7 +31,7 @@ Nog een thrash band op de affiche van AMF was **Evil Invaders**. Misschien wel B
 
 Om klokslag 20 na zes viel er een donkere sfeer over de marquee. Ook het podium werd overgenomen door een vlaag van rook. Na Graspop en met Alcatraz in het vooruitzicht is **Carnation** misschien wel de snelst groeiende Belgische metalband. Met hun typische old school death metal kon Carnation dan ook wat zieltjes veroveren, letterlijk. De band bracht een interessante show die uiteindelijk wel zwaar op de maag viel. Ach, zo gaat dat met death metal.
 
-[<img class="alignnone size-full wp-image-2797" src="Diablo-Steven-e1500837381890.jpg)
+![Diablo-Steven-e1500837381890.jpg](https://res.cloudinary.com/rockxxl/image/upload/Diablo-Steven-e1500837381890.jpg)
 
 Ja hoor, ze zijn terug! **Diablo Blvd**, de headliner van Antwerp Metal Fest jaar één is net terug uit de studio. Eind september komt hun gloednieuwe plaat 'Zero Hour' uit samen met een grote release tour door binnen -en buitenland. De band werd dan ook exclusief aangekondigd om Antwerp Metal Fest op z'n kop te zetten. Enkele dagen voor Antwerp Metal Fest releasde Diablo Blvd al twee nieuwe videoclips 'Animals' en 'Sing From The Gallows' die we ook voor de eerste keer live voorgeschoteld kregen. Enkele fans hadden de nummers zelfs al vanbuiten geleerd. Het lijkt erop dat Diablo Blvd weer volwassener is geworden. De nummers zijn doordachter en dat heeft het nadeel dat de energie wat minder is maar muzikaal is de band weer enorm gegroeid. Als dit zo blijft doorgaan is er geen stoppen meer aan, en terecht!
 
@@ -39,4 +39,4 @@ De laatste band die Antwerpen mocht verdedigen op AMF was **Toxic Shock**. Ook 
 
 Misschien wel het boegbeeld van van thrash editie van Antwerp Metal Fest: **Death Angel**. Death Angel bestaat al sinds 1982 en is dan ook één van de eerste bands die het genre op hun naam kon schrijven. Hoewel de weide niet helemaal gevuld was, was het toch serieus drummen voor een plaats dichtbij het podium. Hun nieuwe plaat 'The Evil Divide' werd uitgebreid gepromoot met geweldige singles als 'Lost' en 'Hatred United/ United Hate'. Ook Death Angel classics al 'Dethroned' kwamen aan bod. De band mag dan 35 jaar bestaan, Death Angel geraakt het niet afgeleerd. Muzikaal was er geen vuiltje aan de lucht en ook de energie op het podium was zeker niet van de minste. Spijtig misschien dat het publiek wat afwachtend was, maar we hebben ons alvast erg geamuseerd. Death Angel is zonder twijfel nog steeds één van de top bands in het genre!
 
-[<img class="alignnone size-full wp-image-2799" src="DeathAngel3-David-e1500837531477.jpg)
+![DeathAngel3-David-e1500837531477.jpg](https://res.cloudinary.com/rockxxl/image/upload/DeathAngel3-David-e1500837531477.jpg)

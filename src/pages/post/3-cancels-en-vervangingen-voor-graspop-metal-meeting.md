@@ -10,6 +10,6 @@ thumbnail: >-
 ---
 De organisatie van Graspop Metal Meeting kwam vandaag met spijtig nieuws. **W.A.S.P.**, **Meshiaak** en **Nothing More** zijn van de affiche geschrapt. De organisatie liet geen juiste oorzaak voor de cancels weten. Niet getreurd, niemand minder dan **Dee Snider**, **MaYan** en **Toseland** zullen deze bands vervangen.
 
-[<img class="alignnone size-medium wp-image-2507" src="Naamloos.png)
+![Naamloos.png](https://res.cloudinary.com/rockxxl/image/upload/Naamloos.png)
 
 

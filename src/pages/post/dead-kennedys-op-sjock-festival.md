@@ -10,4 +10,4 @@ thumbnail: >-
 ---
 Nog niet zo lang geleden kwam **Sjock Festival** uit Gierle aanzetten met namen als Pennywise, Descendents en Turnbonegro. Vandaag deed het festival er nog een schepje bovenop met punklegendes **Dead Kennedys** en **No Fun At All** aan te kondigen. Het beloofd een epische editie te worden.
 
-[<img class="alignnone size-full wp-image-4020" src="26992350_2038828179728400_1766849360001168280_n-1-1-e1516894243298.jpg)
+![26992350_2038828179728400_1766849360001168280_n-1-1-e1516894243298.jpg](https://res.cloudinary.com/rockxxl/image/upload/26992350_2038828179728400_1766849360001168280_n-1-1-e1516894243298.jpg)

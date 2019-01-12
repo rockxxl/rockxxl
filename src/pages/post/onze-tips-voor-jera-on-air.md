@@ -69,9 +69,7 @@ _Vrijdag / 20h30 – 21h15 / Impericon Mainstage_
 
 Hoeven we Every Time I Die nog voor te stellen? Deze band mag volgend jaar alweer 20 kaarsjes uitblazen. Ze zijn één van de pioniers van de hardcore punk/ post-hardcore en tourden al met ontzettend veel grote bands. Wie ze nog nooit live gezien heeft, wat we betwijfelen, dit is je kans!
 
-<p style="text-align: left;">
-  <em>Zaterdag / 18h15 – 18h55 / Second Stage</em>
-</p>
+_Zaterdag / 18h15 – 18h55 / Second Stage_
 
 
 

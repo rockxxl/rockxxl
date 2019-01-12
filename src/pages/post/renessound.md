@@ -43,4 +43,4 @@ We hopen uit de grond van ons hart dat het blijvend is. Vandaag was ook volledig
 
 Wel, ik zou er graag eentje geven, maar die band heeft helaas net afgezegd. Ik zou wel willen vragen aan al de lokale bands om demo’s of muziek naar ons door te sturen, dat mogen jullie gerust weten. Het genre maakt absoluut niets uit, maar we willen de lokale groepen de aandacht geven die ze verdienen.
 
-[<img class="alignnone wp-image-1552 size-full" src="16602310_1804653576466199_5897378509562955238_o.jpg)
+![16602310_1804653576466199_5897378509562955238_o.jpg](https://res.cloudinary.com/rockxxl/image/upload/16602310_1804653576466199_5897378509562955238_o.jpg)
