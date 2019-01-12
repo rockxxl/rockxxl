@@ -1133,6 +1133,58 @@
     prop-types "^15.6.0"
     warning "^3.0.0"
 
+"@sentry/browser@latest":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sentry/browser/-/browser-4.5.0.tgz#ae8f876efa1c22a011c5051d050570e3fdacd08b"
+  integrity sha512-Ubx/0XTSiKr98RKOdxIPcD+0ZDQwDUB3MzOFDo4KFReQ3gk5W5EvwatHDiYf0H3VedCA0UEmk2ZXK2sOSSFonQ==
+  dependencies:
+    "@sentry/core" "4.5.0"
+    "@sentry/types" "4.5.0"
+    "@sentry/utils" "4.5.0"
+    tslib "^1.9.3"
+
+"@sentry/core@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sentry/core/-/core-4.5.0.tgz#0dfb82ea6421681916ce73e6f833de17ae86ac86"
+  integrity sha512-+uzJelvAYQTd60aJ2y8PovqP+CmLFoX3a30yh2Qt9fXomwqYupaAPE+kYtOJMYuXFpVMUTxCxxNPmaC/bwUUIg==
+  dependencies:
+    "@sentry/hub" "4.5.0"
+    "@sentry/minimal" "4.5.0"
+    "@sentry/types" "4.5.0"
+    "@sentry/utils" "4.5.0"
+    tslib "^1.9.3"
+
+"@sentry/hub@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sentry/hub/-/hub-4.5.0.tgz#f61da6fa33d8b5a90c4324eda220f720d064fbf0"
+  integrity sha512-z9K4YYkMR5x7SdVTGVsWAdWh/PdSJyavar9Nk3I674RRjXS6IewFw7A+cgYDWTuMjB5MslbwoH2S9Pc+xRPKdg==
+  dependencies:
+    "@sentry/types" "4.5.0"
+    "@sentry/utils" "4.5.0"
+    tslib "^1.9.3"
+
+"@sentry/minimal@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sentry/minimal/-/minimal-4.5.0.tgz#5f4dd50772920af5a44d52a8f1c86e7b37172913"
+  integrity sha512-nH6kL7+I7cL/t7GEK3nv60e2PDg1DGZtakQ1GuqloP19phPj+6BsxjT+Njt1KLcSPsQPWwwK0C6rm0NsamPnpQ==
+  dependencies:
+    "@sentry/hub" "4.5.0"
+    "@sentry/types" "4.5.0"
+    tslib "^1.9.3"
+
+"@sentry/types@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sentry/types/-/types-4.5.0.tgz#59e2a27d48b01b44e8959aa5c8a30514fe1086a9"
+  integrity sha512-IstPjFoebQGrQWdM732D/+S0BTovmDgezyplk4kLEb87+/B+YK0hlhziUa7B2byTFJGgQQKXy7h2sKZBrA3GUA==
+
+"@sentry/utils@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@sentry/utils/-/utils-4.5.0.tgz#44e33773dc631cc22240a327942a8e4b97d42850"
+  integrity sha512-H05lcDUL3D01f6egjglDO7ICAQ6nOroNHCol9Q3z7lutveGirh4aWFTpw8XU9H7/jnGGZorc0wSrLQtq8vWm7A==
+  dependencies:
+    "@sentry/types" "4.5.0"
+    tslib "^1.9.3"
+
 "@types/configstore@^2.1.1":
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/@types/configstore/-/configstore-2.1.1.tgz#cd1e8553633ad3185c3f2f239ecff5d2643e92b6"
@@ -4935,9 +4987,9 @@ fastparse@^1.1.1:
   resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.2.tgz#91728c5a5942eced8531283c79441ee4122c35a9"
   integrity sha512-483XLLxTVIwWK3QTrMGRqUfUpoOs/0hbQrl2oz4J0pAcm3A3bu84wxTFqGqkJzewCLdME38xJLJAxBABfQT8sQ==
 
-"favicons-webpack-plugin@git+https://github.com/Creatiwity/favicons-webpack-plugin.git#f262255febeeca348bf7ae5cc140e0386c074e2c":
+"favicons-webpack-plugin@https://github.com/Creatiwity/favicons-webpack-plugin.git#f262255febeeca348bf7ae5cc140e0386c074e2c":
   version "0.0.9"
-  resolved "git+https://github.com/Creatiwity/favicons-webpack-plugin.git#f262255febeeca348bf7ae5cc140e0386c074e2c"
+  resolved "https://github.com/Creatiwity/favicons-webpack-plugin.git#f262255febeeca348bf7ae5cc140e0386c074e2c"
   dependencies:
     core-js "^2.5.7"
     favicons "^5.1.1"
@@ -5451,6 +5503,13 @@ gatsby-plugin-react-helmet@^3.0.5:
   integrity sha512-Xn8d4EckfUkO3xB8qfjn1AcqeA2fYgd6Mbin3RHc/Zu6YRiOQqdJAVBXz+7PbFpTt+6GCluKklEpFUA4RS4oYw==
   dependencies:
     "@babel/runtime" "^7.0.0"
+
+gatsby-plugin-sentry@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sentry/-/gatsby-plugin-sentry-1.0.0.tgz#746307a27f5382a9a787fa86ac812b947f8bebc5"
+  integrity sha512-6eq9RBpXXL76Ag0jp33NoWofji1jr2dhkfcJBhzAtKlztgRpkiOwm0OXrBspAa0Nu6PEPrJsEWoLAZ96w8Hj9w==
+  dependencies:
+    "@sentry/browser" latest
 
 gatsby-plugin-styled-components@^3.0.4:
   version "3.0.4"
@@ -12855,7 +12914,7 @@ truncate-utf8-bytes@^1.0.0:
   dependencies:
     utf8-byte-length "^1.0.1"
 
-tslib@^1.6.0, tslib@^1.9.0:
+tslib@^1.6.0, tslib@^1.9.0, tslib@^1.9.3:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
   integrity sha512-4krF8scpejhaOgqzBEcGM7yDIEfi0/8+8zDRZhNZZ2kjmHJ4hv3zCbQWxoJGz1iw5U0Jl0nma13xzHXcncMavQ==

@@ -25,7 +25,7 @@ module.exports = {
             xxl: 1.837,
             xxxl: 2.25,
             xxxxl: 2.756,
-
+            xxxxxl: 3.375,
         },
         weight: {
             default: 400,

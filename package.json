@@ -31,6 +31,7 @@
     "gatsby-plugin-netlify": "^2.0.6",
     "gatsby-plugin-netlify-cms": "^3.0.9",
     "gatsby-plugin-react-helmet": "^3.0.5",
+    "gatsby-plugin-sentry": "^1.0.0",
     "gatsby-plugin-styled-components": "^3.0.4",
     "gatsby-plugin-stylelint": "^3.0.1",
     "gatsby-source-filesystem": "^2.0.12",

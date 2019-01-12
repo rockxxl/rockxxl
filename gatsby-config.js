@@ -11,6 +11,14 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: "gatsby-plugin-sentry",
+            options: {
+                dsn: "https://8b7d1f0f113e4c27b9d8f1618e41816a@sentry.io/1370301",
+                environment: process.env.NODE_ENV,
+                enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)(),
+            },
+        },
+        {
             resolve: "gatsby-source-filesystem",
             options: {
                 path: `${__dirname}/src/pages/post`,
