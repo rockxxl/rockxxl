@@ -22,14 +22,21 @@ export default ({ children }) => (
                 }
             }
         `}
-        render={({ site: { siteMetadata: { title } } }) => (
+        render={({
+            site: {
+                siteMetadata: { title },
+            },
+        }) => (
             <ThemeProvider theme={theme}>
                 <App>
                     <Helmet
                         title={title}
                         titleTemplate={`%s | ${title}`}
                         meta={[
-                            { httpEquiv: "Accept-CH", content: "DPR, Viewport-Width, Width" },
+                            {
+                                httpEquiv: "Accept-CH",
+                                content: "DPR, Viewport-Width, Width",
+                            },
                             { property: "og:locale", content: "nl_BE" },
                             { property: "og:site_name", content: "RockXXL" },
                             { property: "og:image", content: defaultOgImage },
