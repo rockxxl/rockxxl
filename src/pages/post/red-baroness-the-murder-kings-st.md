@@ -1,8 +1,8 @@
 ---
 id: 2164
-title: Red Baroness &#038; The Murder Kings - S/T
+title: Red Baroness & The Murder Kings - S/T
 category: Album reviews
-groups: Red Baroness &#038; The Murder Kings
+groups: Red Baroness & The Murder Kings
 album: S/T
 date: 2017-04-11T14:14:46+00:00
 author: Seppe Van Ael

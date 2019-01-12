@@ -8,4 +8,4 @@ permalink: /news/nieuwe-valley-videoclip-woven-hands-broken-hearts/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/12783627_1002361196508450_4385062972805357520_o.jpg
 ---
-Onlangs kwam de derde EP '&#8221;Dark Tears // Bright Smiles&#8221; van Valley uit. De band liet vandaag hun eerste videoclip van het album zien: Woven Hands / Broken Hearts.
+Onlangs kwam de derde EP '”Dark Tears // Bright Smiles” van Valley uit. De band liet vandaag hun eerste videoclip van het album zien: Woven Hands / Broken Hearts.

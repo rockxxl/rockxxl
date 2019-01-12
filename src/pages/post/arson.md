@@ -23,7 +23,7 @@ _Fabian_: Dat was eigenlijk het allereerste dat beslist was toen Rien en ik idee
 
 **Ook de artwork lijkt wel heel erg steampunk.** 
 
-_Fabian_: Een groot deel van onze inspiratie komt uit de jaren 20 en 30, interbellum, drooglegging, Peaky Blinders, &#8230; We hadden heel vroeg al afgesproken dat alles wat we zouden uitbrengen die stijl zou hanteren. Dus de kostuums, merch, podium aankleding, lyrics en dus ook de artwork.
+_Fabian_: Een groot deel van onze inspiratie komt uit de jaren 20 en 30, interbellum, drooglegging, Peaky Blinders, … We hadden heel vroeg al afgesproken dat alles wat we zouden uitbrengen die stijl zou hanteren. Dus de kostuums, merch, podium aankleding, lyrics en dus ook de artwork.
 
 _Rien_: Het idee van de handen is ook een referentie naar de DIY mentaliteit binnen de band. We maken veel dingen zelf en hebben de EP ook zelf opgenomen in ons repetitiekot, met uitzondering van de drums die we bij Much Luv studio hebben opgenomen. Het idee van je handen vuil te maken als je aan iets wilt werken is dus een belangrijke rode draad doorheen de EP.
 

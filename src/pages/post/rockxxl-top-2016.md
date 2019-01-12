@@ -18,7 +18,7 @@ thumbnail: >-
 
 7. Jungleproof – Make Up Your Mind
 
-6. Steele Justice – &#8230;That Sure Escalated Quickly
+6. Steele Justice – …That Sure Escalated Quickly
 
 5. Cocaine Piss – The Dancer
 

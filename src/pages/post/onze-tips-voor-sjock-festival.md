@@ -18,7 +18,7 @@ Uit de assen van het Oostmalse Convict herrees This Means War. Deze half Belgisc
 
 **7) The Mummies**/ 20u30 – 21u20/ At The Titty Twister/ zaterdag
 
-Surfrock, garagerock, rock 'n' roll,&#8230; Dit zijn allemaal genres die The Mummies onder de arm nemen. De band draait al mee van 1988 en treed nog maar heel af en toe op. Verkleed als mummies speelt de band de rock 'n' roll soundtrack van de old school horrorfilm. Kom dat zien, kom dat zien!
+Surfrock, garagerock, rock 'n' roll,… Dit zijn allemaal genres die The Mummies onder de arm nemen. De band draait al mee van 1988 en treed nog maar heel af en toe op. Verkleed als mummies speelt de band de rock 'n' roll soundtrack van de old school horrorfilm. Kom dat zien, kom dat zien!
 
 
 

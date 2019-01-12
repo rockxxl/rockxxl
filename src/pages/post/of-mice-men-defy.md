@@ -1,8 +1,8 @@
 ---
 id: 3963
-title: Of Mice &#038; Men - Defy
+title: Of Mice & Men - Defy
 category: Album reviews
-groups: Of Mice &#038; Men
+groups: Of Mice & Men
 album: Defy
 date: 2018-01-18T20:47:24+00:00
 author: Seppe Van Ael

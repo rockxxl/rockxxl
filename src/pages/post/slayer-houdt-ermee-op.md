@@ -18,11 +18,11 @@ Na bijna 40 jaar dienst gedaan te hebben als grondlegger van thrash metal stopt 
 <div class="fb-video" data-href="https://www.facebook.com/slayer/videos/10155906076635390/?hc_ref=ARTnIGmNTfwAoUijLEoey83VQNhBkMM16umiHbYBgHu4I_F0r-WZG1FK520QbkOpRhQ" data-width="500">
   <blockquote cite="https://www.facebook.com/slayer/videos/10155906076635390/" class="fb-xfbml-parse-ignore">
     <p>
-      <a href="https://www.facebook.com/slayer/videos/10155906076635390/">The End is Near&#8230;Slayer to tour the world one more time&#8230;</a>
+      <a href="https://www.facebook.com/slayer/videos/10155906076635390/">The End is Near…Slayer to tour the world one more time…</a>
     </p>
     
     <p>
-      The End is Near&#8230;Slayer to tour the world one more time&#8230;
+      The End is Near…Slayer to tour the world one more time…
     </p>
     
     <p>

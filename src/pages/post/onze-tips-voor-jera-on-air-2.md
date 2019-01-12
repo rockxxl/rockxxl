@@ -36,7 +36,7 @@ John Coffey hield er nog maar net mee op of gitarist Alfred kwam al op de proppe
 
 **6) Toxic Shock**/ v_rijdag/ 15u00 – 15u30/ Buzzard Stage_
 
-Het Antwerpse Toxic Shock is zich aan het ontpoppen tot de al dan niet beste crossover band uit de lage landen. Moshpits, stagedives, singalongs,&#8230; Alles kan en alles mag bij Toxic Shock!
+Het Antwerpse Toxic Shock is zich aan het ontpoppen tot de al dan niet beste crossover band uit de lage landen. Moshpits, stagedives, singalongs,… Alles kan en alles mag bij Toxic Shock!
 
 
 
@@ -48,7 +48,7 @@ Of je nu van metal houdt of van hardcore, Iron Reagan heeft met hun excentrieke 
 
 **4) Knocked Loose**_/_ v_rijdag/ 13u00 – 13u30/ Vulture Stage_
 
-Knocked Loose zal dit jaar zorgen voor de eerste echte pits op Jera On Air. Hardcore, beatdown, harde muziek,&#8230; als het kind maar een naam heeft!
+Knocked Loose zal dit jaar zorgen voor de eerste echte pits op Jera On Air. Hardcore, beatdown, harde muziek,… als het kind maar een naam heeft!
 
 
 

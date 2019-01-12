@@ -1,7 +1,7 @@
 ---
 id: 2477
 category: Nieuws
-title: "nieuw Of Mice &#038; Men nummer en video: Back To Me"
+title: "nieuw Of Mice & Men nummer en video: Back To Me"
 date: 2017-05-23T07:35:33+00:00
 author: Seppe Van Ael
 permalink: /news/nieuw-of-mice-men-nummer-en-video-back-to-me/

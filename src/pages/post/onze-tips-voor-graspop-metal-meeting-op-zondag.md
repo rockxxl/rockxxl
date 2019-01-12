@@ -46,4 +46,4 @@ Moeten we Limp Bizkit nog voorstellen? Deze Amerikaanse nu-metal band kan rekene
 
 [<img class="alignnone size-medium wp-image-5094" src="25289595_1916082101765272_322192471484634104_n.jpg)
 
-Knocked Loose optpopte zich met hun nieuwste album 'Laugh Tracks' tot een gewilde band in het wereldje van de hardcore. De band vaart mee op de koers van bands als Code Orange en het hierboven vermelde Employed To Serve. Two steps, mosh pits, stagedives,&#8230; het kan allemaal bij Knocked Loose!
+Knocked Loose optpopte zich met hun nieuwste album 'Laugh Tracks' tot een gewilde band in het wereldje van de hardcore. De band vaart mee op de koers van bands als Code Orange en het hierboven vermelde Employed To Serve. Two steps, mosh pits, stagedives,… het kan allemaal bij Knocked Loose!

@@ -1,9 +1,9 @@
 ---
 id: 262
-title: Steele Justice - &#8230; That Sure Escalated Quickly
+title: Steele Justice - … That Sure Escalated Quickly
 category: Album reviews
 groups: Steele Justice
-album: &#8230; That Sure Escalated Quickly
+album: … That Sure Escalated Quickly
 date: 2016-07-16T12:29:41+00:00
 author: Seppe Van Ael
 permalink: /album-review/review-steele-justice-that-sure-escalated/

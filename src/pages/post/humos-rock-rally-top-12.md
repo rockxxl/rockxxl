@@ -85,7 +85,7 @@ Nog een band die voor gezelligheid gaat is Moonai People. Voortbouwend op indie 
 
 http://vi.be/orkatrofee
 
-Orkatrofee is één van de weinige bands die zich zal vertegenwoordigen in het Nederlands. Verwacht echter geen Bazart. Zonder groots te willen klinken, krijgen nummers als 'Onzin' een zeer aangename klank. Pop, kleinkunst,&#8230; Als het kind maar een naam heeft, voor ons is Orkatrofee genoeg.
+Orkatrofee is één van de weinige bands die zich zal vertegenwoordigen in het Nederlands. Verwacht echter geen Bazart. Zonder groots te willen klinken, krijgen nummers als 'Onzin' een zeer aangename klank. Pop, kleinkunst,… Als het kind maar een naam heeft, voor ons is Orkatrofee genoeg.
 
 
 
@@ -109,7 +109,7 @@ Verdacht veel hiphop in de voorrondes dit jaar. Hoewel we niet echt thuis zijn i
 
 http://vi.be/vonnis
 
-De extreemste band in de lijst is zonder enige twijfel het Gentse Vonnis. Naar hun zeggen spelen ze een mengeling van powerviolence, crust, noise, black metal en hardcore. Voor degene die niet bekend zijn met deze genres: Luid, agressief en net op het puntje van &#8220;erover&#8221;, zoals we het graag hebben. Staalhard, net zoals hun nieuwe plaat die werd verkocht met een doos waarin vier dikke nagels te vinden waren.
+De extreemste band in de lijst is zonder enige twijfel het Gentse Vonnis. Naar hun zeggen spelen ze een mengeling van powerviolence, crust, noise, black metal en hardcore. Voor degene die niet bekend zijn met deze genres: Luid, agressief en net op het puntje van “erover”, zoals we het graag hebben. Staalhard, net zoals hun nieuwe plaat die werd verkocht met een doos waarin vier dikke nagels te vinden waren.
 
 
 

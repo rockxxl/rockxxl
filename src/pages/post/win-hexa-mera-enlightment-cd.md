@@ -18,7 +18,7 @@ RockXXL geeft de nieuwe Hexa Mera plaat 'Enlightenment' weg. Het enige dat je mo
 <div class="fb-post" data-href="https://www.facebook.com/rockxxlrockenmetal/photos/a.482300361845827.1073741827.163891360353397/1276869799055542/?type=3&theater" data-width="500">
   <blockquote cite="https://www.facebook.com/rockxxlrockenmetal/posts/1276869799055542:0" class="fb-xfbml-parse-ignore">
     <p>
-      WIN: HEXA MERA – Enlightenment CD1. like RockXXL2. open deze foto3. deel deze&#8230;
+      WIN: HEXA MERA – Enlightenment CD1. like RockXXL2. open deze foto3. deel deze…
     </p>
     
     <p>

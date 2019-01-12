@@ -52,7 +52,7 @@ _Stefanie_: Het is niet dat we aan het wachten zijn tot de moment zich voordoet 
 
 _Stefanie_: We moesten een cover doen en het was Stijn zijn lievelingsliedje dus waarom niet.
 
-_Stijn_: Johnny Marr is één van mijn favoriete gitaristen en ik hoop dat ik op mijn 50<sup>ste</sup> ook kan zeggen dat ik zo’n nummers heb kunnen schrijven. Voor mij is het dus een grote invloed. Ik ben enorm blij dat Stefanie dat dan wil doen met piano en zang. Je zit dan in de controlekamer en ziet ze dat nummer spelen&#8230; dat doet iets met een mens.
+_Stijn_: Johnny Marr is één van mijn favoriete gitaristen en ik hoop dat ik op mijn 50<sup>ste</sup> ook kan zeggen dat ik zo’n nummers heb kunnen schrijven. Voor mij is het dus een grote invloed. Ik ben enorm blij dat Stefanie dat dan wil doen met piano en zang. Je zit dan in de controlekamer en ziet ze dat nummer spelen… dat doet iets met een mens.
 
 _Peter_: Dat is Brutus ook gewoon, geen one man show of stijl show. Omdat het Stijn zijn lievelingsnummer is dat door Stefanie wordt gebracht, dat is Brutus.
 

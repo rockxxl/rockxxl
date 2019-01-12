@@ -36,7 +36,7 @@ Vorselaar is een klein maar geweldig dorp. Ik moet zeggen dat de inwoners van he
 
 **Op verschillende foto’s draag je merch van Dave Hause, Chuck Ragan, muzikanten die je al eerder vernoemde. Is singer-songwriter, met in het bijzonder de punk toets, ook je favoriete soort muziek buiten het spelen?**
 
-Momenteel wel, je somt hier nu wel de Amerikaanse gasten op maar in de lage landen zijn er gasten die ik meer adoreer maar die hebben geen merch. Tim van doorn, Hans van F.O.D., Le Domi van You Nervous?, Tim Vantol, Mike Noegraf,&#8230; Allemaal heb ik ze plat gespeeld het laatste jaar. Ik denk dat de laatste 25 vinyls die ik gekocht heb allemaal singer-songwriters zijn. Ik luister ook nog veel naar punkrock maar haal meer inspiratie uit solo artiesten. Vaak is het ook zo puur wat die gasten doen.
+Momenteel wel, je somt hier nu wel de Amerikaanse gasten op maar in de lage landen zijn er gasten die ik meer adoreer maar die hebben geen merch. Tim van doorn, Hans van F.O.D., Le Domi van You Nervous?, Tim Vantol, Mike Noegraf,… Allemaal heb ik ze plat gespeeld het laatste jaar. Ik denk dat de laatste 25 vinyls die ik gekocht heb allemaal singer-songwriters zijn. Ik luister ook nog veel naar punkrock maar haal meer inspiratie uit solo artiesten. Vaak is het ook zo puur wat die gasten doen.
 
 **Kampvuren of huiskamers?**
 

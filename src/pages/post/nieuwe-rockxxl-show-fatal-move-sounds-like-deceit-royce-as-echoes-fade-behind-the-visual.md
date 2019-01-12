@@ -8,46 +8,34 @@ permalink: /news/nieuwe-rockxxl-show-fatal-move-sounds-like-deceit-royce-as-echo
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15774743_1187489277993595_843821289811287873_o.jpg
 ---
-Vrijdag 14 april geeft RockXXL weer een hardcore show in JH Korridor in Beerse!
-
-facebookevent:
-
+Vrijdag 14 april geeft RockXXL weer een hardcore show in JH Korridor in Beerse! <br/>
 https://www.facebook.com/events/286713508393548/
 
-<a href="https://www.facebook.com/fatal.move/" data-hovercard="/ajax/hovercard/page.php?id=168943326466670&extragetparams=%7B%22directed_target_id%22%3A286713508393548%7D" data-hovercard-prefer-more-content-show="1">Fatal Move</a>
-  
-Antwerp city hardcore!
-  
-<a href="https://www.youtube.com/watch?v=wlZfs-HM2T4" target="_blank" rel="nofollow nofollow">https://www.youtube.com/<wbr />watch?v=wlZfs-HM2T4</a>
+[Fatal Move](https://www.facebook.com/fatal.move/)<br/>
+Antwerp city hardcore!<br/>
+https://www.youtube.com/watch?v=wlZfs-HM2T4
 
-<a href="https://www.facebook.com/SOUNDSLIKEDECEIT/" data-hovercard="/ajax/hovercard/page.php?id=202977033070292&extragetparams=%7B%22directed_target_id%22%3A286713508393548%7D" data-hovercard-prefer-more-content-show="1">SOUNDS LIKE DECEIT</a>
-  
-Kempen hardcore legends!
-  
-<a href="https://www.youtube.com/watch?v=US1d98NjdjU" target="_blank" rel="nofollow nofollow">https://www.youtube.com/<wbr />watch?v=US1d98NjdjU</a>
+[SOUNDS LIKE DECEIT](https://www.facebook.com/SOUNDSLIKEDECEIT/")<br/>
+Kempen hardcore legends!<br/>
+https://www.youtube.com/watch?v=US1d98NjdjU
 
-<a href="https://www.facebook.com/roycetheband/" data-hovercard="/ajax/hovercard/page.php?id=246302922207211&extragetparams=%7B%22directed_target_id%22%3A286713508393548%7D" data-hovercard-prefer-more-content-show="1">Royce</a>
-  
-metal/ hardcore
-  
-<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvINkuFyC09o&h=nAQGn4G-i&enc=AZNm0Hn045ab0A5mneVJtcJL64RL29Vt5r6n2J8MrAFvpwTkDFg7-tN0jedcVMgn_nE&s=1" target="_blank" rel="nofollow nofollow">https://www.youtube.com/<wbr />watch?v=vINkuFyC09o</a>
-  
-<span class="text_exposed_show"><br /> <a href="https://www.facebook.com/AsEchoesFade/" data-hovercard="/ajax/hovercard/page.php?id=343442072371719&extragetparams=%7B%22directed_target_id%22%3A286713508393548%7D" data-hovercard-prefer-more-content-show="1">As Echoes Fade</a><br /> hardcore/ metalcore<br /> <a href="https://www.youtube.com/watch?v=PZpu0sU5os0" target="_blank" rel="nofollow nofollow">https://www.youtube.com/<wbr />watch?v=PZpu0sU5os0</a></span>
 
-<a href="https://www.facebook.com/BehindTheVisual/" data-hovercard="/ajax/hovercard/page.php?id=410662362313958&extragetparams=%7B%22directed_target_id%22%3A286713508393548%7D" data-hovercard-prefer-more-content-show="1">Behind The Visual</a>
+[Royce](https://www.facebook.com/roycetheband/)<br/>
+metal/ hardcore<br/>
+https://www.youtube.com/watch?v=vINkuFyC09o
   
-Beerse metalcore
-  
-<a href="https://www.facebook.com/pg/BehindTheVisual/videos/?ref=page_internal" rel="nofollow">https://www.facebook.com/<wbr />pg/BehindTheVisual/videos/<wbr />?ref=page_internal</a>
+[As Echoes Fade](https://www.facebook.com/AsEchoesFade/)<br/>
+hardcore/ metalcore <br/>
+https://www.youtube.com/watch?v=PZpu0sU5os0
 
-&#8212;&#8212;&#8212;&#8212;&#8212;- 5 euro inkom &#8212;&#8212;&#8212;&#8212;–
+[Behind The Visual](https://www.facebook.com/BehindTheVisual/)  <br/>
+Beerse metalcore<br/>
+https://www.facebook.com/pg/BehindTheVisual/videos/
 
-19u45 – 20u15: Behind The Visual
-  
-20u45 – 21u15: As Echoes Fade
-  
-21u45 – 22u15: Royce
-  
-22u45 – 23u15: Sounds Like Deceit
-  
+————— 5 euro inkom ————
+
+19u45 – 20u15: Behind The Visual <br/>
+20u45 – 21u15: As Echoes Fade <br/>
+21u45 – 22u15: Royce <br/>
+22u45 – 23u15: Sounds Like Deceit <br/>
 23u45 – 00u30: Fatal Move

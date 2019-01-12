@@ -37,7 +37,7 @@ We zijn hier altijd zelf voor benaderd geweest. Ik denk dat wij gewoon een leuke
 
 **Op één van jullie laatste shirts stond een grafsteen met het logo van Set Things right op. Puur toeval of een vroege hint naar het stoppen van de band?****
   
-** Heel de laatste plaat is ook geschreven over een ‘einde’ van iets. Het was niet iets dat we op voorhand hadden gezegd &#8220;elk nummer moet daar over gaan&#8221;, maar het is wel iets onbewust geweest tijdens het schrijven van mijn teksten.
+** Heel de laatste plaat is ook geschreven over een ‘einde’ van iets. Het was niet iets dat we op voorhand hadden gezegd “elk nummer moet daar over gaan”, maar het is wel iets onbewust geweest tijdens het schrijven van mijn teksten.
 
 **Stel, één nummer krijgt na het stoppen van Set Things Right airplay over heel de wereld. Welke zou deze mogen zijn en waarom?****
   

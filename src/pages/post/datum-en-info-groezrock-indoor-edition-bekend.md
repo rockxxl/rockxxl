@@ -14,10 +14,6 @@ Facebookbericht:
 
 Now, as you already know, your favourite festival has been sentenced to spend some time “on the inside” due to being just way too awesome.
 
-Luckily that “inside” is called <a class="profileLink" href="https://www.facebook.com/Muziekodroom/?fref=mentions" data-hovercard="/ajax/hovercard/page.php?id=188830931139385&extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Muziekodroom</a> and it has THREE stages. One of which is a floorshow stage. You can come visit us there on Saturday October 27th!
+Luckily that “inside” is called [Muziekodroom](https://www.facebook.com/Muziekodroom/) and it has THREE stages. One of which is a floorshow stage. You can come visit us there on Saturday October 27th!
 
-<div class="text_exposed_show">
-  <p>
-    Ticket sales will start very soon and you better act fast because capacity is limited to ONLY 1300 inmates. Yeah, sure, first you want to know who’s coming to play. Well, hold your breath. We’ll have more news shortly.
-  </p>
-</div>
+Ticket sales will start very soon and you better act fast because capacity is limited to ONLY 1300 inmates. Yeah, sure, first you want to know who’s coming to play. Well, hold your breath. We’ll have more news shortly.

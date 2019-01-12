@@ -43,7 +43,7 @@ _Zaterdag 8 juli / 13u30 – 14u10_
 
 **Clowns**
 
-Het Australische vijftal van Clowns stond en staat dit jaar nog verschillende keren in België. Het lijkt wel of deze band verliefd is geworden op ons kleine landje. Clowns is een act die veel kans maakt om stevig te groeien. Zak 8 juli af naar Gierle en &#8220;see for yourself&#8221;!
+Het Australische vijftal van Clowns stond en staat dit jaar nog verschillende keren in België. Het lijkt wel of deze band verliefd is geworden op ons kleine landje. Clowns is een act die veel kans maakt om stevig te groeien. Zak 8 juli af naar Gierle en “see for yourself”!
 
 _Zaterdag 8 juli / 16u25 – 17u05_
 

@@ -10,7 +10,7 @@ thumbnail: >-
 ---
 9 en 11 mei vindt in het Limburgse Opglabbeek weer het jaarlijkse Rock Louwel festival plaats. Op de affiche pronken bands zoals Brutus, Goe Vur In Den Otto, Insanity Alert, The Guru Guru, Speed Queen, Delvis, Gestapo Knallmuzik en meer.
 
-Wil je erbij zijn? Het kan! RockXXL geeft 2&#215;2 combitickets weg!
+Wil je erbij zijn? Het kan! RockXXL geeft 2×2 combitickets weg!
 
 Hoe kan je deelnemen?:
 

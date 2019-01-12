@@ -54,7 +54,7 @@ _Zondag 7 juli / 17u10 – 17u50 / Marquee_
 
 **Diablo Blvd**
 
-Een nieuw album, een Europese tour,&#8230; een nieuw Diablo Blvd tijdperk is aangebroken! Hoewel de band rond Alex Agnew tijdens Antwerp Metal Fest nog bezig is aan hun nieuwe album 'Zero Hour', komt de band voor één keer uit de studio. Wij hopen alvast op een paar exclusiefjes!
+Een nieuw album, een Europese tour,… een nieuw Diablo Blvd tijdperk is aangebroken! Hoewel de band rond Alex Agnew tijdens Antwerp Metal Fest nog bezig is aan hun nieuwe album 'Zero Hour', komt de band voor één keer uit de studio. Wij hopen alvast op een paar exclusiefjes!
 
 _Zondag 7 juli / 19u50 – 20u50 / Mainstage_
 

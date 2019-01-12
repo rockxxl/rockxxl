@@ -10,7 +10,7 @@ permalink: /album-review/review-captain-kaiser-greatest-hits-vol-1/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/a1482319187_10.jpg
 ---
-Vorig jaar sloegen de heren van Yellow Snow de handen in elkaar met o.a. zanger Sacha van No Guarantee. Zo werd het ultra Kempische Captain Kaiser geboren. Met 'Greatest Hits vol. 1' krijgen we vier punknummers voorgeschoteld die grotendeels gaan over jawel&#8230; feesten en drinken.
+Vorig jaar sloegen de heren van Yellow Snow de handen in elkaar met o.a. zanger Sacha van No Guarantee. Zo werd het ultra Kempische Captain Kaiser geboren. Met 'Greatest Hits vol. 1' krijgen we vier punknummers voorgeschoteld die grotendeels gaan over jawel… feesten en drinken.
 
 Openen doet 'Greatest Hits vol. 1' met het nummer 'Ass? Slip? Captain!'. Het is dan ook meteen met deze dat de sound van Captain Kaiser mooi geïllustreerd wordt. De punk van Captain Kaiser is niet de aller stevigste, maar poppy kun je het echter ook niet noemen. 'Ass? Slip? Captain!' doet ons erg denken aan het eveneens Kempische The Priceduifkes. Ook het nummer 'Quebec' volgt in de lijn van 'Ass? Slip? Captain!' al wordt er net dat beetje kracht bijgezet en is het refrein nog aanstekelijker. Single '12 Years A Captain' zet de aanstekelijke lijn netjes verder en is iets meer laid-back. Een perfecte song om de beentjes op los te zwieren. Het vierde en laatste nummer 'Seaking' is door z'n pure sound en z'n geweldige tekst ons favoriet nummer van de vier. Een meer dan waardige afsluiter dus.
 

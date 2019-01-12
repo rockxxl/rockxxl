@@ -21,7 +21,7 @@ We wilden mensen een voorsmaakje geven van wat er ging komen. Natuurlijk is het 
 
 **Kan je iets meer vertellen over het artwork: de schedel met de gouden tanden en sigaretten?**
 
-‘Binge & Purgatory’ staat voor de hoogtes en de laagtes in het leven, glitter en glamour versus tragedie, &#8230; Om dat artistiek voor te stellen, gingen we in zee met een grafisch ontwerper en een fotograaf uit New York. Dat we de schedel met de gouden tanden wilden gebruiken stond al even vast. De tanden zijn dan uiteraard de glitter en glamour en de schedel staat voor de donkere realiteit. De sigaretten, heroïne zakjes en eigenlijk alles wat in de schedel ligt, komt ook allemaal rechtstreeks van de straten van New York. We namen het album op in New York en wilden dat alles in het artwork ook van daar kwam. Het artwork ziet er mooi uit maar het heeft ook een donkere kant.
+‘Binge & Purgatory’ staat voor de hoogtes en de laagtes in het leven, glitter en glamour versus tragedie, … Om dat artistiek voor te stellen, gingen we in zee met een grafisch ontwerper en een fotograaf uit New York. Dat we de schedel met de gouden tanden wilden gebruiken stond al even vast. De tanden zijn dan uiteraard de glitter en glamour en de schedel staat voor de donkere realiteit. De sigaretten, heroïne zakjes en eigenlijk alles wat in de schedel ligt, komt ook allemaal rechtstreeks van de straten van New York. We namen het album op in New York en wilden dat alles in het artwork ook van daar kwam. Het artwork ziet er mooi uit maar het heeft ook een donkere kant.
 
 **Op het artwork van T-shirts en posters zagen we al vaker religieuze taferelen zoals Maria en een kruis.** 
 

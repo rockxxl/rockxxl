@@ -42,7 +42,7 @@ thumbnail: >-
 
 8. Fleddy Melculy – Helgië
 
-7. Metallica – Hardwired&#8230; To Self Destruct
+7. Metallica – Hardwired… To Self Destruct
 
 6. Weezer – The White Album
 
@@ -124,7 +124,7 @@ thumbnail: >-
 
 3. Knocked Loose – Laugh Tracks
 
-2. letlive. – If I'm The Devil&#8230;
+2. letlive. – If I'm The Devil…
 
 1. Vanna – All Hell
 

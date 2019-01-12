@@ -1,7 +1,7 @@
 ---
 id: 1466
 category: Nieuws
-title: Frank Carter &#038; The Rattlesnakes op Rock Werchter
+title: Frank Carter & The Rattlesnakes op Rock Werchter
 date: 2017-02-11T21:29:30+00:00
 author: Seppe Van Ael
 permalink: /news/frank-carter-the-rattlesnakes-op-rock-werchter/

@@ -8,7 +8,7 @@ permalink: /live-review/live-review-alazka-zappa-2018/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30725013_1629097693838052_3849223983294760002_n.jpg
 ---
-**Metalcore op een broeierige woensdagavond&#8230; Daarvoor zijn we op weg naar Antwerpen.**** Oorspronkelijk zou de show in Kavka doorgaan, maar daar vindt vanavond de eerste editie van 'support your locals' plaats. De show werd verplaatst naar de iets grotere Zappa.**
+**Metalcore op een broeierige woensdagavond… Daarvoor zijn we op weg naar Antwerpen.**** Oorspronkelijk zou de show in Kavka doorgaan, maar daar vindt vanavond de eerste editie van 'support your locals' plaats. De show werd verplaatst naar de iets grotere Zappa.**
 
 Heartbreaktunes:
 
