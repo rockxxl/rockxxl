@@ -32,6 +32,7 @@ export default createGlobalStyle`
     h5,
     h6 {
         color: ${props => props.theme.color.headings};
+        margin: 1.5rem 0;
     }
 
     h1,
