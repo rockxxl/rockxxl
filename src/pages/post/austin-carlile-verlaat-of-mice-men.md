@@ -1,12 +1,10 @@
 ---
-id: 958
+title: Austin Carlile verlaat Of Mice & Men
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/OMAM.jpeg'
+date: 2016-12-31T14:05:34.000Z
 category: Nieuws
-title: Austin Carlile verlaat Of Mice &#038; Men
-date: 2016-12-31T14:05:34+00:00
 author: Seppe Van Ael
 permalink: /news/austin-carlile-verlaat-of-mice-men/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/OMAM.jpeg
 ---
 Austin Carlile, de zanger van Of Mice & Men heeft de band verlaten wegens gezondheidsproblemen. Hij schreef een brief naar de fans die hieronder volledig te lezen valt:
 
