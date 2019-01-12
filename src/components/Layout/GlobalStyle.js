@@ -1,5 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-import { mb } from "styled-components-spacing";
+import { mb, pl } from "styled-components-spacing";
 
 export default createGlobalStyle`
     @import url("${props => props.theme.font.family.import}");
@@ -57,6 +57,7 @@ export default createGlobalStyle`
     p,
     ul,
     address,
+    blockquote,
     ol {
         margin: 0;
         ${mb(4)};
@@ -80,5 +81,10 @@ export default createGlobalStyle`
         padding: 1rem;
         background: #333333;
         color: #dddddd;
+    }
+
+    blockquote {
+        ${pl(6)};
+        border-left: 3px solid ${({ theme }) => theme.color.extraLight};
     }
 `;
