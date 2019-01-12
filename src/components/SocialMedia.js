@@ -1,9 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import {
     faFacebook, faInstagram, faSpotify,
 } from "@fortawesome/free-brands-svg-icons";
+
 
 const SocialMedia = styled.nav`
     display: flex;
@@ -27,9 +29,9 @@ export default ({ className }) => (
     <SocialMedia className={className}>
         {
             socialmedia.map(({ name, icon, route }) => (
-                <a key={name} href={route} target="_blank" rel="noopener noreferrer" title={name}>
+                <OutboundLink key={name} href={route} target="_blank" rel="noopener noreferrer" title={name}>
                     <FontAwesomeIcon icon={icon} size="lg" />
-                </a>
+                </OutboundLink>
             ))
         }
     </SocialMedia>

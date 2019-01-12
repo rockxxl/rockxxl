@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { px } from "styled-components-spacing";
 import breakpoint from "styled-components-breakpoint";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import Container from "../Container";
 
 const Footer = styled.footer`
@@ -11,7 +12,7 @@ const Footer = styled.footer`
     padding: 1rem 0;
 `;
 
-const Anchor = styled.a`
+const Anchor = styled(OutboundLink)`
     color: ${props => props.theme.color.light};
     text-decoration: underline;
 
