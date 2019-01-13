@@ -1,4 +1,4 @@
-import React, { Component, createRef } from "react";
+import React, { Component, createRef, Fragment } from "react";
 import styled from "styled-components";
 import cloudinary from "cloudinary-core";
 import withIntersectionObserver from "./withIntersectionObserver";
@@ -77,7 +77,8 @@ class ImageLazyLoader extends Component {
     }
 
     componentDidMount() {
-        this.generateSrcSet();
+        const { props: { src } } = this;
+        if (src !== null) this.generateSrcSet();
     }
 
     componentDidUpdate() {
@@ -158,26 +159,28 @@ class ImageLazyLoader extends Component {
         return (
             <Wrapper aspectRatio={aspectRatio}>
                 {isVisible && (
-                    <Image
-                        ref={this.image}
-                        src={src}
-                        srcSet={srcSet}
-                        onLoad={() => this.imageLoaded()}
-                        onError={() => this.imageLoaded()}
-                        styled={{
-                            fit: aspectRatio,
-                            loaded: isLoaded,
-                        }}
-                        sizes={sizes}
-                        alt={alt}
-                    />
+                    <Fragment>
+                        <Image
+                            ref={this.image}
+                            src={src}
+                            srcSet={srcSet}
+                            onLoad={() => this.imageLoaded()}
+                            onError={() => this.imageLoaded()}
+                            styled={{
+                                fit: aspectRatio,
+                                loaded: isLoaded,
+                            }}
+                            sizes={sizes}
+                            alt={alt}
+                        />
+                        <Placeholder
+                            styled={{
+                                backgroundImage: src,
+                                loaded: isLoaded,
+                            }}
+                        />
+                    </Fragment>
                 )}
-                <Placeholder
-                    styled={{
-                        backgroundImage: src,
-                        loaded: isLoaded,
-                    }}
-                />
             </Wrapper>
         );
     }

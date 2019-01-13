@@ -71,13 +71,11 @@ export default ({
 }) => (
     <article className={className}>
         <Link to={slug}>
-            { thumbnail && (
-                <Image
-                    src={thumbnail}
-                    aspectRatio={aspectRatio}
-                    alt={title}
-                />
-            )}
+            <Image
+                src={thumbnail}
+                aspectRatio={aspectRatio}
+                alt={title}
+            />
             <Content>
                 <Heading large={large}>
                     <Title title={title} />
