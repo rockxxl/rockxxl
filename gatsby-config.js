@@ -4,11 +4,6 @@ const pkg = require("./package.json");
 require("dotenv").config();
 
 module.exports = {
-    siteMetadata: {
-        title: "Rock XXL",
-        cldnryCloudName: process.env.CLOUDINARY_CLOUD_NAME,
-        cldnryApiKey: process.env.CLOUDINARY_API_KEY,
-    },
     plugins: [
         {
             resolve: "gatsby-plugin-sentry",
