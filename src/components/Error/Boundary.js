@@ -1,4 +1,5 @@
 import React from "react";
+import ErrorPage from "./Page";
 
 export default class ErrorBoundary extends React.Component {
     constructor(props) {
@@ -18,12 +19,12 @@ export default class ErrorBoundary extends React.Component {
 
     render() {
         const { state, props } = this;
-        if (state.error) {
-            // render fallback UI
-            return <h1>Something went wrong!</h1>;
+        if (state.error && process.env.NODE_ENV === "production") {
+            return (
+                <ErrorPage />
+            );
         }
 
-        // when there's not an error, render children untouched
         return props.children;
     }
 }
