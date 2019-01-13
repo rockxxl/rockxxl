@@ -4,6 +4,9 @@ const pkg = require("./package.json");
 require("dotenv").config();
 
 module.exports = {
+    siteMetadata: {
+        siteUrl: process.env.GATSBY_APP_URL,
+    },
     plugins: [
         {
             resolve: "gatsby-plugin-sentry",
@@ -93,5 +96,6 @@ module.exports = {
             resolve: "gatsby-plugin-stylelint",
             options: { files: ["./src/**/*.js"] },
         },
+        "gatsby-plugin-sitemap",
     ],
 };
