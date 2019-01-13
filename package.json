@@ -38,6 +38,7 @@
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-remark": "^2.1.17",
     "intersection-observer": "^0.5.1",
+    "lodash": "^4.17.11",
     "netlify-cms": "^2.3.1",
     "object-fit-images": "^3.2.4",
     "react": "^16.5.1",
@@ -53,7 +54,8 @@
     "styled-components-spacing": "^3.1.1",
     "styled-media-query": "^2.1.1",
     "styled-normalize": "^8.0.4",
-    "styled-transition-group": "^1.0.0"
+    "styled-transition-group": "^1.0.0",
+    "url-join": "^4.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",

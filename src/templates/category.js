@@ -1,10 +1,10 @@
 /* eslint-disable react/no-danger */
 import React from "react";
 import { graphql } from "gatsby";
-import { Helmet } from "react-helmet";
-import Layout from "../components/Layout";
 import Container from "../components/Container";
 import Grid from "../components/Post/Grid";
+import Layout from "../components/Layout";
+import SEO from "../components/SEO";
 
 export default function Template({ data }) {
     const { allMarkdownRemark: { group, listOfCategories } } = data;
@@ -13,26 +13,28 @@ export default function Template({ data }) {
     const {
         node: {
             fields: { slug },
-            frontmatter: { title },
+            frontmatter: { title, date },
             html,
         },
     } = category;
 
     return (
         <Layout>
-            <Helmet
+            <SEO
                 title={title}
-                meta={[
-                    { property: "og:title", content: title },
-                    { property: "og:url", content: `${process.env.GATSBY_APP_URL}${slug}` },
-                ]}
+                slug={slug}
+                date={date}
             />
             <Container>
                 <article>
-                    <h1>{title}</h1>
-                    <div dangerouslySetInnerHTML={{ __html: html }} />
+                    <header>
+                        <h1>{title}</h1>
+                        <div dangerouslySetInnerHTML={{ __html: html }} />
+                    </header>
+                    <section>
+                        <Grid posts={posts} />
+                    </section>
                 </article>
-                <Grid posts={posts} />
             </Container>
         </Layout>
     );

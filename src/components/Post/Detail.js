@@ -1,15 +1,14 @@
 /* eslint-disable react/no-danger */
-
+import React, { Fragment } from "react";
+import striptags from "striptags";
 import { format } from "date-fns";
-import { Helmet } from "react-helmet";
 import { p, mb, mr } from "styled-components-spacing";
 import breakpoint from "styled-components-breakpoint";
 import cloudinary from "cloudinary-core";
 import nlDateFnsLocale from "date-fns/locale/nl";
-import React, { Fragment } from "react";
-import striptags from "striptags";
 import styled from "styled-components";
 import Image from "../Image";
+import SEO from "../SEO";
 
 const Grid = styled.div`
     flex-grow: 1;
@@ -128,57 +127,49 @@ export default ({
     },
     sidebar,
     preview = false,
-}) => {
-    const strippedDescription = striptags(html);
-    return (
-        <Fragment>
-            {!preview && (
-                <Helmet
-                    title={title}
-                    link={[
-                        { rel: "canonical", href: `${process.env.GATSBY_APP_URL}${slug}` },
-                    ]}
-                    meta={[
-                        { name: "description", content: strippedDescription },
-                        { property: "og:title", content: title },
-                        { property: "og:description", content: strippedDescription },
-                        { property: "og:url", content: `${process.env.GATSBY_APP_URL}${slug}` },
-                        { property: "og:image", content: OgImage(thumbnail) },
-                        { property: "og:article:published_time", content: date },
-                    ]}
-                />
+}) => (
+    <Fragment>
+        {!preview && (
+            <SEO
+                title={title}
+                description={striptags(html).substring(0, 300)}
+                slug={slug}
+                date={date}
+                category={category}
+                image={OgImage(thumbnail)}
+                pageType="post"
+            />
+        )}
+        <Grid>
+            <Content>
+                <Header>
+                    <Title title={title} />
+                    <Subtitle>
+                        {`${format(date, "D MMM YYYY", { locale: nlDateFnsLocale })} – ${author} – ${category}`}
+                    </Subtitle>
+                </Header>
+                <Section>
+                    { thumbnail && (
+                        <Media>
+                            <Image
+                                src={thumbnail}
+                                aspectRatio={aspectRatio(category)}
+                                alt={title}
+                            />
+                        </Media>
+                    )}
+                    {preview ? <Fragment>{ html }</Fragment> : <div dangerouslySetInnerHTML={{ __html: html }} />}
+                </Section>
+            </Content>
+            {sidebar && (
+                <Sidebar>
+                    <Sticky>
+                        <Scroll>
+                            {sidebar}
+                        </Scroll>
+                    </Sticky>
+                </Sidebar>
             )}
-            <Grid>
-                <Content>
-                    <Header>
-                        <Title title={title} />
-                        <Subtitle>
-                            {`${format(date, "D MMM YYYY", { locale: nlDateFnsLocale })} – ${author} – ${category}`}
-                        </Subtitle>
-                    </Header>
-                    <Section>
-                        { thumbnail && (
-                            <Media>
-                                <Image
-                                    src={thumbnail}
-                                    aspectRatio={aspectRatio(category)}
-                                    alt={title}
-                                />
-                            </Media>
-                        )}
-                        {preview ? <Fragment>{ html }</Fragment> : <div dangerouslySetInnerHTML={{ __html: html }} />}
-                    </Section>
-                </Content>
-                {sidebar && (
-                    <Sidebar>
-                        <Sticky>
-                            <Scroll>
-                                {sidebar}
-                            </Scroll>
-                        </Sticky>
-                    </Sidebar>
-                )}
-            </Grid>
-        </Fragment>
-    );
-};
+        </Grid>
+    </Fragment>
+);
