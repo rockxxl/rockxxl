@@ -2,10 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import Post from "./GridItem";
 
-const List = styled.ul`
+const List = styled.div`
     display: grid;
-    padding: 0;
-    list-style: none;
     grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
     grid-gap: 1.5rem;
 `;
