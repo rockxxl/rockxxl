@@ -2,7 +2,7 @@
 title: Off The Cross - Era
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670554/c836aae287442880999bcbfaa5cc5135d27c28a6.jpg
-date: '16 Jan 192019, 22:31'
+date: '14 Jan 192019, 17:31'
 category: Album reviews
 author: Seppe Van Ael
 album: Era
