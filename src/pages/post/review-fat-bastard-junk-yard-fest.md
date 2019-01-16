@@ -2,7 +2,7 @@
 title: 'review: Fat Bastard - Junk Yard Fest'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/42972014_10157759574071729_5371798657479737344_n.jpg
-date: '16 Jan 192019, 00:00'
+date: '16 Jan 192019, 21:33'
 category: Album reviews
 author: Seppe Van Ael
 ---
