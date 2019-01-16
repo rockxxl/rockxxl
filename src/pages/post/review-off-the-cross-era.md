@@ -1,10 +1,11 @@
 ---
-title: 'review: Off The Cross - Era'
+title: Off The Cross - Era
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670554/c836aae287442880999bcbfaa5cc5135d27c28a6.jpg
 date: '16 Jan 192019, 22:31'
 category: Album reviews
 author: Seppe Van Ael
+album: Era
 ---
 Een eerste optreden op Groezrock, een plaats op de affiche van Graspop, een tour met Doyle (Misfits),... Weinig Belgische bands doen het Off The Cross na. Laat staan dat dit Antwerps metal gezelschap slechts twee jaar bestaat. Het kon bijna niet anders, maar hun nieuwste EP 'Era' is een schot in de roos.
 
