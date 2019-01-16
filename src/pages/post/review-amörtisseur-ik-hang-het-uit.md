@@ -12,4 +12,4 @@ Begin vorig jaar kwam het Antwerpse Amörtisseur aanzetten met hun eerste album 
 
 score: 8/10 
 
-<https://www.youtube.com/watch?v=ScVc8yIM4_E>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScVc8yIM4_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
