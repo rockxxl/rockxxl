@@ -1,5 +1,5 @@
 ---
-title: 'review: 10 Rogue - Serpentine'
+title: 10 Rogue - Serpentine
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17862471_1682105548473530_130309053145768066_n.jpg
 date: 2017-06-05T11:25:03.000Z
