@@ -9,12 +9,14 @@ export default class ErrorBoundary extends React.Component {
 
     componentDidCatch(error, errorInfo) {
         this.setState({ error });
-        window.Sentry.configureScope((scope) => {
-            Object.keys(errorInfo).forEach((key) => {
-                scope.setExtra(key, errorInfo[key]);
+        if (window.Sentry) {
+            window.Sentry.configureScope((scope) => {
+                Object.keys(errorInfo).forEach((key) => {
+                    scope.setExtra(key, errorInfo[key]);
+                });
             });
-        });
-        window.Sentry.captureException(error);
+            window.Sentry.captureException(error);
+        }
     }
 
     render() {

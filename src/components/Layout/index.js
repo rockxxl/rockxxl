@@ -9,19 +9,24 @@ import Header from "../App/Header";
 import Main from "./Main";
 import SEO from "../SEO";
 import theme from "../../theme";
+import OffCanvasMenu from "../OffCanvasMenu";
+import { OffCanvasProvider } from "../OffCanvasMenu/Context";
 
 
 export default ({ children }) => (
     <ErrorBoundary>
         <ThemeProvider theme={theme}>
-            <App>
-                <SEO />
-                <Normalize />
-                <GlobalStyle />
-                <Header />
-                <Main>{children}</Main>
-                <Footer />
-            </App>
+            <OffCanvasProvider>
+                <App>
+                    <OffCanvasMenu />
+                    <SEO />
+                    <Normalize />
+                    <GlobalStyle />
+                    <Header />
+                    <Main>{children}</Main>
+                    <Footer />
+                </App>
+            </OffCanvasProvider>
         </ThemeProvider>
     </ErrorBoundary>
 );
