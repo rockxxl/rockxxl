@@ -57,7 +57,7 @@ module.exports = {
                 dir: "auto",
                 lang: "nl-BE",
                 background: theme.color.body,
-                theme_color: theme.color.primary,
+                theme_color: theme.color.primary[5],
                 display: "standalone",
                 orientation: "any",
                 start_url: "",

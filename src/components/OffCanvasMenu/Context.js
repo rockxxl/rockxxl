@@ -1,10 +1,13 @@
 import React, { useReducer, createContext } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 
 const Context = createContext();
 const initialState = {
     offCanvasMenu: {
         open: false,
         text: "Open",
+        icon: <FontAwesomeIcon icon={faBars} />,
     },
 };
 
@@ -20,6 +23,7 @@ const reducer = (
                 ...state,
                 open: !open,
                 text: !open ? "Close" : "Open", // Reverse the logic, bc you're setting the open prop
+                icon: <FontAwesomeIcon icon={!open ? faTimes : faBars} />,
             },
         };
     default:

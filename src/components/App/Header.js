@@ -7,6 +7,7 @@ import Brand from "../Brand";
 import Navigation from "../Navigation";
 import SocialMedia from "../SocialMedia";
 import Container from "../Container";
+import Button from "../Button";
 
 const Header = styled.header`
     background: #000000;
@@ -30,6 +31,11 @@ const SocMed = styled(SocialMedia)`
     ${breakpoint("md")` display: flex; `}
 `;
 
+const OffCanvasToggle = styled(Button)`
+    display: block;
+    ${breakpoint("md")` display: none; `}
+`;
+
 export default () => {
     const {
         state: { offCanvasMenu },
@@ -42,14 +48,14 @@ export default () => {
                 <Brand />
                 <Nav />
                 <SocMed />
-                <div>
-                    <button
-                        type="button"
-                        onClick={() => dispatch({ type: "TOGGLE" })}
-                    >
-                        {offCanvasMenu.text}
-                    </button>
-                </div>
+                <OffCanvasToggle
+                    reset
+                    variant="white"
+                    type="button"
+                    onClick={() => dispatch({ type: "TOGGLE" })}
+                >
+                    {offCanvasMenu.icon}
+                </OffCanvasToggle>
             </Wrapper>
         </Header>
     );

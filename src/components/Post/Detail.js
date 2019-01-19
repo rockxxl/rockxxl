@@ -23,7 +23,7 @@ const Grid = styled.div`
 const Sidebar = styled.aside`
     ${breakpoint("md")`
         width: 320px;
-        border-left: 1px solid ${props => props.theme.color.extremelyLight};
+        border-left: 1px solid ${props => props.theme.color.gray[3]};
     `}
 `;
 
@@ -103,7 +103,7 @@ const Subtitle = styled.div`
     font-family: ${props => props.theme.font.family.headings};
     letter-spacing: 2px;
     font-size: .62rem;
-    color: ${props => props.theme.color.extraLight};
+    color: ${props => props.theme.color.gray[5]};
 `;
 
 const OgImage = (image) => {
