@@ -65,13 +65,13 @@ export default createGlobalStyle`
     }
 
     a {
-        color: ${props => props.theme.color.primary};
+        color: ${props => props.theme.color.primary[5]};
         text-decoration: underline;
 
         &:hover,
         &:focus,
         &:active {
-            color: ${props => props.theme.color.primary};
+            color: ${props => props.theme.color.primary[5]};
         }
     }
 
@@ -86,6 +86,6 @@ export default createGlobalStyle`
 
     blockquote {
         ${pl(6)};
-        border-left: 3px solid ${({ theme }) => theme.color.extraLight};
+        border-left: 3px solid ${({ theme }) => theme.color.gray[5]};
     }
 `;

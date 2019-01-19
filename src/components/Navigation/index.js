@@ -17,7 +17,7 @@ const Link = styled(GatsbyLink)`
     &:focus,
     &.active,
     &[data-active] {
-        color: ${props => props.theme.color.primary};
+        color: ${props => props.theme.color.primary[5]};
     }
 `;
 

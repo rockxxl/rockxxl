@@ -6,14 +6,14 @@ import { OutboundLink } from "gatsby-plugin-google-analytics";
 import Container from "../Container";
 
 const Footer = styled.footer`
-    border-top: 1px solid ${props => props.theme.color.extremelyLight};
-    color: ${props => props.theme.color.light};
+    border-top: 1px solid ${props => props.theme.color.gray[3]};
+    color: ${props => props.theme.color.gray[6]};
     font-size: ${props => props.theme.font.size.sm}rem;
     padding: 1rem 0;
 `;
 
 const Anchor = styled(OutboundLink)`
-    color: ${props => props.theme.color.light};
+    color: ${props => props.theme.color.gray[6]};
     text-decoration: underline;
 
     &:hover,

@@ -11,7 +11,7 @@ import Layout from "../components/Layout";
 const ToFullList = styled(GatsbyLink)`
     display: block;
     font-size: ${props => props.theme.font.size.sm}rem;
-    border-top: 1px solid ${props => props.theme.color.extremelyLight};
+    border-top: 1px solid ${props => props.theme.color.gray[3]};
     ${py(3)}
     ${px(4)}
 `;
