@@ -6,7 +6,7 @@ const initialOpen = false;
 const Context = createContext();
 const initialState = {
     offCanvasMenu: {
-        open: !initialOpen,
+        open: initialOpen,
         text: !initialOpen ? "Close" : "Open", // Reverse the logic, bc you're setting the open prop
         icon: !initialOpen ? faTimes : faBars,
     },
