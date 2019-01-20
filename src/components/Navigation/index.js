@@ -1,8 +1,10 @@
 import React from "react";
 import styled from "styled-components";
+import breakpoint from "styled-components-breakpoint";
+import { py, px } from "styled-components-spacing";
 import { StaticQuery, graphql, Link as GatsbyLink } from "gatsby";
 
-const Navigation = styled.nav`
+const List = styled.nav`
     display: flex;
 `;
 
@@ -11,7 +13,22 @@ const Link = styled(GatsbyLink)`
     padding: 0 .75rem;
     color: #ffffff;
     text-decoration: none;
+    text-align: center;
     font-weight: ${props => props.theme.font.weight.bold};
+    ${py(3)}
+    ${px(4)}
+    ${({ theme, offCanvasMenu }) => offCanvasMenu && `
+        font-size: ${theme.font.size.xxxl}rem;
+        font-family: ${theme.font.family.headings};
+        font-weight: ${theme.font.weight.headings};
+        line-height: ${theme.leading.none};
+        letter-spacing: 0;
+    `};
+    ${breakpoint("sm")`
+        ${({ theme, offCanvasMenu }) => offCanvasMenu && `
+            font-size: ${theme.font.size.xxxxl}rem;
+        `};
+    `}
 
     &:hover,
     &:focus,
@@ -26,7 +43,7 @@ const isPartiallyActive = ({
 }) => ({ "data-active": isPartiallyCurrent || null });
 
 
-export default ({ className }) => (
+const Navigation = ({ className, offCanvasMenu }) => (
     <StaticQuery
         query={graphql`
         query NavgiationQuery {
@@ -35,7 +52,10 @@ export default ({ className }) => (
                     fields: { slug: { ne: null } }
                     fileAbsolutePath: { regex: "src/pages/category/" }
                 }
-                sort: { order: ASC, fields: [frontmatter___title] }
+                sort: {
+                    order: ASC,
+                    fields: [frontmatter___title]
+                }
             ) {
                 edges {
                     node {
@@ -51,7 +71,7 @@ export default ({ className }) => (
         }
     `}
         render={data => (
-            <Navigation className={className}>
+            <List className={className}>
                 { data.allMarkdownRemark.edges.map(({
                     node: { fields: { slug }, frontmatter: { title } },
                 }) => (
@@ -60,11 +80,18 @@ export default ({ className }) => (
                         to={slug}
                         activeClassName="active"
                         getProps={isPartiallyActive}
+                        offCanvasMenu={offCanvasMenu}
                     >
                         { title }
                     </Link>
                 )) }
-            </Navigation>
+            </List>
         )}
     />
 );
+
+Navigation.defaultProps = {
+    offCanvasMenu: false,
+};
+
+export default Navigation;

@@ -1,7 +1,10 @@
 import React, { useContext } from "react";
 import styled from "styled-components";
 import { px } from "styled-components-spacing";
-import breakpoint from "styled-components-breakpoint";
+// import breakpoint from "styled-components-breakpoint";
+import MediaQuery from "react-responsive";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import theme from "../../theme";
 import { OffCanvasContext } from "../OffCanvasMenu/Context";
 import Brand from "../Brand";
 import Navigation from "../Navigation";
@@ -21,21 +24,6 @@ const Wrapper = styled(Container)`
     ${px(6)};
 `;
 
-const Nav = styled(Navigation)`
-    display: none;
-    ${breakpoint("md")` display: flex; `}
-`;
-
-const SocMed = styled(SocialMedia)`
-    display: none;
-    ${breakpoint("md")` display: flex; `}
-`;
-
-const OffCanvasToggle = styled(Button)`
-    display: block;
-    ${breakpoint("md")` display: none; `}
-`;
-
 export default () => {
     const {
         state: { offCanvasMenu },
@@ -46,16 +34,23 @@ export default () => {
         <Header>
             <Wrapper>
                 <Brand />
-                <Nav />
-                <SocMed />
-                <OffCanvasToggle
-                    reset
-                    variant="white"
-                    type="button"
-                    onClick={() => dispatch({ type: "TOGGLE" })}
-                >
-                    {offCanvasMenu.icon}
-                </OffCanvasToggle>
+                <MediaQuery query={`(min-width: ${theme.breakpoints.notMobile}px)`}>
+                    <Navigation />
+                    <SocialMedia />
+                </MediaQuery>
+                <MediaQuery query={`(max-width: ${theme.breakpoints.notMobile - 1}px)`}>
+                    <Button
+                        reset
+                        variant="white"
+                        type="button"
+                        onClick={() => dispatch({ type: "TOGGLE" })}
+                    >
+                        <FontAwesomeIcon
+                            icon={offCanvasMenu.icon}
+                            size="lg"
+                        />
+                    </Button>
+                </MediaQuery>
             </Wrapper>
         </Header>
     );
