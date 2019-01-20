@@ -8,9 +8,8 @@ const List = styled.nav`
     display: flex;
 `;
 
-const Link = styled(GatsbyLink)`
-    display: block;
-    padding: 0 .75rem;
+const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
+    display: flex;
     color: #ffffff;
     text-decoration: none;
     text-align: center;
