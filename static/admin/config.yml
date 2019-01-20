@@ -61,6 +61,7 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
+        format: "D MMM YYYY, HH:mm"
       - name: category
         label: Category
         widget: relation
