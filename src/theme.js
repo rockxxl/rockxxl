@@ -58,6 +58,7 @@ const breakpoints = {
     lg: 1200,
     xl: 1440,
     xxl: 1680,
+    get notMobile() { return this.md; },
 };
 
 const spacing = Array.from(Array(20).keys()).reduce((o, key) => ({

@@ -1,6 +1,7 @@
 import React from "react";
 import { ThemeProvider } from "styled-components";
 import { Normalize } from "styled-normalize";
+import MediaQuery from "react-responsive";
 import App from "./App";
 import ErrorBoundary from "../Error/Boundary";
 import Footer from "../App/Footer";
@@ -18,13 +19,15 @@ export default ({ children }) => (
         <ThemeProvider theme={theme}>
             <OffCanvasProvider>
                 <App>
-                    <OffCanvasMenu />
                     <SEO />
                     <Normalize />
                     <GlobalStyle />
                     <Header />
                     <Main>{children}</Main>
                     <Footer />
+                    <MediaQuery query={`(max-width: ${theme.breakpoints.notMobile - 1}px)`}>
+                        <OffCanvasMenu />
+                    </MediaQuery>
                 </App>
             </OffCanvasProvider>
         </ThemeProvider>
