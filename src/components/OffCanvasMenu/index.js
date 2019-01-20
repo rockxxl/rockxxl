@@ -30,7 +30,7 @@ const Overflow = styled.div`
 
 const Wrapper = styled(Container)`
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     ${px(6)};
 `;
@@ -40,7 +40,6 @@ const Header = styled(Wrapper)`
 `;
 
 const Footer = styled(Wrapper)`
-    justify-content: center;
     ${py(3)};
 `;
 

@@ -13,7 +13,7 @@ const SocialMedia = styled.nav`
     align-items: center;
 
     & > a {
-        display: block;
+        display: flex;
         padding: .75rem;
         color: #ffffff;
     }

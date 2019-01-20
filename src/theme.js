@@ -61,8 +61,8 @@ const breakpoints = {
     get notMobile() { return this.md; },
 };
 
-const spacing = Array.from(Array(20).keys()).reduce((o, key) => ({
-    ...o, [key]: key === 0 ? 0 : `${0.25 * key}rem`,
+const spacing = Array.from(Array(40).keys()).reduce((o, key) => ({
+    ...o, [key - 20]: (key - 20) === 0 ? 0 : `${0.25 * (key - 20)}rem`,
 }), { auto: "auto" });
 
 const button = {

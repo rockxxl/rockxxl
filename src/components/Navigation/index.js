@@ -6,11 +6,12 @@ import { StaticQuery, graphql, Link as GatsbyLink } from "gatsby";
 
 const List = styled.nav`
     display: flex;
+    flex-grow: 1;
+    justify-content: center;
 `;
 
 const Link = styled(GatsbyLink)`
-    display: block;
-    padding: 0 .75rem;
+    display: flex;
     color: #ffffff;
     text-decoration: none;
     text-align: center;

@@ -1,7 +1,10 @@
 import React, { useContext } from "react";
+import { navigate } from "gatsby";
 import styled from "styled-components";
-import { px } from "styled-components-spacing";
-// import breakpoint from "styled-components-breakpoint";
+import {
+    px, mr, ml, p,
+} from "styled-components-spacing";
+import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import MediaQuery from "react-responsive";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import theme from "../../theme";
@@ -24,6 +27,25 @@ const Wrapper = styled(Container)`
     ${px(6)};
 `;
 
+const Center = styled.div`
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+`;
+
+const Actions = styled.div`
+    display: flex;
+    ${ml(6)}
+    ${mr(-6)}
+`;
+
+
+const Btn = styled(Button)`
+    ${p(6)}
+    border-left: 1px solid rgba(255, 255, 255, .5);
+`;
+
 export default () => {
     const {
         state: { offCanvasMenu },
@@ -34,23 +56,41 @@ export default () => {
         <Header>
             <Wrapper>
                 <Brand />
-                <MediaQuery query={`(min-width: ${theme.breakpoints.notMobile}px)`}>
-                    <Navigation />
-                    <SocialMedia />
-                </MediaQuery>
-                <MediaQuery query={`(max-width: ${theme.breakpoints.notMobile - 1}px)`}>
-                    <Button
+                <Center>
+                    <MediaQuery query={`(min-width: ${theme.breakpoints.notMobile}px)`}>
+                        <Navigation />
+                        <SocialMedia />
+                    </MediaQuery>
+                </Center>
+                <Actions>
+
+
+                    <Btn
                         reset
                         variant="white"
                         type="button"
-                        onClick={() => dispatch({ type: "TOGGLE" })}
+                        onClick={() => navigate("/search")}
                     >
                         <FontAwesomeIcon
-                            icon={offCanvasMenu.icon}
+                            icon={faSearch}
                             size="lg"
                         />
-                    </Button>
-                </MediaQuery>
+                    </Btn>
+                    <MediaQuery query={`(max-width: ${theme.breakpoints.notMobile - 1}px)`}>
+                        <Btn
+                            reset
+                            variant="white"
+                            type="button"
+                            onClick={() => dispatch({ type: "TOGGLE" })}
+                            role="link"
+                        >
+                            <FontAwesomeIcon
+                                icon={offCanvasMenu.icon}
+                                size="lg"
+                            />
+                        </Btn>
+                    </MediaQuery>
+                </Actions>
             </Wrapper>
         </Header>
     );
