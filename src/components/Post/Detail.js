@@ -1,14 +1,15 @@
 /* eslint-disable react/no-danger */
 import React, { Fragment } from "react";
+import styled from "styled-components";
 import striptags from "striptags";
 import { format } from "date-fns";
 import { p, mb, mr } from "styled-components-spacing";
 import breakpoint from "styled-components-breakpoint";
 import cloudinary from "cloudinary-core";
 import nlDateFnsLocale from "date-fns/locale/nl";
-import styled from "styled-components";
 import Image from "../Image";
 import SEO from "../SEO";
+import Subtitle from "./Subtitle";
 
 const Grid = styled.div`
     flex-grow: 1;
@@ -96,15 +97,6 @@ const Title = ({ title }) => (
         )}
     </H1>
 );
-
-const Subtitle = styled.div`
-    text-transform: uppercase;
-    font-weight: 400;
-    font-family: ${props => props.theme.font.family.headings};
-    letter-spacing: 2px;
-    font-size: .62rem;
-    color: ${props => props.theme.color.gray[5]};
-`;
 
 const OgImage = (image) => {
     const cldnry = new cloudinary.Cloudinary({ cloud_name: process.env.GATSBY_CLOUDINARY_CLOUD_NAME });

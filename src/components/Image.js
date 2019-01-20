@@ -26,6 +26,7 @@ const Wrapper = styled.div.attrs(
         },
     },
 )`
+    width: 100%;
     position: relative;
     overflow: hidden;
     background-color: ${props => props.theme.color.gray[3]};
@@ -107,7 +108,6 @@ class ImageLazyLoader extends Component {
         });
     }
 
-
     imageLoaded = () => {
         this.setState({
             isLoaded: true,
@@ -151,13 +151,18 @@ class ImageLazyLoader extends Component {
     }
 
     render() {
-        const { isVisible, alt, aspectRatio } = this.props;
+        const {
+            isVisible, alt, aspectRatio, className,
+        } = this.props;
         const {
             isLoaded, src, srcSet, sizes,
         } = this.state;
 
         return (
-            <Wrapper aspectRatio={aspectRatio}>
+            <Wrapper
+                aspectRatio={aspectRatio}
+                className={className}
+            >
                 {isVisible && (
                     <Fragment>
                         <Image

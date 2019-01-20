@@ -131,6 +131,19 @@ const button = {
     },
 };
 
+const input = {
+    border: {
+        width: "1px",
+        style: "solid",
+        color: color.gray[8],
+    },
+    focus: {
+        border: {
+            color: color.primary[3],
+        },
+    },
+};
+
 module.exports = {
     color,
     font,
@@ -138,4 +151,5 @@ module.exports = {
     breakpoints,
     spacing,
     button,
+    input,
 };
