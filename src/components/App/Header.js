@@ -63,8 +63,6 @@ export default () => {
                     </MediaQuery>
                 </Center>
                 <Actions>
-
-
                     <Btn
                         reset
                         variant="white"

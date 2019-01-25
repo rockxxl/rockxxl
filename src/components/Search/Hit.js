@@ -14,6 +14,7 @@ const Styles = createGlobalStyle`
     .ais-Hits-list {
         list-style: none;
         padding: 0;
+        margin: 0;
     }
 
     .ais-Hits-item {
@@ -50,6 +51,7 @@ const Hit = styled(Link)`
 
 const Thumbnail = styled.div`
     width: 4.5rem;
+    flex-shrink: 0;
     ${mr(6)}
 `;
 
@@ -66,6 +68,7 @@ export default ({
                     src={thumbnail}
                     aspectRatio="1: 1"
                     alt={title}
+                    timeout={1000}
                 />
             </Thumbnail>
             <div>

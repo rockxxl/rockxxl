@@ -11,16 +11,36 @@ export default ({ threshold, rootMargin }) => (BaseComponent) => {
             isIntersecting: false,
         };
 
-        handleChange = ({ isIntersecting, intersectionRatio }, unobserve) => {
+        componentWillUnmount = () => {
+            this.clearTimer();
+        };
+
+        setTimer = ({ timeout, isIntersecting, intersectionRatio }) => {
+            if (this.timerHandle) return;
+            this.timerHandle = setTimeout((self) => {
+                self.setState({ isIntersecting: isIntersecting && intersectionRatio >= threshold });
+                this.timerHandle = 0;
+            }, timeout, this);
+        };
+
+        clearTimer = () => {
+            if (this.timerHandle) {
+                clearTimeout(this.timerHandle);
+                this.timerHandle = 0;
+            }
+        };
+
+        handleChange = ({ isIntersecting, intersectionRatio }, unobserve, timeout) => {
             if (isIntersecting) unobserve();
-            this.setState({ isIntersecting: isIntersecting && intersectionRatio >= threshold });
+            this.setTimer({ timeout, isIntersecting, intersectionRatio });
         };
 
         render() {
             const { isIntersecting } = this.state;
+            const { timeout = 0 } = this.props;
             return (
                 <Observer
-                    onChange={this.handleChange}
+                    onChange={(entry, unobserve) => this.handleChange(entry, unobserve, timeout)}
                     threshold={threshold}
                     rootMargin={rootMargin}
                 >
