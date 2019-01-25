@@ -1,5 +1,5 @@
 display_url: https://rockxxl.com
-logo_url: https://rockxxl.com/static/logo-b7c90a3e4bcae1f3d79055f3a301bdb9.png
+logo_url: /logo-black.svg
 
 backend:
   name: git-gateway
@@ -61,7 +61,6 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
-        format: "D MMM YYYY, HH:mm"
       - name: category
         label: Category
         widget: relation
