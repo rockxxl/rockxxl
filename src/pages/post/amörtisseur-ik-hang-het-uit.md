@@ -2,7 +2,7 @@
 title: Amörtisseur - Ik Hang Het Uit
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670105/Am%C3%B6rtisseur_voorkant__1.jpg
-date: 2018-09-01T17:25:00.000Z
+date: 2018-01-01T17:25:00.000Z
 category: Album reviews
 author: Seppe Van Ael
 ---
