@@ -10,7 +10,7 @@ const List = styled.nav`
     justify-content: center;
 `;
 
-const Link = styled(GatsbyLink)`
+const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
     display: flex;
     color: #ffffff;
     text-decoration: none;
