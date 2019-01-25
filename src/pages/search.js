@@ -11,7 +11,6 @@ import {
     py, px, mb, mr, ml,
 } from "styled-components-spacing";
 import breakpoint from "styled-components-breakpoint";
-// import Results from "../components/Search/Results";
 import SearchBox from "../components/Search/SearchBox";
 import Layout from "../components/Layout";
 import Container from "../components/Container";
