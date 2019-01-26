@@ -2,7 +2,7 @@
 title: 'review: Daktari - Buiten Bereik'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/44498322_2144115292516022_7865815243471978496_n.jpg
-date: '16 Jan 192019, 21:39'
+date: '16 Jan 2019, 21:39'
 category: Album reviews
 author: Seppe Van Ael
 album: ''

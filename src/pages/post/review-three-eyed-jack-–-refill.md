@@ -1,7 +1,7 @@
 ---
 title: 'review: Three Eyed Jack – Refill'
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547670554/a1612557928_10.jpg'
-date: '16 Jan 192019, 22:34'
+date: '2019-01-16T21:34:00.000Z'
 category: Album reviews
 author: Seppe Van Ael
 ---

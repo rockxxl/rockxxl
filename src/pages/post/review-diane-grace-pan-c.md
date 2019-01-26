@@ -2,7 +2,7 @@
 title: 'review: Diane Grace - Pan!c'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/40365492_1993033514051218_3688844296959557632_n.jpg
-date: '16 Jan 192019, 21:35'
+date: '16 Jan 2019, 21:35'
 category: Album reviews
 author: Seppe Van Ael
 ---

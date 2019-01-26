@@ -2,7 +2,7 @@
 title: 'review: Gert - Niets Meer Niets Minder'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670552/48390210_2349720431753412_2383330485590818816_n.jpg
-date: '16 Jan 192019, 21:52'
+date: '16 Jan 2019, 21:52'
 category: Album reviews
 author: Seppe Van Ael
 ---
