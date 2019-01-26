@@ -2,7 +2,7 @@
 title: 'review: Boxing Day – Retrospect'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670553/48987920_10219027514745050_4073401594035568640_n.jpg
-date: '16 Jan 192019, 22:29'
+date: '16 Jan 2019, 22:29'
 category: Album reviews
 author: Seppe Van Ael
 ---

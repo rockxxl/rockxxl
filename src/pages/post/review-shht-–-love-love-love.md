@@ -2,7 +2,7 @@
 title: 'review: Shht – Love Love Love'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670552/44775393_2178716049035263_2611977742517796864_n.jpg
-date: '16 Jan 192019, 22:20'
+date: '16 Jan 2019, 22:20'
 category: Album reviews
 author: Seppe Van Ael
 ---
