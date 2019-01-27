@@ -6,6 +6,8 @@ import { StaticQuery, graphql, Link as GatsbyLink } from "gatsby";
 
 const List = styled.nav`
     display: flex;
+    flex-grow: 1;
+    justify-content: center;
 `;
 
 const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
@@ -16,7 +18,7 @@ const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
     font-weight: ${props => props.theme.font.weight.bold};
     ${py(3)}
     ${px(4)}
-    ${({ theme, offCanvasMenu }) => offCanvasMenu && `
+    ${({ theme, variant: { offCanvasMenu } }) => offCanvasMenu && `
         font-size: ${theme.font.size.xxxl}rem;
         font-family: ${theme.font.family.headings};
         font-weight: ${theme.font.weight.headings};
@@ -24,7 +26,7 @@ const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
         letter-spacing: 0;
     `};
     ${breakpoint("sm")`
-        ${({ theme, offCanvasMenu }) => offCanvasMenu && `
+        ${({ theme, variant: { offCanvasMenu } }) => offCanvasMenu && `
             font-size: ${theme.font.size.xxxxl}rem;
         `};
     `}
@@ -79,7 +81,7 @@ const Navigation = ({ className, offCanvasMenu }) => (
                         to={slug}
                         activeClassName="active"
                         getProps={isPartiallyActive}
-                        offCanvasMenu={offCanvasMenu}
+                        variant={{ offCanvasMenu }}
                     >
                         { title }
                     </Link>
