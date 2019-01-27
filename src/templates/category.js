@@ -67,6 +67,7 @@ export const pageQuery = graphql`
                             thumbnail
                             groups
                             album
+                            externalUrl
                         }
                     }
                 }

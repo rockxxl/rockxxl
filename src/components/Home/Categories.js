@@ -43,6 +43,7 @@ export default () => (
                                 thumbnail
                                 groups
                                 album
+                                externalUrl
                             }
                         }
                     }

@@ -67,7 +67,6 @@ export default ({
 
     ];
 
-
     const trackHelmetChanges = ({ scriptTags, ...newState }) => {
         if (scriptTags && scriptTags.length > 1) {
             const JSONLD_TYPE = "application/ld+json";
