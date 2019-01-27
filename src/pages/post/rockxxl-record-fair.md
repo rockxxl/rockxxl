@@ -5,7 +5,7 @@ thumbnail: >-
 date: 2019-01-27T11:43:59.088Z
 eventdate: 2019-02-03T11:43:59.157Z
 category: Shows
-author: Seppe
+author: Seppe Van Ael
 externalUrl: 'https://www.facebook.com/events/964424487083265/'
 ---
 Test
