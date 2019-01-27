@@ -1,5 +1,5 @@
 ---
-title: 'review: Sister May – Ascent'
+title: Sister May - Ascent
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/42981061_1937941896511570_3270536051654918144_n.jpg
 date: '16 Jan 2019, 22:11'
