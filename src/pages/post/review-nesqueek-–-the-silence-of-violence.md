@@ -1,5 +1,5 @@
 ---
-title: Nesqueek – The Silence Of Violence
+title: Nesqueek - The Silence Of Violence
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547670557/nesuik.jpg'
 date: '16 Jan 2019, 22:23'
 category: Album reviews
