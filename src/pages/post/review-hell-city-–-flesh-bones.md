@@ -2,7 +2,7 @@
 title: Hell City - Flesh & Bones
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/34875225_10155234656577587_8029387479507271680_n.jpg
-date: '16 Jan 2019, 21:58'
+date: 2019-01-27T08:58:00.000Z
 category: Album reviews
 author: Seppe Van Ael
 ---
