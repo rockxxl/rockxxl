@@ -1,7 +1,7 @@
 import React, { Component, createRef, Fragment } from "react";
 import styled from "styled-components";
 import cloudinary from "cloudinary-core";
-import withIntersectionObserver from "./withIntersectionObserver";
+import withIntersectionObserver from "../InterSectionObserver";
 
 const Image = styled.img`
     width: 100%;
