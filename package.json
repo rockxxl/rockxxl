@@ -45,6 +45,7 @@
     "object-fit-images": "^3.2.4",
     "open-color": "^1.6.3",
     "prop-types": "^15.6.2",
+    "qs": "^6.6.0",
     "react": "^16.8.0-alpha.1",
     "react-dom": "^16.8.0-alpha.1",
     "react-helmet": "^5.2.0",
