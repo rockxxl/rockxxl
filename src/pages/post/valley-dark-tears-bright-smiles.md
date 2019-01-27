@@ -1,14 +1,12 @@
 ---
-id: 1569
 title: Valley - Dark Tears // Bright Smiles
-category: Album reviews
-groups: Valley
-album: Dark Tears // Bright Smiles
-date: 2017-02-17T15:18:17+00:00
-author: Seppe Van Ael
-permalink: /album-review/review-valley-dark-tears-bright-smiles/
 thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/digipack_Album2-1500x1500-1.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/v1548593822/qfqgaqfiga_lmfjqiyf.jpg
+date: 2017-02-17T15:18:17.000Z
+category: Album reviews
+author: Seppe Van Ael
+album: Dark Tears // Bright Smiles
+permalink: /album-review/review-valley-dark-tears-bright-smiles/
 ---
 Na 'Eternity is Love' en 'Life's Storms' is Valley terug met een gloednieuwe EP: Dark Tears // Bright Smiles. Deze komt uit op 31 maart onder Redfield Digital. Wij kregen met RockXXL de kans om de acht nummers van dit album exclusief te beluisteren. We namen dan ook de tijd om onze mening te geven over de naar onze mening geslaagde Dark Tears // Bright Smiles.
 

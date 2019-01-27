@@ -1,14 +1,11 @@
 ---
-id: 4785
 title: Freeloader - Bonneville Bastards
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1548594453/freeeeloader.jpg'
+date: 2018-04-24T11:40:09.000Z
 category: Album reviews
-groups: Freeloader
-album: Bonneville Bastards
-date: 2018-04-24T11:40:09+00:00
 author: Seppe Van Ael
+album: Bonneville Bastards
 permalink: /album-review/review-freeloader-bonneville-bastards/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/Freeloader-300x300.jpg
 ---
 Hoewel we het zelf niet vaak meer tegenkomen op optredens en dergelijke, zeggen onze aanvragen tot reviews toch anders: Rock ’n roll is weer een opmars aan het maken. En ook onze noorderburen zijn helemaal mee. Een goed voorbeeld hiervan is Freeloader. Deze band uit Breda bracht zopas hun eerste EP ‘Bonneville Bastards’ uit. Freeloader noemt zichzelf een mengeling van Airbourne, The Offspring en Motörhead. Dat Belooft!
 

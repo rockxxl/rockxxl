@@ -1,14 +1,12 @@
 ---
-id: 4055
 title: Big Dumb Face - Where is Duke Lion? He’s Dead…
-category: Album reviews
-groups: Big Dumb Face
-album: Where is Duke Lion? He’s Dead…
-date: 2018-01-27T19:17:33+00:00
-author: Seppe Van Ael
-permalink: /album-review/review-big-dumb-face-where-is-duke-lion-hes-dead/
 thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/Big-Dumb-Face-Where-is-Duke-Lion-He’s-Dead.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/v1548594230/Big-Dumb-Face-Where-is-Duke-Lion-He_s-Dead.jpg
+date: 2018-01-27T19:17:33.000Z
+category: Album reviews
+author: Seppe Van Ael
+album: Where is Duke Lion? He’s Dead…
+permalink: /album-review/review-big-dumb-face-where-is-duke-lion-hes-dead/
 ---
 Wie herinnerd zich Big Dumb Face nog? Het is dan ook alweer 16 jaar geleden dat Limp Bizkit gitarist Wes Borland kwam aanzetten met zijn toch wel aparte project. Met ‘Where is Duke Lion? He’s Dead…’ zijn de broertjes Borland toe aan hun tweede plaat. Ze combineren grindcore, death metal, noise en zijn ook niet vies van een sample meer of minder.
 

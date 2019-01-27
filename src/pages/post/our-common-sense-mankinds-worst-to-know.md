@@ -1,14 +1,12 @@
 ---
-id: 4603
 title: Our Common Sense - Mankind's Worst To Know
-category: Album reviews
-groups: Our Common Sense
-album: Mankind's Worst To Know
-date: 2018-04-06T10:57:21+00:00
-author: Seppe Van Ael
-permalink: /album-review/review-our-common-sense-mankinds-worst-to-know/
 thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/OCS-Album-art-Front-300x270.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/v1548594335/ba6f7bd3d434ed8b21b44ca38984b052a217fa4e.jpg
+date: 2018-04-06T10:57:21.000Z
+category: Album reviews
+author: Seppe Van Ael
+album: Mankind's Worst To Know
+permalink: /album-review/review-our-common-sense-mankinds-worst-to-know/
 ---
 Om eerlijk te zijn, hadden we nog nooit gehoord van Our Common Sense. Een aantal maanden geleden zagen we ze echter verschillende keren op affiches verschijnen. Hun eerste EP ‘Mankind’s Worst To Know’ zal hier wel ergens voor tussen zitten. Na wat research en met de cd in ons bezit, wordt het eens tijd om te kijken wat dit Gentse vijftal te bieden heeft.
 

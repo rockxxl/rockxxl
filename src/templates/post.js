@@ -19,9 +19,10 @@ const ToFullList = styled(GatsbyLink)`
 export default function Template({
     data: { markdownRemark: post, allMarkdownRemark },
 }) {
-    const related = allMarkdownRemark
+    const relatedCategory = allMarkdownRemark
         .group
-        .find(({ fieldValue }) => fieldValue === post.frontmatter.category).edges;
+        .find(({ fieldValue }) => fieldValue === post.frontmatter.category);
+    const related = relatedCategory ? relatedCategory.edges : [];
 
     const category = allMarkdownRemark
         .group
@@ -33,7 +34,7 @@ export default function Template({
         <Layout>
             <Detail
                 post={post}
-                sidebar={(
+                sidebar={related.length > 0 && (
                     <Fragment>
                         <List
                             posts={related}
@@ -91,9 +92,11 @@ export const pageQuery = graphql`
                         permalink
                         band
                         date
+                        eventDate
                         thumbnail
                         groups
                         album
+                        externalUrl
                     }
                 }
             }

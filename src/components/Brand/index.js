@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 
-import logo from "./logo.png";
+import logo from "./logo.svg";
 
 const Logo = styled.img`
     height: 4.5rem;

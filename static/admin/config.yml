@@ -1,5 +1,5 @@
 display_url: https://rockxxl.com
-logo_url: https://rockxxl.com/static/logo-b7c90a3e4bcae1f3d79055f3a301bdb9.png
+logo_url: /logo-black.svg
 
 backend:
   name: git-gateway
@@ -61,7 +61,9 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
-        format: "D MMM YYYY, HH:mm"
+      - name: eventDate
+        label: Date event
+        widget: datetime
       - name: category
         label: Category
         widget: relation
@@ -83,6 +85,9 @@ collections:
       - label: Album
         name: album
         required: false
+      - name: externalUrl
+        label: Externe URL
+        hint: Link the list-item to an external website. eg. Facebook event-page.
       - name: body
         label: Body
         widget: markdown

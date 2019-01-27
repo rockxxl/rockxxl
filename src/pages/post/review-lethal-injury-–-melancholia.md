@@ -1,8 +1,8 @@
 ---
-title: 'review: Lethal Injury – Melancholia'
+title: Lethal Injury - Melancholia
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/40187736_1065845246912764_1368249814545858560_n.jpg
-date: '16 Jan 192019, 21:55'
+date: 2019-01-27T08:55:00.000Z
 category: Album reviews
 author: Seppe Van Ael
 ---

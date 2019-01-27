@@ -29,6 +29,8 @@ module.exports = ({ actions, graphql }) => {
                         thumbnail
                         groups
                         album
+                        externalUrl
+                        eventDate
                     }
                 }
             }
@@ -48,6 +50,14 @@ module.exports = ({ actions, graphql }) => {
                     component: template,
                     context: {},
                 });
+
+                if (node.frontmatter.externalUrl) {
+                    createRedirect({
+                        fromPath: node.fields.slug,
+                        toPath: node.frontmatter.externalUrl,
+                        isPermanent: true,
+                    });
+                }
 
                 if (node.frontmatter.permalink) {
                     createRedirect({

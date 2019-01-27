@@ -89,14 +89,17 @@ const H1 = styled.h1`
     ${mb(5)};
 `;
 
-const Title = ({ title }) => (
-    <H1>
-        <div>{title.split(" - ")[0]}</div>
-        { title.split(" - ")[1] && (
-            <div>{title.split(" - ")[1]}</div>
-        )}
-    </H1>
-);
+const Title = ({ title }) => {
+    if (!title) return null;
+    return (
+        <H1>
+            <div>{title.split(" - ")[0]}</div>
+            { title.split(" - ")[1] && (
+                <div>{title.split(" - ")[1]}</div>
+            )}
+        </H1>
+    );
+};
 
 const OgImage = (image) => {
     const cldnry = new cloudinary.Cloudinary({ cloud_name: process.env.GATSBY_CLOUDINARY_CLOUD_NAME });

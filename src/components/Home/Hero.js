@@ -67,9 +67,11 @@ export default () => (
                             permalink
                             band
                             date
+                            eventDate
                             thumbnail
                             groups
                             album
+                            externalUrl
                         }
                     }
                 }

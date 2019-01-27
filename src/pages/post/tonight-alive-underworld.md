@@ -1,14 +1,12 @@
 ---
-id: 4153
 title: Tonight Alive - Underworld
-category: Album reviews
-groups: Tonight Alive
-album: Underworld
-date: 2018-02-06T16:22:23+00:00
-author: Seppe Van Ael
-permalink: /album-review/review-tonight-alive-underworld/
 thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/TA_Underworld-Cover-1-600x600.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/v1548594065/9200000085458161.jpg
+date: 2018-02-06T16:22:23.000Z
+category: Album reviews
+author: Seppe Van Ael
+album: Underworld
+permalink: /album-review/review-tonight-alive-underworld/
 ---
 De Australische pop punk band Tonight Alive is na twee jaar terug op de proppen gekomen met een nieuw album: Underworld. Sinds begin 2018 heeft de band een nieuwe line-up, nadat leadgitarist en backing vocalist Whak Taahi de band verliet.
 
