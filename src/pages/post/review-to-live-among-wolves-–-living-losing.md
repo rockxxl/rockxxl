@@ -1,5 +1,5 @@
 ---
-title: 'review: to live among wolves – living.losing'
+title: to live among wolves - living.losing
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547670554/a0921254073_10.jpg'
 date: '16 Jan 2019, 22:15'
 category: Album reviews
