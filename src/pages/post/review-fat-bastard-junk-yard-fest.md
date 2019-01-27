@@ -1,5 +1,5 @@
 ---
-title: 'review: Fat Bastard - Junk Yard Fest'
+title: Fat Bastard - Junk Yard Fest
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/42972014_10157759574071729_5371798657479737344_n.jpg
 date: '16 Jan 2019, 21:33'
