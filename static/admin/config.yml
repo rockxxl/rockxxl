@@ -61,7 +61,7 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
-      - name: eventdate
+      - name: eventDate
         label: Date event
         widget: datetime
       - name: category

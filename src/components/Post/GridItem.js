@@ -3,7 +3,9 @@ import { Link as GatsbyLink } from "gatsby";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import styled from "styled-components";
 import breakpoint from "styled-components-breakpoint";
-import { p, my } from "styled-components-spacing";
+import { p, my, mt } from "styled-components-spacing";
+import { format } from "date-fns";
+import nlDateFnsLocale from "date-fns/locale/nl";
 import Image from "../Image";
 
 const Link = ({
@@ -28,7 +30,6 @@ const Link = ({
             to={to}
         >
             {children}
-
         </GatsbyLink>
     );
 };
@@ -36,7 +37,6 @@ const Link = ({
 const StyledLink = styled(Link)`
     display: block;
     color: ${props => props.theme.color.text};
-    font-weight: ${props => props.theme.font.weight.bold};
     letter-spacing: -.66px;
     line-height: ${props => props.theme.leading.none};
     text-decoration: none;
@@ -76,14 +76,27 @@ const Heading = styled.h1`
     `}
 `;
 
-const Title = ({ title }) => (
-    <Fragment>
-        <div>{title.split(" - ")[0]}</div>
-        { title.split(" - ")[1] && (
-            <div>{title.split(" - ")[1]}</div>
-        )}
-    </Fragment>
-);
+const Title = ({ title }) => {
+    if (!title) return null;
+    return (
+        <Fragment>
+            <div>{title.split(" - ")[0]}</div>
+            { title.split(" - ")[1] && (
+                <div>{title.split(" - ")[1]}</div>
+            )}
+        </Fragment>
+    );
+};
+
+const Subtitle = styled.div`
+    color: ${props => props.theme.color.body};
+    font-size: ${props => props.theme.font.size.sm}rem;
+    ${my(0)}
+    ${mt(1)}
+    ${breakpoint("sm")`
+        font-size: ${({ large, theme }) => (large ? `${theme.font.size.lg}rem` : `${theme.font.size.sm}rem`)};
+    `}
+`;
 
 export default ({
     node: {
@@ -92,6 +105,7 @@ export default ({
             title,
             thumbnail,
             externalUrl,
+            eventDate,
         },
     },
     aspectRatio,
@@ -113,6 +127,7 @@ export default ({
                 <Heading large={large}>
                     <Title title={title} />
                 </Heading>
+                {eventDate && <Subtitle>{`${format(eventDate, "D MMM YYYY", { locale: nlDateFnsLocale })}`}</Subtitle>}
             </Content>
         </StyledLink>
     </article>

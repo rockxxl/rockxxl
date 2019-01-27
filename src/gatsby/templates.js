@@ -30,6 +30,7 @@ module.exports = ({ actions, graphql }) => {
                         groups
                         album
                         externalUrl
+                        eventDate
                     }
                 }
             }
