@@ -88,14 +88,17 @@ const H1 = styled.h1`
     ${mb(5)};
 `;
 
-const Title = ({ title }) => (
-    <H1>
-        <div>{title.split(" - ")[0]}</div>
-        { title.split(" - ")[1] && (
-            <div>{title.split(" - ")[1]}</div>
-        )}
-    </H1>
-);
+const Title = ({ title }) => {
+    if (!title) return null;
+    return (
+        <H1>
+            <div>{title.split(" - ")[0]}</div>
+            { title.split(" - ")[1] && (
+                <div>{title.split(" - ")[1]}</div>
+            )}
+        </H1>
+    );
+};
 
 const Subtitle = styled.div`
     text-transform: uppercase;

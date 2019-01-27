@@ -1,11 +1,39 @@
 import React, { Fragment } from "react";
 import { Link as GatsbyLink } from "gatsby";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import styled from "styled-components";
 import breakpoint from "styled-components-breakpoint";
 import { p, my } from "styled-components-spacing";
 import Image from "../Image";
 
-const Link = styled(GatsbyLink)`
+const Link = ({
+    to, outbound, title, children, className,
+}) => {
+    if (outbound) {
+        return (
+            <OutboundLink
+                className={className}
+                href={to}
+                target="_blank"
+                rel="noopener noreferrer"
+                title={title}
+            >
+                {children}
+            </OutboundLink>
+        );
+    }
+    return (
+        <GatsbyLink
+            className={className}
+            to={to}
+        >
+            {children}
+
+        </GatsbyLink>
+    );
+};
+
+const StyledLink = styled(Link)`
     display: block;
     color: ${props => props.theme.color.text};
     font-weight: ${props => props.theme.font.weight.bold};
@@ -63,6 +91,7 @@ export default ({
         frontmatter: {
             title,
             thumbnail,
+            externalUrl,
         },
     },
     aspectRatio,
@@ -70,7 +99,11 @@ export default ({
     large,
 }) => (
     <article className={className}>
-        <Link to={slug}>
+        <StyledLink
+            to={externalUrl || slug}
+            outbound={externalUrl !== null}
+            title={title}
+        >
             <Image
                 src={thumbnail}
                 aspectRatio={aspectRatio}
@@ -81,6 +114,6 @@ export default ({
                     <Title title={title} />
                 </Heading>
             </Content>
-        </Link>
+        </StyledLink>
     </article>
 );
