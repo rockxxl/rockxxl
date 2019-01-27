@@ -1,14 +1,12 @@
 ---
-id: 3411
-title: Dead Letter Box - Dead Letter Box #3
-category: Album reviews
-groups: Dead Letter Box
-album: Dead Letter Box #3
-date: 2017-11-27T13:34:42+00:00
-author: Seppe Van Ael
-permalink: /album-review/review-dead-letter-box-dead-letter-box-3/
+title: Dead Letter Box - Dead Letter Box
 thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/verena.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/v1548593982/17190795_1604061402943720_7949562295952402349_n.jpg
+date: 2017-11-27T13:34:42.000Z
+category: Album reviews
+author: Seppe Van Ael
+album: Dead Letter Box
+permalink: /album-review/review-dead-letter-box-dead-letter-box-3/
 ---
 Een mix van punk, rock en hardcore in een post-jasje. Inderdaad, dat kan niet anders dan Dead Letter Box zijn. Deze Mechelse band bracht na twee EP’s hun nummer drie uit: Dead Letter Box #3. Dit viertal speelt geen alledaags genre, zoveel is zeker, maar speelt dit in hun nadeel of juist niet?
 
