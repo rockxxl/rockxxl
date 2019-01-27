@@ -1,5 +1,5 @@
 ---
-title: 'review: London Bullet – Secrets Of The Sewer'
+title: London Bullet - Secrets Of The Sewer
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/43684225_10155769440224249_7769993045629468672_n.jpg
 date: '16 Jan 2019, 21:47'
