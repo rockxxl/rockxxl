@@ -1,5 +1,5 @@
 ---
-title: 'review: Shht – Love Love Love'
+title: Shht - Love Love Love
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670552/44775393_2178716049035263_2611977742517796864_n.jpg
 date: '16 Jan 2019, 22:20'
