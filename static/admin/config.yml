@@ -88,6 +88,7 @@ collections:
       - name: externalUrl
         label: Externe URL
         hint: Link the list-item to an external website. eg. Facebook event-page.
+        required: false
       - name: body
         label: Body
         widget: markdown
