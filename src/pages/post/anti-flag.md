@@ -1,13 +1,11 @@
 ---
-id: 5251
 title: Anti-Flag
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/Anti-Flag.jpg'
+date: 2018-06-23T20:36:35.000Z
+eventDate: 2019-02-02T08:15:23.119Z
 category: Interviews
-band: Anti-Flag
-date: 2018-06-23T20:36:35+00:00
 author: Seppe Van Ael
 permalink: /news/interview-anti-flag/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/Anti-Flag.jpg
 ---
 **Op Graspop Metal Meeting zat RockXXL rond tafel met Anti-Flag drummer Pat Thetic. Anti-Flag is de politieke punkband bij uitstek. Eind vorig jaar kwam hun nieuw album ‘American Fall’ uit, waarmee ze een uitgebreide mening gaven over het presidentschap van Donald Trump en de huidige situatie in Amerika. Hierover ging dan ook ons gesprek.**
 **In november kwam jullie nieuw album ‘American Fall uit’. Jullie vorige plaat kreeg de naam ‘American Spring’. Wat is de gelijkenis of het verschil tussen deze twee albums?**
@@ -45,3 +43,5 @@ Fysieke muziek is voor ons vooral belangrijk omdat er artwork bij komt kijken. M
 **Jullie spelen vandaag op een metal festival. Hoe reageert het metal publiek op een punkband als jullie?** 
 
 Dat kan ons eigenlijk niet schelen (lacht). We spelen even enthousiast als altijd en proberen onze boodschap zo goed mogelijk over te brengen. Metalheads houden ook wel van een circle pit (lacht). We merken wel dat metal nu populairder is dan punkrock. Dit verandert om de zoveel jaar. Het zal ook niet meer lang duren voor de oude garde punkers ermee ophouden. Denk maar aan bands zoals NOFX, Bad Religion, The Offspring, Pennywise, Descendents,… Er zal dan een nieuwe generatie headliners opstaan en laten we hopen dat punkrock dan weer wat extra interesse krijgt. Anti-Flag hoort waarschijnlijk ook al niet meer tot die nieuwe generatie (lacht).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w008c1-fHIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
