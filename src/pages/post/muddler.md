@@ -1,16 +1,16 @@
 ---
-id: 5411
 title: Muddler
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/muddler1.jpg'
+date: 2018-08-14T11:49:22.000Z
+eventDate: 2019-02-02T08:09:06.220Z
 category: Interviews
-band: Muddler
-date: 2018-08-14T11:49:22+00:00
 author: Seppe Van Ael
 permalink: /news/interview-muddler/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/muddler1.jpg
 ---
 **Vlaanderen heeft de hype van de Nederlandstalige parodiemuziek te pakken. Er zijn echter nog bands die net het tegenovergestelde doen: muziek maken met tekstueel heel wat diepgang, in het Nederlands weliswaar. Zo'n band is het Lierse Muddler. Met een nieuwe plaat in het vooruitzicht, ging RockXXL praten met zanger Fons, bassist Ben en drummer Maxim.**
-**Muddler doopte hun muziek tot het genre sn****øck. Vanwaar komt deze naam en waarom zelf een genre uitvinden?**
+
+
+**Muddler doopte hun muziek tot het genre snøck. Vanwaar komt deze naam en waarom zelf een genre uitvinden?**
 
 _Fons_: Dat is eigenlijk begonnen als een grap van onze gitarist. Vroeger was Muddler pure metal. Na een paar personeelswisselingen besloten we voor het Nederlands te gaan. Ook de muziek zelf wijzigde in een bepaalde richting. We hebben nooit echt nagedacht over wat die richting zou moeten zijn. Dat is eigenlijk organisch gegroeid. Plots begonnen we ons zelf af te vragen: ‘Welk genre muziek spelen wij nu eigenlijk?’ Er zit rock in, een beetje pop, de metalinvloeden blijven zeker ook duidelijk aanwezig, misschien wat stoner, indie,…. soit, een serieuze mix. De muzikale invloeden binnen de band verschillen ook wel, maar natuurlijk hebben we die X-aantal bands die elk van ons fantastisch vindt. Black Joe kwam plots met het woord Snøck. We lachten en dat werd het. Dat woord staat nu voor wat wij doen: soms vuil, soms vettig, met een hoek af en een scherp randje, nooit gepolijst, eerlijk, ruw, donker, onze moedertaal, zelfrelativerend, energiek en loeihard.
 
@@ -41,7 +41,7 @@ _Fons_: Muddler brengt blijkbaar een donkere zijde van mezelf (ons) naar boven. 
 **Jullie brachten zopas de single 'Tot Chaos' uit. Wanneer kunnen we meer werk verwachten?**
 
 _Ben_: We namen al enkele nieuwe nummers op en werken momenteel verder aan nieuw materiaal. Dit najaar nemen we verder op, dus hopelijk is alles klaar om begin 2019 te releasen.
-  
+
 Je moet Muddler eerder zien als een tank, waarvan niet de snelheid maar wel de kracht telt.
 
 **Bij 'Tot Chaos' hoort ook een chaotische videoclip met Tine Van Den Wyngaert (Het Geslacht De Pauw/ Pulsar).** 
