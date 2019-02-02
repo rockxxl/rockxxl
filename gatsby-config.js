@@ -10,6 +10,16 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: "gatsby-plugin-polyfill-io",
+            options: {
+                flags: "gated",
+                features: [
+                    "default",
+                    "IntersectionObserver",
+                ],
+            },
+        },
+        {
             resolve: "gatsby-plugin-sentry",
             options: {
                 dsn: "https://8b7d1f0f113e4c27b9d8f1618e41816a@sentry.io/1370301",
