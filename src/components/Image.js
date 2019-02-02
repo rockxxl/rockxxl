@@ -55,6 +55,8 @@ const Placeholder = styled.div.attrs(
     z-index: 1;
 `;
 
+export const getPublicId = input => input.replace(/(?:https:\/\/res.cloudinary.com\/.*\/image\/upload\/).*\/(.*)/, "$1");
+
 class ImageLazyLoader extends Component {
     constructor(props) {
         super(props);
@@ -126,10 +128,7 @@ class ImageLazyLoader extends Component {
         const srcHasCloudinaryUrl = src.includes("https://res.cloudinary.com/");
 
         if (publicIdProp || srcHasCloudinaryUrl) {
-            const publicId = srcHasCloudinaryUrl
-                ? src.replace(/(?:https:\/\/res.cloudinary.com\/.*\/image\/upload\/)(.*)/, "$1")
-                : publicIdProp;
-
+            const publicId = getPublicId(src);
             const cldnrySrc = cldnry.core.url(publicId, { transformation: "responsive_placeholder" });
 
             this.setState({

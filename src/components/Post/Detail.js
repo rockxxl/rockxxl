@@ -7,9 +7,9 @@ import { p, mb, mr } from "styled-components-spacing";
 import breakpoint from "styled-components-breakpoint";
 import cloudinary from "cloudinary-core";
 import nlDateFnsLocale from "date-fns/locale/nl";
-import Image from "../Image";
 import SEO from "../SEO";
 import Subtitle from "./Subtitle";
+import Image, { getPublicId } from "../Image";
 
 const Grid = styled.div`
     flex-grow: 1;
@@ -103,7 +103,19 @@ const Title = ({ title }) => {
 
 const OgImage = (image) => {
     const cldnry = new cloudinary.Cloudinary({ cloud_name: process.env.GATSBY_CLOUDINARY_CLOUD_NAME });
-    return cldnry.url(image, { transformation: "og_image" });
+    const publidId = image.includes("https://res.cloudinary.com/") ? getPublicId(image) : image;
+    return cldnry.url(publidId, {
+        transformation: [
+            {
+                dpr: "1.0", effect: "blur:2000", gravity: "center", height: 630, width: 1200, crop: "fill",
+            },
+            { fetch_format: "jpg" },
+            {
+                gravity: "center", height: 530, overlay: publidId, width: 1100, crop: "lpad",
+            },
+            { gravity: "south_east", overlay: "logoROCKXXLwitv2" },
+        ],
+    });
 };
 
 export default ({
