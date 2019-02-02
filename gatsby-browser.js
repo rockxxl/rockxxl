@@ -1,10 +1,4 @@
 exports.onClientEntry = () => {
-    // IntersectionObserver polyfill for gatsby-image (Safari, IE)
-    if (typeof window.IntersectionObserver === "undefined") {
-        import("intersection-observer");
-        console.log("👍 IntersectionObserver is polyfilled"); // eslint-disable-line
-    }
-
     // Object-fit/Object-position polyfill for gatsby-image (IE)
     const testImg = document.createElement("img");
     if (

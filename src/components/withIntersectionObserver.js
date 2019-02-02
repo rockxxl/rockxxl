@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Observer from "@researchgate/react-intersection-observer";
 
+import("intersection-observer");
+
 export default ({ threshold, rootMargin }) => (BaseComponent) => {
     const displayName = BaseComponent.displayName || BaseComponent.name || "Component";
 
