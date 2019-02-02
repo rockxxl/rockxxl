@@ -8,6 +8,7 @@ const List = styled.nav`
     display: flex;
     flex-grow: 1;
     justify-content: center;
+    align-items: center;
 `;
 
 const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
@@ -15,7 +16,8 @@ const Link = styled(({ offCanvasMenu, ...rest }) => <GatsbyLink {...rest} />)`
     color: #ffffff;
     text-decoration: none;
     text-align: center;
-    font-weight: ${props => props.theme.font.weight.bold};
+    font-weight: ${({ theme }) => theme.font.weight.bold};
+    line-height: ${({ theme }) => theme.leading.none};
     ${py(3)}
     ${px(4)}
     ${({ theme, variant: { offCanvasMenu } }) => offCanvasMenu && `
