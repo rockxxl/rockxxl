@@ -1,13 +1,11 @@
 ---
-id: 2358
 title: Boston Manor
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/image.jpg'
+date: 2017-05-09T10:38:50.000Z
+eventDate: 2019-02-02T08:27:34.313Z
 category: Interviews
-band: Boston Manor
-date: 2017-05-09T10:38:50+00:00
 author: Seppe Van Ael
 permalink: /news/interview-boston-manor/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/image.jpg
 ---
 **Het laatste interview dat we deden op Groezrock was met het Britse Boston Manor. We spraken met hen over het tourleven, hun debuutalbum en hun toekomstplannen.**
 
@@ -49,3 +47,5 @@ We spelen baseball in onze vrije tijd. Ook spelen we een spelletje op onze smart
 **Wat houden jullie toekomstplannen in?**
 
 We spelen op Slam Dunk en shows rondom Slam Dunk. Ook spelen we op Groezrock, wat, uiteraard, zich hier en nu afspeelt. Warped Tour komt er binnenkort ook aan, daar spelen we de hele zomer. Enkele dingen die er aankomen kunnen we nog niet aankondigen. Ook verheugen we ons erg op Reading & Leeds festival omdat we opgroeiden tussen de Britse festivals. We gaan beginnen aan nieuwe muziek en elkaar de komende maanden flink lastigvallen. We komen terug naar België, met Crooks _(lacht)._ We komen sowieso terug naar Europa tegen het eind van het jaar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FsVAMSWobRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
