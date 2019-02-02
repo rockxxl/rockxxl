@@ -2,7 +2,6 @@
 title: Gloryhammer
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/gloru.jpg'
 date: 2018-01-28T16:11:50.000Z
-eventDate: 2019-02-02T08:20:02.347Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-gloryhammer/

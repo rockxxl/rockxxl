@@ -3,7 +3,6 @@ title: Insanity Alert
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg
 date: 2018-05-10T16:16:35.000Z
-eventDate: 2019-02-02T08:08:33.533Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-insanity-alert/

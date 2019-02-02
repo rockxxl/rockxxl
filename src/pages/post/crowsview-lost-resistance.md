@@ -3,7 +3,6 @@ title: Crowsview - Lost Resistance
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1548701157/29510976_1808015092582095_1689244684644490610_n.jpg
 date: 2019-01-28T18:45:48.652Z
-eventDate: 2019-01-28T18:45:48.661Z
 category: Album reviews
 author: Seppe Van Ael
 ---

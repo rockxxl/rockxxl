@@ -2,7 +2,6 @@
 title: Anti-Flag
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/Anti-Flag.jpg'
 date: 2018-06-23T20:36:35.000Z
-eventDate: 2019-02-02T08:15:23.119Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-anti-flag/

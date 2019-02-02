@@ -2,7 +2,6 @@
 title: Arson
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/fqfqq.jpg'
 date: 2018-06-07T09:35:09.000Z
-eventDate: 2019-02-02T08:16:15.824Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-arson/

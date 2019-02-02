@@ -2,7 +2,6 @@
 title: Walls Of Sorrow
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/wos-eter.jpg'
 date: 2017-11-09T20:31:32.000Z
-eventDate: 2019-02-02T08:24:58.160Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-walls-of-sorrow/

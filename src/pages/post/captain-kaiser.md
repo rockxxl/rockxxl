@@ -3,7 +3,6 @@ title: Captain Kaiser
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/36883430_1292966824139871_7842316279099686912_n.jpg
 date: 2018-08-09T06:38:33.000Z
-eventDate: 2019-02-02T08:11:47.081Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-captain-kaiser/

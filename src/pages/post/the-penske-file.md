@@ -3,7 +3,6 @@ title: The Penske File
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/20994232_1533421133386982_5448356111535561427_n.jpg
 date: 2018-01-12T20:05:54.000Z
-eventDate: 2019-02-02T08:21:13.564Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-the-penske-file/

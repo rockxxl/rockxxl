@@ -2,7 +2,6 @@
 title: Knocked Loose
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/kockedloose_4x3.jpg'
 date: 2018-06-25T08:54:40.000Z
-eventDate: 2019-02-02T08:13:57.666Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-knocked-loose/

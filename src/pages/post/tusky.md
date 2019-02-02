@@ -2,7 +2,6 @@
 title: Tusky
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/Tusky_2018_1.jpeg'
 date: 2018-07-04T20:04:24.000Z
-eventDate: 2019-02-02T08:12:56.165Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-tusky/

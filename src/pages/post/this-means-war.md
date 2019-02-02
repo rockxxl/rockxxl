@@ -2,7 +2,6 @@
 title: This Means War
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/this-meansss.jpg'
 date: 2017-10-29T12:45:00.000Z
-eventDate: 2019-02-02T08:25:25.991Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-this-means-war/

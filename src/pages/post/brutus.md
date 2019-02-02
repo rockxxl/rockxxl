@@ -2,7 +2,6 @@
 title: Brutus
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547723604/brutssss.jpg'
 date: 2017-07-10T15:47:47.000Z
-eventDate: 2019-02-02T08:25:58.755Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-brutus/

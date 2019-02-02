@@ -2,7 +2,6 @@
 title: Neck Deep
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/Neck_Deep_Hysteria.jpg'
 date: 2018-07-02T11:29:10.000Z
-eventDate: 2019-02-02T08:13:30.001Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-neck-deep/

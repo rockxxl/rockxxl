@@ -3,7 +3,6 @@ title: Rites
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26732566_10215439493568884_1558607338_o.jpg
 date: 2018-01-08T18:54:21.000Z
-eventDate: 2019-02-02T08:21:47.119Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-rites/

@@ -2,7 +2,6 @@
 title: The Sick Boys - Bad To The Bone
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547670553/ALBUM_COVER.jpg'
 date: 2019-01-28T20:56:00.000Z
-eventDate: 2019-01-28T12:21:50.716Z
 category: Album reviews
 author: Seppe Van Ael
 externalUrl: ''

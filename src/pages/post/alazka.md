@@ -3,7 +3,6 @@ title: Alazka
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30167387_1729463600472645_8376228245183222276_o.jpg
 date: 2018-05-14T18:44:19.000Z
-eventDate: 2019-02-02T08:17:23.420Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-alazka/

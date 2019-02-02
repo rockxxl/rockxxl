@@ -2,7 +2,6 @@
 title: Descendents
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/65-og.jpg'
 date: 2018-07-22T09:43:12.000Z
-eventDate: 2019-02-02T08:12:18.530Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-descendents/

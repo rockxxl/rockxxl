@@ -2,7 +2,6 @@
 title: Muddler
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/muddler1.jpg'
 date: 2018-08-14T11:49:22.000Z
-eventDate: 2019-02-02T08:09:06.220Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-muddler/

@@ -2,7 +2,6 @@
 title: State Champs
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/statechamps-1437156640.jpg'
 date: 2018-05-26T14:02:02.000Z
-eventDate: 2019-02-02T08:16:54.913Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-state-champs/

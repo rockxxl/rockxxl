@@ -3,7 +3,6 @@ title: The Yalla Yallas
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18491424_1846964091984156_2060356962502361504_o.jpg
 date: 2017-05-18T12:56:49.000Z
-eventDate: 2019-02-02T08:26:23.018Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-the-yalla-yallas/

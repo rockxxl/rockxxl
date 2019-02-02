@@ -3,7 +3,6 @@ title: Bram Desimpelaere
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26854311_10212963679878343_1484078644_o.jpg
 date: 2018-01-14T15:10:47.000Z
-eventDate: 2019-02-02T08:20:27.801Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-bram-desimpelaere/

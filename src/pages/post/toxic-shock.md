@@ -3,7 +3,6 @@ title: Toxic Shock
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18836854_1406267046121826_3458718445501663696_o.jpg
 date: 2018-02-06T12:11:17.000Z
-eventDate: 2019-02-02T08:19:34.607Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-toxic-shock/

@@ -2,7 +2,6 @@
 title: Chalice
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/chalice.jpg'
 date: 2018-08-16T08:13:06.000Z
-eventDate: 2019-02-02T08:10:41.202Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-chalice/

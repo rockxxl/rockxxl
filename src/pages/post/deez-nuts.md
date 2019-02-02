@@ -3,7 +3,6 @@ title: Deez Nuts
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Deez-Nuts-Hardcore-Band-2017.jpg
 date: 2018-03-28T16:03:43.000Z
-eventDate: 2019-02-02T08:18:34.911Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-deez-nuts/

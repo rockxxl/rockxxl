@@ -3,7 +3,6 @@ title: Set Things Right
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15039507_1338155776208404_2040673305254975013_o.jpg
 date: 2017-11-13T13:56:25.000Z
-eventDate: 2019-02-02T08:23:54.996Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-set-things-right/

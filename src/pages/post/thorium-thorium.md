@@ -3,7 +3,6 @@ title: Thorium - Thorium
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1548701024/39589254_1793119644140408_5164143096161632256_n.jpg
 date: 2019-01-28T18:42:57.672Z
-eventDate: 2019-01-28T18:42:57.706Z
 category: Album reviews
 author: Seppe Van Ael
 ---

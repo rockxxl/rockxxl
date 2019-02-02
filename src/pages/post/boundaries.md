@@ -3,7 +3,6 @@ title: Boundaries
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26172407_1767226799963898_2551281455828945907_o.jpg
 date: 2018-03-24T11:24:03.000Z
-eventDate: 2019-02-02T08:19:02.971Z
 category: Interviews
 author: Seppe Van Ael
 permalink: /news/interview-boundaries/
