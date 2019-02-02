@@ -10,7 +10,6 @@ permalink: /news/interview-insanity-alert/
 ---
 **Thrash metal band Insanity Alert stond onlangs nog op Hellfest en nam deel aan de Persistance Tour met bands als Hatebreed en Terror. Wij gingen rond tafel zitten met zanger Kevin Stout en stelde hem wat vragen over hun album 'Moshburger' en het derde album dat er binnenkort aankomt.**
 
-
 **Jullie recentste album heet ‘Moshburger’. Wat is een moshburger en waar komt deze vandaan?** 
 
 Als we op tour zijn schrijf ik in de bus vaak dingen op waar ik aan denk. Vaak ben ik dan ook stoned (lacht). Als ik de dag erna terug kijk naar wat ik heb opgeschreven denk ik wel vaak ‘what the fuck’, maar deze vonden we zo grappig dat we het wilde gebruiken voor de artwork. We hebben het idee dan doorgestuurd naar de tekenaar van Municipal Waste. Die heeft uiteindelijk iets helemaal anders bedacht dan wij in ons hoofd hadden, maar de artwork was zo goed dat we het gewoon hebben gehouden.
@@ -51,6 +50,8 @@ De eerste plaat ging inderdaad wel soepel omdat we al een hoop nummers op voorha
 
 Ik denk het niet (lacht). Ik zit in Nederland in de punkband The Apers. Daar hebben we vroeger ‘Teenage Kicks’ van The Undertones mee gecoverd. Een paar jaar later kwamen The Undertones in Rotterdam en daar kondigde ze ‘Teenage Kicks’ aan met: Dit nummer wordt beter gedaan door The Apers. Het was gewoon tof dat ze uberhout wisten dat het nummer bestond, laat staan hoe dat de band noemde. Het zou wel geniaal zijn moest ‘Run To The Pit’ verboden worden, dan hebben we een verhaal. We spelen ondertussen ook al weer vijf jaar en de meeste mensen kennen ons door dat lied. Waar we ook heen gaan of hoe saai de avond ook is, zodra we dat nummer inzetten gaat iedereen uit de bol omdat het herkenbaar klinkt.
 
-\*\*Is het soms niet frustrerend dat jullie bekendste nummer een cover is?
+**Is het soms niet frustrerend dat jullie bekendste nummer een cover is?**
 
-\*\* Live komt het nummer vaak men strot uit. Het is natuurlijk een ander nummer dan dat we zelf zouden maken. Het heeft ons wel kansen gegeven om ons eigen ding te doen. De tekst is wel helemaal origineel, die heb ik volledig zelf geschreven. De muziek is gewoon twee keer zo snel. Covers zijn eigenlijk ook een tribute vind ik. Wat Iron Maiden voor harde muziek heeft gedaan is wel geweldig natuurlijk. Ze hebben nooit video’s gehad op Mtv ofzo en toch verkopen ze stadia uit.
+Live komt het nummer vaak men strot uit. Het is natuurlijk een ander nummer dan dat we zelf zouden maken. Het heeft ons wel kansen gegeven om ons eigen ding te doen. De tekst is wel helemaal origineel, die heb ik volledig zelf geschreven. De muziek is gewoon twee keer zo snel. Covers zijn eigenlijk ook een tribute vind ik. Wat Iron Maiden voor harde muziek heeft gedaan is wel geweldig natuurlijk. Ze hebben nooit video’s gehad op Mtv ofzo en toch verkopen ze stadia uit.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeq_t4Xd2Xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
