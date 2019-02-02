@@ -1,13 +1,12 @@
 ---
-id: 2161
 title: Lost From The Start
-category: Interviews
-band: Lost From The Start
-date: 2017-04-11T09:26:54+00:00
-author: Seppe Van Ael
-permalink: /news/interview-lost-from-the-start/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15975102_1212006188913411_1390535723759777644_o.jpg
+date: 2017-04-11T09:26:54.000Z
+eventDate: 2019-02-02T08:30:27.659Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-lost-from-the-start/
 ---
 **De Limburgse pop punk band Lost From The Start werd pas eind 2016 opgericht al brachten ze in februari een videoclip uit en ook hun EP-release is in aantocht. Wij namen even de tijd om dit viertal wat beter te leren kennen en ook al eens vooruit te blikken op wat de band nog in petto heeft, want Lost From The Start gaat als een sneltrein!**
 
@@ -45,10 +44,4 @@ Cannibal corpse of Andre Rieu? Liefst in combinatie.
 
 Eerst willen we een lyric video uitbrengen, nog voor de EP-release. We hopen dat mensen achterin de zaal de tekst alvast stiekem kunnen meezingen in hun hoofd of, als het publiek voldoende voorgedronken is, zelfs een woordje meelallen. Als we dan weer enkele liveshows achter de rug hebben, bekijken we weer waar we naartoe willen. Een full album misschien?
 
-<blockquote data-secret="8UzuzXg49i" class="wp-embedded-content">
-  <p>
-    <a href="http://www.rockxxl.com/album-review/review-lost-from-the-start-echo-avenue/">review: Lost From The Start – Echo Avenue</a>
-  </p>
-</blockquote>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UeZyjwcHtp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
