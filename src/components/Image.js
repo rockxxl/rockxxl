@@ -55,7 +55,11 @@ const Placeholder = styled.div.attrs(
     z-index: 1;
 `;
 
-export const getPublicId = input => input.replace(/(?:https:\/\/res.cloudinary.com\/.*\/image\/upload\/).*\/(.*)/, "$1");
+export const getPublicId = input => input.replace(/(?:https:\/\/res.cloudinary.com\/.*\/image\/upload\/)(?:.*\/)?(.*)/, "$1");
+
+// https://res.cloudinary.com/rockxxl/image/upload/gmm18lineup1200x16972-5.jpg
+// https://res.cloudinary.com/rockxxl/image/upload/1761d2fe-aeec-4795-b090-8c8036dd53ad.jpg
+// https://res.cloudinary.com/rockxxl/image/upload/v1548589931/40576606_1843234992457191_6678925314967470080_n.jpg
 
 class ImageLazyLoader extends Component {
     constructor(props) {

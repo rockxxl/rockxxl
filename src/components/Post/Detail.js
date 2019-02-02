@@ -143,7 +143,7 @@ export default ({
                 slug={slug}
                 date={date}
                 category={category}
-                image={OgImage(thumbnail)}
+                image={thumbnail && OgImage(thumbnail)}
                 pageType="post"
             />
         )}
