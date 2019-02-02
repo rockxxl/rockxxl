@@ -1,13 +1,12 @@
 ---
-id: 3828
 title: Bram Desimpelaere
-category: Interviews
-band: Bram Desimpelaere
-date: 2018-01-14T15:10:47+00:00
-author: Seppe Van Ael
-permalink: /news/interview-bram-desimpelaere/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26854311_10212963679878343_1484078644_o.jpg
+date: 2018-01-14T15:10:47.000Z
+eventDate: 2019-02-02T08:20:27.801Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-bram-desimpelaere/
 ---
 **Het is algemeen geweten dat punk en singer-songwriter perfect samen gaan. Het beste voorbeeld hiervan is Chuck Ragan. Ook ons kleine landje heeft een aantal zangers en muzikanten die wel kunnen tellen. Nieuw maar zeker niet onbezonnen is Bram Desimpelaere uit het Antwerpse Vorselaar. Met een eerste EP 'On The Sideline' op zak is Bram helemaal klaar voor het veroveren van elk klein en groot podium. Wij gingen rond tafel zitten met Bram en spraken over zijn eerste jaar als solomuzikant en de nabije toekomst.**
 **Nog niet zo lang geleden ben je begonnen met solo nummers te schrijven en op te treden. Vanwaar de zin om terug je gitaar op te pakken en ook de micro voor jou rekening te nemen?**
@@ -41,3 +40,5 @@ Momenteel wel, je somt hier nu wel de Amerikaanse gasten op maar in de lage land
 **Kampvuren of huiskamers?**
 
 Resoluut huiskamers, en met een bepaalde reden. Zoals reeds gezegd heeft ieder nummer iets speciaals voor me. Ik vertel er dan ook graag het verhaal bij dat achter het nummer zit. Ik probeer dit eigenlijk altijd wel een beetje te doen, maar in een huiskamer kom je ook in een bepaalde intieme zone van mensen. Als je dan zelf ook iets intiem kunt brengen over/ met je nummers vind ik dat zeer speciaal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nE0xuVLvSQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
