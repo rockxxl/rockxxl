@@ -1,13 +1,11 @@
 ---
-id: 5124
 title: Arson
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/fqfqq.jpg'
+date: 2018-06-07T09:35:09.000Z
+eventDate: 2019-02-02T08:16:15.824Z
 category: Interviews
-band: Arson
-date: 2018-06-07T09:35:09+00:00
 author: Seppe Van Ael
 permalink: /news/interview-arson/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/fqfqq.jpg
 ---
 **De Gentse punk, rock 'n' roll, hardcore band Arson is een band met zicht op de toekomst. Dat bewijst hun eerste EP 'Let's Start A Fire'. Deze EP is een mooi uitgewerkt concept dat tot in de puntjes is verzorgd. Arson bestaat nog geen jaar, maar de band opent binnenkort de main stage van Jera On Air op zaterdag. Wij stelden wat vragen aan gitarist Rien en bassist Fabian en kregen daarmee een mooi zicht op de band.**
 
@@ -58,3 +56,5 @@ _Rien_: Fysieke dragers zullen altijd onderdeel zijn van muziek. Muziekliefhebbe
 **Wat is de volgende grote stap voor Arson?**
 
 _Fabian_: Eerst werken we naar onze set op Jera on Air en vervolgens RockXXL  Fest. In het najaar hebben we ook nog een pak coole shows gepland, maar de focus ligt wel al bij het schrijven van nieuw materiaal voor een nieuwe release. Momenteel houden we het vuur van onze EP nog brandende. Let’s start a fire!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62wZdIfiaXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
