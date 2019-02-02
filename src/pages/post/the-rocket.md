@@ -1,13 +1,12 @@
 ---
-id: 5130
 title: The Rocket
-category: Interviews
-band: The Rocket
-date: 2018-06-09T08:55:14+00:00
-author: Seppe Van Ael
-permalink: /news/interview-the-rocket/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/31936547_10156481851954940_4977021880859885568_n.jpg
+date: 2018-06-09T08:55:14.000Z
+eventDate: 2019-02-02T08:15:49.271Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-the-rocket/
 ---
 **Na drie jaar radiostilte begon de facebookpagina van The Rocket terug te leven. En jawel hoor, deze Belgische pop punk band plande een comeback. Niet veel later liet The Rocket hun gloednieuwe album ‘Another Reason Not To Fear The Sky’ op de wereld los. Wij bestempelden dit kleine kunstwerkje eerder al als de soundtrack van de zomer. Hoog tijd om eens een praatje te maken met oprichter en zanger Tom.**
 **We gaan even terug naar een aantal jaar geleden. Waar liep het destijds mis dat The Rocket ermee ophield?**
@@ -37,3 +36,5 @@ Het leven is een kettingreactie. Van het één komt het ander. Je doet iets en d
 **Een deel van de clip van ‘Lost At Sea’ is opgenomen op een volledig lege Keizerlei en in een eveneens volledig leeg centraal station in Antwerpen. Hoe vroeg zijn jullie moeten opstaan om dit te filmen?**
 
 Veel te vroeg. (lacht) Starbucks was zelfs nog niet open, maar het was echter wel de moeite waard. We hebben ook regelmatig mensen moeten tegenhouden die anders in het shot zouden lopen. Een heel ondankbare taak om mensen hun doen en laten te ontnemen, ook al is het maar voor vijf minuten. Alles voor de cause hé.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TC6DTf_3Mss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
