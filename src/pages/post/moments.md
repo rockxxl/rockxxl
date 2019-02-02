@@ -1,16 +1,17 @@
 ---
-id: 2321
 title: Moments
-category: Interviews
-band: Moments
-date: 2017-05-03T13:14:52+00:00
-author: Seppe Van Ael
-permalink: /news/interview-moments/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/15418591_1458392430845477_8597358955220313955_o.jpg
+date: 2017-05-03T13:14:52.000Z
+eventDate: 2019-02-02T08:28:30.595Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-moments/
 ---
-**Zaterdag zaten we neer met het vijftal van Moments net na hun geweldig optreden op Groezrock. We hadden het over festivals, de Belgische hardcore scene en hun nieuwe EP 'Outlast'.**  
-Jullie staan ondertussen voor de tweede keer op Groezrock, hoe voelt het om hier terug te zijn?**
+**Zaterdag zaten we neer met het vijftal van Moments net na hun geweldig optreden op Groezrock. We hadden het over festivals, de Belgische hardcore scene en hun nieuwe EP 'Outlast'.**
+
+****\
+**Jullie staan ondertussen voor de tweede keer op Groezrock, hoe voelt het om hier terug te zijn?**
 
 Geweldig, zo simpel is het. Het is drie jaar geleden dat we hier voor de eerste keer speelden en ik denk dat de tweede keer alles heeft overtroffen. Het is een heel leuke beloning voor al het harde werk dat we leveren. Om op festivals als Groezrock te mogen spelen, daar doen we het voor. Het was prachtig.
 
@@ -41,3 +42,5 @@ We hebben een management in Engeland zitten. Het is een heel leuke samenwerking.
 **Over nieuwe muziek gesproken: kunnen jullie iets vertellen over de nieuwe EP?**
 
 We hebben er heel lang over gedaan omdat we het deftig wouden doen. We hebben niet zo zeer een centraal thema gekozen, gewoon bepaalde punten waarover we onze mening kwijt wilden. Het is van alles, van actualiteit naar onze kijk op dingen. We hebben onze EP bewust “Outlast” genoemd omdat we, zoals eerder gezegd, het vermoeden hebben dat het moeilijker en moeilijker wordt op de lokale shows in België. We willen er mee zeggen dat als we er samen achter staan, we dit kunnen overwinnen en onze lokale scene weer groots kunnen maken. Dat is het idee achter onze EP. De thema’s van desbetreffende nummers zullen we op onze release show bekend maken. We doen gewoon onze uiterste best en we maken plezier!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAb3FY21geI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
