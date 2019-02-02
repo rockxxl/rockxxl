@@ -1,13 +1,11 @@
 ---
-id: 4964
 title: State Champs
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/statechamps-1437156640.jpg'
+date: 2018-05-26T14:02:02.000Z
+eventDate: 2019-02-02T08:16:54.913Z
 category: Interviews
-band: State Champs
-date: 2018-05-26T14:02:02+00:00
 author: Seppe Van Ael
 permalink: /news/interview-state-champs/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/statechamps-1437156640.jpg
 ---
 **State Champs is een pop punk band uit New York. De voorbije drie jaren speelden ze maar liefst vijf shows in België en op drie november staan ze opnieuw in de Muziekodroom in Hasselt. Voor hun show in Zappa, Antwerpen, zaten we samen met de gitarist Tyler. De oprichter van State Champs had het met ons over hun nieuwe album 'Living Proof', de vergelijking met All Time Low en hun slechtste festivalervaring ooit, dat in België bleek te zijn.**
 
@@ -44,3 +42,5 @@ Ja, jammer genoeg wel, dat was onze slechtste show ooit. De micro van Derek werk
 **Wat vinden jullie het leukste: concerten of festivals?**
 
 Het is waarschijnlijk niet het antwoord dat je witl, maar ik vind ze allebei even leuk. Ook al speelden we op Pukkelpop onze slechtste set ooit, ik kon diezelfde dag wel nog Rihanna gaan bekijken en dat was super cool! Festivals zijn leuk om de reden dat je andere bands kan gaan bekijken. Niets kan echter op tegen het headlinen van je eigen tour.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pVY0G-uJCBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
