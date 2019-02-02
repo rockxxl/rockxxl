@@ -102,7 +102,7 @@ export default ({
     <article className={className}>
         <StyledLink
             to={externalUrl || slug}
-            outbound={externalUrl !== null}
+            outbound={externalUrl}
             title={title}
         >
             <Image
