@@ -1,13 +1,12 @@
 ---
-id: 4147
 title: Toxic Shock
-category: Interviews
-band: Toxic Shock
-date: 2018-02-06T12:11:17+00:00
-author: Seppe Van Ael
-permalink: /news/interview-toxic-shock/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18836854_1406267046121826_3458718445501663696_o.jpg
+date: 2018-02-06T12:11:17.000Z
+eventDate: 2019-02-02T08:19:34.607Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-toxic-shock/
 ---
 **Toxic Shock, de Antwerpse crossover band deed de laatste tijd enkele opvallende dingen. Zo brachten ze een split uit met Iron Reagan en Team Panini. Ook hun nieuwe album 'Twentylastcentury' gaat niet onopgemerkt voorbij. Toxic Shock ging in zee met producer Flemming Rasmussen die enkele Metallica albums op zijn naam heeft staan en bracht de band een videoclip uit die plaatsvind in New York. Wij spraken met gitarist Pieter om wat meer te weten te komen over het meer dan geslaagde 'Twentylastcentury'.**
 
@@ -58,3 +57,5 @@ Goh, even nadenken… Er zijn in de loop der jaren al veel micro's en kabels ges
 **Er zijn al heel wat Belgische podia gepasseerd maar welke staan nog op jullie verlanglijstje?**
 
 Nog een heleboel. Graspop, Rock Herk, Alcatraz,…  Zolang er maar zotten zijn die ons willen boeken en een fair bod doen, willen we overal spelen. Of we nu spelen op grote of kleine podia, in een kelder of op een dak, in openlucht of in een donker hol, het maakt allemaal niet uit. De shows die we in Frankrijk, Italië en Portugal speelden waren fantastisch. Nederland en Duitsland zijn ook altijd fijn. Het is al even geleden dat we de plas overstaken om voet te zetten op Engelse bodem. Scandinavië en Amerika staan zeker ook op ons verlanglijstje.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hSHSOm0-io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
