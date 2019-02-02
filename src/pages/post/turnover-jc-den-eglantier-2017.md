@@ -1,14 +1,13 @@
 ---
-id: 3084
-title: Turnover (JC Den Eglantier, 2017)
+title: 'Turnover (JC Den Eglantier, 2017)'
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/DDXSy2nVwAE-yow-1.jpg'
+date: 2017-09-17T19:35:54.000Z
+eventDate: 2019-02-02T08:51:49.416Z
 category: Live reviews
-date: 2017-09-17T19:35:54+00:00
 author: Seppe Van Ael
 permalink: /live-review/live-review-turnover-jc-den-eglantier-2017/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/DDXSy2nVwAE-yow-1.jpg
 ---
-Op 10 september 2017 werd JC Den Eglantier in Berchem even omgetoverd tot een rustig zwevende wolk, of zo voelde het alleszins toch. Een hele avond vol atmosferische riffs, zachte begeleidende drums en breekbare zang stond ons op te wachten.
+**Op 10 september 2017 werd JC Den Eglantier in Berchem even omgetoverd tot een rustig zwevende wolk, of zo voelde het alleszins toch. Een hele avond vol atmosferische riffs, zachte begeleidende drums en breekbare zang stond ons op te wachten.**
 
 De avond werd ingeleid door **Slow Crush**, een band van eigen bodem die op zijn minst gezegd perfect paste bij headliner Turnover. Slow Crush speelt hun eigen blend van shoegaze en punk, een interessante combinatie die vooral zo sterk is door Isa Holliday, die met haar vocale werk de muziek perfect begeleidt. Het leuke aan de live-ervaring bij deze band is dat iemand die toevallig tijdens de intro van ‘Biglip’ binnenwandelt een heuse moshpit zou verwachten, tot de atmosferische elementen en de zweverige stem hun entree maken. Deze mix van ruigheid en aaibaarheid zorgde er vroeg op de avond al voor dat niemand onberoerd bleef, maar verrast waren we vooral door het nummer ‘Dizzy’, dat door zijn simpele, maar enorm rake riff op het einde iedereen – of alleszins mij toch – wist weg te blazen. De ogen sluiten en rustig wegdromen was de boodschap bij Slow Crush.
 
