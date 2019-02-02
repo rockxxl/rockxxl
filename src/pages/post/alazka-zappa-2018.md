@@ -1,14 +1,14 @@
 ---
-id: 4860
-title: Alazka (Zappa, 2018)
-category: Live reviews
-date: 2018-05-10T09:27:08+00:00
-author: Seppe Van Ael
-permalink: /live-review/live-review-alazka-zappa-2018/
+title: 'Alazka (Zappa, 2018)'
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30725013_1629097693838052_3849223983294760002_n.jpg
+date: 2018-05-10T09:27:08.000Z
+eventDate: 2019-02-02T08:46:18.008Z
+category: Live reviews
+author: Seppe Van Ael
+permalink: /live-review/live-review-alazka-zappa-2018/
 ---
-**Metalcore op een broeierige woensdagavond… Daarvoor zijn we op weg naar Antwerpen.**** Oorspronkelijk zou de show in Kavka doorgaan, maar daar vindt vanavond de eerste editie van 'support your locals' plaats. De show werd verplaatst naar de iets grotere Zappa.**
+**Metalcore op een broeierige woensdagavond… Daarvoor zijn we op weg naar Antwerpen. Oorspronkelijk zou de show in Kavka doorgaan, maar daar vindt vanavond de eerste editie van 'support your locals' plaats. De show werd verplaatst naar de iets grotere Zappa.**
 
 Heartbreaktunes:
 
