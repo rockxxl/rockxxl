@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3b2d434-ac09-4dcf-a385-b3a95f018a8d/deploy-status)](https://app.netlify.com/sites/rockxxl/deploys)
+
 # RockXXL
 Source code for [rockxxl.be](https://rockxxl.be)
 
