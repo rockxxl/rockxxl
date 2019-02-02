@@ -1,13 +1,11 @@
 ---
-id: 4558
 title: Deez Nuts
-category: Interviews
-band: Deez Nuts
-date: 2018-03-28T16:03:43+00:00
-author: Seppe Van Ael
-permalink: /news/interview-deez-nuts/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/Deez-Nuts-Hardcore-Band-2017.jpg
+date: 2018-03-28T16:03:43.000Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-deez-nuts/
 ---
 **Het Australische Deez Nuts weet sinds 2007 verschillende hardcore fans te plezieren met een aanstekelijk stukje muziek. Hoewel hun teksten over drank, drugs en feesten enige controversie wisten op te wekken, lijkt dit viertal tien jaar na hun ontstaan toch een andere insteek gevonden te hebben. Deez Nuts zakte af naar de Muziekodroom in Hasselt waar wij gingen praten met zanger en oprichter JJ Peters.**
 
@@ -54,3 +52,5 @@ Ja, we zijn nu een week op tour en we vinden het steeds leuk om van set te veran
 **Als je op tour kan gaan met een niet-hardcore band. Welke zou je kiezen?**
 
 Mijn favoriete muziek buiten hardcore is rap. Ik zou graag eens een keer op tour gaan met Future, Migos of Kendrick Lamar. Ik weet niet hoe realistisch dit is, maar ik zou het wel heel erg graag doen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QpPWvhn2RfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

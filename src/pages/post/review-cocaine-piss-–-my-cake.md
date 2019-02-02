@@ -1,8 +1,8 @@
 ---
-title: 'review: Cocaine Piss – My Cake'
+title: Cocaine Piss - My Cake
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670552/47196425_2098839066839633_3146800058196819968_n.jpg
-date: '16 Jan 192019, 22:26'
+date: 2019-01-27T09:26:00.000Z
 category: Album reviews
 author: Seppe Van Ael
 ---

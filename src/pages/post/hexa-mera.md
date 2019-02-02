@@ -1,19 +1,20 @@
 ---
-id: 2150
 title: Hexa Mera
-category: Interviews
-band: Hexa Mera
-date: 2017-04-10T19:06:13+00:00
-author: Seppe Van Ael
-permalink: /news/interview-hexa-mera/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/17887662_10155985273773032_187117082_o.jpg
+date: 2017-04-10T19:06:13.000Z
+eventDate: 2019-02-02T08:31:03.082Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-hexa-mera/
 ---
 **Het Mechelse Hexa Mera kwam zopas aanzetten met hun nieuwe album 'Enlightenment'. Deze werd door de pers en ook door ons zeer goed onthaalt. De band is qua sound nog meer gegroeid als voorheen en ook met een nummer als 'Union' heeft de band het grotere publiek uitgebreid kunnen verrassen. Als kers op de taart speelt Hexa Mera dit jaar voor de tweede maal op Graspop. Meer is er niet nodig om deze band een aantal vragen te stellen.**
+
+
 **Hexa Mera is terug met een gloednieuw album ‘Enlightenment’. Vanwaar deze titel?**
 
 Als band hebben we altijd al een filosofische dimensie gehad. Wetenschap en filosofie zijn de fundamenten waarop onze muziek steunt. Ook wijzelf als individu’s hechten hier veel belang aan. We zijn allemaal atheïst, en bijgevolg zijn wetenschap en filosofie belangrijke _tools_ om ons bestaan te verklaren en te begrijpen. ‘Enlightenment’ staat voor de periode van de verlichting (18<sup>e</sup> eeuw). Dit was een historische sprong naar rationaliteit en logica waarbij de mensheid langzaam afstand begon te nemen van dogmatisch denken en religie als absolute macht. Naar onze mening is dit misschien  wel de belangrijkste (r)evolutie uit onze geschiedenis: het gaat allemaal over die nieuwe ‘vrijheid’ waardoor onze soort een enorme groei aan intellect en kennis teweeg heeft weten te brengen. Met onze nieuwe plaat ‘Enlightenment’ willen we de nood aan intellect en kennis in de hedendaagse maatschappij benadrukken, want we hebben allemaal datzelfde gevoel dat de wereld vandaag in uiterst slechte staat is. Het is alsof we langzaam weer vervallen in de duisternis en wij maken ons hier zorgen over. De grootste idioten kunnen politiek leider worden, religieuze radicalen terroriseren de planeet, de elite vult vooral eigen zakken en terwijl we onze eigen soort bestrijden met de ene oorlog na de andere, vervuilen we onze planeet zo hard dat de hele natuur uit balans geraakt. Goed bezig zijn we niet, en de grootste boosdoeners in onze ogen zijn selectief apathisme en onwetendheid. We gaan met deze plaat de directe confrontatie aan met dogma's, creationisme en al wat de mensheid en ons vrije denkt en ten onrechte beperkt. De indoctrinerende kracht van abrahamistische religies is exact waar we tegen vechten.
-  
+
 **Het lijkt erop dat het melodieuze aspect in de** **muziek veel meer ruimte heeft gekregen dan voorheen.**
 
 Jazeker, we hebben met deze plaat echt onze weg gevonden. We zijn als band enorm geëvolueerd naar een hardere, maar ook melodischere stijl van schrijven. Dat is een pad dat we bewandelen sinds de laatst geschreven tracks van Human Entropy: toen is gitarist Mathias ons komen vergezellen. Die lijn hebben we nu dus verder getrokken. Ook het feit dat veel blauwdrukken van de _tracks_ op ‘Enlightenment’ afkomstig zijn van Mathias tekent de melodieuze kant van onze muziek enorm.
@@ -54,8 +55,4 @@ Dat is een dodecahedron. Het concept ontstond tijdens een lange treinrit. We zoc
 
 We willen vooral nieuwe zieltjes winnen! Meer festivals en nieuwe horizons opzoeken. Het grote doel is om zoveel mogelijk bereik te hebben. De volgende stap? Gewoon blijven gaan en steeds met een glimlach achterom kijken!
 
-<blockquote data-secret="qWzW49IueO" class="wp-embedded-content">
-  <p>
-    <a href="http://www.rockxxl.com/album-review/review-hexa-mera-enlightenment/">review: Hexa Mera – Enlightenment</a>
-  </p>
-</blockquote>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dzlj3174aVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

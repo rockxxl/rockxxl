@@ -26,6 +26,7 @@ const Wrapper = styled.div.attrs(
         },
     },
 )`
+    width: 100%;
     position: relative;
     overflow: hidden;
     background-color: ${props => props.theme.color.gray[3]};
@@ -53,6 +54,12 @@ const Placeholder = styled.div.attrs(
     width: 100%;
     z-index: 1;
 `;
+
+export const getPublicId = input => input.replace(/(?:https:\/\/res.cloudinary.com\/.*\/image\/upload\/)(?:.*\/)?(.*)/, "$1");
+
+// https://res.cloudinary.com/rockxxl/image/upload/gmm18lineup1200x16972-5.jpg
+// https://res.cloudinary.com/rockxxl/image/upload/1761d2fe-aeec-4795-b090-8c8036dd53ad.jpg
+// https://res.cloudinary.com/rockxxl/image/upload/v1548589931/40576606_1843234992457191_6678925314967470080_n.jpg
 
 class ImageLazyLoader extends Component {
     constructor(props) {
@@ -107,7 +114,6 @@ class ImageLazyLoader extends Component {
         });
     }
 
-
     imageLoaded = () => {
         this.setState({
             isLoaded: true,
@@ -126,10 +132,7 @@ class ImageLazyLoader extends Component {
         const srcHasCloudinaryUrl = src.includes("https://res.cloudinary.com/");
 
         if (publicIdProp || srcHasCloudinaryUrl) {
-            const publicId = srcHasCloudinaryUrl
-                ? src.replace(/(?:https:\/\/res.cloudinary.com\/.*\/image\/upload\/)(.*)/, "$1")
-                : publicIdProp;
-
+            const publicId = getPublicId(src);
             const cldnrySrc = cldnry.core.url(publicId, { transformation: "responsive_placeholder" });
 
             this.setState({
@@ -151,13 +154,18 @@ class ImageLazyLoader extends Component {
     }
 
     render() {
-        const { isVisible, alt, aspectRatio } = this.props;
+        const {
+            isVisible, alt, aspectRatio, className,
+        } = this.props;
         const {
             isLoaded, src, srcSet, sizes,
         } = this.state;
 
         return (
-            <Wrapper aspectRatio={aspectRatio}>
+            <Wrapper
+                aspectRatio={aspectRatio}
+                className={className}
+            >
                 {isVisible && (
                     <Fragment>
                         <Image

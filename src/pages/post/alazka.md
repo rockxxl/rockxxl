@@ -1,13 +1,11 @@
 ---
-id: 4869
 title: Alazka
-category: Interviews
-band: Alazka
-date: 2018-05-14T18:44:19+00:00
-author: Seppe Van Ael
-permalink: /news/interview-alazka/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/30167387_1729463600472645_8376228245183222276_o.jpg
+date: 2018-05-14T18:44:19.000Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-alazka/
 ---
 **Het Duitse Alazka is op tour met Polaris en The Plot In You. Ze hielden halt in het Antwerpse Zappa. Na een naamsverandering timmert de band met hun tweede album 'Phoenix' een weg naar boven. Wij spraken met zanger Tobias over zijn nieuwe rol binnen de band,  het zware tourleven en hun toekomstplannen.**
 
@@ -49,3 +47,5 @@ Dit komt eigenlijk omdat we met drie bands zijn en we zitten eigenlijk met 24 op
 **Wat volgt er nu? Amerika?** 
 
 Misschien wel. We proberen om zo snel mogelijk naar Amerika te gaan. Het is veel moeilijker om het in Amerika te maken. Er komt zoveel meer bij kijken: Je moet de transportkosten betalen, de Visa’s in orde brengen,… We hebben een heel goede band met onze recordlabels Sharptone Records en Empire Records. Zij doen er alles aan om ons te helpen naar Amerika te gaan. We kennen zelf al wat bands in Amerika zoals We Came As Romans en Being As An Ocean. Dat zijn echt leuke mensen en ze worden snel vrienden als je zo lang op tour bent. Ik zou ooit nog op Rock Am Ring willen spelen. Dat staat zeker op mijn bucket list. We speelden ooit op Groezrock. Ik herinner me dat ik daar te veel Jupiler dronk. Daar willen we ook nog wel eens terug heen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hr0dssy23f4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

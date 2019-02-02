@@ -14,6 +14,8 @@ const aspectRatio = (category) => {
         return "4:3";
     case "live reviews":
         return "210:297";
+    case "shows":
+        return "210:297";
     default:
         return "1:1";
     }

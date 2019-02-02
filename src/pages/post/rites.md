@@ -1,15 +1,15 @@
 ---
-id: 3798
 title: Rites
-category: Interviews
-band: Rites
-date: 2018-01-08T18:54:21+00:00
-author: Seppe Van Ael
-permalink: /news/interview-rites/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26732566_10215439493568884_1558607338_o.jpg
+date: 2018-01-08T18:54:21.000Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-rites/
 ---
-**De Nederlandse hardcore punkband Rites bracht zopas hun alweer derde EP Misery Is Company uit. Net iets harder en net iets bozer als voorheen, al weet de band nog steeds veel aandacht te schenken aan melodie. Met steeds meer optredens in de buurlanden en geopend te hebben voor bands als o.a. H2o werd het tijd om eens wat vragen te stellen aan dit vijftal. Wij**** spraken met zangeres Louisa, drummer Rick en gitarist Nous.**
+**De Nederlandse hardcore punkband Rites bracht zopas hun alweer derde EP Misery Is Company uit. Net iets harder en net iets bozer als voorheen, al weet de band nog steeds veel aandacht te schenken aan melodie. Met steeds meer optredens in de buurlanden en geopend te hebben voor bands als o.a. H2o werd het tijd om eens wat vragen te stellen aan dit vijftal. Wij spraken met zangeres Louisa, drummer Rick en bassist Nous.**
+
+
 **Misery Is Company is jullie derde EP. Is het een doordachte keuze om steeds EP’s uit te brengen of is er een langspeler op komst?** 
 
 _Rick_: Ondanks dat ik het geweldig zou vinden om een full length uit te brengen ben ik van mening dat EP’s beter bij een band als Rites passen. Ik vind het fijn om ongeveer elk jaar een selectie van nummers op te nemen en uit te brengen. Op deze manier laat je ook de progressie van je band zien.
@@ -46,6 +46,6 @@ _Nous_: Ik denk dat dit misschien ook een logisch gegeven is voor waar we (bijna
 
 Ons ideale festival: The Distillers, Thrice, Milk Teeth, Paint It Black, Turnstile, American Nightmare, Gorilla Biscuits, Hot Water Music, Quicksand, Gnarwolves, Paint it Black, Modern Life Is War, Sunpower, Subhumans, Down By Law, Napalm Death en Rites.
 
-
-
 foto: Amanda Sturm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwP4pCQob9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

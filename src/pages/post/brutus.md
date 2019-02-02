@@ -68,3 +68,5 @@ _Stefanie_: Maakt niet uit, het publiek mag doen wat ze voelen.
 _Peter_: Dat is wel een goede vraag want wij hebben vaak wel een kijkpubliek vind ik persoonlijk. Ik weet ook niet of onze muziek het toelaat om echt te moshen of te circlepitten. Soms staan de mensen gewoon te luisteren en dat mag natuurlijk ook.
 
 _Stijn_: Het is altijd wel interessant om te zien dat er mensen vanvoor afwachtend aan het kijken zijn en dan achteraf toch naar de merch komen om dan te zeggen dat ze het super vonden. Wat ze ook doen, als ze het maar plezant vinden en zich amuseren.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DubhuBJiIPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

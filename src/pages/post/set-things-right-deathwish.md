@@ -1,14 +1,11 @@
 ---
-id: 1479
 title: Set Things Right - Deathwish
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1548593747/download.jpg'
+date: 2017-02-12T11:08:47.000Z
 category: Album reviews
-groups: Set Things Right
-album: Deathwish
-date: 2017-02-12T11:08:47+00:00
 author: Seppe Van Ael
+album: Deathwish
 permalink: /album-review/review-set-things-right-deathwish/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/SetThingsRight-Deathwish.png
 ---
 Wie de Belgische hard- & metalcorescene een beetje kent, heeft sowieso al van Set Things Right gehoord. Na hun vorige album ‘This Is Hope’ uit 2014 stonden deze heren zowel op het podium van Graspop als het podium van Groezrock. Enkele weken terug kregen we bij RockXXL hun allernieuwste werk in de bus: DEATHWISH!
 

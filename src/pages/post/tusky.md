@@ -1,13 +1,10 @@
 ---
-id: 5277
 title: Tusky
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/Tusky_2018_1.jpeg'
+date: 2018-07-04T20:04:24.000Z
 category: Interviews
-band: Tusky
-date: 2018-07-04T20:04:24+00:00
 author: Seppe Van Ael
 permalink: /news/interview-tusky/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/Tusky_2018_1.jpeg
 ---
 **Begin vorig jaar zag Tusky het levenslicht. Tusky is een Nederlandse punkrock band die door velen gekend is omdat Chris en Afred van John Coffey deel uit maken van de band. Wij gingen met dit viertal rond de tafel zitten op het gezellige Jera On Air, waar Tusky een knaller van een show neerzette. Zanger en gitarist Alfred voerde het woord.** 
 
@@ -44,3 +41,5 @@ Alleen maar lol! (lacht) De heren van Black Peaks kennen we eigenlijk al van onz
 **Zijn jullie dan niet bang voor het muzikale verschil?**
 
 Het zal ons een worst wezen! (lacht). The Prestige, een Franse band, gaat ook mee en die ligt wat meer in ons straatje. Er zijn niet zo heel veel zure hardcore lui die onze muziek niet leuk vinden eigenlijk. Ze weten dat we allemaal al hardere dingen hebben gedaan in het verleden. We maken nu vrolijke punkrock en veel mensen vinden dat wel echt leuk. Het is ook heel energiek en je kan er volledig op losgaan.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBu_CcknmPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

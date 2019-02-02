@@ -1,13 +1,10 @@
 ---
-id: 4029
 title: Gloryhammer
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/gloru.jpg'
+date: 2018-01-28T16:11:50.000Z
 category: Interviews
-band: Gloryhammer
-date: 2018-01-28T16:11:50+00:00
 author: Seppe Van Ael
 permalink: /news/interview-gloryhammer/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/gloru.jpg
 ---
 **Voor diegenen die niet bekend zijn met het begrip Gloryhammer: Gloryhammer is de power metal band van Christopher Bowes, die ook zanger is bij Alestorm, met als thema ‘fantasie’. RockXXL ging tijdens hun passage samenzitten met dit zootje ongeregeld in de Biebob in Vosselaar. Christopher was er dit keer spijtig genoeg niet bij, maar wij spraken met bassist James (The Hootsman) en de tijdelijke vervanger van Christopher: Mike (the evil wizard Zargothrax).** 
 
@@ -34,8 +31,8 @@ _James:_ Ja, elke show krijgen we wel een stoffen eenhoorn of dergelijke. Ik ben
 **Zargothrax is van gezicht veranderd. Wat voor magie is dat?**
 
 _James:_ Christopher heeft net zijn tour doorheen Engeland gedaan met Alestorm en is nu terug in Amerika. Hij zit in twee relatief bekende bands en het is dus niet altijd evident om al onze shows mee te doen. Voor hij naar Amerika verhuisde hebben ik en Christopher lang samen in een flat gewoond.  We hebben dan samen beslist dat als er iemand niet kan spelen, we gewoon een vervanger zoeken voor een tour. Alestorm is geen gewone hobby meer en dat maakt het dus alleen maar moeilijker voor Gloryhammer. We houden van wat we doen en de show must go on. Mike is dan voor hem ingevallen en dat heeft geen slechte invloed op onze show, integendeel.
-  
-Mike lijkt ook wel heel erg op Christopher.**
+
+Mike lijkt ook wel heel erg op Christopher.\*\*
 
 _Mike_: Met mijn vorige band speelden we samen met Alestorm op een festival in Duitsland. Christopher en ik stonden samen wat te praten en mensen dachten dat we een tweeling waren. In Zwitserland boden ze me bier aan omdat mensen dachten dat ik in Alestorm speelde. De beste reactie was er vorig jaar toen Alestorm hun album aan het opnemen was in Florida vroegen ze aan mij hoe de opnames verliepen (lacht).
 
@@ -46,3 +43,5 @@ _James:_ Ja, elke keer hetzelfde. Ik heb Zargothrax gisteren ook weer onder zijn
 **Wat zouden jullie vinden van een Gloryhammer gezelschapsspel of film? ** 
 
 _James:_ Ik zou heel graag een geanimeerde Gloryhammer film zien met een album als soundtrack. We krijgen vaak tekeningen toegestuurd van professionele artiesten die een strip willen maken. Natuurlijk willen wij dat, maar je hoort er achteraf niet veel meer van omdat ze ervoor betaald willen worden. Ook kregen we al voorstellen voor een logboek van Dungeons And Dragons. Supertof dat mensen dit willen doen, maar we focussen ons momenteel op onze muziek en daar gaan dan ook al onze centen heen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YGV6bCTMM5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

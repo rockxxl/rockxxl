@@ -1,14 +1,12 @@
 ---
-id: 3806
 title: Jeff Rosenstock - Post-
-category: Album reviews
-groups: Jeff Rosenstock
-album: Post-
-date: 2018-01-10T20:03:33+00:00
-author: Seppe Van Ael
-permalink: /album-review/review-jeff-rosenstock-post/
 thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/Jeff-Rosenstock-POST-1515513538-640x640.jpg
+  https://res.cloudinary.com/rockxxl/image/upload/v1548594065/Jeff-Rosenstock-POST-1515513538-640x640.jpg
+date: 2018-01-10T20:03:33.000Z
+category: Album reviews
+author: Seppe Van Ael
+album: Post-
+permalink: /album-review/review-jeff-rosenstock-post/
 ---
 Post- is het alweer derde album van Jeff Rosenstock.  Deze werd out of the blue beschikbaar gesteld op nieuwjaarsdag op bandcamp en je kon zelf de prijs van je download bepalen. Als dat geen nieuwjaarcadeau is! Er zijn een hele hoop verschillen met zijn vorige albums, maar geen nood! Jeff is z’n eigen chaotische maar sympathieke zelf gebleven.
 

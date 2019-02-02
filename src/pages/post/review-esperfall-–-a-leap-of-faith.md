@@ -1,8 +1,8 @@
 ---
-title: 'review: Esperfall – A Leap Of Faith'
+title: Esperfall - A Leap Of Faith
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1547670551/37585960_1080549225427649_7291595892866416640_n_1.jpg
-date: '16 Jan 192019, 22:04'
+date: 2019-01-27T09:04:00.000Z
 category: Album reviews
 author: Yannick Van de Wouwer
 ---

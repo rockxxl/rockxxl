@@ -1,15 +1,16 @@
 ---
-id: 2304
 title: If I May
-category: Interviews
-band: If I May
-date: 2017-05-02T08:59:48+00:00
-author: Seppe Van Ael
-permalink: /news/interview-if-i-may/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18260865_10213325976681794_1644302700_o.jpg
+date: 2017-05-02T08:59:48.000Z
+eventDate: 2019-02-02T08:29:14.892Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-if-i-may/
 ---
 **De Oost-Vlaamse post-hardcoreband If I May bracht pas hun tweede EP 'No Man's Land' uit. If I May is vaak de vreemde eend in de bijt maar tegelijkertijd weten mensen de iets alternatievere factor toch zeer te smaken. Wij gingen praten met zanger Linz en bassist Joren en kwamen beter te weten hoe de muziek van dit vijftal nu eenmaal in elkaar zit.**
+
+
 **Licht eens even jullie albumtitel ‘No Man’s Land’ toe.**
 
 _Linz:_ Dit vat zowat het hele album samen. We leven in een wereld waar mensen in angst leven, maar waar dezelfde mensen alles vernietigen dat we hebben opgebouwd. Als we zo blijven doorgaan; racisme, discriminatie, geen liefde, verdeeld door ons geloof en kleur, … dan is er niets meer om voor te leven.Terwijl we proberen om onze kop boven water te houden, moeten we opkomen voor onszelf en voor anderen. Oorlog is een eindeloze weg, vrede is het antwoord, or it won’t take long ‘til we all live in .. ‘No Man’s Land’.
@@ -57,5 +58,7 @@ _Joren:_ Waarschijnlijk wel. De eerste nummers hiervan zijn momenteel in pre-pro
 _Linz:_ Er zit een constante groei in onze muziek en dat merk je ongetwijfeld aan onze EP’s. We zijn heel fier op die nummers, maar nu heb ik het gevoel dat we echt naar het volgende album aan het toewerken zijn, met meer ervaring. Ook vooral met onze nieuwe rhythm gitarist Robin. Hij is zeker een meerwaarde voor onze band en ik kan mij meer focussen op de vocals, met als gevolg dat onze muziek technischer zal zijn en voller zal klinken.
 
 **Om af te sluiten. Hoe staan jullie tegenover de Belgische rock, punk, metal, hardcore scene?**
-  
+
 _Linz:_ Het is zeker niet gemakkelijk in de Belgische scene, maar het is wel een gezellige waar iedereen elkaar kent. Er zijn heel wat mensen die hun uiterste best doen om de scene de aandacht te geven die ze verdient en dat apprecieer ik enorm; ik denk dan maar aan RockXXL, Heartbreaktunes,…
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ujHj0whnQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

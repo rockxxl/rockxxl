@@ -1,5 +1,6 @@
 const theme = require("./src/theme.js");
 const pkg = require("./package.json");
+const algolia = require("./src/gatsby/algolia.js");
 
 require("dotenv").config();
 
@@ -8,6 +9,16 @@ module.exports = {
         siteUrl: process.env.GATSBY_APP_URL,
     },
     plugins: [
+        {
+            resolve: "gatsby-plugin-polyfill-io",
+            options: {
+                flags: "gated",
+                features: [
+                    "default",
+                    "IntersectionObserver",
+                ],
+            },
+        },
         {
             resolve: "gatsby-plugin-sentry",
             options: {
@@ -97,5 +108,15 @@ module.exports = {
             options: { files: ["./src/**/*.js"] },
         },
         "gatsby-plugin-sitemap",
+        {
+            resolve: "gatsby-plugin-algolia",
+            options: {
+                appId: process.env.GATSBY_ALGOLIA_APP_ID,
+                apiKey: process.env.ALGOLIA_INDEX_API_KEY,
+                indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
+                queries: algolia,
+                chunkSize: 10000,
+            },
+        },
     ],
 };

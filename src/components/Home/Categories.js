@@ -11,7 +11,8 @@ const Categories = styled.div`
     ${pb(12)}
     grid-template-columns: 1fr;
     ${breakpoint("sm")` grid-template-columns: 1fr 1fr; `}
-    ${breakpoint("lg")` grid-template-columns: 1fr 1fr 1fr 1fr; `}
+    ${breakpoint("md")` grid-template-columns: 1fr 1fr 1fr; `}
+    ${breakpoint("lg")` grid-template-columns: 1fr 1fr 1fr 1fr 1fr; `}
 `;
 
 export default () => (
@@ -43,6 +44,7 @@ export default () => (
                                 thumbnail
                                 groups
                                 album
+                                externalUrl
                             }
                         }
                     }

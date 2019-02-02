@@ -1,13 +1,10 @@
 ---
-id: 5344
 title: Descendents
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/65-og.jpg'
+date: 2018-07-22T09:43:12.000Z
 category: Interviews
-band: Descendents
-date: 2018-07-22T09:43:12+00:00
 author: Seppe Van Ael
 permalink: /news/interview-descendents/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/65-og.jpg
 ---
 **De Amerikaanse punkrockband Descendents bestaat ondertussen al weer 40 jaar en wordt door velen gezien als de grondlegger van de pop punk. In 2016 kwam hun eerste album in 12 jaar ‘Hypercaffium Spazzinate’ uit. Op Sjock Festival ontmoette wij zanger Milo voor een gesprek en iets later nam ook drummer Bill deel.**
 
@@ -46,3 +43,5 @@ Elke keer als we terugkomen van een pauze is die schrik er wel. We hadden persoo
 **Jullie hebben met Descendents al heel wat bereikt. Zijn er echter nog dingen die jullie nog niet hebben gedaan, die jullie nog willen doen?**
 
 We willen nog op heel wat plaatsen spelen waar we nog nooit zijn geweest. China bijvoorbeeld. Vele bands en ook jongere bands touren wereldwijd. We hebben nog nooit gespeeld in Afrika, het midden oosten, India,… We zijn echter wel plannen aan het maken voor volgend jaar. Hopelijk kunnen we in wat meer landen gaan spelen dan. Karl en Stephen hadden ook nog het idee om een improvisatie album te maken. We zouden dan met vier de studio inkruipen, een riff maken, en alle vier daarop improviseren. Geen idee of dit mogelijk is of het er ooit van komt, maar er is wel zin in de band om wat te experimenteren.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlA3HrmnNGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,15 +1,12 @@
 ---
-id: 3227
 title: This Means War
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/this-meansss.jpg'
+date: 2017-10-29T12:45:00.000Z
 category: Interviews
-band: This Means War
-date: 2017-10-29T12:45:00+00:00
 author: Seppe Van Ael
 permalink: /news/interview-this-means-war/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/this-meansss.jpg
 ---
-**De Oostmalse hardcore punk band Convict** **rond de broers Bert en Dries Van Dijck stopte** **er** **onlangs voor een tweede keer mee****. Ditmaal na hun tour met niemand minder dan Agnostic Front. Niet veel later kondigde dit duo hun nieuwe band aan: This Means War. Ondertussen b****racht This Means War een plaat uit op Pirate Press Records in Amerika en staan er een hele hoop interessante shows op deze heren te wachten. Tijd om eens aan tafel te zitten met zanger Bert Van Dijck.**
+**De Oostmalse hardcore punk band Convict** **rond de broers Bert en Dries Van Dijck stopte** **er** **onlangs voor een tweede keer mee\*\***. Ditmaal na hun tour met niemand minder dan Agnostic Front. Niet veel later kondigde dit duo hun nieuwe band aan: This Means War. Ondertussen b***\*racht This Means War een plaat uit op Pirate Press Records in Amerika en staan er een hele hoop interessante shows op deze heren te wachten. Tijd om eens aan tafel te zitten met zanger Bert Van Dijck.**
 
 **Je vorige band Convict bracht na vijf jaar terug een plaat uit, jullie tourden met niemand minder dan Agnostic Front,… en plots stopt het hele Convict verhaal. Bijna meteen daarna begon je This Means War. Waarom deze onverwachte koerswisseling?** 
 
@@ -46,3 +43,5 @@ Elke zichzelf-respecterende punkrocker moet gewoon erkennen dat The Clash één 
 **Worden er al plannen gemaakt voor een volgende release?** 
 
 Reken maar van yes! De EP is sinds eind augustus uit, maar eigenlijk zijn de songs die er op staan al bijna weer een jaar oud. We gaan nu met This Means War eerst de baan op en heel wat leuke shows doen. In januari starten we met de pre-productie voor onze eerste full length. Als onze lieven heer het ziet zitten, dan hopen we in oktober te knallen. Maar eerst maar even alle remmen los op het podium.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ItJQLmF97lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

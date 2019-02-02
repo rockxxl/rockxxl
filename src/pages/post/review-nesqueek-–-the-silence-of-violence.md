@@ -1,7 +1,7 @@
 ---
-title: 'review: Nesqueek – The Silence Of Violence'
+title: Nesqueek - The Silence Of Violence
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547670557/nesuik.jpg'
-date: '16 Jan 192019, 22:23'
+date: 2019-01-27T09:23:00.000Z
 category: Album reviews
 author: Seppe Van Ael
 ---

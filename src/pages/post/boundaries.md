@@ -1,13 +1,11 @@
 ---
-id: 4523
 title: Boundaries
-category: Interviews
-band: Boundaries
-date: 2018-03-24T11:24:03+00:00
-author: Seppe Van Ael
-permalink: /news/interview-boundaries/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/26172407_1767226799963898_2551281455828945907_o.jpg
+date: 2018-03-24T11:24:03.000Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-boundaries/
 ---
 **Wij hadden nog niet gehoord van het Canadese Boundaries voor dat ze op de affiche van de ‘You’re Part Of This Tour’ verschenen. Een eerste tour doen met bands als Deez Nuts en Trash Talk is een kans die niet voor elke band is weggelegd. Met hun eerste plaat ‘Quarter Life Crisis’ hebben ze ons alvast kunnen overtuigen. Wij spraken in de Muziekodroom in Hasselt, tot onze grote vreugde, met de volledige band. Het lijkt erop dat een nieuwe band zich aanmeldt in de hardcore scene.**
 
@@ -50,3 +48,5 @@ Niet op het gebied van songwriting, maar zeker wel op het gebied van structuren.
 **Jullie maakten een spotify playlist vol met Canadese bands: Boundaries & Friends. Samen met een aantal posts op jullie sociale media lijkt het er op dat jullie wel erg trots zijn op de Canadese hardcore scene.**
 
 Zeker, dat is natuurlijk hoe we gestart zijn. De laatste twee jaar is de scene ook zeer levendig. De bands in de playlist zijn allemaal vrienden die naar onze mening goede muziek maken, dus waarom niet delen met meer mensen. De reden dat we hier zijn heeft er ook grotendeels mee te maken dat Get The Shot vorige keer op deze tour speelde. Ze zijn van dezelfde stad, maken dezelfde muziek,… Dat deed onze ogen opengaan dat het mogelijk is om dingen als dit te doen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aysr_nO3_H4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

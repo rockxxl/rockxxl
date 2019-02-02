@@ -1,9 +1,10 @@
 ---
-title: 'review: The Sick Boys - Bad To The Bone'
+title: The Sick Boys - Bad To The Bone
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1547670553/ALBUM_COVER.jpg'
-date: '16 Jan 192019, 21:56'
+date: 2019-01-28T20:56:00.000Z
 category: Album reviews
 author: Seppe Van Ael
+externalUrl: ''
 ---
 The Sick Boys bestaan ondertussen vijf jaar. Al redelijk snel kwam deze punkband aanzetten met een eerste EP en ook een nieuw gezicht aan het front werd niet lang na het ontstaan van de band aangekondigd. Het was echter wel even wachten op een nieuw album, maar hier is hij dan: 'Bad To The Bone', de debuutplaat van de Kempische punkband The Sick Boys. 
 

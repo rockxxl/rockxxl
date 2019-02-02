@@ -1,13 +1,10 @@
 ---
-id: 3306
 title: Walls Of Sorrow
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/wos-eter.jpg'
+date: 2017-11-09T20:31:32.000Z
 category: Interviews
-band: Walls Of Sorrow
-date: 2017-11-09T20:31:32+00:00
 author: Seppe Van Ael
 permalink: /news/interview-walls-of-sorrow/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/wos-eter.jpg
 ---
 **De Kempische hardcore band Walls Of Sorrow hield er begin dit jaar mee op. Na een knaller van een afscheidsshow werd een klein jaar later een comeback show aangekondigd, met jawel, een nieuwe zanger. Dit vijftal is nog niet aan hun laatste adem toe, zoveel is zeker. Wij gingen aan tafel met gitarist en oprichter Sven om te praten over hoe het nu gesteld staat met Walls Of Sorrow en wat we nog mogen verwachten de komende maanden.**
 
@@ -38,3 +35,5 @@ Er zijn enorm veel goede Belgische bands in de hardcorescene die spijtig genoeg 
 **Is er al sprake van een volgende plaat?**
 
 Daar zijn we nu volop aan bezig. Binnen enkele maanden gaan we de studio in. Eén ding is zeker: Walls Of Sorrow is terug!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gVhAb3y6co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

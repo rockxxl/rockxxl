@@ -1,13 +1,10 @@
 ---
-id: 5280
 title: Neck Deep
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/Neck_Deep_Hysteria.jpg'
+date: 2018-07-02T11:29:10.000Z
 category: Interviews
-band: Neck Deep
-date: 2018-07-02T11:29:10+00:00
 author: Seppe Van Ael
 permalink: /news/interview-neck-deep/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/Neck_Deep_Hysteria.jpg
 ---
 **De pop punk sensatie van het moment is zonder twijfel het Engelse Neck Deep. Met hun nieuwe album ‘The Peace And The Panic’ ging de band de serieuzere tour op, waarmee ze heel wat hartjes wisten te veroveren. Wij zaten op Jera On Air samen met Neck Deep zanger Ben Barlow en bassist Fil Thorpe-Evan om hen wat vragen te stellen.**
 
@@ -38,3 +35,5 @@ Het zal in elk geval nog zeker een jaar duren. We zijn nog niet begonnen met sch
 **Is het niet verschrikkelijk moeilijk om steeds, in een relatief korte tijd, een heel album te schrijven?**
 
 Absoluut! Veel keuze heb je echter niet als band. Met elk album hebben we wel eens het gevoel dat we niet genoeg nummers hebben of dat ze niet goed genoeg zijn,… Hoe dan ook komt alles in de laatste minuut toch samen. Het is een job en die moet je gewoon gedaan krijgen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RPzf_4dcL28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,13 +1,11 @@
 ---
-id: 2406
 title: Casey
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/C_d-oI3XoAEDfaH.jpg'
+date: 2017-05-17T13:44:14.000Z
+eventDate: 2019-02-02T08:26:47.531Z
 category: Interviews
-band: Casey
-date: 2017-05-17T13:44:14+00:00
 author: Seppe Van Ael
 permalink: /news/interview-casey/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/C_d-oI3XoAEDfaH.jpg
 ---
 **Op 18 april gingen we praten met Tom van Casey op de Heaven and Hell tour in Antwerpen. We spraken met hem over hun evolutie als band en het tourleven.**
 
@@ -43,4 +41,4 @@ Ze zijn moeilijk om te vergelijken met elkaar, omdat ze niet over hetzelfde onde
 
 Tot hiertoe nog niet, omdat we met dat strakke schema zitten, we slapen op de bus en we onder andere het Impericon Festival gespeeld hebben. We moeten praktisch altijd om 9:00 ’s morgens aan de zaal zijn, en meestal spenderen we er dan ook onze hele dag. Het is dus moeilijk om ver weg te zijn van de zaal, maar de komende dagen hebben we misschien wat meer tijd om rond te kijken.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBeAYgZDkyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

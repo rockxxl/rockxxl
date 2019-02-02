@@ -1,13 +1,10 @@
 ---
-id: 5269
 title: Knocked Loose
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/kockedloose_4x3.jpg'
+date: 2018-06-25T08:54:40.000Z
 category: Interviews
-band: Knocked Loose
-date: 2018-06-25T08:54:40+00:00
 author: Seppe Van Ael
 permalink: /news/interview-knocked-loose/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/kockedloose_4x3.jpg
 ---
 **Eén van de meest opkomende hardcore bands van het moment is zonder twijfel het Amerikaanse Knocked Loose. Met hun eerste full-album ‘Laugh Tracks’ kreeg de band heel wat mooie kansen voorgeschoteld, zo ook Graspop Metal Meeting. Hier zaten wij dan ook samen Knocked Loose zanger Bryan Garris en stelden hem enkele vragen.**
 
@@ -34,3 +31,5 @@ Terror is erg groot in Europa, maar in Amerika hebben ze hun pluimen al wat meer
 **Ik las dat je schrik hebt wanneer je niet op teksten kan komen. Vanwaar komt die angst?**
 
 Klopt, iedereen die teksten schrijft heeft wel eens last van een schrijversblok. Ik weet niet vanwaar die komt, maar ik betrap mezelf elke keer weer op die angst. Ik zal echter nooit teksten schijven die ik niet meen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lei58UXZzUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

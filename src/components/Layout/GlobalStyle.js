@@ -2,11 +2,11 @@ import { createGlobalStyle } from "styled-components";
 import { mb, pl } from "styled-components-spacing";
 
 export default createGlobalStyle`
-    @import url("${props => props.theme.font.family.import}");
+    @import url("${({ theme }) => theme.font.import}");
 
     html {
         box-sizing: border-box;
-        font-size: ${props => props.theme.font.size.default}px;
+        font-size: ${({ theme }) => theme.font.size.default}px;
     }
 
     *,
@@ -16,12 +16,12 @@ export default createGlobalStyle`
     }
 
     body {
-        font-family: ${props => props.theme.font.family.default};
-        font-size: ${props => props.theme.font.size.md}rem;
+        font-family: ${({ theme }) => theme.font.family.default};
+        font-size: ${({ theme }) => theme.font.size.md}rem;
         letter-spacing: -.5px;
-        line-height: ${props => props.theme.leading.normal};
-        color: ${props => props.theme.color.text};
-        background-color: ${props => props.theme.color.body};
+        line-height: ${({ theme }) => theme.leading.normal};
+        color: ${({ theme }) => theme.color.text};
+        background-color: ${({ theme }) => theme.color.body};
         overflow-x: hidden;
     }
 
@@ -31,24 +31,24 @@ export default createGlobalStyle`
     h4,
     h5,
     h6 {
-        color: ${props => props.theme.color.headings};
+        color: ${({ theme }) => theme.color.headings};
         margin: 1.5rem 0;
     }
 
     h1,
     h2,
     h3 {
-        font-family: ${props => props.theme.font.family.headings};
+        font-family: ${({ theme }) => theme.font.family.headings};
         letter-spacing: 0;
-        font-weight: ${props => props.theme.font.weight.headings};
-        line-height: ${props => props.theme.leading.none};
+        font-weight: ${({ theme }) => theme.font.weight.headings};
+        line-height: ${({ theme }) => theme.leading.none};
     }
 
-    h1 { font-size: ${props => props.theme.font.size.xxxxl}rem; }
-    h2 { font-size: ${props => props.theme.font.size.xxxl}rem; }
-    h3 { font-size: ${props => props.theme.font.size.xxl}rem; }
-    h4 { font-size: ${props => props.theme.font.size.xl}rem; }
-    h5 { font-size: ${props => props.theme.font.size.lg}rem; }
+    h1 { font-size: ${({ theme }) => theme.font.size.xxxxl}rem; }
+    h2 { font-size: ${({ theme }) => theme.font.size.xxxl}rem; }
+    h3 { font-size: ${({ theme }) => theme.font.size.xxl}rem; }
+    h4 { font-size: ${({ theme }) => theme.font.size.xl}rem; }
+    h5 { font-size: ${({ theme }) => theme.font.size.lg}rem; }
 
     figure {
         padding: 0;
@@ -65,13 +65,13 @@ export default createGlobalStyle`
     }
 
     a {
-        color: ${props => props.theme.color.primary[5]};
+        color: ${({ theme }) => theme.color.primary[5]};
         text-decoration: underline;
 
         &:hover,
         &:focus,
         &:active {
-            color: ${props => props.theme.color.primary[5]};
+            color: ${({ theme }) => theme.color.primary[5]};
         }
     }
 

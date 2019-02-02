@@ -1,15 +1,12 @@
 ---
-id: 5416
 title: Chalice
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/chalice.jpg'
+date: 2018-08-16T08:13:06.000Z
 category: Interviews
-band: Chalice
-date: 2018-08-16T08:13:06+00:00
 author: Seppe Van Ael
 permalink: /news/interview-chalice/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/chalice.jpg
 ---
-** ****Al twintig jaar timmert het Kortrijkse Chalice naar een weg door de Belgische metal scene. Dit ging echter niet altijd van een leien dakje. Leden kwamen en gingen, wat zich natuurlijk uit in heel wat vertraging. Ondertussen is de band weer helemaal terug van nooit weggeweest met een nieuwe plaat: ‘Ashes Of Hope’. Wij gingen aan tafel zitten met bassist Chris Lagrange en leerde de binnenkant van de band wat beter kennen.** 
+**Al twintig jaar timmert het Kortrijkse Chalice naar een weg door de Belgische metal scene. Dit ging echter niet altijd van een leien dakje. Leden kwamen en gingen, wat zich natuurlijk uit in heel wat vertraging. Ondertussen is de band weer helemaal terug van nooit weggeweest met een nieuwe plaat: ‘Ashes Of Hope’. Wij gingen aan tafel zitten met bassist Chris Lagrange en leerde de binnenkant van de band wat beter kennen.**
 
 **Chalice bestaat dit jaar twintig jaar. Hebben jullie dit gevierd?**
 
@@ -42,3 +39,5 @@ De meeste reviews zijn lovend, daar zijn we dus blij mee. We krijgen goede kriti
 **Nummers zoals ‘Musings on the Bank’ zijn iets meer black metal getint. Staan jullie open voor alle extreme genres of is het toch de death metal waarmee jullie steeds opnieuw mee aan de gang gaan?** 
 
 Het schrijven van nieuwe songs is bij ons een groepsgebeuren. Dat betekent dat ieder bandlid, bewust of onbewust, zijn eigen muzikaal referentiekader mee brengt. Dit speelt een rol in de beslissingen die we nemen rond riffs, tempo’s, sfeer en arrangementen. Er is een grote deelverzameling van bands of genres waar we alle vijf naar luisteren, maar evenzeer is er daar een verscheidenheid en deze zorgt ervoor dat verschillende genres van (extreme) metal in onze muziek sluipen. Dat houdt het interessant voor ons om te spelen en de diversiteit wordt ook door de meeste metal fans gesmaakt.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB8IHTBtVeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

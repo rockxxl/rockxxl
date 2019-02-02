@@ -1,15 +1,15 @@
 ---
-id: 2416
 title: The Yalla Yallas
-category: Interviews
-band: The Yalla Yallas
-date: 2017-05-18T12:56:49+00:00
-author: Seppe Van Ael
-permalink: /news/interview-the-yalla-yallas/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/18491424_1846964091984156_2060356962502361504_o.jpg
+date: 2017-05-18T12:56:49.000Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-the-yalla-yallas/
 ---
 **De Engelse punkband The Yalla Yallas komt binnenkort aanzetten met hun nieuwe album 'Medusa'. Na een aantal jaar stilte en een aantal tours door de lage landen gingen wij praten met frontman Rob Galloway.**
+
+
 **Het eerste The Yalla Yallas album kwam uit in 2009, het tweede in 2010. Hoe komt het dat er nu zeven jaar gewacht werd voor een nieuw album?**
 
 De twee albums werden inderdaad heel dicht op elkaar uitgebracht. We namen de eerste op en als deze klaar was kregen we bijna meteen de kans om een tweede op te nemen. We wilden wat meer tijd maar dat voorstel konden we natuurlijk ook niet weigeren. Het derde album was al bijna helemaal geschreven toen de band werd gesplit in 2011. 'I Want To Be Loved' 'Co-Exist', en 'County Court' waren hier een aantal songs van. We kwamen terug bij elkaar in 2014 maar waren wel op zoek naar een nieuwe drummer. Twee jaar hebben we gespendeerd aan het live spelen van de nieuwe nummers. Op het einde van 2016 was de tijd daar om het album wel degelijk op te nemen.
@@ -48,3 +48,5 @@ Ja, we houden van kaassoufles. Ik ben niet zeker hoe de Engelse fans zullen reag
 **Je hebt de laatste tijd veel getourd in België en Nederland. Wat vind je zo leuk aan deze landen en ken je al Nederlandse woorden (buiten kaassouffle)?**
 
 Wat ik het leukste vindt aan België en Nederland zijn de mensen. Ook het bier is niet mis. Het voelt als thuis. Ik heb ondertussen ook al een hele hoop vrienden daar. Ik hou er ook van om ze te bezoeken ook al ben ik niet aan het touren. Misschien heb ik er ooit wel een vriendin, misschien een job en misschien zelfs een huis. Mijn Nederlands wordt met de dan beter. Ik kan tot 20 tellen, eten en drinken bestellen, en ik probeer ook de kranten en magazines te verstaan.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-VSqKLIpOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
