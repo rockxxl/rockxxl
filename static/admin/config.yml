@@ -61,9 +61,6 @@ collections:
       - name: date
         label: Publish date
         widget: datetime
-      - name: eventDate
-        label: Date event
-        widget: datetime
       - name: category
         label: Category
         widget: relation

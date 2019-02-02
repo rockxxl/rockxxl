@@ -3,9 +3,7 @@ import { Link as GatsbyLink } from "gatsby";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import styled from "styled-components";
 import breakpoint from "styled-components-breakpoint";
-import { p, my, mt } from "styled-components-spacing";
-import { format } from "date-fns";
-import nlDateFnsLocale from "date-fns/locale/nl";
+import { p, my } from "styled-components-spacing";
 import Image from "../Image";
 
 const Link = ({
@@ -88,16 +86,6 @@ const Title = ({ title }) => {
     );
 };
 
-const Subtitle = styled.div`
-    color: ${props => props.theme.color.body};
-    font-size: ${props => props.theme.font.size.sm}rem;
-    ${my(0)}
-    ${mt(1)}
-    ${breakpoint("sm")`
-        font-size: ${({ large, theme }) => (large ? `${theme.font.size.lg}rem` : `${theme.font.size.sm}rem`)};
-    `}
-`;
-
 export default ({
     node: {
         fields: { slug },
@@ -105,7 +93,6 @@ export default ({
             title,
             thumbnail,
             externalUrl,
-            eventDate,
         },
     },
     aspectRatio,
@@ -127,7 +114,6 @@ export default ({
                 <Heading large={large}>
                     <Title title={title} />
                 </Heading>
-                {eventDate && <Subtitle>{`${format(eventDate, "D MMM YYYY", { locale: nlDateFnsLocale })}`}</Subtitle>}
             </Content>
         </StyledLink>
     </article>

@@ -92,7 +92,6 @@ export const pageQuery = graphql`
                         permalink
                         band
                         date
-                        eventDate
                         thumbnail
                         groups
                         album
