@@ -1,15 +1,16 @@
 ---
-id: 4866
 title: Insanity Alert
-category: Interviews
-band: Insanity Alert
-date: 2018-05-10T16:16:35+00:00
-author: Seppe Van Ael
-permalink: /news/interview-insanity-alert/
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/9fc8bbcc-19e9-45f0-a315-8af049e2774f.jpg
+date: 2018-05-10T16:16:35.000Z
+eventDate: 2019-02-02T08:08:33.533Z
+category: Interviews
+author: Seppe Van Ael
+permalink: /news/interview-insanity-alert/
 ---
 **Thrash metal band Insanity Alert stond onlangs nog op Hellfest en nam deel aan de Persistance Tour met bands als Hatebreed en Terror. Wij gingen rond tafel zitten met zanger Kevin Stout en stelde hem wat vragen over hun album 'Moshburger' en het derde album dat er binnenkort aankomt.**
+
+
 **Jullie recentste album heet ‘Moshburger’. Wat is een moshburger en waar komt deze vandaan?** 
 
 Als we op tour zijn schrijf ik in de bus vaak dingen op waar ik aan denk. Vaak ben ik dan ook stoned (lacht). Als ik de dag erna terug kijk naar wat ik heb opgeschreven denk ik wel vaak ‘what the fuck’, maar deze vonden we zo grappig dat we het wilde gebruiken voor de artwork. We hebben het idee dan doorgestuurd naar de tekenaar van Municipal Waste. Die heeft uiteindelijk iets helemaal anders bedacht dan wij in ons hoofd hadden, maar de artwork was zo goed dat we het gewoon hebben gehouden.
@@ -23,7 +24,7 @@ We wilden een soort cover als ‘Dookie’ van Green Day waar veel op te zien is
 Half en half. Je ziet wel dat het een Amerikaan is die het gemaakt heeft. Er zitten bijna alleen maar Amerikaanse jaren tachtig popcultuur dingen in. Ik ben zelf ook van de jaren tachtig en deze dingen ken ik natuurlijk zelf ook wel, maar er zit niet veel Europees in. We hadden zelf wat gebrainstormd en daar een lijstje van gegeven, maar hij heeft er dus zelf bijvoorbeeld Michael Jackson en Beavis & Butthead ingestoken.
 
 **Er zijn ook referenties naar jullie nummers in de artwork verwerkt.**
-  
+
 Ja, dat proberen we altijd wel te doen. Dat doen we bijvoorbeeld ook op onze website, t-shirts en dingen die we zeggen op het podium.
 
 **Jullie teksten zijn vaak erg humoristisch, waar komen deze vandaan?**
@@ -50,6 +51,6 @@ De eerste plaat ging inderdaad wel soepel omdat we al een hoop nummers op voorha
 
 Ik denk het niet (lacht). Ik zit in Nederland in de punkband The Apers. Daar hebben we vroeger ‘Teenage Kicks’ van The Undertones mee gecoverd. Een paar jaar later kwamen The Undertones in Rotterdam en daar kondigde ze ‘Teenage Kicks’ aan met: Dit nummer wordt beter gedaan door The Apers. Het was gewoon tof dat ze uberhout wisten dat het nummer bestond, laat staan hoe dat de band noemde. Het zou wel geniaal zijn moest ‘Run To The Pit’ verboden worden, dan hebben we een verhaal. We spelen ondertussen ook al weer vijf jaar en de meeste mensen kennen ons door dat lied. Waar we ook heen gaan of hoe saai de avond ook is, zodra we dat nummer inzetten gaat iedereen uit de bol omdat het herkenbaar klinkt.
 
-**Is het soms niet frustrerend dat jullie bekendste nummer een cover is?
-  
-** Live komt het nummer vaak men strot uit. Het is natuurlijk een ander nummer dan dat we zelf zouden maken. Het heeft ons wel kansen gegeven om ons eigen ding te doen. De tekst is wel helemaal origineel, die heb ik volledig zelf geschreven. De muziek is gewoon twee keer zo snel. Covers zijn eigenlijk ook een tribute vind ik. Wat Iron Maiden voor harde muziek heeft gedaan is wel geweldig natuurlijk. Ze hebben nooit video’s gehad op Mtv ofzo en toch verkopen ze stadia uit.
+\*\*Is het soms niet frustrerend dat jullie bekendste nummer een cover is?
+
+\*\* Live komt het nummer vaak men strot uit. Het is natuurlijk een ander nummer dan dat we zelf zouden maken. Het heeft ons wel kansen gegeven om ons eigen ding te doen. De tekst is wel helemaal origineel, die heb ik volledig zelf geschreven. De muziek is gewoon twee keer zo snel. Covers zijn eigenlijk ook een tribute vind ik. Wat Iron Maiden voor harde muziek heeft gedaan is wel geweldig natuurlijk. Ze hebben nooit video’s gehad op Mtv ofzo en toch verkopen ze stadia uit.
