@@ -1,13 +1,11 @@
 ---
-id: 2350
 title: Brutality Will Prevail
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/brutalitywillprevail.jpg'
+date: 2017-05-08T18:35:58.000Z
+eventDate: 2019-02-02T08:28:03.980Z
 category: Interviews
-band: Brutality Will Prevail
-date: 2017-05-08T18:35:58+00:00
 author: Seppe Van Ael
 permalink: /news/interview-brutality-will-prevail/
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/brutalitywillprevail.jpg
 ---
 **Op Groezrock hadden we de eer om rond te tafel te zitten met de mannen van Brutality Will Prevail. Na hun geweldige set namen ze de tijd om op al onze vragen een antwoord te geven.**
 
@@ -16,7 +14,7 @@ thumbnail: >-
 Eigenlijk best wel. Alles organiseren was lastig. Jordan, onze bassist, was op vakantie in Marokko om te gaan vissen en moest dus eerder terugkomen en naar België vliegen om te spelen op Groezrock. Een busje regelen verliep ook niet al te vlot. Eerst hadden we een busje, maar dat was opeens kapot, dus moesten we op zoek naar een ander. We hebben gebeld naar alle bussensmaatschappijen in het Verenigd Koninkrijk, maar niemand had er last minute eentje beschikbaar voor ons. Uiteindelijk heeft de vader van Jordan ons naar hier gebracht vanuit Wales, dus dat was cool.
 
 **Het is jullie eerste keer hier op Groezrock, wat vonden jullie van de show?**
-  
+
 Geweldig! Soms leek het wel op een oproer in een gevangenis. Iemand heeft met zijn elleboog tegen mijn neus geslagen tijdens ons laatste nummer. Ik krijg heel snel een bloedneus omdat ik vroeger vaak rugby speelde en kickbokste. Je kan me gewoon een tikje tegen men neus geven en hij begint te bloeden. Dit was niet de eerste keer dat zo iets gebeurde. We speelden ergens ooit op een festival, ik weet niet exact meer waar, maar tijdens de eerste twintig seconden van het eerste nummer kreeg ik de bovenkant van Jordan’s basgitaar tegen mijn oor terwijl hij zich omdraaide. Mijn oor was verbrijzeld maar dat had ik op die moment niet eens door. Ik merkte niet dat er bloed van mijn oor naar beneden stroomde. Ik deed salto’s op de eerste rij van het publiek en iedereen kreeg mijn bloed over hen heen. Maar ja, deze show was geweldig.
 
 **Jullie vliegen binnenkort naar Zuid-Oost Azië, hoe is het om daar te touren?**
@@ -42,3 +40,5 @@ Niemand weet zelfs hoe je deze titel moet uitspreken. Het is een demon die de ma
 **Wat zijn jullie toekomstplannen? Kunnen we jullie hier binnenkort weer verwachten?**
 
 Als ze ons boeken, dan staan we er. Groezrock is een festival dat we al een lange tijd wilden spelen. We hebben al andere festivals gespeeld in België, maar Groezrock moest nog afgevinkt worden van onze lijst. We hebben ook al gespeeld op Reading, Leeds, Sonisphere,… maar nog nooit op Groezrock. Toen we het aanbod vorige week kregen moest iedereen alles laten vallen, zelfs terugvliegen van Afrika. We moesten en zouden Groezrock spelen. Het was geweldig. Als ze ons nog eens vragen, spelen we zonder twijfel terug.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-U--4E-2YQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
