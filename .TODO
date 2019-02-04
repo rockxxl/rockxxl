@@ -1,0 +1,2 @@
+- Make jest-browserstack-environment by combining https://github.com/jmarceli/jest-selenium-browserstack-example/blob/master/test/sequential.test.js into https://github.com/alexeyraspopov/jest-webdriver/blob/master/packages/jest-environment-webdriver/modules/WebDriverEnvironment.js
+- Use JEST projects (aka multiple Jest Environments) for multiple browser-testing
