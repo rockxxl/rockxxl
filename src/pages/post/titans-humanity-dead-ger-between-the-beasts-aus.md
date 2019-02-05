@@ -6,4 +6,4 @@ category: Shows
 author: Seppe Van Ael
 externalUrl: 'https://www.facebook.com/events/2048280098632892/'
 ---
-Titans // Humanity Dead (GER) // Between The Beasts (AUS)
+https://www.facebook.com/events/2048280098632892/
