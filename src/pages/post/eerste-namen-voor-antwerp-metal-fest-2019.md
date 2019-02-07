@@ -7,3 +7,6 @@ category: Nieuws
 author: Seppe van Ael
 ---
 De zevende editie van Antwerp Metal Fest zal dit jaar doorgaan op 31 mei en 1 juni aan het Fort in Merksem. De organisatie liet zopas de eerste namen weten. Bekijk ze hier op de affiche.
+
+Info en tickets:\
+<https://www.antwerpmetalfest.be/>
