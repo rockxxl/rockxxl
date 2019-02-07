@@ -6,7 +6,7 @@ date: 2019-02-07T12:19:24.861Z
 category: Nieuws
 author: Seppe Van Ael
 ---
-Jera On Air voegt 13 nieuwe namen toe aan de affiche waaronder headliner **Parkway Drive**. De andere 13 bands zijn: **Agnostic Front, Comeback Kid, First Blood, Billy Bio, Ploegendienst, No Fun At All, The Amsterdam Red-Light District, Bad Omens, Landmvrks, Polar, Counting Coins **en **Random Hand**.
+Jera On Air voegt 13 nieuwe namen toe aan de affiche waaronder headliner **Parkway Drive**. De andere 12 bands zijn: **Agnostic Front, Comeback Kid, First Blood, Billy Bio, Ploegendienst, No Fun At All, The Amsterdam Red-Light District, Bad Omens, Landmvrks, Polar, Counting Coins **en **Random Hand**.
 
 Info en tickets:\
 <https://www.jeraonair.nl/>
