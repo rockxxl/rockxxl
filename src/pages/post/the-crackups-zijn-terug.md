@@ -10,14 +10,10 @@ De Kempische punkrock band The Crackups met leden van o.a. Double Veterans, Pric
 
 
 
-CRACKUPS ARE BACK!
-
-First shows SOON! 
-
-New music SOON!
-
-we are also an hip instagram band now: 
-
+CRACKUPS ARE BACK!\
+First shows SOON! \
+New music SOON!\
+we are also an hip instagram band now: \
 https://www.instagram.com/crackups.band/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VwmEZXka1FY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
