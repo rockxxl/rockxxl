@@ -10,8 +10,6 @@ De Kempische punkrock band The Crackups met leden van o.a. Double Veterans, Pric
 
 
 
-
-
 CRACKUPS ARE BACK!
 
 First shows SOON! 
