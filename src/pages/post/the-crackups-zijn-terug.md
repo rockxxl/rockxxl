@@ -6,7 +6,7 @@ date: 2019-02-10T12:25:19.210Z
 category: Nieuws
 author: Seppe Van Ael
 ---
-De Kempische punkrock band The Crackups met leden van o.a. Double Veterans, Priceduifkes en Psycho 44 is na een hele tijd weer terug! Dit liet de band weten via onderstaand facebook bericht: 
+De Kempische punk rock band The Crackups met leden van o.a. Double Veterans, Priceduifkes en Psycho 44 is na een hele tijd weer terug! Dit liet de band weten via onderstaand facebook bericht: 
 
 
 
