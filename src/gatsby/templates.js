@@ -50,6 +50,7 @@ module.exports = ({ actions, graphql }) => {
                     context: {},
                 });
 
+                // Make Netlify handle the external URL redirect
                 if (node.frontmatter.externalUrl) {
                     createRedirect({
                         fromPath: node.fields.slug,
@@ -58,6 +59,16 @@ module.exports = ({ actions, graphql }) => {
                     });
                 }
 
+                // Redirect legacy slugs
+                if (node.frontmatter.slugLegacy) {
+                    createRedirect({
+                        fromPath: node.fields.slugLegacy,
+                        toPath: node.fields.slug,
+                        isPermanent: true,
+                    });
+                }
+
+                // Redirect the legacy Wordpress URL to the new URL's
                 if (node.frontmatter.permalink) {
                     createRedirect({
                         fromPath: node.frontmatter.permalink,

@@ -1,5 +1,6 @@
 const path = require("path");
 const slugify = require("slugify");
+const SSSlugify = require("@sindresorhus/slugify");
 const isAfter = require("date-fns/is_after");
 const { createFilePath } = require("gatsby-source-filesystem");
 
@@ -11,12 +12,24 @@ module.exports = ({ node, getNode, actions }) => {
         if (category) {
             // Post
             let slug = null;
+            let slugLegacy = null;
 
             // Does the post have a publication date after today/now?
             if (isAfter(new Date(), new Date(node.frontmatter.date))) {
                 const { title } = node.frontmatter;
-                const slugifyConfig = { lower: true };
-                slug = path.join("/", slugify(category, slugifyConfig), slugify(title, slugifyConfig));
+                const slugLegacyConfig = { lower: true };
+                slugLegacy = path.join("/", slugify(category, slugLegacyConfig), slugify(title, slugLegacyConfig));
+
+                // Changed the slug-format
+                slug = path.join("/", SSSlugify(category), SSSlugify(title));
+            }
+
+            if (slugLegacy !== slug) {
+                createNodeField({
+                    node,
+                    name: "slugLegacy",
+                    value: slugLegacy,
+                });
             }
 
             createNodeField({
