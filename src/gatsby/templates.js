@@ -18,6 +18,7 @@ module.exports = ({ actions, graphql }) => {
                     html
                     fields {
                         slug
+                        slugLegacy
                     }
                     frontmatter {
                         title
@@ -60,7 +61,7 @@ module.exports = ({ actions, graphql }) => {
                 }
 
                 // Redirect legacy slugs
-                if (node.frontmatter.slugLegacy) {
+                if (node.fields.slugLegacy) {
                     createRedirect({
                         fromPath: node.fields.slugLegacy,
                         toPath: node.fields.slug,

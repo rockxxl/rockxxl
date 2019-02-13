@@ -24,13 +24,11 @@ module.exports = ({ node, getNode, actions }) => {
                 slug = path.join("/", SSSlugify(category), SSSlugify(title));
             }
 
-            if (slugLegacy !== slug) {
-                createNodeField({
-                    node,
-                    name: "slugLegacy",
-                    value: slugLegacy,
-                });
-            }
+            createNodeField({
+                node,
+                name: "slugLegacy",
+                value: slugLegacy,
+            });
 
             createNodeField({
                 node,
