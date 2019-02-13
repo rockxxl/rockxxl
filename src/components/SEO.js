@@ -14,7 +14,9 @@ export default ({
     image: imageProp,
     slug = "/",
     category,
+    author,
     pageType,
+    date,
 }) => {
     const siteUrl = process.env.GATSBY_APP_URL;
     const slugifyConfig = { lower: true };
@@ -55,7 +57,11 @@ export default ({
         ...(pageType === "post" ? {
             "@context": "http://schema.org",
             "@type": "BlogPosting",
-            url: urljoin(siteUrl),
+            mainEntityOfPage: {
+                "@type": "WebPage",
+                "@id": urljoin(siteUrl),
+            },
+            url,
             name: title,
             headline: title,
             image: {
@@ -63,6 +69,13 @@ export default ({
                 url: image,
             },
             description,
+            author,
+            datePublished: date,
+            publisher: {
+                "@type": "Organization",
+                name: "RockXXL",
+                url: urljoin(siteUrl),
+            },
         } : []),
 
     ];
