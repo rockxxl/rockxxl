@@ -19,7 +19,7 @@ export default ({
     const siteUrl = process.env.GATSBY_APP_URL;
     const slugifyConfig = { lower: true };
     const image = imageProp ? imageProp.includes("http") ? imageProp : urljoin(siteUrl, imageProp) : defaultOgImage; // eslint-disable-line no-nested-ternary
-    const url = urljoin(siteUrl, slug);
+    const url = urljoin(siteUrl, slug, "/");
 
     const schemaOrg = [
         {
@@ -100,12 +100,15 @@ export default ({
                 { name: "image", content: image },
 
                 // Open graph
+                { property: "og:title", content: title },
+                { property: "og:description", content: cleanedDescription },
                 { property: "og:locale", content: "nl_BE" },
                 { property: "og:url", content: url },
                 { property: "og:site_name", content: "RockXXL" },
                 { property: "og:image", content: image },
                 { property: "og:image:width", content: 1200 },
                 { property: "og:image:height", content: 630 },
+                { property: "og:image:alt", content: title },
                 { property: "og:type", content: "article" },
 
                 // Twitter card tags
