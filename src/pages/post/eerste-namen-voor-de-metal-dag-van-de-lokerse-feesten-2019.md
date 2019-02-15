@@ -1,5 +1,5 @@
 ---
-title: Eerste namen voor de metal dag van de Lokerse Feesten 2019
+title: 'Eerste namen voor de metal dag van de Lokerse Feesten '
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1550219290/47347314_10156693960498654_1330585425261101056_n.jpg
 date: 2019-02-15T08:37:27.381Z
