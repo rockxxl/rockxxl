@@ -6,7 +6,7 @@ date: 2019-02-15T08:24:56.717Z
 category: Nieuws
 author: Seppe Van Ael
 ---
-Architects zegt Jera On Air af. Het komt er op neer dat de band een headline spot beloofd was op de affiche, maar het festival is dit niet nagekomen door Parkway Drive er nu te zetten. 
+Architects heeft afgezegd voor Jera On Air. De reden is dat de groep was gecontracteerd als headliner, maar op de meest recente festivalposter in kleinere letters onder Parkway Drive (dat een andere festivaldag zou afsluiten) was geplaatst. 
 
 \
 Het volledige bericht van Architects vind je hier:
