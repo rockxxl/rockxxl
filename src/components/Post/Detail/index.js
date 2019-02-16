@@ -1,78 +1,31 @@
 /* eslint-disable react/no-danger */
 import React, { Fragment } from "react";
-import styled from "styled-components";
+import RehypeReact from "rehype-react";
 import striptags from "striptags";
 import { format } from "date-fns";
-import { p, mb, mr } from "styled-components-spacing";
-import breakpoint from "styled-components-breakpoint";
-import cloudinary from "cloudinary-core";
 import nlDateFnsLocale from "date-fns/locale/nl";
-import SEO from "../SEO";
-import Subtitle from "./Subtitle";
-import Image, { getPublicId } from "../Image";
+import SEO from "../../SEO";
+import Subtitle from "../Subtitle";
+import Image from "../../Image";
+import OgImage from "./OgImage";
+import {
+    H1,
+    Grid,
+    Sidebar,
+    Sticky,
+    Scroll,
+    Content,
+    Header,
+    Section,
+    Media,
+} from "./Styles";
 
-const Grid = styled.div`
-    flex-grow: 1;
-    max-width: 1440px;
-    width: 100%;
-    ${breakpoint("md")`
-        display: grid;
-        grid-template-columns: 1fr 320px;
-    `}
-`;
-
-const Sidebar = styled.aside`
-    ${breakpoint("md")`
-        width: 320px;
-        border-left: 1px solid ${props => props.theme.color.gray[3]};
-    `}
-`;
-
-const Sticky = styled.div`
-    position: sticky;
-    top: 0;
-`;
-
-const Scroll = styled.div`
-    overflow-y: scroll;
-`;
-
-const Content = styled.article`
-    display: flex;
-    flex-direction: column;
-    ${p(6)};
-    ${breakpoint("md")`
-        align-items: center;
-    `}
-`;
-
-const Header = styled.header`
-    width: 100%;
-    max-width: 960px;
-    ${mb(6)};
-`;
-
-const Section = styled.section`
-    width: 100%;
-    line-height: ${props => props.theme.leading.loose};
-    ${breakpoint("md")`
-        max-width: 640px;
-    `}
-`;
-
-const Media = styled.div`
-    ${mb(3)};
-    ${breakpoint("sm")`
-        max-width: 320px;
-        width: 50%;
-        float: left;
-        ${mr(6)};
-    `}
-
-    ${breakpoint("lg")`
-        margin-left: -25%;
-    `}
-`;
+const renderAst = new RehypeReact({
+    createElement: React.createElement,
+    components: {
+        img: Image,
+    },
+}).Compiler;
 
 const aspectRatio = (category) => {
     switch (category.toLowerCase()) {
@@ -85,10 +38,6 @@ const aspectRatio = (category) => {
     }
 };
 
-const H1 = styled.h1`
-    ${mb(5)};
-`;
-
 const Title = ({ title }) => {
     if (!title) return null;
     return (
@@ -99,23 +48,6 @@ const Title = ({ title }) => {
             )}
         </H1>
     );
-};
-
-const OgImage = (image) => {
-    const cldnry = new cloudinary.Cloudinary({ cloud_name: process.env.GATSBY_CLOUDINARY_CLOUD_NAME });
-    const publidId = image.includes("https://res.cloudinary.com/") ? getPublicId(image) : image;
-    return cldnry.url(publidId, {
-        transformation: [
-            {
-                dpr: "1.0", effect: "blur:2000", gravity: "center", height: 630, width: 1200, crop: "fill",
-            },
-            { fetch_format: "jpg" },
-            {
-                gravity: "center", height: 530, overlay: publidId, width: 1100, crop: "lpad",
-            },
-            { gravity: "south_east", overlay: "logoROCKXXLwitv2" },
-        ],
-    });
 };
 
 export default ({
@@ -131,6 +63,7 @@ export default ({
             author,
         },
         html,
+        htmlAst,
     },
     sidebar,
     preview = false,
@@ -166,7 +99,7 @@ export default ({
                             />
                         </Media>
                     )}
-                    {preview ? <Fragment>{ html }</Fragment> : <div dangerouslySetInnerHTML={{ __html: html }} />}
+                    <Fragment>{preview ? { html } : renderAst(htmlAst)}</Fragment>
                 </Section>
             </Content>
             {sidebar && (
