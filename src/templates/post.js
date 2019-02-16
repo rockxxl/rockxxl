@@ -56,6 +56,7 @@ export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(fields: {slug: {eq: $path}}) {
         html
+        htmlAst
         fields {
             slug
         }
