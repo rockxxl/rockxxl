@@ -11,4 +11,4 @@ Architects heeft afgezegd voor Jera On Air. De reden is dat de groep was gecontr
 \
 Het volledige bericht van Architects vind je hier:
 
-![](https://res.cloudinary.com/rockxxl/image/upload/v1550219309/52522687_10157118212334433_219046360047943680_n.jpg)
+![](https://res.cloudinary.com/rockxxl/image/upload/v1550308327/52522687_10157118212334433_219046360047943680_n.jpg)
