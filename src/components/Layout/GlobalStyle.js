@@ -88,4 +88,8 @@ export default createGlobalStyle`
         ${pl(6)};
         border-left: 3px solid ${({ theme }) => theme.color.gray[5]};
     }
+
+    iframe {
+        width: 100%;
+    }
 `;
