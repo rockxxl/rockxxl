@@ -18,7 +18,7 @@ thumbnail: >-
 </div>
 
 <div>
-  <a href="http://www.rockxxl.coma>
+  <a href="http://www.rockxxl.be">
 </div>
 
 <div id="fbPhotoSnowliftCTMButton">

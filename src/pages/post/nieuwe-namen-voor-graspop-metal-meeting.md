@@ -16,7 +16,7 @@ thumbnail: >-
 </div>
 
 <div class="" data-block="true" data-editor="1m6hp" data-offset-key="e8uoe-0-0">
-  <a href="http://www.rockxxl.coma>
+  <a href="http://www.rockxxl.be">
 </div>
 
 <div data-block="true" data-editor="1m6hp" data-offset-key="e8uoe-0-0">

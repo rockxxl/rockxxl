@@ -13,49 +13,15 @@ thumbnail: >-
 
 http://vi.be/beech
 
-<div class="_ua2">
-  <div class="_4tdv">
-    <div class="_5wd4 _1nc7">
-      <div class="_h8t">
-        <div class="_5wd9 direction_ltr">
-          <div class="_5wde _n4o">
-            <div class="_5w1r _3_om _5wdf">
-              <div class="_4gx_">
-                <div class="_d97">
-                  <span class="_5yl5">Eén ding is zeker: de heren van Beech zijn een aantal jaar te laat geboren. Dit trio speelt rock- en popmuziek die een sterke jaren '90 vibe heeft. Aanstekelijk, luchtig en recht voor de raap. Genieten, genieten en nog eens genieten</span>
-                </div>
+Eén ding is zeker: de heren van Beech zijn een aantal jaar te laat geboren. Dit trio speelt rock- en popmuziek die een sterke jaren '90 vibe heeft. Aanstekelijk, luchtig en recht voor de raap. Genieten, genieten en nog eens genieten
+
+**Comet Street**
                 
-                <div>
-                </div>
-              </div>
-              
-              <div>
-                <p>
-                  <strong>Comet Street</strong>
-                </p>
+http://vi.be/cometstreet
                 
-                <p>
-                  http://vi.be/cometstreet
-                </p>
-                
-                <p>
-                  Na het overlijden van Miava drummer Jelle bleef het uiteraard even stil rond de band. De heren raapten echter de moed terug bij elkaar en zo werd Comet Street geboren. Rock die energetisch en af te toe zweverig uit de hoek komt. Alles wat alternatief in hun naam heeft staan, gooit deze band bij elkaar tot een verfrissende sound.
-                </p>
-                
-                <p>
-                </p>
-                
-                <p>
-                  &nbsp;
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+Na het overlijden van Miava drummer Jelle bleef het uiteraard even stil rond de band. De heren raapten echter de moed terug bij elkaar en zo werd Comet Street geboren. Rock die energetisch en af te toe zweverig uit de hoek komt. Alles wat alternatief in hun naam heeft staan, gooit deze band bij elkaar tot een verfrissende sound.
+
+
 
 **Lost Baron**
 
@@ -117,51 +83,12 @@ De extreemste band in de lijst is zonder enige twijfel het Gentse Vonnis. Naar h
 
 http://vi.be/walther
 
-<div class="_h8t">
-  <div class="_5wd9 direction_ltr">
-    <div class="_5wde _n4o">
-      <div class="_5w1r _3_om _5wdf">
-        <div class="_4gx_">
-          <div class="_d97">
-            <span class="_5yl5">Wat in 2015 begon als een soloproject voor Hannes Walther Cuyvers veranderde al snel in de band Walther. Ze spelen een mengeling van pop, indie en folk. Hun muziek is dromerig en luistert vooral ook heel gemakkelijk. Wij genieten in ieder geval al van Walthers muziek, knus onder een dekentje met een warme chocomelk. Goede bandnaam, goede muziek: wees gewaarschuwd! </span>
-          </div>
-          
-          <div>
-            <p>
-            </p>
-            
-            <p>
-              &nbsp;
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+Wat in 2015 begon als een soloproject voor Hannes Walther Cuyvers veranderde al snel in de band Walther. Ze spelen een mengeling van pop, indie en folk. Hun muziek is dromerig en luistert vooral ook heel gemakkelijk. Wij genieten in ieder geval al van Walthers muziek, knus onder een dekentje met een warme chocomelk. Goede bandnaam, goede muziek: wees gewaarschuwd! </span>
+         
+EXTRA:
 
-<div>
-  EXTRA:
-</div>
+**Rob & The Memes**
 
-<div class="_h8t">
-  <div class="_5wd9 direction_ltr">
-    <div class="_5wde _n4o">
-      <div class="_5w1r _3_om _5wdf">
-        <div class="_4gx_">
-          <p>
-            <strong>Rob & The Meme</strong><strong>s</strong>
-          </p>
-          
-          <p>
-            http://vi.be/robandthememes
-          </p>
-          
-          <p>
-            Eerlijk is eerlijk, niet alle geselecteerde bands vielen bij ons in de smaak. Als een godsgeschenk kwamen we op de pagina van Rob & The Memes: alternatieve rock waarvan de vocals komen van, jawel, gesampelde memes. Zoals bijvoorbeeld Gezicht In De Water Staan of Niveau Nihil van Het Eiland. Hopelijk bewijst dit zootje ongeregeld zich live even goed want er mag al eens gelachen worden.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+http://vi.be/robandthememes
+
+Eerlijk is eerlijk, niet alle geselecteerde bands vielen bij ons in de smaak. Als een godsgeschenk kwamen we op de pagina van Rob & The Memes: alternatieve rock waarvan de vocals komen van, jawel, gesampelde memes. Zoals bijvoorbeeld Gezicht In De Water Staan of Niveau Nihil van Het Eiland. Hopelijk bewijst dit zootje ongeregeld zich live even goed want er mag al eens gelachen worden.
