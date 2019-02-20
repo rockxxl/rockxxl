@@ -4,7 +4,10 @@ module.exports = {
     root: true,
     parser: "babel-eslint",
     extends: ["airbnb"],
-    plugins: ["graphql"],
+    plugins: [
+        "graphql",
+        "react-hooks"
+    ],
     rules: {
         "max-len": 0,
         "no-tabs": 0,
@@ -15,6 +18,7 @@ module.exports = {
         "react/jsx-indent": [1, 4],
         "react/jsx-indent-props": [1, 4],
         "react/prop-types": 0,
+        "react-hooks/rules-of-hooks": "error",
         "graphql/template-strings": [
             "error",
             {

@@ -1,5 +1,5 @@
 import cloudinary from "cloudinary-core";
-import { getPublicId } from "../../Image";
+import { getPublicId } from "../../Image/cloudinary";
 
 export default (image) => {
     const cldnry = new cloudinary.Cloudinary({ cloud_name: process.env.GATSBY_CLOUDINARY_CLOUD_NAME });

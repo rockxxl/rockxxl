@@ -61,6 +61,7 @@ export default ({ posts, className }) => (
                                 src={thumbnail}
                                 aspectRatio="1:1"
                                 alt={title}
+                                visible
                             />
                         </Media>
                     )}
