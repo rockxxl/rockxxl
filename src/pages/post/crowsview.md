@@ -1,6 +1,7 @@
 ---
 title: Crowsview
-thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1551263627/UjVFUHfF.jpg'
+thumbnail: >-
+  https://res.cloudinary.com/rockxxl/image/upload/v1551446115/thumbnail_Crowsview_44.jpg
 date: 2019-02-27T10:18:52.450Z
 category: Interviews
 author: Seppe Van Ael
