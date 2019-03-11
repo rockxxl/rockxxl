@@ -3,7 +3,7 @@ title: Endtime Odyssey - City In Decay
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1552299434/endtime_odyssey.jpg
 date: 2019-03-11T10:15:27.824Z
-category: album reviews
+category: Album reviews
 author: Seppe Van Ael
 ---
 We hebben over het algemeen niet veel kaas gegeten van progressieve metal. Waar we dan weer wel fan van zijn, zijn concept albums, en laat dat nu net hetgeen zijn dat vaak de formule is van progressieve muziek. Een perfect voorbeeld van zo’n band is Endtime Odyssey uit Leuven. Met hun eerste langspeler ‘City In Decay’ zetten ze ons op een drie kwartier durende trip door een alternatieve wereld. 
