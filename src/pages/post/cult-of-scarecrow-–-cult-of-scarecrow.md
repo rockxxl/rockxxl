@@ -1,5 +1,5 @@
 ---
-title: Cult Of Scarecrow – Cult Of Scarecrow
+title: Cult Of Scarecrow - Cult Of Scarecrow
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1549550678/42574364_332192810875033_5187232054365913088_n.jpg
 date: 2019-02-07T14:59:11.405Z
