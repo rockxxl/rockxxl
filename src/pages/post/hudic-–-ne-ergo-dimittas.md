@@ -1,5 +1,5 @@
 ---
-title: Hudic – Ne Ergo Dimittas
+title: Hudic - Ne Ergo Dimittas
 thumbnail: >-
   https://res.cloudinary.com/rockxxl/image/upload/v1553093083/Cover_NeErgoDimittas.jpg
 date: 2019-03-20T14:44:12.180Z
