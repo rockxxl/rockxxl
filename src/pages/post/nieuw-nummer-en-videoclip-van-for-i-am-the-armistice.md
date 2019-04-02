@@ -6,6 +6,6 @@ date: 2019-04-02T10:14:08.896Z
 category: Nieuws
 author: Seppe Van Ael
 ---
-Pop punk band For I Am komt binnenkort aanzetten met hun tweede langspeler. In afwachting van het nieuwe album liet de band een eerste nummer op de wereld los: The Armistice.
+Pop punk band For I Am komt binnenkort aanzetten met hun tweede langspeler. In afwachting van het nieuwe album liet de band een eerste nummer en videoclip op de wereld los: The Armistice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rc8ifO1so-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
