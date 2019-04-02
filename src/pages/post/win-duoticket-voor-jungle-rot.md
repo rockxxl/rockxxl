@@ -5,7 +5,7 @@ date: 2019-04-02T10:04:15.921Z
 category: Nieuws
 author: Seppe Van Ael
 ---
-Op vrijdag 19 april komen death metal legendes Jungle Rot naar Kavka in Antwerpen. Wil jij erbij zijn? Het kan: RockXXL geeft een duoticket weg! 
+Op vrijdag 19 april komen death metal legendes Jungle Rot naar Kavka in Antwerpen. Wil jij erbij zijn? Het kan: RockXXL geeft een duoticket weg!
 
 Hoe kan je deelnemen?:
 
