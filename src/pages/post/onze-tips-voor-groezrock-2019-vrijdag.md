@@ -8,6 +8,8 @@ author: Seppe Van Ael
 ---
 **Het is weer bijna zover, de hoogdagen voor de Belgische punkrock en hardcore fan: Groezrock. Na een jaar pauze is ook de formule van de 2019 editie iets anders. Er zijn weer meer podia en het festival zet vooral in op opkomende bands, iets dat ons zeker wel kan smaken. Nog niet vertrouwd met de volledige line-up of heb je nog wat plaatsjes over op je time table? Wij geven alvast onze tips voor vrijdag.**
 
+****
+
 **Slow Crush – The Cockpit – 13u15 – 13u50**
 
 Opgepikt worden door Kerrang, een plaat die gedistribueerd wordt door Deathwish Inc., tours door Amerika,… Allemaal dingen die Slow Crush al vrij snel op de kaart hebben gezet. De top van de Belgische shoegaze komt dit dan ook voor het eerst bewijzen op Groezrock. Vrijdag kan je alvast op een rustige manier starten om daarna alle remmen los te gooien!
@@ -18,7 +20,7 @@ Opgepikt worden door Kerrang, een plaat die gedistribueerd wordt door Deathwish 
 
 **Tusky – Red Bull Stage – 20u40 – 21u20**
 
-Het Nederlandse succesverhaal John Coffey hielt in 2016 op te bestaan. Niet veel later ging gitarist Alfred op het zelfde elan verder met de band Tusky. Ook 2de John Coffey gitarist Christoffer voegde zich later mee in de rangen van deze rock n’ roll/ punk band. Groezrock is meteen de eerste  Belgische show van deze heren. Smeer alvast je stembanden, want het wordt meezingen geblazen! 
+Het Nederlandse succesverhaal John Coffey hielt in 2016 op te bestaan. Niet veel later ging gitarist Alfred op het zelfde muzikale elan verder met de band Tusky. Ook 2de John Coffey gitarist Christoffer voegde zich later mee in de rangen van deze rock n’ roll/ punk band. Groezrock is meteen de eerste Belgische show van deze heren. Smeer alvast je stembanden, want het wordt meezingen geblazen! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/464C2npriQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,7 +28,7 @@ Het Nederlandse succesverhaal John Coffey hielt in 2016 op te bestaan. Niet veel
 
 **Stab – Red Bull Stage – 18u00 – 18u35**
 
-Met meer dan tien Europese tours, één USA tour en ook weer bijna vier albums op de teller te hebben staan, zakt de West-Vlaamse hardcore band Stab voor het eerst af naar Groezrock. Warm je alvast op, want benen en armen zullen ongetwijfeld door te lucht gaan zwieren!  
+Met meer dan tien Europese tours, één USA tour en ook weer bijna vier albums op de teller, zakt de West-Vlaamse hardcore band Stab voor het eerst af naar Groezrock. Warm je alvast op, want benen en armen zullen ongetwijfeld door te lucht gaan zwieren!  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNtDZ1s_52g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -34,7 +36,7 @@ Met meer dan tien Europese tours, één USA tour en ook weer bijna vier albums o
 
 **Amenra – Back 2 Basics – 23u55 – 00u45**
 
-Amenra is zonder twijfel de donkerste band in de geschiedenis van België. Ze putten hun muziek uit alles wat te maken heeft met pijn en verdriet. De Back 2 Basics stage wordt vrijdag dan ook op een zeer intense manier afgesloten. Amenra kan dan wel de vreemde eend in de bijt zijn, maar het niveau wordt met deze band toch wel wat opgetrokken!
+Amenra is zonder twijfel de donkerste band in de geschiedenis van België. Ze putten hun muziek uit alles wat te maken heeft met pijn en verdriet. De Back 2 Basics stage wordt vrijdag dan ook op een zeer intense manier afgesloten. Amenra kan dan wel de vreemde eend in de bijt zijn, maar het niveau wordt met deze West-Vlaamse metal trots toch wel wat opgetrokken!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CD7bxyzFbC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
