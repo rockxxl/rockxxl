@@ -1,7 +1,6 @@
 ---
 title: 'Onze tips voor Groezrock 2019: vrijdag'
-thumbnail: >-
-  https://res.cloudinary.com/rockxxl/image/upload/v1555234981/56340185_10158154881343765_4595995296009289728_n.jpg
+thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1555235731/GR2019-FINAL.jpg'
 date: 2019-04-14T09:41:32.911Z
 category: Nieuws
 author: Seppe Van Ael
