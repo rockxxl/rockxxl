@@ -1,5 +1,5 @@
 ---
-title: 'Onze tips voor Groezrock 2019: vrijdag'
+title: 'Onze 10 tips voor Groezrock 2019: vrijdag'
 thumbnail: 'https://res.cloudinary.com/rockxxl/image/upload/v1555235731/GR2019-FINAL.jpg'
 date: 2019-04-14T09:41:32.911Z
 category: Nieuws
