@@ -50,22 +50,6 @@ Sinds hun debuutplaat ‘Burst’ is Brutus niet weg te slaan van zowel de grote
 
 
 
-**Not On Tour – The Cockpit – 21u10 – 22u00**
-
-Een graag geziene gast op Groezrock en andere punkpodia is het Israëlitische gezelschap van Not On Tour. Het worden 50 minuten vol snelle en vaak ook vrolijke pop punk nummers. De stem van zangeres Sima en de techniciteit van de band zorgen steeds weer voor een aangenaam optreden en dat zal ook dit keer niet anders zijn! 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QYAKk3BT07Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-**Deez Nuts – Back 2 Basics – 22u25 – 23u10**
-
-Een publiekslieveling bij de hardcore fans is al enkele jaren het Australische Deez Nuts. In een mum van tijd stond deze band op heel wat Belgische podia. Het was dan ook geen verrassing dat dit viertal nog eens langs Meerhout zou passeren. Hun eerste album ‘Stay True’ bestaat ondertussen ook weer tien jaar en dat moet gevierd worden. Tonight we’re gonna party like there’s no tomorrow!  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5Dr46U5gaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 **Jawbreaker – Main Stage – 00u05 – 01u15**
 
 Er kwam heel wat kritiek op Jawbreaker als headliner, maar tevens nog meer liefde. Dit Amerikaanse trio wordt gezien als één van de grondleggers van de emo scene. De band hield er in 1996 dan ook mee op, maar ondertussen zijn ze weer helemaal terug. Klaar voor een streepje nostalgie met nummers als ‘Boxcar’ en ‘Fireman’?   
@@ -79,6 +63,22 @@ Er kwam heel wat kritiek op Jawbreaker als headliner, maar tevens nog meer liefd
 Nog een band die al weer meer als dertig jaar bestaat is het New Yorkse Bold. Bold hield er in 2007 mee op, maar deed hier en daar sporadisch nog een optreden, nu dus ook exclusief op Groezrock. Het begin van de Amerikaanse straight edge scene beleven op het Kempische platte land? Het kan!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BU3v1WNCK_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+**Deez Nuts – Back 2 Basics – 22u25 – 23u10**
+
+Een publiekslieveling bij de hardcore fan is al enkele jaren het Australische Deez Nuts. In een mum van tijd stond deze band op heel wat Belgische podia. Het was dan ook geen verrassing dat dit viertal nog eens langs Meerhout zou passeren. Hun eerste album ‘Stay True’ bestaat ondertussen ook weer tien jaar en dat moet gevierd worden. Tonight we’re gonna party like there’s no tomorrow!  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5Dr46U5gaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+**Not On Tour – The Cockpit – 21u10 – 22u00**
+
+Een graag geziene gast op Groezrock en andere punkpodia is het Israëlitische gezelschap van Not On Tour. Het worden 50 minuten vol snelle en vaak ook vrolijke pop punk nummers. De stem van zangeres Sima en de techniciteit van de band zorgen steeds weer voor een aangenaam optreden en dat zal ook dit keer niet anders zijn! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYAKk3BT07Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
